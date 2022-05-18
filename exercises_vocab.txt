@@ -4319,7 +4319,7 @@ other commanders.
 157. DRAMATIS PERSONS
 
 Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο (Latin
-duo), πρεσβύτερος (elder, compare PRESBYTERY) μὲν ᾿Αρταξέρξης, νεώτερος δὲ Κῦρος - ἐπεὶ δὲ ἠσθένει (was ill)
+duo), πρεσβύτερος (elder, compare PRESBYTERY) μὲν Ἀρταξέρξης, νεώτερος δὲ Κῦρος - ἐπεὶ δὲ ἠσθένει (was ill)
 Δᾶρεῖος καὶ ὑπ-ώπτευε τελευτὴν (end) τοῦ βίου (compare
 BIOLOGY), ἐβούλετο αὐτοὺς παρ-εῖναι. ὁ μὲν οὖν πρεσβύτερος παρῆν· Κῦρον δὲ μετα-πέμπεται ἀπὸ τῆς ἀρχῆς ἧς
 αὐτὸν σατράπην ἐποίησεν. καὶ δὴ καὶ στρατηγὸς ἦν πάντων
@@ -4524,3 +4524,507 @@ ORCHESTRA CHAIRS AT ATHENS
 As in Latin, the vocative is the case of direct address.
 2 Supply ἐστί. 
 3 § 35.
+
+@91
+
+LESSON XXIX
+
+INTERROGATIVE AND INDEFINITE PRONOUNS
+
+γηράσκω δ᾽ ἀεὶ πολλὰ διδασκόμενος.
+The older I grow, the more I learn.
+Solon. 
+Literally: I grow old ever learning many things.
+
+164. The chief interrogative pronoun is τίς, τί who, what?
+Except for the alternative forms τοῦ and τῷ, it always has
+an acute on the first syllable. This never changes to a
+grave.
+
+
+
+165. The indefinite pronoun τις, τι some, any is the same
+as τίς, τί in form but is always enclitic (§ 95).
+
+Write out the inflection of τις, τι. Compare with paradigm (§ 524). 
+
+166. Write with proper accents:
+
+τινες ἐστε; τις ἐστιν ; ὁπλῑτας τινας, κωμη τις, ἀγγελοι
+τινες, δωρον τι, δωρα τινα, ἁμαξων τινων.
+
+167. The indefinite relative pronoun ὅστις, ἥτις, ὅ τι
+whoever, whatever is formed by combining the relative ὅς 
+(§ 67) and the indefinite τις, each part being inflected.
+Exceptions appear in the alternative forms ὅτου, ὅτῳ, ὅτων.
+ὅτοις, ἅττα of masculine and neuter, for which consult § 525
+
+@92
+
+
+In the neuter nominative and accusative singular ὅ τι
+is printed as two words to distinguish it from ὅτι (that,
+
+since, because). The accent of ὅς prevails, the τις being
+enclitic.
+
+Write out the inflection of  ὅστις, ἥτις, ὅ τι.
+
+Compare with paradigm (§ 525).
+
+168. Note the following relationships in form and meaning. They will be helpful when other words of a similar nature appear.
+
+IN TERROGATIVE
+
+τίς (who 2)
+πότε (when ?)
+
+ποῦ (where ?)
+πῶς (how?)
+
+
+INDEFINITE
+
+τις (some one)
+ποτέ (“somewhen,” once)
+
+που (somewhere)
+πως (somehow)
+
+Indefinite RELATIVE
+or Indirect
+INTERROGATIVE
+
+ὄστις (whoever)
+
+ὁπότε (whenever)
+
+ὅπου (wherever)
+ὅπως (how)
+
+Where do πόσος and ὁπύσος fit in such a scheme?
+
+169. VOCABULARY1
+ἀεί, adv. : always, ever.
+γῦν, adv.: now. . Lat. nune.
+πόσος, inter. adj.: how large; pl., how many?
+ὁπόσος, indef. rel. adj.: as much as; pl, as many as.
+πότε, inter. ady.: when?
+ποτέ,2 indef. adv. : “somewhen,” once.
+ὁπότε, indef.rel.ady.: whenever.
+ποῦ, inter. adv.: where?
+που, indef. adv. : somewhere.
+ὅπου, indet. rel. adv.: where, wherever.
+
+
+
+
+
+πῶς, inter. ady.: how ?
+πως, indef, adv.: somehow, in any way.
+ὅπως, indef. rel. adv. : hove, that.
+τίς, τί, inter. pron. : who, what?
+τί, sometimes = why?
+τις, τι, indef. pron.: some, any.
+ὅστις, ἦτις, ὅ τι, indef. rel. pron.: whoever, whichever,
+whatever.
+χρόνος: time. CHRONOMETER
+
+1 Not all the words in this vocabulary will be used in the lesson, but
+because of their interrelation it seems wise to group them here.
+
+2 Enclitic.
+
+@93
+
+170. EXERCISE
+
+Translate :
+
+
+1. τίνες τὰς σκηνὰς δι-ήρπασαν; 
+2. ταῦτα νῦν φασί τινες ἐκεῖνον παρὰ τοῦ ἀδελφοῦ λαβεῖν.
+3. τί ταῦτα ὑπ-έσχου;
+4. εἴ τι ἐκέλευον, ἄγγελον ἂν ὑμῖν ἔπεμπον. 
+5. πότε γενήσεται ἡ μάχη: 
+6. καὶ δή ποτε διὰ τοῦ πεδίου πορευόμενος εἰς κώμην τινὰ ἦλθεν ἐν ἣ οὐκ ἣν ὕδωρ.
+7. πόσους ἵππους καὶ παρὰ τίνος ἀθροίσεις ; 
+8. ὑπ-ωπτεύομεν γάρ που βαρβάρους τινὰς ἡμῖν ἕπεσθαι. 
+9. καί ποτε λόγοι ἐγένοντο περὶ τῆς πορείάς.
+
+<f>Sophocles</f>
+
+171. TIME THE HEALER
+
+πάντων ἰατρὸς (healer) τῶν ἀναγκαίων necessary) κακῶν
+χρόνος ἐστίν. οὗτος καὶ σὲ νῦν ἰάσεται.
+Menander, fragment.
+
+172. THE KEYNOTE OF GREEK GENIUS
+
+ὦ Σόλων, Σόλων, Ἑλληνες ἀεὶ παῖδές ἐστε, γέρων (old man) δὲ Ἕλλην οὐκ ἔστιν. νέοι γάρ ἐστε τὰς ψυχὰς<note>accusative of specification</note> ( spirit) πάντες.
+
+Plato, Timeeus, 22 B.
+
+The Greeks were notably long-lived, but intellectual
+interest and activity kept them from going to seed with
+advancing years. Socrates was in his prime at seventy.
+Sophocles lived to be ninety and was producing masterpieces to the very end of his career.
+
+@94
+LESSON XXX
+
+SUBJUNCTIVE ACTIVE
+
+ῥᾷον παραινεῖν ἢ παθόντα καρτερεῖν.
+It is easier to give advice than to bear one’s own ills.
+Euripides, Alcestis, 1078. 
+Literally: (It is) easier to advise than having
+suffered to endure.
+
+
+173. The subjunctive in all its tenses and voices uses the
+same endings as the present indicative. Its variable vowel
+is ω before μ or ν, elsewhere η.
+
+174. The subjunctive uses the same stem as the corresponding tense and voice of the indicative.
+
+Inflect the present and aorist subjunctive active of πέμπω, ἄγω,<n>Consult General Vocabulary.</n>
+πείθω.
+
+175. Contract Verbs in -εω have the ε absorbed before the
+long vowels ω and η (§ 127, a). The accent follows the
+principles laid down in § 127.4. Except for accent, φιλέω
+is like παύω in the present subjunctive active.
+
+Write out the inflection of the present subjunctive active
+of φιλέω. Compare with paradigm (§ 534).
+
+@95
+
+176. Uses of the Subjunctive. (a) The subjunctive as
+the main verb and in the first person (generally plural)
+denotes exhortation.
+
+This independent usage always refers to future time.
+Present and aorist differ in that the present denotes continued or repeated action (motion picture), while the aorist
+denotes simple occurrence (snapshot):
+
+παύωμεν let us be stopping ;
+
+παύσωμεν let us stop.
+The negative is μή.
+
+(b) ἵνα (ὡς or ὅπως) may introduce a subjunctive to express purpose. The tense values are as in §176, a. This
+is the regular construction after a present or future tense:
+
+ταῦτα ποιοῦσιν ἵνα σπεύδωσι πρὸς τὴν κώμην 
+they do this that they may be hastening to the village ;
+
+ταῦτα ποιοῦσιν ἵνα σπεύσωσι πρὸς τὴν κώμην 
+they do this that they may hasten to the village.
+
+The negative is μή.
+
+177. VOCABULARY
+
+ἀναγκάζω, ἀναγκάσω, ἠνάγκασα: compel.
+οὔτε . . . οὔ-τε, neg. conj.: neither nor.
+
+
+ἀνάγκη: necessity. 
+
+πάσχω, πείσομαι, ἔπαθον: be treated, experience, suffer. SYMPATHY.
+
+ἵνα, conj. adv. : that, in order that, 
+
+μη(κ)ἔτι,1 2 adv.: no longer, never again.
+
+
+ὅπως, conj. adv.: how, in order that, etc.
+
+μήτε, neg. conj.: neither...nor.
+
+
+
+τε, enclit. conj.: and. Usually followed by kai: both .. . and.
+
+φέρω, οἴσω, ἤνεγκα: bear, carry. CHRISTOPHER.
+
+ὡς, conj adv.: how, in order that, that, ete.; also as.
+
+
+
+1 is due to analogy with οὐκ-έτι (§ 161).
+2 The distinction between the compound torms of μή and οὐ is the same as that between μή and οὐ themselves.
+
+@96 AN INTRODUCTION TO GREEK
+
+178. EXERCISES
+
+(a) Translate : 
+
+1. ἀλλὰ πιστεύωμεν τῷ ἀνθρώπῳ ὃν ἔπεμψαν. 
+2. ταῦτα ποιοῦμεν, ἵνα ἡμᾶς φιλῆς. 
+3. μηκέτι 1 οὖν δι-αρπάζωμεν μήτε1 τὰς οἰκίᾷς μήτε1 τὰς σκηνάς. 
+4. τῶν δὲ στρατιωτῶν ἀεὶ ἐπει-μελεῖται, ὅππως ἱκανοὶ ὦσιν.
+5. ἐπιστολὴν δὲ πέμψουσι τῷ σατράπῃ, ὡς μὴ τοὺς φυγάδας αἱρῇ. 
+6. μὴ κατα-λίπωμεν τὰ ὅπλα. 
+7. τοῦτον δὴ αἱροῦνται στρατηγόν, ἵνα σπεύσωσι πρὸς τὴν Ἑλλάδα. 
+8. αἵ τε γυναῖκες καὶ οἱ παῖδες φεύγουσιν εἰς τὸ στρατόπεδον, ὅπως μὴ κακὰ πάθωσιν.
+
+(b) Complete :
+
+1. ἀνάγκη δὲ τρόπῳ τιν--- δια-βαίνειν τόνδε τὸν ποταμόν, ἵνα --κετι κακὰ παθ--μεν.
+2. φύγωμεν εἰς χώραν φιλίαν ἐχ--- τὰς τε γυναῖκας ----- τοὺς παῖδας. 
+3. ἐκείνας ἐπιστολὰς γράφει, ὅπως αὐτοὺς πεισ----.
+
+THe Moschophoros
+
+
+
+This ancient marble statue 
+from the Acropolis is called the 
+calf-bearer. Compare Christophoros, Christopher, the Christ-bearer_ (§ 177).
+
+(c) Write in Greek:
+1. Where are you? 
+2. Once there was talk about the water.
+3. There were some tables in the house, 
+4. A certam soldier came on the run to demand food. 
+5. What were the gifts that you received from your friends ?
+
+1 The heaping up of negatives is very frequent in Greek and serves only to
+strengthen the general negative idea.
+2 Supply ἐστί.
+
+@97
+
+179. THE BETTER PART OF VALOR
+
+δένδρον ὑπὸ τοῦ ἀνέμου (compare ANEMOMETER) εἰς
+ποταμὸν ἐρρίφθη (was thrown), φερόμενον δὲ κατὰ τὸν
+ποταμὸν τοῖς καλάμοις (rushes) ἔφη" Τί ὑμεῖς λεπτοὶ
+(slender) ὄντες κακὸν οὐ πάσχετε; οἱ δὲ κάλαμοι ἔφασαν·
+Σὺ μὲν τοῖς ἀνέμοις μάχει καὶ διὰ τοῦτο καταβάλλει (are
+thrown down), ἡμεῖς δὲ εἴκομεν (yield) αὐτοῖς, ὥστε κακὸν
+οὐ πάσχομεν.
+
+Adapted from Aesop, 179c
+
+THE PARTHENON
+
+Shattered by an explosion of Turkish gunpowder, this shrine of Athena still
+overwhelms the beholder with its matchless grace and beauty.
+
+@98
+
+LESSON XXXI 
+
+PRESENT SUBJUNCTIVE MIDDLE AND PASSIVE. AORIST
+SUBJUNCTIVE MIDDLE
+
+ΝΙΨΟΝΑΝΟΜΗΜΑΜΗΜΟΝΑΝΟΨΙΝ
+νίψον ἀνόμημα μὴ μόναν ὄψιν
+Wash your sins, not only your face.
+an inscription on the sacred font in the
+courtyard of Hagia Sophia. It reads the same backward as forward, being.
+what is called a palindrome (πάλιν back, and δρόμος run).
+
+180. The present subjunctive middle and passive bears the
+same relation in form to the present indicative middle and
+passive that the present subjunctive active bears to the
+present indicative active, having ω and η instead of ο and ε.
+
+Present Subjunctive Middle and Passive of παύω I stop
+
+
+
+181. The aorist subjunctive middle bears the same relation in form to the present subjunctive middle that the
+aorist subjunctive active bears to the present subjunctive
+active.
+
+Write the inflection of the aorist subjunctive middle of
+παύω and λείπω. Compare with paradigms (§§ 527, 530).
+
+182. φιλέω, except for accent, is the same as rade in the
+present subjunctive middle and passive, e being absorbed
+before a long vowel.
+
+Write the inflection of the present subjunctive middle
+and passive of φιλέω, observing the principles laid down in
+§ 127. Compare with paradigm (§ 584).
+
+@99
+
+Inflect the present and aorist subjunctive middle of
+πέμπω, ἄγω, πείθω, ποιέω.
+
+183. The Subjunctive in Conditions. ἐάν with the subjunctive forms the protasis of either a present general or a
+future more vivid condition. If the apodosis has a present
+indicative or its equivalent, the condition is present general,
+that is, it expresses continued or repeated action in present
+time (compare with particular conditions, § 83, a, which
+refer to definite and usually single acts):
+
+ἐὰν ταῦτα βουλεύηται, ἀδικεῖ 
+if ever he plans this, he does wrong.
+
+If the apodosis contains a future indicative or its equivalent, the condition is future more vivid (the Greek makes
+no distinction between particular and general conditions in future time):
+
+ἐὰν ταῦτα βουλεύηται, ἀδικήσει. 
+if he plans (shall plan) this, he will do wrong. 
+
+184. VOCABULARY
+
+δεῖ, δεήσει, ἐδέησε, impers.: be necessary. Usually followed by A. and inf.
+
+διδάσκω, διδάξω, ἐδίδαξα: teach. DIDACTIC.
+
+ἐάν (=εἰ + ἄν), conj.: if, with subj.
+
+ἤν (=ἐάν), conj.: if, with subjy.
+
+μᾶλλον, adv.: rather (than), more (than).
+
+
+
+
+πάλαι, adv.: long ago. PALAEOZOIC.
+
+σοφός: wise. SOPHOMORE.
+
+σοφία: wisdom. SOPHIA.
+
+ὥσ-περ, intens. form of ds ; just as.
+
+ὠφελέω, ὠφελήσω, ὠφέλησα: aid, help, benefit.
+
+ὠφέλιμος: beneficial, useful, ANOPHELES, OPHELIA,
+
+185. EXERCISES
+
+(a) Translate :
+
+1. πότε φόβος ἐκωλῡσε τὸν σατράπην τῆς πορείας,
+
+2. ἐὰν μὴ ὠφελῶνται ὑπὸ Κύρον, οὐκ ἔσονται αὐτῷ φίλοι.
+@100
+
+3. ἀνάγκη δὲ παρα-σκευάξεσθαι ὡς δεξόμενοι τοὺς πολεμίους.
+4. ἣν δὲ μὴ παριέχηται ἀγοράν, τὸν σῖτον ἁρπάζουσιν.
+5. ἐὰν δὲ παρ-έχωνται ἀγοράν, τὰ ἐπιτήδεια οὐχ ἁρπάσομεν.
+6. δεῖ ταῦτα παθεῖν, ἵνα ἔχωμεν σοφίαν.
+
+(b) Complete:
+
+1. ἐὰν (not)  ἐχ---μεν χρήματα, οὐκ ἐχ---μεν φίλους. 
+2. ἢν ἡμᾶς διδαξ---σιν, ἡμῖν γενησ--- ὠφέλίμοι. 
+3. ποῦ δεῖ δια-βαιν--- ἵνα ἐκείνους φυγ---μεν; 
+
+(c) Write in Greek:
+
+1. Let us choose rulers. 
+2. He is delaying in order that the children may not suffer harm.
+3. Let us not be injuring our enemies. 
+4. Let us hasten so that they may not compel us to carry the arms.
+
+<f>Hadrian's Library
+
+The Roman emperor showed his admiration for Athens and its learning by erecting in the Agora the huge library to which these columns belong.</f>
+
+186. PHILOSOPHER AND FRIEND
+
+ὁ δὲ Σωκράτης πρὸς ταῦτα ἔφη·
+
+
+ἐγὼ δ᾽ οὖν καὶ αὐτός, ὥσπερ ἄλλος
+τις ἵππῳ ἀγαθῷ ἥδεται, οὕτω καὶ ἔτι μᾶλλον ἥδομαι φίλοις
+ἀγαθοῖς, καὶ ἐάν τι ἔχω ἀγαθόν, διδάσκω τοὺς φίλους· καὶ
+τοὺς θησαυροὺς (treasures) τῶν πάλαι σοφῶν, οὖς ἐκεῖνοι
+κατο-έλιπον ἐν βιβλίοις γράψαντες, σὺν τοῖς φίλοις δι-έρχομαι,
+καὶ ἐάν τι ὁρῶμεν (see) ἀγαθὸν, ἐκ-λεγόμεθα (compare
+ECLECTIC)· καὶ μέγα (compare MEGAPHONE) νομίζομεν κέρδος
+(gain), ἐὰν ἀλλήλοις ὠφέλιμοι γιγνώμεθα.
+
+Adapted from Xenophon. Memorabilia, 1. 6. 14.
+
+@101
+
+LESSON XXXII
+
+OPTATIVE ACTIVE
+
+τίς δὲ βώς, τί δὲ τερπνὸν ἄτερ χρυσῆς Ἀφροδέτης;
+What life, what joy without golden Aphrodite 
+Mimnermus
+
+187. The optative has ι (sometimes ιη) as its mood
+sign; in the third person plural it has ιε. This sign is
+added to the variable vowel ο in the present and the second aorist. The secondary personal endings (as in the
+imperfect) are then attached, except in the first person
+singular, where -μι is used. Final -οι in the optative is
+always long (§ V, a).
+
+188. Present Optative of παύω I stop
+
+
+Ssconp Aorist Optative of λείπω I leave
+
+
+
+189. The future optative is the same as that of the present except for the stem. Inflect παύω in the future optative active and compare with paradigm ($ 526).
+
+190. In the first aorist optative likewise the ι is added
+to the stem, but the longer forms given for the second and
+third persons singular and the third person plural are reg-
+ularly used in Attic Greek. Final -αι in the optative is
+always long (§ V, a).
+
+@102 AN INTRODUCTION TO GREEK
+
+First Aorist Oprative or 102 AN INTRODUCTION TO GREEK
+
+First Aorist Oprative or παύω I stop
+
+
+191. Contract Verbs have ιη as the sign of the optative
+in the singular. The regular rules for contraction and
+accent apply (§ 127). εἰμί also has ih in the singular.
+It has ε as its stem.
+
+Write the inflection of the present optative active of
+φιλέω and εἰμί. Compare with paradigms ($§ 534, 538).
+
+Inflect the present, future, and aorist optative active of
+πέμπω, ἄγω, πείθω, ποιέω.
+
+192. Uses of the Optative. (a) The optative when
+used alone or with εἴθε or ef γάρ expresses a wish that
+refers to the future. As in the subjunctive (§ 176, a),
+present and aorist respectively denote continued action
+(motion picture) and mere occurrence (snapshot) of an
+act: devyor may he be fleeing ;
+
+φεύγοι may he flee.
+φύγοι negative is 7.
+
+(6) ἵνα (ὡς or ὅπως) may introduce an optative to express purpose. The tense values are as in §176,a. The
+optative appears only after a past tense or its equivalent;
+but even then the subjunctive sometimes appears and
+shows that special emphasis rests on the purpose: 1 
+
+ταῦτα ἐποίουν ἵνα σπεύδοιεν πρὸς τὴν κώμην
+they were doing this that they might be hastening to the village
+
+ταῦτα ἐποίουν ἵνα σπεύσειαν πρὸς τὴν κώμην
+they were doing this that they might hasten to the village
+
+
+The negative is μή.
+
+
+
+1 The mood of the verb in the purpose clause is the m as when the purpose was originally conceived and brings the original form and thought
+vividly to the attention of the hearer or reader.
