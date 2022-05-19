@@ -5293,3 +5293,208 @@ equivalent to the exclamatory why.
 5 These adjectives are of two endings and have recessive accent: ἀδιάβατος, ἀδιάβατον (§ 510, b).
 
 
+@109
+
+LESSON XXXIV 
+
+CONDITIONAL RELATIVE CLAUSES
+ὃν οἱ θεοὶ φιλοῦσιν ἀποθνήσκει νέος.
+
+Whom the gods love dies young.
+Menander, fragment.
+
+
+206. Conditional Relative Clauses. A relative pronoun
+or adverb may take the place of εἰ in the protasis of a con-
+dition. If ἐάν is the normal introductory word, the relative is accompanied by av: 
+
+ὅστις = εἰ, ὅστις ἄν = ἐάν.
+
+A relative used in this way has an indefinite antecedent,
+expressed or implied. The negative of the protasis is
+always μή. 
+
+The ἄν is often combined with an introductory relative
+adverb:
+
+ἐπεὶ +  a en ee any
+émel + ἄν = ἐπᾶν or ἐπήν, ἐπειδὴ + ἄν = ἐπειδάν, ὅτε + ἄν = ὅταν.
+
+Review the various forms of conditional sentences
+
+(§ 547).
+
+207. VOCABULARY 
+ἀποθνήσκω, ἀποθανοῦμαι, ἀπέθανον: die. 
+ὅταν (ὅτε + ἄν), conj.: when, whenever.
+
+ἐπάν or ἐπήν (ἐπεὶ + ἄν), conj.: when, whenever.
+ὅτε, conj.: when.
+οὐδέ neg. conj. and ady.: and not, nor, not even.
+ἐπειδάν (ἐπειδὴ + ἄν), conj.: when, 
+whenever. 
+σῴζω, σώσω, ἔσωσα: save, bring safety, rescue.  SOZODONT, CREOSOTE.
+
+θάνατος: death. THANATOPSIS.
+
+μηδέ neg, conj. and ady.: and  not, nar, not even.
+σωτηρίᾶ:  safety.
+
+@110 AN INTRODUCTION TO GREEK
+
+208. EXERCISES
+
+(a) Translate:
+
+1. ὅστις δὲ Κύρῳ φίλος γένοιτο, δῶρα ἐλάμβανεν.
+2. ὅστις δὲ ἄ-δικος γένοιτο. δῶρα οὐκ ἂν λαμβάνοι. 
+3. ὅστις δ᾽ ἂν γένηται στρατηγύς, ἕψομαι καὶ ἐπὶ θάνατον. 
+4. ὅντινα δ' ἂν χρόνον πορεύησθε, ὅδε ἀγορὰν παρ-έχει. 
+5. καὶ ἔσται αὐτοῖς ἀπ-ελθεῖν, ὅταν βούλωνται. 
+6. ἀλλ᾽ ἐπειδὴ ἀπ-έθανεν ὁ Κῦρος, οἱ φίλοι οὐκέτι ἐλπίδα σωτηρίας εἶχον. 
+7. τὸν δὲ βουλόμενον σώσω εἰς τὴν Ἑλλάδα. 
+8. οἱ δ᾽ ἵπποι, ὁπότε τις διώκοι, ἔφευγον. 
+9. οὐδ᾽ ἂν φιλοῖεν ὅστις μὴ καλὰ πρᾶττοι.
+
+Mourning ATHENA
+
+The dignified pathos of this bit of
+sculpture from the Acropolis is true to the spirit of Greek art. It is sup-
+posed to be a memorial to those slain in the Peloponnesian War.
+
+(b) Complete:
+
+1 ἐπεὶ οἱ ξένοι ἡμᾶς ἀφελοῖεν, αὐτοὺς -σῳζ- εἰς τὴν Ἑλλαῦ.--. 
+2. ὅστις ἂν βουλ--- στρατευ-- Κῦρος κελεύσει παρ-εῖναι ὅπλα λαβόντα. 
+3. ὅταν τις ἀ-δικ---, κακὰ πασχ--.
+
+(c) Write in Greek:
+
+1. If they (ever) made a campaign, he (always) supported them by sending food and wine.
+2. How much wine would the people in the village supply ?
+3. If it should be necessary to fight, their general would arrange them for (es) battle. 
+4. 1f the rulers had not been unjust, the citizens would not have fared badly.
+
+@111
+
+209. THEY THAT GO DOWN TO THE SEA IN SHIPS
+
+One of the most notable features of Greek geography
+is the presence of the sea. Few countries with so limited
+a territory have had so
+extensive a coastline.
+The sea gave the people
+a livelihood, afforded
+the best means of access
+not only to their Greek 
+neighbors but to the
+world at large, and
+both by its perils and
+by its rewards stimu-
+lated their intellect. No
+wonder, then, that their
+literature is filled with
+allusions to seafaring
+and to the beauty and :
+the terrors of the deep.
+
+<f>THe Rocky Road To Corinth</f>
+
+ἀεὶ καλὸς πλοῦς (voyage) ἐσθ',1 ὅταν φεύγῃς κακά.
+Sophocles, Philoctetes, 641.
+
+ἂν (ἐὰν) καλὸν ἔχῃ τις σῶμα (body) καὶ ψυχὴν (soul) κακήν,
+καλὴν ἔχει ναῦν (ship) καὶ κυβερνήτην ( pilot) κακόν.
+
+Menander, fragment.
+
+210. Word-formation. (a) -τικος added to a verb stem 
+makes an adjective that denotes relation, fitness, or ability.
+Many of these words have passed over into English with
+slight change:
+
+πράττω (stem πρᾱγ-) do, πρᾱκτικός PRACTICAL;
+ἀνα-λύω analyze, ἀναλυτικός ANALYTICS
+σήπω decay, σηπτικός SEPTIC.
+
+
+
+1 For ἐστι: ; in elision τ becomes θ before rough breathing.
+
+@112 ‘AN INTRODUCTION TO GRE
+
+(6)-κος, -ικος when added to noun stems make adjec-
+tives that denote relation, fitness, or ability:
+
+φύσις nature, φυσικός PHYSICAL;
+πολίτης citizen, πολῑτικός POLITICAL.
+
+(e) Frequently in English -al (from Latin -alis) is added
+to -ic or -tic. Sometiines both forms occur: comic, comical ;
+electric, electrical.
+
+(d) The neuter plurals of these adjectives were used in
+Greek as names for the arts and sciences. Such words,
+when taken into English, have the English -s instead of -a:
+
+φυσικά PHYSICS, πολῑτικά POLITICS, ἤθικά ETHICS.
+
+(e) The Greeks sometimes also used the singular, which
+we have imitated in English. It was in agreement with
+an implied téyyn art, or ériotypn science:
+
+μουσική MUSIC, ἀριθμητική ARITHMETIC, ῥητορική RHETORIC.
+
+
+(f) Give at least two English derivatives akin to each
+group above discussed. Consult an unabridged English
+dictionary and find the original Greek word. You will
+find that some apparent derivatives have no Greek original
+but are formed by analogy with words such as those
+given.
+
+(g) Write the Greek original of the following words
+(ê = η, ô=ω): apologêtic, catêgoric, botanic, cathartic,
+optic, dynamic, theôrêtic, mêchanics, dialectic. 
+
+@113
+
+LESSON XXXV
+
+INDIRECT DISCOURSE
+
+χρήματα γὰρ ψυχὴ πέλεται δειλοῖσι βροτοῖσι.
+Money is the soul of craven men
+Hesiod, Works and Days, 686.
+
+211. Finite Moods in Indirect Discourse. λέγω (in active
+voice), εἶπον, ἀποκρίνομαι, and certain other verbs of like
+meaning are followed by a clause introduced by ὅτι that,
+or ὡς (how) that. The verb in the subordinate clause
+has the same mood and tense that it would have if quoted
+directly; but after a secondary tense it may take the optaive (tense always remaining the same). Retention of
+the original mood after a secondary tense produces vividness:
+
+εἶπεν ὅτι παρέσοιτο he said that he would be present.
+
+παρέσομαι I shall be present. was the original form and
+might remain as πταρέσται, producing vividness.
+
+212. Tenses in Indirect Discourse. The present tense in
+the subordinate verb indicates that its action is contemporaneous with that of the verb of saying, the future that
+the event is to follow, the aorist that the event has already
+occurred:
+
+εἶπεν ὅτι πρᾶττοι
+he said that he was doing
+
+εἶπεν ὅτι πράξοι 
+he said that he would do;
+
+εἶπεν ὅτι πράξειε
+he said that he had done
+
+
+
+213. Infinitive in Indirect Discourse. φημί, λέγεται
+(passive), νομέίζω, and certain other verbs are followed by
