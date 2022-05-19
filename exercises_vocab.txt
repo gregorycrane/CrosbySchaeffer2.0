@@ -5498,3 +5498,245 @@ he said that he had done
 
 213. Infinitive in Indirect Discourse. φημί, λέγεται
 (passive), νομέίζω, and certain other verbs are followed by
+
+@114 AN iNTRODUCTION TO GREEK
+
+the infinitive. The tenses have the same value as in
+Seale
+
+ἐνόμισεν αὐτοὺς πρᾶττειν
+he thought that they were doing ; 
+
+ἐνόμισεν αὐτοὺς πράξειν 
+he thought that they would do ;
+
+ἐνόμισεν αὐτοὺς πράξαι
+he thought thatthey had done.
+
+214. Participle in Indirect Discourse. ὁράω, αἰσθάνομαι,
+ἀκούω, ἀγγέλλω, and similar verbs denoting the operation
+of the senses1 are often followed by a participle. The
+tenses have the same value as in § 212:
+
+ἤγγελλεν αὐτοὺς πράττοντας
+he was reporting that were doing ;
+
+ἤγγελλεν αὐτοὺς πράξοντας 
+he was reporting that they would do;
+
+ἤγγελλεν αὐτοὺς πράξαντας 
+he was reporting thatthey had done.
+
+215. Some of these verbs, like ἀκούω, admit all three
+constructions. Others, like πυνθάνομαι and αἰσθάνομαι,
+have either the ὅτι construction or the participle.
+
+216. If ἄν occurs, it shows that the original verb had ἄν:
+
+ἀκούω ὅτι ἂν ἔλθοι
+I hear that he may come.
+
+ἀκούω αὐτὸν ἂν ἐλθεῖν
+I hear that he may come.
+
+ἀκούω αὐτὸν ἂν ἐλθόντα
+I hear that he may come.
+
+The original form of this statement was:
+
+ἔλθοι ἄν 
+he may come.
+
+217. Indirect Questions. A verb indicating a question is
+followed by an interrogative or an indirect relative and a
+verb in a finite mood.? An indirect question takes the
+same mood and tense as a direct question, but after a sec-
+ondary tense it may take the optative (§ 212):
+
+πυνθάνεται τί ἔσται αὐτῷ 
+he asks what he shall have ;
+
+ἐπυνθάνετο τί ἔσοιτο (or ἔσται) αὐτῷ 
+he asked what he should have.
+
+
+
+1 Such verbs are for the most part those meaning to see, perceive, hear,
+learn, know, be ignorant of, remember, forget, show, appear, prove, and
+announce,
+
+2 Note that the indirect question does not call for the subjunctive, as in
+Latin.
+
+@115
+
+218. VOCABULARY
+ἀγγέλλω: announce. Ci. ἄγγελος. 
+
+θαυμάζω, θαυμάσομαι, ἐθαυμασα: wonder, marvel at, admire. THAUMATURGY.
+αἰσθάνομαι, αἰσθήσομαι, ἠσθόμην :  perceive. ANESTHESIA. 
+ἀκούω, ἀκούσομαι, ἤκουσα: hear. ACOUSTIC. 
+κλέπτω, κλέψω, ἔκλεψα; steal. KLEPTOMANIAC.
+γιγνώσκω,2 γνώσομαι: know, determine, DIAGNOSIS. cf. γνώμη. 
+
+λέγω, λέξω, ἔλεξα: say, tell, speak, Cf. DIALECT.
+ὅτι, conj.: that, because.
+εἶπον 3 (2d. aor.); said. EPIC. 
+πυνθάνομαι, πεύσομαι, ἐπυθόμην:  inquire, learn (by inquiry).
+εὑρίσκω, εὑρήσω, ηὗρον: find. EUREKA, 
+
+ὡς, conj. adv.: that,
+
+219. EXERCISES
+
+(a) Translate:
+
+1, ὁ δ᾽ ἄγγελος εἶπεν ὅτι ὁ ποταμὸς ἀ-διά-βατος εἴη.
+2, ἐπύθετο γὰρ τοὺς πολεμίους τὴν γέφῦραν λύσαντας.
+3. θαυμάξω εἰ εὑρήσετε τὰ πλοῖα παρ-όντα. 
+4. ἀλλὰ γνώσεσθε τοὺς φύλακας ἱκανοὺς εἶναι τὸ στρατόπεδον φυλάττειν. 
+5. πεύσεσθε εἰ ἡ ὁδὸς μακρὰ ἔσται;
+6. ἔλεγον ὅτι οὗτοι ἱκανοὶ ἔσοιντο. 
+7. ἤγγελλον δὲ τοὺς πολεμίους φυγόντας. 
+8. ταύτην εὑρήσεις κακὴν ὁδὸν οὖσαν. 
+9. ἀλλ᾽ εἰ ὑμᾶς ἠσθόμην οὕτως ὀλίγους ὄντας, οὐκ ἂν ἔπεμψα ὑμᾶς ἐπὶ τὴν κώμην. 
+10. τοῦ δὲ Κύρου ὁ ἠκούσατε τοὺς βαρβάρους κραυγῇ μάχεσθαι. 
+11. ἀλλ᾽ οὐ γιγνώσκομεν τίνα βουλὴν ποιεῖται. 
+13. εὑρίσκουσι δ᾽ αὐτοὺς τὰ ὅπλα κλέπτοντας.
+
+(b) Complete :
+
+1. ἐνόμισαν δὲ τοὺς ἀρχοντ--- κλεψ--- (fut.) τό τε ἀργύ-- τὸ χρυσίον. 
+2. εἶπεν ὅτι οἱ στρατιῶται ἱκανοὶ ἐσ-- ντο τὰς σκηνὰς δι-αρπα--- .
+
+1 Future and aorist to follow.
+
+2 Aorist to follow.
+
+3 Defective verb.
+
+4 Genitive of source, a variety of the genitive of separation.
+
+@116 ΑΝ ἹΝΤΕΟΘΌΟΤΙΟΝ ΤῸ ΔΕΕΕΚ
+
+3. εἰ μὴ ἡ βασίλεια ᾖσθ-- τοὺς ὁπλίτας ταττο---, οὐκ ἂν ---φυγ--. 
+4. ἐθαύμασαν εἰ οἱ ξένοι Κύρ.-- ἑψ--.
+
+(c) Write in Greek :
+
+1. Whomever they love, they will not wish to harm. 
+2. Whenever it shall no longer be necessary to keep (save) them, he will send to Greece those who so desire (those wishing). 
+3. When the commander died, his men turned (themselves) to flee  (into flight). 
+4. Cyrus was a worthy friend to whomever he was a friend.
+
+
+<f>The Lions’ Gate
+
+
+
+There are no live lions in Greece today, 
+but they still exist abundantly in Greek 
+art and literature, Those in this picture 
+looked down on Agamemnon at his triumphant return from Troy. </f>
+
+220. WHAT FOOLS THESE MORTALS BE!
+
+βου-κόλος (cowherd)
+ποτὲ βοῦν ἀπ-οῦσαν
+ᾔσθετο. καὶ οὐχ ηὗρεν.
+ηὔξατο (vowed) οὖν τῷ θεῷ μόσχον (calf) θῦσαι (sacrifice),
+εἰ τὸν κλέπτην (Compare κλέπτῳ) εὕροι. ἐλθὼν εἰς ὕλην
+(forest) τινά, λέοντα (lion) εὑρίσκει κατ-εσθίοντα τὴν βοῦν.
+Ὦ Ζεῦ, ἔφη. πρότερον (before) μὲν ηὐξάμην μόσχον θῦσαι,
+ἐὰν τὸν κλέπτην εὕρω, νῦν δὲ ταῦρον (compare TOREADOR)
+θύσω, ἐὰν τὸν κλέπτην ἐκ-φύγω.
+Adapted from Aesop, 83.
+
+@117
+
+LESSON XXXVI
+
+REVIEW
+
+μικροῖς πόνοις τὰ μεγάλα πῶς ἕλοι τις ἄν;
+How could one by little toil achieve things great?
+Euripides, Orestes, 694. The text has been modified slightly.
+
+221. ASSIGNMENTS
+
+(a) Review vocabulary (§ 553), following the method
+indicated in § 27, a. Give the present, future, and aorist
+of each verb.
+
+(b) Name and define the Greek words suggested by
+these English derivatives: chronology, kleptomania, didacticism, Xenia, chryselephantine, pathos, euthanasia, aynostic,
+trilogy, paleography, semaphore, aesthetics, dialectic, hypertrophy, xenophobia, biographie, acousticon, dolichocephalic,
+pathology, palinode, trapeze, pracis, lexicon.
+
+(c) What do the endings suggest as to meaning of the
+following: magnetic, practical, graphic, cardiac, physics,
+linguistics, logic, dialectic ? 
+
+(d) Add ten other derivatives to each of these lists.
+
+(e) Point out in the following words the portions that
+give clues as to mood:
+
+πέμπητε, λέγοι, ἀκούσωσι, ἀκούσειε, ἁρπάσαιτο, πείθεσθαι,
+πείθηται, κελεῦσαι, εἶμεν, εἶναι, ὦμεν.
+
+(f) Inflect the present subjunctive and optative active
+and middle of ποιέω; the aorist optative active of πράττω:
+the aorist optative of γίγνομαι.
+
+(gq) What may a subjunctive in a main clause indicate?
+in a subordinate clause after ἐάν, ἵνα, ὅπως? What may
+
+@118
+
+
+an optative indicate in a main clause without ἄν? with
+ἄν? in a subordinate clause after εὖ, ἵνα, ὅτι, ὡς?
+
+ 
+
+ 
+
+
+
+ 
+
+<f>COLUMNS OF THE OLYMPIEUM
+This, the largest temple in Greece,
+
+was begun about 530 b.c, and finished in 130 a.d.</f>
+
+4, atyace wos iv dep—te mavras rods mévous. 5.
+
+ 
+
+(h) How do present general conditions differ from
+future more vivid? past general from future less vivid?
+
+(i) Point out the interrogative and the indefinite
+pronouns or adjectives:
+
+τίνες εἰοίν, εἴ τις, τίνι στρατιώτῃ, λόγοι τινές, πρᾶγμά τι, τί πρᾶγμα, ἐκ τίνων.
+
+222. EXERCISES
+(a) Complete:
+
+
+1. ὅστις ἂν γεν---- στρατηγός, οἱ σὺν ἐμ--- (personal pronoun) ἑψ--:.
+2. ἐπύθοντο εἰ ἀναγκαῖον ---- (linking verb) τοὺς ἀδικ--ντὰς κακὰ παθ--. 
+3. μὴ  οἱ ξένοι κλεπτ--- τὰ χρήματα.
+4. ἐθαύμασε πῶς ἂν φερ---τε πάντας τοὺς πόνους. 
+5. τοῦ γὰρ ἀγγέλου ἤκουσαν τὴν σωτηρίάς ἐλπίδα -----. (linking verb)
+
+(b) Write in Greek:
+
+1. They told us that because of the guards the bridge was uncrossable.
+2. I wondered if he would learn that his brother was supporting an army.
+3. Whoever delays will be captured.
+4. Would that the mercenaries might receive their pay!
+5. He drew up his men during the night, so that he might hasten to the village.
