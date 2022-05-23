@@ -8070,3 +8070,906 @@ PERFECT PARTICIPLE OF παύω πε-παυ-κώς, πε-παυ-κυῖα, πε-�
 1 The perfect subjunctive, optative, and imperative occur infrequently and
 are, moreover, so easily recognized that detailed study is not asked for. If
 desired, they may be found in the Grammatical Appendix and learned.
+
+@174 AN INTRODUCTION TO GREEK
+
+ 
+
+ 
+
+
+ 
+
+321. Reduplication is the sign of the perfect, whether
+active, middle, or passive, and is found in every perfect. It has different forms:
+(a) Verbs beginning with a single consonant prefix this
+
+consonant and ε to the stem:
+
+παύω, πέπαυκα.
+φ is represented by a, 8 by t, x by k:
+φαίνω, πέφηνα ; θνήσκω, τέθνηκα.
+
+(b) Verbs beginning with a mute and a liquid (Introduction I, d) usually reduplicate like those beginning with a single consonant.
+
+γράφω, γέγραφα.
+
+(c) Verbs beginning with a vowel, a double consonant
+or ρ,1 or with two or more consonants other than a mute
+and a liquid, have a reduplication identical with augment:
+
+ἁρπάζω, ἥρπακα ; ζητέω, ἐζήτηκα ; στρατεύω, ἐστράτευκα.
+
+322. The perfect active of most verbs is formed by add-
+ing -κα (-κε) to the reduplicated stem; of other verbs
+(especially those with mute or liquid stems) by adding -α
+(-ε). Perfects in -κα (-κε) are called first perfects; those
+in -α (-ε) second perfects. Second perfects may best be
+learned from the principal parts. Except for the κ, they
+have the same inflection as first perfects.2
+
+323. The pluperfect prefixes a syllabic augment when the
+teduplivated perfect begins with a consonant. Otherwise
+it retains the reduplicated stem unchanged:
+
+πέφηνα, ἐπεφήνη ; ἔσταλκα, ἐστάλκη.
+
+Note the accents of the infinitive and participle. They are typical
+of these forms and often serve as clues.
+
+
+
+1 Verbs beginning with ρ double the ρ.
+2 The second perfect usually shows the mute of the stem in its rough form:
+π and β become φ; κ and γ become χ; τ and β become θ.
+
+@175 
+
+Inflect the perfect and pluperfect indicative active of
+πέφηνα; give the perfect infinitive active and the perfect
+participle active of the same.
+
+324. The perfect participle active uses the endings of the
+consonant declension in the masculine end neuter, of the
+α-declension in the feminine. The stems should be noted:
+ν is absent before τ in the masculine and neuter; also υι
+and short a appear in the feminine nominative and
+accusative singular. The absence of ν or the presence of
+υι serve as clues.
+
+Perfect Participle of παύω
+
+
+
+325. VOCABULARY
+δέδοικα (δείδω) : fear. πέπονθα (πάσχω) : have left.
+εἴληφα (λαμβάνω): have taken. πέπεικα (πείθω): have persuaded.
+ἔρ-ριφα (ῥίπτω): have thrown. πέποιθα (πείθω): have been versuaded, am confident, trust.
+ἐ-στράτευκα (στρατεύω): have made a campaign.
+πέπομφα (πέμπω) : have sent.
+
+εὕρηκα 1 (εὑρίσκω) : have found. 
+πέπονθα (πάσχω): hare experienced, have been treated.
+ἤρηκα (αἱρέω) : have seized, have captured.
+τέθνηκα (θνήσκω) : be dead.
+ἥρπακα (ἁρπάξζω):2 have seized, have plundered.
+
+1 Or ηὕρηκα. 
+2 Verbs in -ιζω (stem -δ) drop the δ before the κ of the per-
+fect as before the σ of the future and aorist.
+
+@176 AN INTRODUCTION TO GREEK
+
+326. EXERCISES
+(a) What clues are afforded by the portions in heavy type?
+
+λε λοίπαμεν 
+ἐστρατεύ κότι 
+ἡρπά κε σαν
+ἐρριφ έ ναὶ 
+ἐδε δοί κει 
+ἥρηκ υῖ αἱ
+
+
+
+(B) Translate :
+
+1, ἐστρατεύκαμεν δὴ μετὰ τῶν βελτίστων. 
+2. τὴν σάλπιγγα εἰληφὼς πρὸς βασιλέά θεῖ. 
+3. ἐδεδοίκετε δὲ μὴ οὐ πέμψαιμι ὑμῖν τὸν χρῦσον; 
+4. τοῦ δὲ Κύρου τεθνηκότος οὐκέτι δεῖ ἡμᾶς ἐλαύνειν εἰς τὸ πρόσθεν.
+5. ἐνομίζετε δὲ τοὺς βαρβάρους τὰ ἄκρα εἰληφέναι ἐν καιρῷ,
+6. ἐκείρους ἐπεπείκει τὰ αὐτὰ πράττειν.
+7. ἐπειδὴ δὲ ἥκομεν, οἱ φύλακες ἀπ-ελελοίπεσαν τὸ στρατόπεδον.
+8. ἔστιν οὖν ὅ τι ὑπ’ ἐμοῦ κακὸν πεπόνθατε; 
+9. πότε ὑπ-ὠπτευσε τοὺς ἑτέρους τὸν οἶνον ἡρηκέναι ; 10. τὰ δὲ ὅπλα ἐρριφότες ἐν-ἔπεσον εἰς τὰς οἰκίᾶς. 
+11. ἡ δὲ βασίλεια ἄγγελον πεπομφυῖα ἐλαύνει πρὸς τὸ ᾿Βλληνικὸν στράτευμα.
+
+(c) Write in Greek ;
+
+1. He fears that they may show themselves (to be) more just than the king. 
+2. The boy did not become angry when he cut his hand. 
+3. We were afraid that the more cowardly might not be pleased. 
+4. They ran at full speed in order to arrive at the fitting moment.
+
+327. A CYNICAL THRUST
+
+Περικλεῖ δὲ βουλόμενος ἐν-τυχεῖν (fall in with, meet) ἐπὶ
+θύρας ἦλθεν αὐτοῦ, πυθόμενος δὲ οὐ σχολάζειν (be at leisure)
+ἀλλὰ σκοπεῖν καθ᾽ ἑαυτὸν ὅπως λόγον ἀπο-δώσει (render
+account) Ἀθηναίοις, ἀπ-ερχόμενος ὁ Ἀλκιβιάδης, Εἶτα, ἔφη,
+βέλτιον οὐκ ἦν αὐτὸν σκοπεῖν ὅπως οὐκ ἀπο-δώσει λόγον Ἀθηναίοις ;
+
+Plutarch, Alcibiades, 7.2
+
+<f>The Hermes of Praxiteles
+
+The ancients seem to have regarded the Hermes less highly than other
+works of Praxiteles. It is now the most famous statue in the world, since
+it is the only undoubted original by a known master of first rank.</f>
+
+@177
+LESSON LUI
+
+PERFECT MIDDLE AND PASSIVE
+Μνημοσύνη μήτηρ Μουσάων. 
+Memory, mother of the Muses.
+Hymn to Hermes, 429-430
+  
+328. Perfect Middle and Passive. The perfect and
+pluperfect are formed by adding the proper endings directly to the reduplicated stem with no connecting vowel.
+The middle (and passive) endings of the present help form
+the perfect ; those of the imperfect help form the pluperfect. The pluperfect, of course, has an augment. Accents are normal except in the infinitive and participle,
+where the penult is accented. This peculiarity of accent
+is a convenient clue to the infinitive and participle in the
+perfect middle (and passive).
+
+Inflect the perfect and pluperfect indicative, the perfect
+infinitive and participle of rate in the middle (and passive)
+voice. Compare with paradigm (§ 527).
+
+329. Stem Changes. Stems ending in a consonant naturally undergo various changes through contact with the
+personal endings. Since it is easy to recognize these forms
+but a rather complicated matter to inflect them, detailed
+study is not asked for, but attention is called to the changes.
+
+Note these significant facts:
+
+
+1. A stem ending in 7, B, or $ shows
+
+
+@178 AN INTRODUCTION TO GREEK
+
+2. A stem ending in κ, γ, or χ shows 
+
+
+3. A stem ending in τ, δ, θ shows
+
+
+4. A stem ending in -ν shows
+
+5. A perfect participle and εἰσί or ἦσαν are used for
+the third person plural of the perfeet or pluperfect
+indicative middle (and passive) respectively of such
+verbs.
+330. Verbal Adjectives. Verbal adjectives in -τέος, -τέα, -τέον denote necessity (like the Latin gerundive).
+(a) They may be used personally:
+διαβατέος ἐστὶν ὁ ποταμός the river must be crossed.
+(b) They may be used impersonally: 1
+πρᾱκτέον ἐστίν it must be done.
+231. Dative of Agent. The dative of reference, used with
+
+a perfect passive or a verbal in -τέος, denotes the agent: 2
+
+τοῦτο ἡμῖν πέπρακται this has been done by us;
+τοῦτο ἡμῖν πρᾶκτέον ἐστίν this must be done by us.
+
+
+
+1 The impersonal verbal may take an object:
+διαβατέον ἐστὶ τὸν ποταμόν 
+the river must be crossed.
+
+2 What uses of the dative have you now had?
+
+@179
+
+332. VOCABULARY 
+
+ἀτιμάζω, ἀτιμάσω, ἠτίμασα, ἠτίμᾱκα, ἠτίμασμαι: dishonor.
+
+ἕως, conj.: while, until.
+
+θάπτω, θάψω, ἔθαψα, τέθαμμαι: dig, bury. EPITAPH. Cf. @θάπτω.
+
+
+
+παρασάγγης, παρασάγγου, ὁ: parasang. A Persian road measure = about 30 stades.
+
+τάφος: burial, grave.
+
+
+μιμνήσκω, μνήσω, ἔμνησα: remind; μέμνημαι: remember, MNEMONIC.
+
+τάφρος, τάφρου, ἡ: ditch, trench. Cf. θάπτω.
+
+οἰκέω, οἰκήσω, ᾧκησα, ᾧκηκα, ᾧκημαι: dwell, inhabit. ECUMENICAL. Cf. οἰκία.
+τιμή. τιμῆς, ἡ: honor, price. TIMOCRACY.
+
+
+333. EXERCISES
+
+(a) Locate these forms, giving mood, tense, person, number,
+and present indicative of the verbs from which they come:
+
+λελεῖφθαι, 
+λελειμμένοι εἰσίν, 
+πέπεμπται, 
+ἐπέπειστο, 
+ἥρπασται, 
+ἐπέφαντο, 
+ἠγμένοι ἦσαν, 
+πέπράξαι, 
+ἐτέταχθε, 
+πέπεισμαι,
+πεφάνθαι, 
+πεπεμμένος,1 
+ἐπέπρακτο, 
+τετάγμεθα, 
+ἠθροῖσθαι,
+πεφάσμεθα
+
+(b) Translate:
+
+1. ἐνταῦθα παρὰ τὸν ποταμὸν πόλις Ἑλληνικὴ ᾧκητο εὐδαίμων καὶ μεγάλη. 
+2. καὶ ἕως γε ἐκεῖ μένετε, σκεπτέον μοι δοκεῖ ὅπως ὡς ἀσφαλέστατα μενεῖτε.
+
+
+
+3. ἐὰν δὲ εὖ γένηται τί, οὐ μεμνήσεσθσαί2 σε φᾶσιν.
+4. τὸ δὲ σῶμα αὐτοῦ ἐνταῦθα τέθαπται ὅπου ἀπ-έθανε μαχόμενος. 
+5. οὐκέτι μέντοι διὰ τὸν χρόνον πτολὺν ὄντα πάντα μέμνημαι. 
+6. οὗτος δὲ κακίων γενόμενος τῶν ἄλλων τῷ στρατηγῷ ἠ-τίμαστο.
+7. πορευτέον δ᾽ ἡμῖν πολλοὺς παρασάγγᾱς πρὶν εἰς τὴν τάφρον ἀφ-ικέσθαι. 
+8. οὗτος ὁ τάφος τῑμῆς 3 μεγάλης ἐπεποίητο.
+9. σπεύσει ὁ λόχος ἕως ἂν φανερὰ γένηται ἡ τάφρος.
+
+1 Because three μ's are unpronounceable, one μ is dropped.
+
+2. Future perfect = future. 
+3. Genitive of price.
+
+@180 AN INTRODUCTION TO GREEK
+
+(c) Write in Greek:
+
+1. The pursuers have not found his body. 
+2. They are confident that the king has captured the largest cities.
+3. The messenger has persuaded the Greeks that Cyrus is dead.
+4. Your mother had sent some one to report his death.
+
+334. CHRIST AND THE TEMPTER
+
+Γέγραπται, Οὐκ ἐπ’ ἄρτῳ (bread) μόνῳ ζήσεται (live) ὁ 1
+ἄνθρωπος, ἀλλ᾽ ἐπὶ παντὶ ῥήματι (word) ἐκ-πορευομένῳ διὰ
+στόματος θεοῦ.
+
+St. Matthew, IV. 4.
+
+335. A NARROW ESCAPE
+
+τῇ δ᾽ αὐτῇ ἡμέρᾳ Κλέαρχος ἐλθὼν ἐπὶ τὴν διά-βασιν (compare δια-βαίνω) τοῦ ποταμοῦ καὶ ἐκεῖ κατα-σκεψάμενος τὴν
+ἀγορὰν ἀφ-ιππεύει ἐπὶ τὴν ἑαυτοῦ σκηνὴν διὰ τοῦ Μένωνος
+στρατεύματος σὺν ὀλίγοις τοῖς περὶ αὐτόν: Κῦρος δὲ οὔπω
+ἧκεν, ἀλλ᾽ ἔτι προσ-ήλαυνε· τῶν δὲ Μένωνος στρατιωτῶν ξύλα
+(compare XYLOPHONE) σχίζων (compare SCHISM) τί, ὡς
+ἐθεώρει Κλέαρχον δι-ελαύνοντα, ἔβαλε τὴν ἀξίνην (ax).
+καὶ οὗτος μὲν αὐτοῦ 3 ἥμαρτεν (missed). ἄλλος δὲ λίθον
+καὶ ἄλλος, εἶτα πολλοί, κραυγῆς γενομένης. ὁ δὲ καταφεύγει εἰς τὸ ἑαυτοῦ στράτευμα, καὶ εὐθὺς παρ-αγγέλλει εἰς τὰ ὅπλα· καὶ τοὺς μὲν ὁπλίτας αὐτοῦ (there) ἐκέλευσε
+μεῖναι τὰς ἀσπίδας πρὸς τὰ γόνατα (knees) ἔχοντας, αὐτὸς
+δὲ λαβὼν τοὺς Θρᾷκας ἤλαυνεν ἐπὶ τοὺς Μένωνος, ὥστε
+ἐκείνους ἐκ-πεπλῆχθαι καὶ αὑτὸν Μένωνα, καὶ τρέχεὶν ἐπὶ τὰ
+ὅπλα.
+
+Xenophon, Anabasis, 1. 5, 12-13.
+
+(To be continued)
+
+<f>The Porch of the Maidens.
+
+For different views of this porch of the Erechtheum, see pages 74 and 334.</f>
+
+1 The article is sometimes used in a generic sense and denotes one class as
+distinguished from other classes. Compare the French use of l'homme
+est mortel.
+
+2 A verb meaning to miss governs the genitive.
+
+@181
+
+LESSON LIV
+
+FUTURE AND AORIST PASSIVE!
+
+τὸ νϊκᾶν αὐτὸν αὑτὸν πᾶσῶν νϊκῶν πρώτη τε καὶ ἀρίστη.
+Self-mastery is the first and noblest victory of all.2
+Plato, Laws, 626 E.
+
+336. The first aorist passive forms its stem by adding θη
+(in indicative and infinitive) or θε (in subjunctive, optative,
+and participle) to the verb stem. To this are added the
+personal endings of the active voice. Contraction (ε+ ω,
+η, ῃ) occurs throughout the subjunctive. The mood sign
+of the optative in the singular is ιη; in the plural ι and ιε
+(§ 187). These combine to form ειη, ει, ειε.
+
+First Aorist Indicative Passive of παύω
+
+
+First Aorist SUBJUNCTIVE PASSIVE
+
+
+First Aorist Optative Passive
+
+
+First Aorist Invrinitive Passive παὺ θῆναι
+First Aortst PARTICIPLE PASSIVE παὺ -θείς, -θεῖα, -θέν
+1 The imperative is omitted becanse of its great rarity.
+
+@182 AN INTRODUCTION TO GREEK
+
+337. All vowel stems have aorist passives like ἐπαύθην.
+Before θ, stems ending in π or β roughen to φ, those in
+κ or γ roughen to χ. Stems ending in τ, δ, θ change to σ:
+
+πεμπ-, ἐπέμφθην ; ἀγ-, ἤχθην ; ἁρπαδ-, ἡρπάσθην.
+
+338. The aorist participle passive has the endings of the
+consonant declension in the masculine and neuter, of the
+α-declension in the feminine. In the nominative masculine singular and the dative masculine and neuter plural
+ντ drops out and ε lengthens to ει (§ 107).
+
+First Aorist Participle Passive oF παύω
+
+
+339. A second aorist passive appears in some verbs.
+Such a form lacks θ. Otherwise, both as to form and
+meaning, a second aorist passive is the same as a first aorist
+passive.
+
+Inflect the indicative, subjunctive, optative,infinitive, and
+participle of γράφω in the aorist passive (ἐγράφην). Com-
+pare with paradigm (§ 533).
+
+340. The future passive forms its stem by adding σο
+(σε) to the stem of the aorist passive. It uses the personal endings of the present passive: first future passive,
+πανυ-θή-σο-μαι; second future passive, ypad-7-09-pat.
+
+Except for the difference in stem (the addition of θη),
+the future passive is inflected like the future middle.
+
+@183
+
+Inflect the future indicative, optative, infinitive, and
+participle passive of rat and ypad@. Compare with para-
+digms (§§ 528, 533).
+
+341. VOCABULARY
+ἀ-μελέω, ἀμελήσω, ἠμέλησαdyoa, ἠμέληκα, ἠμέλημαι: neglect, with G. Cf. μέλει.
+δια-τρίβω, -τρίψω, -ἐτρῑψα, -τέτριφα, -τέτρίμμαι, -ετρίβην : rub through or away, spend, waste (time), delay. DIATRIBE.
+Anka, iseAnpat: be careless, 
+
+δέομαι, δεήσομαι, δεδέημαι, ἐδεήθην: lack, need, want, desire, request. Freq with G., or with G. of pers. and inf. Cf. δεῖ
+
+ὁπλίζω, ὥπλισα, ὥπλισμαι, ὡπλίσθην : arm, equip, Cf. ὅπλα.
+
+
+παλτόν, παλτοῦ, τό: javelin.
+φύσις, φύσεως, ἡ : nature. PHYSICS.
+
+
+342. EXERCISES
+(a) Translate:
+1. οἱ Ἀθηναῖοι τῶν πολιτῶν ἐδεήθησαν τριήρεις πέμψαι ὡς πλείστας. 
+2. κατὰ φύσιν νόμος ἐστὶν ὁ πάντων βασιλεύς.
+3. διὰ τὸ εὗρος τὸ τοῦ ποταμοῦ πολὺς χρόνος δι-ετρίβη ὑπὸ τῶν διωκόντων, ὥστε οἱ φυγάδες ἐξ-ἐφυγον. 
+4. ἐπιστολὴ δὲ γραφήσεται παρὰ βασιλέᾶᾷ, ἐπὰν ἢ καιρός. 
+5. λαβὼν τὰ παλτὰ εἰς τὰς χεῖρας ἐβοή-θησε τῷ ἥττονι. 
+6. ὦ ἄνδρες, ἐάν μοι πεισθῆτε, ἐν τῇ μεγίστῃ τιμῇ ἔσεσθε. 
+7. ἐξοπλισθέντες οἱ κράτιστοι οὐ δεδοίκᾶσι μὴ κακὰ πάθωσιν.
+8. ἀ-μελοῦντες κινδύνου οὐκ ἤθελον εἰς φυγὴν τραπῆναι.
+
+(b) Write in Greek :
+
+1. While we remain, we must see to it that we remain safely.
+2. We remembered that they had not stopped at the trench.
+3. The large monument has been destroyed by the captain and his men. 
+4. Because of the breadth of the river, you must cross in a boat.
+
+343. A NARROW ESCAPE — Continued
+
+ὁ δὲ Πρόξενος (ὕστερος γὰρ προσ-ῆλθε καὶ τῶν ὁπλιτῶν
+τινες αὐτῷ εἵποντο) εὐθὺς εἰς τὰ μέσον ἄγων ἐδεῖτο τοῦ
+
+@184
+
+Κλεῶρχου μὴ ποιεῖν ταῦτα. ὁ δ' ἐχαλέπαινεν ὅτι οὕτω πρῴως
+(mildly) λέγοι τὸ αὑτοῦ πάθος (οοcompareταρατο πάσχω), ἐκέλευσε
+τε αὐτὸν ἐκ τοῦ μέσου
+ἐξ-ίστασθαι (stand out).
+ἐν τούτῳ προσ-ῆλθε καὶ
+Κῦρος καὶ ἐπύθετο τὸ 
+πρᾶγμα" εὐθὺς δ᾽ ἔλαβε
+τὰ παλτὰ εἰς τὰς χεῖρας
+καὶ σὺν τοῖς παρ-οῦσι τῶν
+πιστῶν ἧκεν ἐλαύνων εἰς
+τὸ μέσον καὶ Ἀέγει τάδε.
+Κλέαρχε καὶ Πρόξενε καὶ
+οἱ ἄλλοι οἱ παρ-ὄντες Ἕλληνες, τί ποιεῖτε; εἰ γὰρ
+ἀλλήλοις μαχεῖσθε, ἐν
+τῇδε τῇ ἡμέρᾳ ἐγὼ κατακεκόψομαι 1 καὶ ὑμεῖς οὐ
+πολὺ ἐμοῦ ὕστερον - κακῶς 2 γὰρ τῶν ἡμετέρων
+ἐχόντων πάντες οὗτοι οἱ
+βάρβαροι πολεμιώτεροι
+ἡμῖν ἔσονται τῶν παρὰ
+βασιλεῖ ὄντων. ἀκούσᾶς ταῦτα ὁ Κλέαρχος ἐν ἑαυτῷ ἐγένετο·
+
+καὶ ἐπαύσαντο ἀμφότεροι.
+
+Xenophon, Anabasis, I. 5. 14-17.
+
+<f>The Victory or Paeonius
+
+This memorial of a naval victory is one
+of Olympia’s chief treasures. It represents Victory as a goddess about to alight
+on the prow of a ship.</f>
+
+1 Future perfect passive of κατα-κόπτω, a rare form easily recognized from the reduplication and σο/σε.
+
+2 An adverb with ἔχω is very common instead of the corresponding adjective with εἰμί.
+
+@185
+
+
+PRINCIPAL PARTS 
+
+ἐννέα τὰς Μούσᾶς φᾶσίν τινες. ὡς ὀλιγώρως·
+ἠνίδε καὶ Σαπφὼ Λεσβόθεν ἡ δεκάτη.
+
+Some say the Musee are nine. How careless!
+Lo, Lesbian Sappho is the tenth.
+Greek Anthology.
+
+344. A normal verb has six principal parts: the first
+person singular indicative of the present, future, aorist,
+perfect, perfect middle, and aorist passive. These supply
+the stems for the various tenses (with all the moods of
+each) in the three voices (§ 548).
+
+5.5. One or more parts are lacking in very many verbs,
+which therefore are not inflected or used in the tenses thus
+lacking. In many verbs one or more of the parts are
+irregular as to form.
+
+346. Deponents that have an aorist middle are called
+middle deponents:
+πυνθάνομαι, πεύσομαι, ἐπυθόμην.
+Those that have an aorist passive but no aorist middle are
+called passive deponents:
+βούλομαι, βουλήσομαι, ἐβουλήθην.
+
+Middle deponents sometimes have an aorist passive with
+passive meaning:
+
+κτάομαι I acquire, ἐκτησάμην I acquired, ἐκτήθη it was acquired.
+
+@186 AN INTRODUCTION TO GREEK
+
+347. Pinciple Parts or Verbs ALREADY Presented
+
+ἀγγέλλω ἀγγελῶ ἤγγειλα ἤγγελκα ἤγγελμαι ἠγγέλθην
+ἄγῳ ἄξω ἤγαγον ἦχα ἦγμαι ἤχθην
+αἱρέω αἱρήσω εἷλον ἤρηκα ἥρημαι ἐρέθην
+αἰσθάνομαι αἰσθήσομαι ἠσθόμην ἤσθημαι
+ἀκούω ἀκούσομαι ἤκουσα ἀκήκοα ἠκούσθην
+ἁλίσκομαι ἁλώσομαι ἑάλων ἑάλωκα
+θνήσκω ἀπο-θανοῦ- ἀπ-έθανον τέθνηκα
+
+ἀπο-κτείνω ἀπο-κτενῶ ἀπέκτεινα ἀπ-έκτονα
+ἀφ-ικνέομαι ἀφ-ίξομαι ἀφεϊκόμην ἀφ-ῖγμαι
+βαίνω βήσομαι ἔβην βέβηκα
+βάλλω βαλῶ ἔβαλον βέβληκα βέβλημαι ἐβλήθην
+βούλομαι βουλήσομαι βεβούλημαι ἐβουλήθην
+γίγνομαι γενήσομαι ἐγενόμην γέγονα γεγένημαι
+γινώσκω γνώσομαι ἔγνων ἔγνωκα ἔγνωσμαι ἐγνώσθην
+δέδοικα (perfect as present) ἔδεισα
+δεῖ δεήσει ἐδέησε
+δέομαι δεήσομαι δεδέημαι. ἐδεήθην
+δοκέω δόξω ἔδοξα δέδογμαι -εδόχθην 2
+ἐθέλω ἐθελήσω ἠθέλησα ἠθέληκα
+εἰμί ἔσομαι
+εἶπον (2nd aor.)
+ἐλαύνω ἐλῶ ἥλασα «ελήλακαΣ ἐλήλαμαι ἠλάθην
+ἐπ-αινέω ἐπ-αινέσω ἐπιἤἥνεσα ἐπ-ιήνεα ἐπ-ήνημαι ἐπ-ηνέθην
+ἐπι-μελέομαι ἐπι-μελήσομαι ἐπι-μεμέλημαι ἐπ-εμελήθην
+ἕπομαι ἕψομαι ἑσπόμην
+ἔρχομαι ἦλθον ἐλήλυθα
+εὑρίσκω εὑρήσω ἥὗρον ἤὕρηκα ὕρημαι ἡὐρέθην
+ἔχω ἔξω or σχήσω ἔσχον ἔσχηκα -ἐσχημαι 3 
+ἥδομαι ἠσθήσομαι ἥσθην
+καλέω καλῶ ἐκάλεσα κέκληκα κέκλημαι ἐκλήθην
+κλέπτω κλέψω ἔκλεψα κέκλοφα κέκλεμμαι ἐκλάπην
+κρίνω κρινῶ ἔκρινα κέκρικα κέκριμαι ἐκρίθην
+
+1 Verbs that conform to type have been omitted; also those that are not
+very common in tenses other than the preseut. 
+2 Only in compounds.
+
+@187
+
+λήψομαι ἔλαβον εἴληφα εἴλημμαι ἐλήφθην
+λείψω ἔλιπον λέλοιπα λέλειμμαι ἐλείφθην
+μαθήσομαι ἔμαθον μεμάθηκα 
+μαχοῦμαι ἐμαχεσάμην μεμάχημαι
+-μνήσω1 -έμνησα1 μέμνημαι ἐμνήσθην,
+νομιῶ ἐνόμισα νενόμικα νενόμισμαι ἐνομίσθην
+πείσομαι ἔπαθον πέπονθα
+πείσω ἔπεισα ἔπεισα πέπεικα πέποιθα πέπεισμαι ἐπείσθην 
+
+
+πέμπω, πέμψω ἔπεμψα πέπομφα πέπεμμαι ἐπέμφθην
+πίπτω πεσοῦμαι ἔπεσον πέπτωκα
+πυνθάνομαι πεύσομαι ἐπυθόμην πέπυσμαι
+[σκέπτομαι] σκέψομαι ἐσκεψάμην ἔσκεμμαι
+σκοπέω (σκέπτομαι supplies the rest)
+σπεύδω σπεύσω ἔσπευσα
+τείνω τενῶ ἔτεινα τέτακα τέταμαι ἐτάθην
+τέμνω τεμῶ ἔτεμον τέτμηκα τέτμημαι ἐτμήθην
+τρέπω τρέψω ἔτρεψα τέτροφα τέτραμμαι ἐτράπην
+τρέφω θρέψω ἔθρεψα τέτρρφα τέθραμμαι ἐτράφην
+ὑπεισχνέομαι ὑποςσχήσο- ὑπ-εσχόμην ἀπβστοηρχθα
+φανῷ ἔφηνα πέφηνα πέφασμαι ἐφάνην
+φέρω οἴσω ἤνεγκα ἐνήνοχα ἐνήνεγμαι ἠνέχθην
+φεύγω φεύξομαι ἔφνγον πέφευγα
+φημί φήσω ἔφησα
+
+Learn the principal parts that are new and give the meaning of
+each present indicative.
+
+348. EXERCISE
+
+Write in Greek:
+
+1, The javelins were found on the wagons before (any) time was wasted. 
+2. (Because) the city was (being) captured, we had to proceed to the mountain. 3. The messenger said that the letter would not be written. 
+4. The next day we learned that your money was stolen. 
+5. The boy is afraid that he may be chosen instead of his brother.
+
+1 Only in compounds.
+
+@183 AN INTRODUCTION TO GREEK 
+
+ 
+
+349. Synopsis of παύω.
+
+350. λείπω has a second aorist active and middle where
+rate has a first aorist. γράφω has a second aorist passive
+παύω has a first aorist.
+
+Give a complete synopsis of λείπω in the active and middle; of γράφω in the active and passive.
+
+
+
+1 The numerals that head the several columns denote the principal part on
+which the form is based.
+
+@189 
+
+351. THE JEALOUS LOVER
+
+The following lines are the first stanza of a poem by
+Sappho, called by an early critic "a congress of passions
+harmonized into faultless phrase."
+
+
+φαίνεταί μοι κῆνος (= ἐκεῖνος) ἴσος θέοισιν (= θεοῖς)
+ἔμμεν (= εἶναι) ὥνηρ (= ὁ ἀνήρ), ὄστις ἐναντίος τοι (= σοι) ἱζάνει (sits) καὶ πλᾶσίον (near) ἄδυ (= ἡδύ) φωνεύσᾱς (compare TELEPHONE) ὑπ-ακούει. 1
+
+
+
+
+<f>Sappho anp Alcaeus
+
+This painting by Alma Tadema shows the poet Alczeus singing to his
+own accompaniment before Sappho and her circle of Lesbian maidens.</f>
+
+J. A. Symonds has translated it into English Sapphics:
+Peer of gods he seemeth to me, the blissful
+Man who sits and gazes at thee before him,
+Close beside thee sits, and in silence hears thee
+Silverly speaking.
+
+ 
+
+1 This poein has been translated into Latin by Catullus (51) who apes the
+meter but cannot preserve the charm. The Aeolic dialect in which Sappho
+wrote is characterized by smooth breathing and recessive accent.
+
+@190
+
+LESSON LVI
+
+NUMERALS 
+
+εἷς ἀνὴρ οὐδεὶς ἀνήρ.
+In union there is strength.
+Greek maxim. Literally. 
+One man, no man.
+
+352. CARDINAL NUMBERS,
+
+1. εἷς, μία, ἕν: one, HENDIADYS, HYPHEN.
+μη-δ-είς, μη-δε-μία, μηδ-έν: no one, no.
+οὐ-ὃ-εἰς, οὐ-δε-μία, οὐδ-ἐν: no one, no.
+2. δύο [δι- as prefix: DIMETER].  Lat. duo. DUET. 
+3. τρεῖς, τρία. TRIAD, TRIGONOMETRY. 
+4. τέτταρες. τέτταρα. TETRAHEDRON. 
+5. πέντε. PENTAGON. 
+6. ἔξ HEXAMETER. 
+7. ἑπτά, HEPTAMETER. 
+8. ὀκτώ. OCTOPUS. 
+9. ἐννέα, ENNEAD.
+10. δέκα, DECALOGUE. 
+
+11. ἔν-δεκα,  HENDECASYLLABIC,
+
+12. δώ-δεκα. DODECANESE.
+
+
+13. τρεῖς καὶ δέκα.
+
+14. τέτταρες καὶ δέκα.
+15. πεντε-καί-δεκα.
+
+
+16. ἑκ-καὶ-δεκα.
+
+17. ἑπτα-καὶ-δεκα.
+18. ὀκτω-καί-δεκα. 
+
+19. ἐννεα- καί-δεκα
+20. εἴκοσι(ν). 
+
+21. εἷς καὶ εἴκοσι, εἴκοσι καὶ εἷς
+
+
+30. τριάκοντα.
+ 
+100. ἑκατόν. HECATOMB.
+
+200. dtaxδιακόσιοιdctot. 
+
+1000. χίλιοι.
+
+2000. δισ-χίλιοι.
+
+10000. μύριοι. MYRIAD.
+
+-κοντ indicates the tens (-ty) from thirty to ninety.
+-κόσιοι indicates the hundreds from 200 to 900, which are inflected.
+
+@191
+
+353. INFLECTION OF CarpinaL NUMBERS.
+
+εἷς one
+
+οὐδείς (and μηδείς) are inflected like εἷς with οὐδ- (μηδ-)
+prefixed to the masculine and neuter, οὐδὲ- (μηδε-) to the
+feminine. The accent of the nominative masculine is
+acute. Inflect οὐδείς. Compare with paradigm (§ 517).
+
+τρεῖς three 
+τέτταρες four
+
+354. Genitive of Measure. The genitive denotes
+
+measure of space, time, or value :1 
+ἑπτὰ σταδίων τεῖχος a wall seven stades long.
+
+355. EXERCISES
+
+(a) Translate:
+
+1. Ἀρίστιππος δὲ Κῦρον αἰτεῖ μισθὸν εἰς δισ-χιλίους ξένους
+καὶ τριῶν μηνῶν.
+2. ἐντεῦθεν ἐξ-ελαύνει διὰ τῆς Λυδίας σταθμοὺς τέτταρας παρασάγγᾶς εἴκοσι καὶ δύο ἐπὶ τὸν Μαίανδρον ποταμόν. 
+3. ἐνταῦθα ἐπὶ τῇ τάφρῳ ἔμεινεν ἡμέρας ἑπτά. 
+4. ἡ δὲ γυνὴ προτέρᾷ Κύρου ἕξ ἡμέραις ἀφέκετο.
+5. ἐντεῦθεν ἐξ-ελαύνει σταθμοὺς τρεῖς παρασάγγας ὀκτω-καί-δεκα ἐπὶ τὸν Εὐφράτην ποταμόν, ὄντα τὸ εὗρος " τεττάρων
+σταδίων. 
+6. ἔστι δὲ τριάτκοντα ἡμερῶν ὁδὸς ἀπὸ τῆς ἡμετέρας πόλεως.
+
+1 What uses of the genitive have you now had ?
+2 Accusative of respect (page 144, note 2).
+
+@192 AN INTRODUCTION TO GREEK
+
+(b) Complete:
+
+
+
+1. τρεῖς καὶ ἕξ εἰσι ----. 
+2. δέκα καὶ δέκα εἰσὶ ----.
+3. ἕνδεκα καὶ δώδεκά εἰσι ----. 
+4. τὰ ἑξά-κις 1 πέντε ἐστὶ ----. 
+5. τὰ δεκά-κις ἑκατόν ἐστι ----. 
+6. τὰ πεντά-κις ---- ἐστι τετταρά-κοντα. 
+7. ἔστι τὰ δώδεκα δὶς ---- ἢ τρὶς ---- ἢ τετρά-κις ---- ἢ ἑξά-κις.
+
+356. GREEK VIEWS ON DEATH
+
+(a) Socrates at the age of seventy was tried in Atheng
+on a charge of impiety. The spirit that pervades his
+defense, as recorded by Plato in
+the Apology, is sufficient proof
+to modern minds that he was in-
+nocent; but he was condemned
+to death. Among other notable
+utterances addressed to friends
+and foes after the verdict, is the
+following characteristic state-
+ment of his creed.
+
+Ἀλλὰ καὶ ὑμᾶς χρή, ὦ ἄνδρες
+δικασταί, εὐ-ἐλπιδας εἶναι πρὸς
+τὸν θάνατον, καὶ ἕν τι τοῦτο
+ἡγεῖσθαι ἀληθές, ὅτι οὐκ ἔστιν
+ἀνδρὶ ἀγαθῷ κακὸν οὐδὲν οὔτε
+ζῶντι (living, compare ZOOLOGY) οὔτε τεθνηκότι, οὐδὲ ἀμελεῖται ὑπὸ θεῶν τὰ τούτου πράγματα.
+
+Plato, Apolagy, 41 C, D.
+
+(4) While few pagans of any age conld approximate
+the sublime faith of such an utterance, in general the
+
+
+
+1 Numeral adverbs, except ἄπαξ once, δίς twice, τρίς three times, end in -κις.
+
+@193
+
+sepulchral monuments and writings of the Greeks display a manly attitude toward death. The following
+verses are taken from a play written by Euripides :
+
+
+
+ἔφυ (lives) μὲν οὐδεὶς ὅστις
+οὐ πονεῖ (has trouble)
+βροτῶν (of mortals).
+
+θάπτει τε τέκνα (children)
+χἄτερα( = καὶ ἕτερα)
+αὖ κτᾶται (obtains) νέα,
+αὐτός τε θνῄσκει, καὶ τάδ᾽
+ἄχθονται βροτοὶ
+
+εἰς γῆν φέροντες γῆν·
+ἀναγκαίως δ᾽ ἔχει 
+
+βίον θερίζειν (λαγυσεὶν)
+ὥστε (as) κάρπιμον
+(obtains) στάχυν (grain),
+
+καὶ τὸν μὲν εἶναι, τὸν δὲ
+μή τί ταῦτα δεῖ
+
+στένειν (δbemoanεγηοαη), ἅ-περ
+(ϑυstronger thanπ ἅ)) δεῖ
+κατὰ φύσιν δι-εκ-περᾶν
+(go through):
+
+δεινὸν γὰρ οὐδὲν τῶν ἀναγκαίων βροτοῖς.
+Euripides, fragment.
+
+<f>Heceso
+
+This tombstone is famous for its dignity
+and beauty and also for the simplicity of
+its inscription : ΗΓΗΣΩΠΡΟΞΕΝΟ, Hegese
+(wife) of Proxenos.</f>
+
+@194
+
+LESSON LVII
+
+REVIEW
+
+Φιλοσοφία Βίον Κυβερνήτης. 
+Philosophy the Guide of Life.
+Motto of the Phi Beta Kappa Society.
+
+357. ASSIGNMENTS 
+
+(a) Review vocabulary, § 555, following the method
+indicated in § 27, a. Give principal parts of the verbs.
+
+(6) Name and define the Greek words suggested by
+heterogeneous, cleutheromania, criterion, diaphanous, Aeropolis, dromedary, phanerogam, George, antistrophe, emblem,
+geometry, bema, enallage, mesolithic, telescope, mathematics,
+appendectomy, hexahedral, hendecagon, octastyle, pentathion,
+heptad, eirenicon.
+
+(c) Add ten words to this list.
+
+(d) Inflect μηδείς.
+
+(e) Give complete synopsis of ceed in the third person
+singular active; γίγνομαι in the third person singular
+middle; πλήττω in the third person plural passive.
+
+(f) What indications of mood and tense appear in
+heavy type?
+
+ἧρπα σται 
+πέπομ φε 
+λελει μμ ένος ᾖ 
+λυ θείη
+φαν ῆναι 
+ἀγγε λεῖ σθαι 
+τε τά χθαι 
+τραπ ήσεται
+κρί ναιεν 
+ἐ παύ σω 
+μαθ έτω 
+ἠθροι σμένοι ἦσαν
+
+(g) What clues are given by the accents: ?
+
+κρίνοιεν, 
+κρινοῖεν, 
+κὠλῡσαι, 
+κωλῦσαι, 
+ἠθροικώς, 
+φυγών,
+ἐστρατευμένον, 
+γενέσθαι, 
+φιλεῖ, 
+φίλει, 
+μαχεῖται, 
+ἀγγέλλουσι,
+ἀγγελοῦσι, 
+εἰλῆφθαι, 
+ᾔσθου,
+αἰσθοῦ.
+
+2 Of course, other clues are to be found in most of these verbs.
+
+@195
+
+358. EXERCISES
+(a) Complete : 
+
+1. εἴθε μηδε--- τῶν γυναικῶν μαθ--- τὸ τεῖχος λελυ--- τ-- πολεμι--- (plural). 
+2. καὶ γὰρ φόβος ἐστὶ τοῖς ἡττ--- γενομένοις μὴ δια-τριβόμενοι ἀ-τῖμασθ--. 
+3. μὴ Κῦρον αἰτ---τε (1000) ξένους. 
+4. --δενι μέλει ὅπως ὠφελ--- τοὺς γέροντας. 
+5. μὴ νομισ--τε τοὺς --- (10.000) Ἕλληνας οὐ κακὰ πεπονθ---- ὑπὸ πολλ-- βαρβαρ----. 
+6. ὁ δὲ ἐλπίζει ἀμφοτέρους λόχους μάλα θαρρησ---- πρὸς τ-- ἀνα-βασ---.
+
+
+
+(b) Write in Greek:
+
+1. Judge not that you be not judged. 
+2. Now that the commander is dead1 we must cross the trench. 
+3. Would that they may show themselves worthy of their freedom!
+4. From there he marches three days’ journey, twenty-one parasangs. 
+5. Did you report that five generals were chosen by the captains ? 
+6. We were afraid that the tomb might be dishonored, 
+
+
+
+1 Use genitive absolute.
