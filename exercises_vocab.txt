@@ -1,7 +1,96 @@
 
 
-4. EXERCISES 
+@1
 
+<f>Eager to Go</f>
+
+LESSON I
+
+DECLENSION OF Ο-STEMS
+ἐν ἀρχῇ ἢν ὁ λόγος.
+In the beginning was the word.
+John, 1.1
+1. Declensions. There are three declensions in Greek,
+instead of five asin Latin. To these, because of their general uniformity, the o-stems serve as a good introduction.
+
+2. Ο-Stem Masculines. Nouns of the ο-declension
+whose nominatives end in -ος are usually masculine.
+
+6 wotapds the river
+
+
+In like manner intlect ὁ ἀδελφός.
+3. Accents. (a) In nouns of the ο-declension an acute
+ 
+(´) on the ultima in the ueminative is changed to a
+circumflex (῀) in the genitive and dative of both numbers.
+
+  
+
+
+
+2 The letters N G D A prefixed to the various forms indicate respectively
+nominative, genitive, dative, accusative. Inasmuch as this will be the invariable order of presentation, it is thought unnecessary to print these letters
+in succeeding lessons. The vocative is not included in the forms to be memorized; nor is the dual.
+
+3 Endings of masculines of the o-declension in Latin.
+@2
+
+
+(b) An acute on the ultima changes to a grave (`)
+when a word follows without intervening punctuation:
+
+ἀδελφὸν ἔχει 
+he has a brother.
+
+4. Cases. The endings of a noun tell its case and use
+
+(a) The nominative is the case of the subject:
+
+οἱ στρατηγοὶ ἦσαν ἀδελφοί the generals were brothers.
+
+(2) The genitive suggests relations like those expressed
+
+with of in English. It frequently denotes possession :
+ὁ τοῦ στρατηγοῦ ἀδελφός 
+the brother of the yeneral.
+
+(c) The dative suggests relations like those with fo or
+for in English. It frequently denotes the indirect object :
+τῷ στρατηγῷ πέμπει τὸν ἀδελφόν 
+he sends his brother to the general.
+
+(d) The accusative is the direct object of a transitive
+verb: ἀδελφὸν πέμπει he sends a brother.
+
+5. The Article. (a) Like English, and unlike Latin,
+Greek has a definite article. This agrees with its noun
+in gender, number, and case. It often serves as a possessive pronoun, as my, your, his, etc. ὁ and οἱ are proclitic
+(page xxvii). 
+
+(b) Greek has no indefinite article. Many nouns having no definite article require a or an in translation:
+
+6. VOCABULARY
+ἀδελφός, -οὔ, δ: brother.  PHILADELPHIA.
+
+ἔχει: he, she, or it has,
+ἔχουσι: they have.
+ἦν: he, she, it, or there was.
+ἦσαν: they or there were.
+παύει; he, she, or it stops (transitive).
+
+παύουσι: they stop.
+πέμπει: he, she, or it sends (transitive).
+πέμπουσι: they send.
+ποταμός, -οὔ, ὃ: river, HIPPOPOTAMUS.
+στρατηγός, -οὔ, ὃ: general. STRATEGY.
+
+1 The definite article accompanies nouns in vocabularies to show gender.
+2 In the vocabularies derivatives and cognates are printed in small capitals.
+
+@3
+
+7. Exercises 
 (a) What use of the noun do the heavy type endings suggest?
 ἀδελφ οῦ
 στρατηγ ούς
@@ -21,6 +110,49 @@
 5. ἦν ποταμὸς. 
 6. τῷ στρατηγῷ πέμπει τοὺς ἀδελφούς.
 7. παύει τοὺς στρατηγούς.
+
+(c) Complete these sentences, adding endings and accents :
+1. ὁ στρατηγ--- ἔχει ἀδελῴ-- (singular). 
+2. ἦσαν ποταμ---.
+3. τοῖς στρατηγ--- πέμπουσι τοὺς ἀδελφ--.
+
+<f>ὁ ποταμός
+This lovely pass, the Vale of Tempe, between Mt. Ossa and Mt. Olympus,
+might have proven more troublesome to the Persians than Thermopyla, had
+they not found an easier entrance into Greece. The Peneus River, which
+winds through it, is one of the few in Greece that never go dry.</f>
+@4
+
+LESSON II
+
+DECLENSION OF O-STEMS — Continued
+
+πόνος γάρ, ὡς λέγουσιν. εὐκλείας πατήρ.
+Toil, so they say, is the father of fame?
+Euripides, fragment.
+
+8. Persistent Accent. The accent of the nominative
+must be learned by observation. It will remain on the
+same syllable in the other cases if possible. An acute on
+the penult of a noun of the o-declension remains on that
+syllable throughout. An acute ou the antepenult is drawn
+to the penult when the ultima is long (§ V, e). Final -οι
+of the nominative plural is considered short (§ V, a).
+
+ὁ φίλος the friend
+
+
+ὁ δίκαιος the just man
+
+ 
+
+In like manner inflect ὁ πόλεμος.
+
+
+2 In the previous lesson you found singular and plural labeled. From now on you are given no labels, bnt you can readily tell which is which.
+3 As in Latin, adjectives agree with their nouns in gender, number, and case.
+
+
 <pb n="5"/>
 
 9. Genitive of Place from Which. The genitive with
@@ -65,6 +197,10 @@ It is nearly nineteen feet long.
 
 φίλος: friend. PHILANTHROPIST.
 
+1This is our second use of the genitive (§ 4). The use here given is like
+the Latin ablative in its from relations.
+2 Adjectives in -ρος usually have the acute on the last syllable.
+
 @6
 
 1. TRANSLATION HINTS
@@ -108,6 +244,49 @@ the matchless Parthenon.
 2. τὸν ἀδελφ-- πέμπει ἐκ τ--- ποταμ- (singular)). 
 3. οἱ στρατηγοὶ τοὺς φίλους πεμπ-- τῷ ἀνθρωπ--.
 
+@7
+
+LESSON HI
+
+PRESENT INDICATIVE AND INFINITIVE ACTIVE OF
+O-VERBS
+
+οἱ γὰρ πόνοι τίκτουσι τὴν εὐανδρίᾱν.
+Labor begets manhood.
+Euripides, fragment. Literally: For toils beget manhood.
+
+13. The Present Tense. This tense denotes action oe:
+curring or continuing or repeated in present time:
+
+παύω I stop, I am stopping, I keep stopping. I do stop.
+
+Present Inicative Active or παύω I stop
+
+SINGULAR PLURAL
+Taio Tay-o-pev 
+Trades matvere
+Travnet Tay-ourt (v)
+
+Present Infintive ACTIVE παύ-ειν
+
+In like manner inflect é6éAw.
+
+14. Verb Structure. (a) In the inflection of a verb
+the stem is of fundamental importance. On it are built
+the various forms. παύ- is the stem of παύω.
+
+(b) Tense is denoted by appropriate suffixes or prefixes.
+The tense suffix of the present is called the variable vowel,
+written ε/ο, ο being used before μ or ν, ε elsewhere.
+
+(c) A personal ending is attached to complete the verb.
+In the present indicative active the personal ending is
+clearly seen only in the first and second persons plural.
+
+15. Verb Accent. In § 8 we saw that the accent of
+nouns was persistent. That of verbs is recessive, that is,
+
+
 @8
 
 it goes back toward the beginning of the word as far as
@@ -124,7 +303,7 @@ he was hostile to the general.
 
 17. VOCABULARY
 
-ἀγαθός: good, brave. AGATHA. — 
+ἀγαθός: good, brave. AGATHA. 
 
 
 ἄγγελος: messenger. ANGEL.
@@ -175,7 +354,8 @@ and number of the subject ?
 5. ὁ ἄγγελος ἔχει ἀγαθὸν ἵππον.
 6. τοὺς φίλους ἐθέλομεν ἄγειν ἐκ τοῦ κινδύνου. 
 
-7.οἱ πολέμιοι λύουσι τοὺς τῶν στρατηγῶν ἵππους. 
+7. οἱ πολέμιοι λύουσι τοὺς τῶν στρατηγῶν ἵππους. 
+@9
 8. ὁ στρατηγὸς πολέμιος ἦν τοῖς ἀγγέλοις,
 
 (c)
@@ -183,466 +363,10 @@ and number of the subject ?
 1. οἱ ἀδελφοὶ ἐθέλουσι γραφ--. 
 2. ἐθέλομεν τοὺς ἵππους ἀγ-- ἐκ τοῦ ποταμ--.
 
-3. 3. οἱ ἄγγελοι πολέμιοι ἦσαν τι-- στρατηγ-.
+3. οἱ ἄγγελοι πολέμιοι ἦσαν τι-- στρατηγ- (singular).
 
-ΑΝ [μμόκταῖ, Ησα-Ε
 
-ΤῊΐΒ ἰ5 ὁπ8 οἱ [6 ργβοίουβ δ[15. οἱ
-᾿ βαου!ρίατε τοι ἴλ6 εαξίθυῃ ρϑάϊγηθμι
-τι-- σΤρατηγ- (βἰμρι]αν). 
-
-Last login: Fri May  6 08:39:24 on ttys003
-/Users/gcrane/.zshrc:1: command not found: Skip
-/Users/gcrane/.zshrc:2: command not found: Search
-/Users/gcrane/.zshrc:3: command not found: Pull
-/Users/gcrane/.zshrc:4: command not found: Issues
-/Users/gcrane/.zshrc:5: command not found: Marketplace
-/Users/gcrane/.zshrc:6: command not found: Explore
-/Users/gcrane/.zshrc:8: command not found: @gregorycrane
-/Users/gcrane/.zshrc:9: command not found: ohmyzsh
-/Users/gcrane/.zshrc:10: permission denied: /
-/Users/gcrane/.zshrc:11: command not found: ohmyzsh
-/Users/gcrane/.zshrc:12: command not found: Public
-/Users/gcrane/.zshrc:13: command not found: Code
-/Users/gcrane/.zshrc:14: command not found: Issues
-/Users/gcrane/.zshrc:15: command not found: 187
-/Users/gcrane/.zshrc:16: command not found: Pull
-/Users/gcrane/.zshrc:17: command not found: 388
-/Users/gcrane/.zshrc:18: command not found: Discussions
-/Users/gcrane/.zshrc:19: command not found: Actions
-/Users/gcrane/.zshrc:20: command not found: Projects
-/Users/gcrane/.zshrc:21: command not found: 1
-/Users/gcrane/.zshrc:22: command not found: Wiki
-Usage: Security [-h] [-i] [-l] [-p prompt] [-q] [-v] [command] [opt ...]
-    -i    Run in interactive mode.
-    -l    Run /usr/bin/leaks -nocontext before exiting.
-    -p    Set the prompt to "prompt" (implies -i).
-    -q    Be less verbose.
-    -v    Be more verbose about what's going on.
-Security commands are:
-    help                                 Show all commands, or show usage for a command.
-    list-keychains                       Display or manipulate the keychain search list.
-    list-smartcards                      Display available smartcards.
-    default-keychain                     Display or set the default keychain.
-    login-keychain                       Display or set the login keychain.
-    create-keychain                      Create keychains and add them to the search list.
-    delete-keychain                      Delete keychains and remove them from the search list.
-    lock-keychain                        Lock the specified keychain.
-    unlock-keychain                      Unlock the specified keychain.
-    set-keychain-settings                Set settings for a keychain.
-    set-keychain-password                Set password for a keychain.
-    show-keychain-info                   Show the settings for keychain.
-    dump-keychain                        Dump the contents of one or more keychains.
-    create-keypair                       Create an asymmetric key pair.
-    add-generic-password                 Add a generic password item.
-    add-internet-password                Add an internet password item.
-    add-certificates                     Add certificates to a keychain.
-    find-generic-password                Find a generic password item.
-    delete-generic-password              Delete a generic password item.
-    set-generic-password-partition-list  Set the partition list of a generic password item.
-    find-internet-password               Find an internet password item.
-    delete-internet-password             Delete an internet password item.
-    set-internet-password-partition-list Set the partition list of a internet password item.
-    find-key                             Find keys in the keychain
-    set-key-partition-list               Set the partition list of a key.
-    find-certificate                     Find a certificate item.
-    find-identity                        Find an identity (certificate + private key).
-    delete-certificate                   Delete a certificate from a keychain.
-    delete-identity                      Delete an identity (certificate + private key) from a keychain.
-    set-identity-preference              Set the preferred identity to use for a service.
-    get-identity-preference              Get the preferred identity to use for a service.
-    create-db                            Create a db using the DL.
-    export                               Export items from a keychain.
-    import                               Import items into a keychain.
-    export-smartcard                     Export items from a smartcard.
-    cms                                  Encode or decode CMS messages.
-    install-mds                          Install (or re-install) the MDS database.
-    add-trusted-cert                     Add trusted certificate(s).
-    remove-trusted-cert                  Remove trusted certificate(s).
-    dump-trust-settings                  Display contents of trust settings.
-    user-trust-settings-enable           Display or manipulate user-level trust settings.
-    trust-settings-export                Export trust settings.
-    trust-settings-import                Import trust settings.
-    verify-cert                          Verify certificate(s).
-    authorize                            Perform authorization operations.
-    authorizationdb                      Make changes to the authorization policy database.
-    execute-with-privileges              Execute tool with privileges.
-    leaks                                Run /usr/bin/leaks on this process.
-    error                                Display a descriptive message for the given error code(s).
-    create-filevaultmaster-keychain      Create a keychain containing a key pair for FileVault recovery use.
-    smartcards                           Enable, disable or list disabled smartcard tokens.
-    translocate-create                   Create a translocation point for the provided path
-    translocate-policy-check             Check whether a path would be translocated.
-    translocate-status-check             Check whether a path is translocated.
-    translocate-original-path            Find the original path for a translocated path.
-    requirement-evaluate                 Evaluate a requirement against a cert chain.
-Missing filename ("less --help" for help)
-/Users/gcrane/.zshrc:25: no such file or directory: ohmyzsh/templates/zshrc.zsh-template
-/Users/gcrane/.zshrc:26: command not found: @mcornella
-/Users/gcrane/.zshrc:27: command not found: mcornella
-/Users/gcrane/.zshrc:28: command not found: Latest
-/Users/gcrane/.zshrc:29: command not found: History
-/Users/gcrane/.zshrc:30: command not found: 40
-/Users/gcrane/.zshrc:31: command not found: @robbyrussell@mcornella@ncanceill@hwti@zakkak@Dieterbe@cuonglm@midnite81@trevor@To1ne@TimelyToga@thii
-/Users/gcrane/.zshrc:32: unknown file attribute: 7
-/Users/gcrane/.zshrc:source:108: no such file or directory: /Users/gcrane/.oh-my-zsh/oh-my-zsh.sh
-/Users/gcrane/.zshrc:135: command not found: ©
-/Users/gcrane/.zshrc:136: command not found: Terms
-/Users/gcrane/.zshrc:137: command not found: Privacy
-Usage: Security [-h] [-i] [-l] [-p prompt] [-q] [-v] [command] [opt ...]
-    -i    Run in interactive mode.
-    -l    Run /usr/bin/leaks -nocontext before exiting.
-    -p    Set the prompt to "prompt" (implies -i).
-    -q    Be less verbose.
-    -v    Be more verbose about what's going on.
-Security commands are:
-    help                                 Show all commands, or show usage for a command.
-    list-keychains                       Display or manipulate the keychain search list.
-    list-smartcards                      Display available smartcards.
-    default-keychain                     Display or set the default keychain.
-    login-keychain                       Display or set the login keychain.
-    create-keychain                      Create keychains and add them to the search list.
-    delete-keychain                      Delete keychains and remove them from the search list.
-    lock-keychain                        Lock the specified keychain.
-    unlock-keychain                      Unlock the specified keychain.
-    set-keychain-settings                Set settings for a keychain.
-    set-keychain-password                Set password for a keychain.
-    show-keychain-info                   Show the settings for keychain.
-    dump-keychain                        Dump the contents of one or more keychains.
-    create-keypair                       Create an asymmetric key pair.
-    add-generic-password                 Add a generic password item.
-    add-internet-password                Add an internet password item.
-    add-certificates                     Add certificates to a keychain.
-    find-generic-password                Find a generic password item.
-    delete-generic-password              Delete a generic password item.
-    set-generic-password-partition-list  Set the partition list of a generic password item.
-    find-internet-password               Find an internet password item.
-    delete-internet-password             Delete an internet password item.
-    set-internet-password-partition-list Set the partition list of a internet password item.
-    find-key                             Find keys in the keychain
-    set-key-partition-list               Set the partition list of a key.
-    find-certificate                     Find a certificate item.
-    find-identity                        Find an identity (certificate + private key).
-    delete-certificate                   Delete a certificate from a keychain.
-    delete-identity                      Delete an identity (certificate + private key) from a keychain.
-    set-identity-preference              Set the preferred identity to use for a service.
-    get-identity-preference              Get the preferred identity to use for a service.
-    create-db                            Create a db using the DL.
-    export                               Export items from a keychain.
-    import                               Import items into a keychain.
-    export-smartcard                     Export items from a smartcard.
-    cms                                  Encode or decode CMS messages.
-    install-mds                          Install (or re-install) the MDS database.
-    add-trusted-cert                     Add trusted certificate(s).
-    remove-trusted-cert                  Remove trusted certificate(s).
-    dump-trust-settings                  Display contents of trust settings.
-    user-trust-settings-enable           Display or manipulate user-level trust settings.
-    trust-settings-export                Export trust settings.
-    trust-settings-import                Import trust settings.
-    verify-cert                          Verify certificate(s).
-    authorize                            Perform authorization operations.
-    authorizationdb                      Make changes to the authorization policy database.
-    execute-with-privileges              Execute tool with privileges.
-    leaks                                Run /usr/bin/leaks on this process.
-    error                                Display a descriptive message for the given error code(s).
-    create-filevaultmaster-keychain      Create a keychain containing a key pair for FileVault recovery use.
-    smartcards                           Enable, disable or list disabled smartcard tokens.
-    translocate-create                   Create a translocation point for the provided path
-    translocate-policy-check             Check whether a path would be translocated.
-    translocate-status-check             Check whether a path is translocated.
-    translocate-original-path            Find the original path for a translocated path.
-    requirement-evaluate                 Evaluate a requirement against a cert chain.
-/Users/gcrane/.zshrc:139: command not found: Status
-/Users/gcrane/.zshrc:140: command not found: Docs
-/Users/gcrane/.zshrc:141: command not found: Contact
-/Users/gcrane/.zshrc:142: command not found: Pricing
-/Users/gcrane/.zshrc:143: command not found: API
-/Users/gcrane/.zshrc:144: command not found: Training
-/Users/gcrane/.zshrc:145: command not found: Blog
-/Users/gcrane/.zshrc:146: command not found: About
-gcrane@MACLAU08628 ~ % cd github 
-gcrane@MACLAU08628 github % ls -t | more
-Homerica
-canonical-greekLit
-Perseus19cAmerican
-SlaterPindar
-DHFall2021
-pedalion-trees
-greek-inflexion
-old-english-texts
-crosbschaeff2.0
-WAE
-Thucydides-new-working-materials
-TimbuktuChronicles
-canonical-pdlrefwk
-canonical_pdlrefwk
-xcanonical-pdlrefwk
-gorman-trees
-UD_Ancient_Greek-Perseus
-SlaterPindar-bak
-18th-century-historians
-FallDHCourseMaterials
-SophWork
-gregorycrane.github.io
-digital-gibbon
-gcrane@MACLAU08628 github % git clone https://github.com/gregorycrane/hmt-archive.git
-Cloning into 'hmt-archive'...
-remote: Enumerating objects: 10112, done.
-remote: Counting objects: 100% (1498/1498), done.
-remote: Compressing objects: 100% (514/514), done.
-remote: Total 10112 (delta 973), reused 1464 (delta 961), pack-reused 8614
-Receiving objects: 100% (10112/10112), 68.37 MiB | 9.39 MiB/s, done.
-Resolving deltas: 100% (6530/6530), done.
-Updating files: 100% (543/543), done.
-gcrane@MACLAU08628 github % cd hmt-archive/archive/tei-editions/scholia/       
-gcrane@MACLAU08628 scholia % wc *.xml
-    3607   11600  204102 Upsilon-1-1_Scholia-08.xml
-    4329   17256  345925 Upsilon-1-1_Scholia-09.xml
-     982    3466   69059 Upsilon-1-1_Scholia-10.xml
-   17710   43997  890063 VenetusA-Scholia-01.xml
-   12032   35240  707365 VenetusA-Scholia-02.xml
-    5178   16172  309404 VenetusA-Scholia-03.xml
-    5909   16574  449462 VenetusA-Scholia-04.xml
-    5297   16015  271487 VenetusA-Scholia-05.xml
-    4957   13008  290800 VenetusA-Scholia-06.xml
-    3797   10071  204546 VenetusA-Scholia-07.xml
-    6146   16092  327029 VenetusA-Scholia-08.xml
-    9955   26011  526521 VenetusA-Scholia-09.xml
-    9309   21761  511615 VenetusA-Scholia-10.xml
-   12346   29757  710795 VenetusA-Scholia-11.xml
-    7301   16324  384281 VenetusA-Scholia-12.xml
-    9246   17020  318281 VenetusA-Scholia-13.xml
-    7207   14731  235662 VenetusA-Scholia-14.xml
-    6997   18418  426591 VenetusA-Scholia-15.xml
-    5125   16877  284569 VenetusA-Scholia-16.xml
-    4706   12208  285536 VenetusA-Scholia-17.xml
-    7070   19224  444774 VenetusA-Scholia-18.xml
-    2095    5399  122317 VenetusA-Scholia-19.xml
-    3342   10046  228408 VenetusA-Scholia-20.xml
-    1104    2642   62992 VenetusA-Scholia-21.xml
-    3942    9546  225735 VenetusA-Scholia-22.xml
-    3661   10567  210697 VenetusA-Scholia-23.xml
-    5134   12921  304106 VenetusA-Scholia-24.xml
-    4305   17100  302048 VenetusB-Scholia-09.xml
-  172789  460043 9654170 total
-gcrane@MACLAU08628 scholia % wc V*.xml
-   17710   43997  890063 VenetusA-Scholia-01.xml
-   12032   35240  707365 VenetusA-Scholia-02.xml
-    5178   16172  309404 VenetusA-Scholia-03.xml
-    5909   16574  449462 VenetusA-Scholia-04.xml
-    5297   16015  271487 VenetusA-Scholia-05.xml
-    4957   13008  290800 VenetusA-Scholia-06.xml
-    3797   10071  204546 VenetusA-Scholia-07.xml
-    6146   16092  327029 VenetusA-Scholia-08.xml
-    9955   26011  526521 VenetusA-Scholia-09.xml
-    9309   21761  511615 VenetusA-Scholia-10.xml
-   12346   29757  710795 VenetusA-Scholia-11.xml
-    7301   16324  384281 VenetusA-Scholia-12.xml
-    9246   17020  318281 VenetusA-Scholia-13.xml
-    7207   14731  235662 VenetusA-Scholia-14.xml
-    6997   18418  426591 VenetusA-Scholia-15.xml
-    5125   16877  284569 VenetusA-Scholia-16.xml
-    4706   12208  285536 VenetusA-Scholia-17.xml
-    7070   19224  444774 VenetusA-Scholia-18.xml
-    2095    5399  122317 VenetusA-Scholia-19.xml
-    3342   10046  228408 VenetusA-Scholia-20.xml
-    1104    2642   62992 VenetusA-Scholia-21.xml
-    3942    9546  225735 VenetusA-Scholia-22.xml
-    3661   10567  210697 VenetusA-Scholia-23.xml
-    5134   12921  304106 VenetusA-Scholia-24.xml
-    4305   17100  302048 VenetusB-Scholia-09.xml
-  163871  427721 9035084 total
-gcrane@MACLAU08628 scholia % more U*
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Scholia to Escorial Upsilon 1.1</title>
-        <author>Rebecca Rose Kaczmarek</author>
-        <author> Thomas Anthony Posillico</author>
-      </titleStmt>
-      <publicationStmt>
-        <p>Unpublished</p>
-      </publicationStmt>
-      <sourceDesc>
-        <p>Transcribed from Upsilon 1.1 MS</p>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
-  <text>
-    <group n="8">
-      <text n="e3">
-        <body>
-
-          <div n="2" type="scholion">
-            <div n="lemma">
-               <p><num value="10">Ι</num></p>
-            </div>
-            <div n="ref">
-               <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.1@Ἡὼς μὲν κροκόπεπλος</p>
-            </div>
-            <div n="comment">
-               <p>ταύτην τὴν ῥαψωδίαν. κολοβομάχην καλοῦσιν: συντέμνει γὰρ τὴν <w>διήγησ
-                        <unclear>ιν</unclear></w>
-                  <w>συναχθόμεν<unclear>ος</unclear></w> τοις <rs type="ethnic"
-                     n="urn:cite2:hmt:place.v1:place96">Αχαιοις</rs>
-                  <gap/> δὲ ἡ ἠὼς λέγεται. ὅτ' ἂν πολὺ σκότους ἔχη. ὀλίγον δὲ φωτός: τὸ δὲ
-                     <q>ῥοδοδάκτυλος</q> ἐναντίον: ποιητικὴ δέ ἐστιν ἡ <choice>
-                     <abbr>πεφρασις</abbr>
-                     <expan>περίφρασις</expan>
-                  </choice>: ὡσεὶ εἶπεν: ἡμέρα μὲν γέγονε: τὸ δὲ <q>ἐκίδνατο</q> ἐν παρατάσει:
-                  σφαιροειδὴς γὰρ οὖσα ἡ γῆ, οὐ πᾶσα ὑφ' ἓν φωτίζεται⁑</p>
-            </div>
-         </div>
-         <div n="3" type="scholion">
-            <div n="lemma">
-               <p><num value="11">ΙΑ</num></p>
-            </div>
-            <div n="ref">
-               <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.2@Ζεὺς</p>
-            </div>
-            <div n="comment">
-               <p>εἰκότως νῦν ἄρχεται συμμαχεῖν <rs type="ethnic"
-                     n="urn:cite2:hmt:place.v1:place6">Τρωσὶν</rs> ὁ <persName
-gcrane@MACLAU08628 scholia % ls     
-Upsilon-1-1_Scholia-08.xml	VenetusA-Scholia-08.xml		VenetusA-Scholia-18.xml
-Upsilon-1-1_Scholia-09.xml	VenetusA-Scholia-09.xml		VenetusA-Scholia-19.xml
-Upsilon-1-1_Scholia-10.xml	VenetusA-Scholia-10.xml		VenetusA-Scholia-20.xml
-VenetusA-Scholia-01.xml		VenetusA-Scholia-11.xml		VenetusA-Scholia-21.xml
-VenetusA-Scholia-02.xml		VenetusA-Scholia-12.xml		VenetusA-Scholia-22.xml
-VenetusA-Scholia-03.xml		VenetusA-Scholia-13.xml		VenetusA-Scholia-23.xml
-VenetusA-Scholia-04.xml		VenetusA-Scholia-14.xml		VenetusA-Scholia-24.xml
-VenetusA-Scholia-05.xml		VenetusA-Scholia-15.xml		VenetusB-Scholia-09.xml
-VenetusA-Scholia-06.xml		VenetusA-Scholia-16.xml
-VenetusA-Scholia-07.xml		VenetusA-Scholia-17.xml
-gcrane@MACLAU08628 scholia % vi VenetusA-Scholia-16.xml
-gcrane@MACLAU08628 scholia % pwd
-/Users/gcrane/github/hmt-archive/archive/tei-editions/scholia
-gcrane@MACLAU08628 scholia % cat *.xml | wc
-  172789  460040 9654170
-gcrane@MACLAU08628 scholia % ls
-Upsilon-1-1_Scholia-08.xml	VenetusA-Scholia-08.xml		VenetusA-Scholia-18.xml
-Upsilon-1-1_Scholia-09.xml	VenetusA-Scholia-09.xml		VenetusA-Scholia-19.xml
-Upsilon-1-1_Scholia-10.xml	VenetusA-Scholia-10.xml		VenetusA-Scholia-20.xml
-VenetusA-Scholia-01.xml		VenetusA-Scholia-11.xml		VenetusA-Scholia-21.xml
-VenetusA-Scholia-02.xml		VenetusA-Scholia-12.xml		VenetusA-Scholia-22.xml
-VenetusA-Scholia-03.xml		VenetusA-Scholia-13.xml		VenetusA-Scholia-23.xml
-VenetusA-Scholia-04.xml		VenetusA-Scholia-14.xml		VenetusA-Scholia-24.xml
-VenetusA-Scholia-05.xml		VenetusA-Scholia-15.xml		VenetusB-Scholia-09.xml
-VenetusA-Scholia-06.xml		VenetusA-Scholia-16.xml
-VenetusA-Scholia-07.xml		VenetusA-Scholia-17.xml
-gcrane@MACLAU08628 scholia % ls -t | more
-VenetusB-Scholia-09.xml
-VenetusA-Scholia-24.xml
-VenetusA-Scholia-23.xml
-VenetusA-Scholia-22.xml
-VenetusA-Scholia-21.xml
-VenetusA-Scholia-20.xml
-VenetusA-Scholia-19.xml
-VenetusA-Scholia-18.xml
-VenetusA-Scholia-17.xml
-VenetusA-Scholia-16.xml
-VenetusA-Scholia-15.xml
-VenetusA-Scholia-14.xml
-VenetusA-Scholia-13.xml
-VenetusA-Scholia-12.xml
-VenetusA-Scholia-11.xml
-VenetusA-Scholia-10.xml
-VenetusA-Scholia-09.xml
-VenetusA-Scholia-08.xml
-VenetusA-Scholia-07.xml
-VenetusA-Scholia-06.xml
-VenetusA-Scholia-05.xml
-VenetusA-Scholia-04.xml
-VenetusA-Scholia-03.xml
-VenetusA-Scholia-02.xml
-VenetusA-Scholia-01.xml
-Upsilon-1-1_Scholia-10.xml
-Upsilon-1-1_Scholia-09.xml
-gcrane@MACLAU08628 scholia % cd 
-gcrane@MACLAU08628 ~ % cd Downloads/cros-schaeff-tiffs 
-gcrane@MACLAU08628 cros-schaeff-tiffs % ls
-63.tiff
-66.tiff
-Crosby_Schaeffer_An_Introduction_to_Greek_archive (dragged).pdf
-TIFFs
-Untitled.ipynb
-foo.txt.txt
-foo.txt.txt.txt
-test.tiff
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract -l grc+eng 66.tiff 66.txt
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Page 1
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 66.txt.txt 
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 66.txt    
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 66.txt.txt 
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract -l grc 66.tiff 66.txt 
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Page 1
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract  66.tiff 66.txt 
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Page 1
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 66.txt.txt 
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract -l grc 63.tiff 63.txt
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Page 1
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 63.txt.txt 
-gcrane@MACLAU08628 cros-schaeff-tiffs % rm !$
-rm 63.txt.txt
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract  63.tiff 63    
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Page 1
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 63.txt 
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract  -l grc 63.tiff 63
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Page 1
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 63.txt 
-gcrane@MACLAU08628 cros-schaeff-tiffs % pwd
-/Users/gcrane/Downloads/cros-schaeff-tiffs
-gcrane@MACLAU08628 cros-schaeff-tiffs % ls
-002.tiff	005.tiff	008.tiff	011.tiff	014.tiff
-003.tiff	006.tiff	009.tiff	012.tiff
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract -l grc 002.tif 002grc
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Error, cannot read input file 002.tif: No such file or directory
-Error during processing.
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract -l grc 002.tiff 002grc
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Page 1
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract -l eng 002.tiff 00eng
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Page 1
-gcrane@MACLAU08628 cros-schaeff-tiffs % ls
-002.tiff	003.tiff	006.tiff	009.tiff	011.tiff	014.tiff
-002grc.txt	005.tiff	008.tiff	00eng.txt	012.tiff
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 002*.txt
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract -l eng 002.tiff 00eng
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Page 1
-gcrane@MACLAU08628 cros-schaeff-tiffs % !vi
-vi 002*.txt
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract -l eng 002.tiff 02eng
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Page 1
-gcrane@MACLAU08628 cros-schaeff-tiffs % !vi
-vi 002*.txt
-gcrane@MACLAU08628 cros-schaeff-tiffs % ls
-002.tiff	003.tiff	006.tiff	009.tiff	011.tiff	014.tiff
-002grc.txt	005.tiff	008.tiff	00eng.txt	012.tiff	02eng.txt
-gcrane@MACLAU08628 cros-schaeff-tiffs % ls *.txt 
-002grc.txt	00eng.txt	02eng.txt
-gcrane@MACLAU08628 cros-schaeff-tiffs % rm 00eng.txt 
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 02eng.txt 
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 02*txt
-gcrane@MACLAU08628 cros-schaeff-tiffs % mv 02eng.txt 002eng.txt
-gcrane@MACLAU08628 cros-schaeff-tiffs % !vi
-vi 02*txt
-zsh: no matches found: 02*txt
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 002*txt
-2 files to edit
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 002eng.txt 
+19. (a) Translation Hints
 
 1. Read the entire English sentence, noting how the
 words are related.
@@ -670,469 +394,55 @@ before starting to write.
 
 20. Βρεκεκεκὲξ κοὰξ κοάξ. This is the famous refrain of the frog chorus in Aristophanes’ comedy, The Frogs. In unison with this unceasing chant Dionysus rows Charon’s boat across the Styx. It is the basis of Yale’s well-known yell.
 
+@10
+
+LESSON IV
+
+DECLENSION OF O-STEM NEUTERS
+
+πᾶν δένδρον ἀγαθὸν καρποὺς καλοὺς ποιεῖ.
+Every good tree bringeth forth good fruit.
+Matthew, VII. 17.
+
+21. Ο-Stem Neuters. These nouns have a nominative
+ending in -ον. They differ from masculines only in the
+nominative singular and the nominative and accusative
+plural.
+
+As in Latin, nominative and accusative of neuters are
+identical in form. In the plural they end in a (Latin a).
+
+τὸ ἄξιον δῶρον the worthy gift
+
+
+In like manner inflect τὸ καλὸν πεδίον.2
+22. Agreement of Verb. A neuter plural subject regularly has its verb in the singular:
+τὰ δῶρα ἦν ἄξια 
+the gifts were worthy.
+23. Dative of Place Where. The dative with most
+prepositions denotes place where: 4
+
+ἐν τῷ πεδίῳ in the plain (Latin: in oppido in the town);
+παρὰ τῷ στρατηγῶ at the side of the general.
+
+
+
+2 For accent of δῶρον and πεδίον see § V, d and f.
+
+3 Endings of neuters of the ο-declension in Latin.
+
+4 This is our third use of the dative (§§ 4, 16). The use here given is like
+that of the Latin ablative in its in relations.
 @11
 
-Last login: Fri May  6 08:39:24 on ttys003
-/Users/gcrane/.zshrc:1: command not found: Skip
-/Users/gcrane/.zshrc:2: command not found: Search
-/Users/gcrane/.zshrc:3: command not found: Pull
-/Users/gcrane/.zshrc:4: command not found: Issues
-/Users/gcrane/.zshrc:5: command not found: Marketplace
-/Users/gcrane/.zshrc:6: command not found: Explore
-/Users/gcrane/.zshrc:8: command not found: @gregorycrane
-/Users/gcrane/.zshrc:9: command not found: ohmyzsh
-/Users/gcrane/.zshrc:10: permission denied: /
-/Users/gcrane/.zshrc:11: command not found: ohmyzsh
-/Users/gcrane/.zshrc:12: command not found: Public
-/Users/gcrane/.zshrc:13: command not found: Code
-/Users/gcrane/.zshrc:14: command not found: Issues
-/Users/gcrane/.zshrc:15: command not found: 187
-/Users/gcrane/.zshrc:16: command not found: Pull
-/Users/gcrane/.zshrc:17: command not found: 388
-/Users/gcrane/.zshrc:18: command not found: Discussions
-/Users/gcrane/.zshrc:19: command not found: Actions
-/Users/gcrane/.zshrc:20: command not found: Projects
-/Users/gcrane/.zshrc:21: command not found: 1
-/Users/gcrane/.zshrc:22: command not found: Wiki
-Usage: Security [-h] [-i] [-l] [-p prompt] [-q] [-v] [command] [opt ...]
-    -i    Run in interactive mode.
-    -l    Run /usr/bin/leaks -nocontext before exiting.
-    -p    Set the prompt to "prompt" (implies -i).
-    -q    Be less verbose.
-    -v    Be more verbose about what's going on.
-Security commands are:
-    help                                 Show all commands, or show usage for a command.
-    list-keychains                       Display or manipulate the keychain search list.
-    list-smartcards                      Display available smartcards.
-    default-keychain                     Display or set the default keychain.
-    login-keychain                       Display or set the login keychain.
-    create-keychain                      Create keychains and add them to the search list.
-    delete-keychain                      Delete keychains and remove them from the search list.
-    lock-keychain                        Lock the specified keychain.
-    unlock-keychain                      Unlock the specified keychain.
-    set-keychain-settings                Set settings for a keychain.
-    set-keychain-password                Set password for a keychain.
-    show-keychain-info                   Show the settings for keychain.
-    dump-keychain                        Dump the contents of one or more keychains.
-    create-keypair                       Create an asymmetric key pair.
-    add-generic-password                 Add a generic password item.
-    add-internet-password                Add an internet password item.
-    add-certificates                     Add certificates to a keychain.
-    find-generic-password                Find a generic password item.
-    delete-generic-password              Delete a generic password item.
-    set-generic-password-partition-list  Set the partition list of a generic password item.
-    find-internet-password               Find an internet password item.
-    delete-internet-password             Delete an internet password item.
-    set-internet-password-partition-list Set the partition list of a internet password item.
-    find-key                             Find keys in the keychain
-    set-key-partition-list               Set the partition list of a key.
-    find-certificate                     Find a certificate item.
-    find-identity                        Find an identity (certificate + private key).
-    delete-certificate                   Delete a certificate from a keychain.
-    delete-identity                      Delete an identity (certificate + private key) from a keychain.
-    set-identity-preference              Set the preferred identity to use for a service.
-    get-identity-preference              Get the preferred identity to use for a service.
-    create-db                            Create a db using the DL.
-    export                               Export items from a keychain.
-    import                               Import items into a keychain.
-    export-smartcard                     Export items from a smartcard.
-    cms                                  Encode or decode CMS messages.
-    install-mds                          Install (or re-install) the MDS database.
-    add-trusted-cert                     Add trusted certificate(s).
-    remove-trusted-cert                  Remove trusted certificate(s).
-    dump-trust-settings                  Display contents of trust settings.
-    user-trust-settings-enable           Display or manipulate user-level trust settings.
-    trust-settings-export                Export trust settings.
-    trust-settings-import                Import trust settings.
-    verify-cert                          Verify certificate(s).
-    authorize                            Perform authorization operations.
-    authorizationdb                      Make changes to the authorization policy database.
-    execute-with-privileges              Execute tool with privileges.
-    leaks                                Run /usr/bin/leaks on this process.
-    error                                Display a descriptive message for the given error code(s).
-    create-filevaultmaster-keychain      Create a keychain containing a key pair for FileVault recovery use.
-    smartcards                           Enable, disable or list disabled smartcard tokens.
-    translocate-create                   Create a translocation point for the provided path
-    translocate-policy-check             Check whether a path would be translocated.
-    translocate-status-check             Check whether a path is translocated.
-    translocate-original-path            Find the original path for a translocated path.
-    requirement-evaluate                 Evaluate a requirement against a cert chain.
-Missing filename ("less --help" for help)
-/Users/gcrane/.zshrc:25: no such file or directory: ohmyzsh/templates/zshrc.zsh-template
-/Users/gcrane/.zshrc:26: command not found: @mcornella
-/Users/gcrane/.zshrc:27: command not found: mcornella
-/Users/gcrane/.zshrc:28: command not found: Latest
-/Users/gcrane/.zshrc:29: command not found: History
-/Users/gcrane/.zshrc:30: command not found: 40
-/Users/gcrane/.zshrc:31: command not found: @robbyrussell@mcornella@ncanceill@hwti@zakkak@Dieterbe@cuonglm@midnite81@trevor@To1ne@TimelyToga@thii
-/Users/gcrane/.zshrc:32: unknown file attribute: 7
-/Users/gcrane/.zshrc:source:108: no such file or directory: /Users/gcrane/.oh-my-zsh/oh-my-zsh.sh
-/Users/gcrane/.zshrc:135: command not found: ©
-/Users/gcrane/.zshrc:136: command not found: Terms
-/Users/gcrane/.zshrc:137: command not found: Privacy
-Usage: Security [-h] [-i] [-l] [-p prompt] [-q] [-v] [command] [opt ...]
-    -i    Run in interactive mode.
-    -l    Run /usr/bin/leaks -nocontext before exiting.
-    -p    Set the prompt to "prompt" (implies -i).
-    -q    Be less verbose.
-    -v    Be more verbose about what's going on.
-Security commands are:
-    help                                 Show all commands, or show usage for a command.
-    list-keychains                       Display or manipulate the keychain search list.
-    list-smartcards                      Display available smartcards.
-    default-keychain                     Display or set the default keychain.
-    login-keychain                       Display or set the login keychain.
-    create-keychain                      Create keychains and add them to the search list.
-    delete-keychain                      Delete keychains and remove them from the search list.
-    lock-keychain                        Lock the specified keychain.
-    unlock-keychain                      Unlock the specified keychain.
-    set-keychain-settings                Set settings for a keychain.
-    set-keychain-password                Set password for a keychain.
-    show-keychain-info                   Show the settings for keychain.
-    dump-keychain                        Dump the contents of one or more keychains.
-    create-keypair                       Create an asymmetric key pair.
-    add-generic-password                 Add a generic password item.
-    add-internet-password                Add an internet password item.
-    add-certificates                     Add certificates to a keychain.
-    find-generic-password                Find a generic password item.
-    delete-generic-password              Delete a generic password item.
-    set-generic-password-partition-list  Set the partition list of a generic password item.
-    find-internet-password               Find an internet password item.
-    delete-internet-password             Delete an internet password item.
-    set-internet-password-partition-list Set the partition list of a internet password item.
-    find-key                             Find keys in the keychain
-    set-key-partition-list               Set the partition list of a key.
-    find-certificate                     Find a certificate item.
-    find-identity                        Find an identity (certificate + private key).
-    delete-certificate                   Delete a certificate from a keychain.
-    delete-identity                      Delete an identity (certificate + private key) from a keychain.
-    set-identity-preference              Set the preferred identity to use for a service.
-    get-identity-preference              Get the preferred identity to use for a service.
-    create-db                            Create a db using the DL.
-    export                               Export items from a keychain.
-    import                               Import items into a keychain.
-    export-smartcard                     Export items from a smartcard.
-    cms                                  Encode or decode CMS messages.
-    install-mds                          Install (or re-install) the MDS database.
-    add-trusted-cert                     Add trusted certificate(s).
-    remove-trusted-cert                  Remove trusted certificate(s).
-    dump-trust-settings                  Display contents of trust settings.
-    user-trust-settings-enable           Display or manipulate user-level trust settings.
-    trust-settings-export                Export trust settings.
-    trust-settings-import                Import trust settings.
-    verify-cert                          Verify certificate(s).
-    authorize                            Perform authorization operations.
-    authorizationdb                      Make changes to the authorization policy database.
-    execute-with-privileges              Execute tool with privileges.
-    leaks                                Run /usr/bin/leaks on this process.
-    error                                Display a descriptive message for the given error code(s).
-    create-filevaultmaster-keychain      Create a keychain containing a key pair for FileVault recovery use.
-    smartcards                           Enable, disable or list disabled smartcard tokens.
-    translocate-create                   Create a translocation point for the provided path
-    translocate-policy-check             Check whether a path would be translocated.
-    translocate-status-check             Check whether a path is translocated.
-    translocate-original-path            Find the original path for a translocated path.
-    requirement-evaluate                 Evaluate a requirement against a cert chain.
-/Users/gcrane/.zshrc:139: command not found: Status
-/Users/gcrane/.zshrc:140: command not found: Docs
-/Users/gcrane/.zshrc:141: command not found: Contact
-/Users/gcrane/.zshrc:142: command not found: Pricing
-/Users/gcrane/.zshrc:143: command not found: API
-/Users/gcrane/.zshrc:144: command not found: Training
-/Users/gcrane/.zshrc:145: command not found: Blog
-/Users/gcrane/.zshrc:146: command not found: About
-gcrane@MACLAU08628 ~ % cd github 
-gcrane@MACLAU08628 github % ls -t | more
-Homerica
-canonical-greekLit
-Perseus19cAmerican
-SlaterPindar
-DHFall2021
-pedalion-trees
-greek-inflexion
-old-english-texts
-crosbschaeff2.0
-WAE
-Thucydides-new-working-materials
-TimbuktuChronicles
-canonical-pdlrefwk
-canonical_pdlrefwk
-xcanonical-pdlrefwk
-gorman-trees
-UD_Ancient_Greek-Perseus
-SlaterPindar-bak
-18th-century-historians
-FallDHCourseMaterials
-SophWork
-gregorycrane.github.io
-digital-gibbon
-gcrane@MACLAU08628 github % git clone https://github.com/gregorycrane/hmt-archive.git
-Cloning into 'hmt-archive'...
-remote: Enumerating objects: 10112, done.
-remote: Counting objects: 100% (1498/1498), done.
-remote: Compressing objects: 100% (514/514), done.
-remote: Total 10112 (delta 973), reused 1464 (delta 961), pack-reused 8614
-Receiving objects: 100% (10112/10112), 68.37 MiB | 9.39 MiB/s, done.
-Resolving deltas: 100% (6530/6530), done.
-Updating files: 100% (543/543), done.
-gcrane@MACLAU08628 github % cd hmt-archive/archive/tei-editions/scholia/       
-gcrane@MACLAU08628 scholia % wc *.xml
-    3607   11600  204102 Upsilon-1-1_Scholia-08.xml
-    4329   17256  345925 Upsilon-1-1_Scholia-09.xml
-     982    3466   69059 Upsilon-1-1_Scholia-10.xml
-   17710   43997  890063 VenetusA-Scholia-01.xml
-   12032   35240  707365 VenetusA-Scholia-02.xml
-    5178   16172  309404 VenetusA-Scholia-03.xml
-    5909   16574  449462 VenetusA-Scholia-04.xml
-    5297   16015  271487 VenetusA-Scholia-05.xml
-    4957   13008  290800 VenetusA-Scholia-06.xml
-    3797   10071  204546 VenetusA-Scholia-07.xml
-    6146   16092  327029 VenetusA-Scholia-08.xml
-    9955   26011  526521 VenetusA-Scholia-09.xml
-    9309   21761  511615 VenetusA-Scholia-10.xml
-   12346   29757  710795 VenetusA-Scholia-11.xml
-    7301   16324  384281 VenetusA-Scholia-12.xml
-    9246   17020  318281 VenetusA-Scholia-13.xml
-    7207   14731  235662 VenetusA-Scholia-14.xml
-    6997   18418  426591 VenetusA-Scholia-15.xml
-    5125   16877  284569 VenetusA-Scholia-16.xml
-    4706   12208  285536 VenetusA-Scholia-17.xml
-    7070   19224  444774 VenetusA-Scholia-18.xml
-    2095    5399  122317 VenetusA-Scholia-19.xml
-    3342   10046  228408 VenetusA-Scholia-20.xml
-    1104    2642   62992 VenetusA-Scholia-21.xml
-    3942    9546  225735 VenetusA-Scholia-22.xml
-    3661   10567  210697 VenetusA-Scholia-23.xml
-    5134   12921  304106 VenetusA-Scholia-24.xml
-    4305   17100  302048 VenetusB-Scholia-09.xml
-  172789  460043 9654170 total
-gcrane@MACLAU08628 scholia % wc V*.xml
-   17710   43997  890063 VenetusA-Scholia-01.xml
-   12032   35240  707365 VenetusA-Scholia-02.xml
-    5178   16172  309404 VenetusA-Scholia-03.xml
-    5909   16574  449462 VenetusA-Scholia-04.xml
-    5297   16015  271487 VenetusA-Scholia-05.xml
-    4957   13008  290800 VenetusA-Scholia-06.xml
-    3797   10071  204546 VenetusA-Scholia-07.xml
-    6146   16092  327029 VenetusA-Scholia-08.xml
-    9955   26011  526521 VenetusA-Scholia-09.xml
-    9309   21761  511615 VenetusA-Scholia-10.xml
-   12346   29757  710795 VenetusA-Scholia-11.xml
-    7301   16324  384281 VenetusA-Scholia-12.xml
-    9246   17020  318281 VenetusA-Scholia-13.xml
-    7207   14731  235662 VenetusA-Scholia-14.xml
-    6997   18418  426591 VenetusA-Scholia-15.xml
-    5125   16877  284569 VenetusA-Scholia-16.xml
-    4706   12208  285536 VenetusA-Scholia-17.xml
-    7070   19224  444774 VenetusA-Scholia-18.xml
-    2095    5399  122317 VenetusA-Scholia-19.xml
-    3342   10046  228408 VenetusA-Scholia-20.xml
-    1104    2642   62992 VenetusA-Scholia-21.xml
-    3942    9546  225735 VenetusA-Scholia-22.xml
-    3661   10567  210697 VenetusA-Scholia-23.xml
-    5134   12921  304106 VenetusA-Scholia-24.xml
-    4305   17100  302048 VenetusB-Scholia-09.xml
-  163871  427721 9035084 total
-gcrane@MACLAU08628 scholia % more U*
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Scholia to Escorial Upsilon 1.1</title>
-        <author>Rebecca Rose Kaczmarek</author>
-        <author> Thomas Anthony Posillico</author>
-      </titleStmt>
-      <publicationStmt>
-        <p>Unpublished</p>
-      </publicationStmt>
-      <sourceDesc>
-        <p>Transcribed from Upsilon 1.1 MS</p>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
-  <text>
-    <group n="8">
-      <text n="e3">
-        <body>
 
-          <div n="2" type="scholion">
-            <div n="lemma">
-               <p><num value="10">Ι</num></p>
-            </div>
-            <div n="ref">
-               <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.1@Ἡὼς μὲν κροκόπεπλος</p>
-            </div>
-            <div n="comment">
-               <p>ταύτην τὴν ῥαψωδίαν. κολοβομάχην καλοῦσιν: συντέμνει γὰρ τὴν <w>διήγησ
-                        <unclear>ιν</unclear></w>
-                  <w>συναχθόμεν<unclear>ος</unclear></w> τοις <rs type="ethnic"
-                     n="urn:cite2:hmt:place.v1:place96">Αχαιοις</rs>
-                  <gap/> δὲ ἡ ἠὼς λέγεται. ὅτ' ἂν πολὺ σκότους ἔχη. ὀλίγον δὲ φωτός: τὸ δὲ
-                     <q>ῥοδοδάκτυλος</q> ἐναντίον: ποιητικὴ δέ ἐστιν ἡ <choice>
-                     <abbr>πεφρασις</abbr>
-                     <expan>περίφρασις</expan>
-                  </choice>: ὡσεὶ εἶπεν: ἡμέρα μὲν γέγονε: τὸ δὲ <q>ἐκίδνατο</q> ἐν παρατάσει:
-                  σφαιροειδὴς γὰρ οὖσα ἡ γῆ, οὐ πᾶσα ὑφ' ἓν φωτίζεται⁑</p>
-            </div>
-         </div>
-         <div n="3" type="scholion">
-            <div n="lemma">
-               <p><num value="11">ΙΑ</num></p>
-            </div>
-            <div n="ref">
-               <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.2@Ζεὺς</p>
-            </div>
-            <div n="comment">
-               <p>εἰκότως νῦν ἄρχεται συμμαχεῖν <rs type="ethnic"
-                     n="urn:cite2:hmt:place.v1:place6">Τρωσὶν</rs> ὁ <persName
-gcrane@MACLAU08628 scholia % ls     
-Upsilon-1-1_Scholia-08.xml	VenetusA-Scholia-08.xml		VenetusA-Scholia-18.xml
-Upsilon-1-1_Scholia-09.xml	VenetusA-Scholia-09.xml		VenetusA-Scholia-19.xml
-Upsilon-1-1_Scholia-10.xml	VenetusA-Scholia-10.xml		VenetusA-Scholia-20.xml
-VenetusA-Scholia-01.xml		VenetusA-Scholia-11.xml		VenetusA-Scholia-21.xml
-VenetusA-Scholia-02.xml		VenetusA-Scholia-12.xml		VenetusA-Scholia-22.xml
-VenetusA-Scholia-03.xml		VenetusA-Scholia-13.xml		VenetusA-Scholia-23.xml
-VenetusA-Scholia-04.xml		VenetusA-Scholia-14.xml		VenetusA-Scholia-24.xml
-VenetusA-Scholia-05.xml		VenetusA-Scholia-15.xml		VenetusB-Scholia-09.xml
-VenetusA-Scholia-06.xml		VenetusA-Scholia-16.xml
-VenetusA-Scholia-07.xml		VenetusA-Scholia-17.xml
-gcrane@MACLAU08628 scholia % vi VenetusA-Scholia-16.xml
-gcrane@MACLAU08628 scholia % pwd
-/Users/gcrane/github/hmt-archive/archive/tei-editions/scholia
-gcrane@MACLAU08628 scholia % cat *.xml | wc
-  172789  460040 9654170
-gcrane@MACLAU08628 scholia % ls
-Upsilon-1-1_Scholia-08.xml	VenetusA-Scholia-08.xml		VenetusA-Scholia-18.xml
-Upsilon-1-1_Scholia-09.xml	VenetusA-Scholia-09.xml		VenetusA-Scholia-19.xml
-Upsilon-1-1_Scholia-10.xml	VenetusA-Scholia-10.xml		VenetusA-Scholia-20.xml
-VenetusA-Scholia-01.xml		VenetusA-Scholia-11.xml		VenetusA-Scholia-21.xml
-VenetusA-Scholia-02.xml		VenetusA-Scholia-12.xml		VenetusA-Scholia-22.xml
-VenetusA-Scholia-03.xml		VenetusA-Scholia-13.xml		VenetusA-Scholia-23.xml
-VenetusA-Scholia-04.xml		VenetusA-Scholia-14.xml		VenetusA-Scholia-24.xml
-VenetusA-Scholia-05.xml		VenetusA-Scholia-15.xml		VenetusB-Scholia-09.xml
-VenetusA-Scholia-06.xml		VenetusA-Scholia-16.xml
-VenetusA-Scholia-07.xml		VenetusA-Scholia-17.xml
-gcrane@MACLAU08628 scholia % ls -t | more
-VenetusB-Scholia-09.xml
-VenetusA-Scholia-24.xml
-VenetusA-Scholia-23.xml
-VenetusA-Scholia-22.xml
-VenetusA-Scholia-21.xml
-VenetusA-Scholia-20.xml
-VenetusA-Scholia-19.xml
-VenetusA-Scholia-18.xml
-VenetusA-Scholia-17.xml
-VenetusA-Scholia-16.xml
-VenetusA-Scholia-15.xml
-VenetusA-Scholia-14.xml
-VenetusA-Scholia-13.xml
-VenetusA-Scholia-12.xml
-VenetusA-Scholia-11.xml
-VenetusA-Scholia-10.xml
-VenetusA-Scholia-09.xml
-VenetusA-Scholia-08.xml
-VenetusA-Scholia-07.xml
-VenetusA-Scholia-06.xml
-VenetusA-Scholia-05.xml
-VenetusA-Scholia-04.xml
-VenetusA-Scholia-03.xml
-VenetusA-Scholia-02.xml
-VenetusA-Scholia-01.xml
-Upsilon-1-1_Scholia-10.xml
-Upsilon-1-1_Scholia-09.xml
-gcrane@MACLAU08628 scholia % cd 
-gcrane@MACLAU08628 ~ % cd Downloads/cros-schaeff-tiffs 
-gcrane@MACLAU08628 cros-schaeff-tiffs % ls
-63.tiff
-66.tiff
-Crosby_Schaeffer_An_Introduction_to_Greek_archive (dragged).pdf
-TIFFs
-Untitled.ipynb
-foo.txt.txt
-foo.txt.txt.txt
-test.tiff
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract -l grc+eng 66.tiff 66.txt
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Page 1
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 66.txt.txt 
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 66.txt    
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 66.txt.txt 
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract -l grc 66.tiff 66.txt 
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Page 1
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract  66.tiff 66.txt 
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Page 1
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 66.txt.txt 
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract -l grc 63.tiff 63.txt
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Page 1
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 63.txt.txt 
-gcrane@MACLAU08628 cros-schaeff-tiffs % rm !$
-rm 63.txt.txt
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract  63.tiff 63    
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Page 1
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 63.txt 
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract  -l grc 63.tiff 63
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Page 1
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 63.txt 
-gcrane@MACLAU08628 cros-schaeff-tiffs % pwd
-/Users/gcrane/Downloads/cros-schaeff-tiffs
-gcrane@MACLAU08628 cros-schaeff-tiffs % ls
-002.tiff	005.tiff	008.tiff	011.tiff	014.tiff
-003.tiff	006.tiff	009.tiff	012.tiff
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract -l grc 002.tif 002grc
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Error, cannot read input file 002.tif: No such file or directory
-Error during processing.
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract -l grc 002.tiff 002grc
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Page 1
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract -l eng 002.tiff 00eng
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Page 1
-gcrane@MACLAU08628 cros-schaeff-tiffs % ls
-002.tiff	003.tiff	006.tiff	009.tiff	011.tiff	014.tiff
-002grc.txt	005.tiff	008.tiff	00eng.txt	012.tiff
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 002*.txt
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract -l eng 002.tiff 00eng
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Page 1
-gcrane@MACLAU08628 cros-schaeff-tiffs % !vi
-vi 002*.txt
-gcrane@MACLAU08628 cros-schaeff-tiffs % tesseract -l eng 002.tiff 02eng
-Tesseract Open Source OCR Engine v4.1.1 with Leptonica
-Page 1
-gcrane@MACLAU08628 cros-schaeff-tiffs % !vi
-vi 002*.txt
-gcrane@MACLAU08628 cros-schaeff-tiffs % ls
-002.tiff	003.tiff	006.tiff	009.tiff	011.tiff	014.tiff
-002grc.txt	005.tiff	008.tiff	00eng.txt	012.tiff	02eng.txt
-gcrane@MACLAU08628 cros-schaeff-tiffs % ls *.txt 
-002grc.txt	00eng.txt	02eng.txt
-gcrane@MACLAU08628 cros-schaeff-tiffs % rm 00eng.txt 
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 02eng.txt 
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 02*txt
-gcrane@MACLAU08628 cros-schaeff-tiffs % mv 02eng.txt 002eng.txt
-gcrane@MACLAU08628 cros-schaeff-tiffs % !vi
-vi 02*txt
-zsh: no matches found: 02*txt
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 002*txt
-2 files to edit
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 002eng.txt 
-
-DECLENSION OF O-STEM NEUTERS 11
-»
 24. Accusative of Place to Which. The accusative
 with many prepositions denotes place to which :1
 
 εἰς τὸ πεδίον 
 into the plain 
 (Latin: in oppidum into the town);
+
 παρὰ τὸν στρατηγόν to the side of the general.
 
 25. VOCABULARY
@@ -1190,15 +500,52 @@ The Delphic stadium (page 12) still retains the row of flat stones whose double 
 
 5. The brothers were hostile to the messenger.
 
-τὸ ἐν Δελφοῖς στάδιον
+<f>τὸ ἐν Δελφοῖς στάδιον
 This ancient Greek stadium, perhaps the best preserved of all, is !ocated on
 the slopes of Parnassus, high above a lovely valley. Here every four years
-were held the famous Pythian Games in honor of Apollo.
+were held the famous Pythian Games in honor of Apollo.</f>
 
+@13
+
+LESSON V 
+
+REVIEW
+
+ἀρχὴ δὲ τοι ἥμισυ παντός.
+Well begun is half done.
+Greek maxim. 
+Literally: (The) beginning (is) half of everything.
+
+27. Importance of Vocabulary. If you wish to succeed
+in the study of any language, you must have above all else
+a good working vocabulary. The words assigned for study
+in this book have been chosen for their relative frequency
+and general utility. If you learn them, you should be able
+to figure out the meaning of many other words, and as a
+
+result be able to read with greater ease and pleasure.
+
+ASSIGNMENTS
+
+(a) Review all words thus far presented, observing spelling
+(including accent), inflection, meaning, and possible peculiarities 
+of use. Study especially any words that seem unfamiliar.
+Test your knowledge by reference to the list in § 549.
+
+(b) Name and define the Greek words suggested by: apology,
+Francophile, dendrology, Dorothea, eccentric, evangelist, hippodrome, Mesopotamia, microcosm, misanthrope, monolith, paralysis, phonograph. 
+What other English derivatives can you
+add that belong to this group?
+
+(c) What are the possible meanings suggested by the endings ον, ῳ ου, πυς, οι, οις, α?
+
+(d) Give the Greek for: he is writing, you (singular)
+lead, we stop, they have, I am loosing, you (plural) wish,
+he sends.
 @14
 
 28. EXERCISES
-(a) Complete: -
+(a) Complete: 
 
 1. ὁ τ-- στρατηγ-- (singular) κίνῡῦνος ἦν μῖκρ--
 2. δωρ-- (plural) πέμπομεν παρὰ τ-- φιλ-- (plura).
@@ -1209,12 +556,12 @@ were held the famous Pythian Games in honor of Apollo.
 
 6. ὁ ἄγγελος πολέμιος ἦν τ ἀνθρωπ-- (singular).
 
-A GREEK Boy‘s TABLET
+<f>A GREEK BOY‘S TABLET
 
 Here we see half of a school tablet used by some Greek lad more than
 2000 years ago. At the top the master has written two lines of verse, which
 the pupil has tried to reproduce twice in the space below. See if you can
-find mistakes in his work.
+find mistakes in his work.</f>
 
 (b) Write in Greek:
 
@@ -1223,7 +570,46 @@ find mistakes in his work.
 3. And you (plural) wish to have beautiful gifts. 
 4. We are sending the men into the stadium. 
 5. The fine gifts were from (the side of) friends of the general.
-^L
+
+@15
+
+LESSON VI
+
+DECLENSION OF Α-STEMS
+σκηνὴ πᾶς ὁ βίος. 
+"All the world’s a stage.” >
+Greek Anthology. 
+Literally: All life is a tent (See § 35).
+
+29. Α-Stem Feminines. Α-declension nouns whose
+nominatives end in α or nἢ are feminine. Because the
+feminine article shows η in the singular, nouns and adjectives in η are presented first. Both types are the same
+in the plural
+
+ἡ καλὴ σκηνή the beautiful tent
+
+
+κώμη village
+
+
+In like manner inflect ἡ φυγή and ἡ μάχη.4
+
+What forms of the α-declension have the same ending as the corresponding form of the ο-declension? What have similar endings?
+
+30. Adjectives. (a) Adjectives of the ο- and α-declensions have three endings, one for each gender, like the
+Latin bonus, bona, bonum.
+
+ 
+2 For the accent of ἡ, καλή, and σκηνή, see § V, g, h, and ti.
+
+3 Endings of feminines of the a-declension in Latin.
+
+4 For the accent of all forms of κώμη and μάχη except the genitive plural.
+see§ V, f. The genitive plural of α-stems originally ended in -α(σ)ων, Latin
+-arum. Therefore, words of this declension regularly circumflex the ultima
+of the genitive plural because of contraction of vowels.
+
+
 
 @16 
 
@@ -1239,7 +625,7 @@ article, the adjective usually stands between the article
 and the noun, as in English:
 
 ὁ δίκικος ἄνθρωπος the just man.
-a ty 
+
 Note that (unlike English) even a prepositional phrase
 may stand in this position:
 οἱ ἐν τῇ κώμῃ ἄνθρωποι or οἱ ἐν τῇ κώμῃ1 the men in the village.
@@ -1250,7 +636,7 @@ The adjective may also follow the noun and have the article repeated with it:
 In the above instances the adjective or phrase is said to
 have the attributive position.
 
-(β) When an adjective precedes the article or follows
+(b) When an adjective precedes the article or follows
 the article and the noun without the article being repeated, it is said to stand in the predicate position:
 
 δίκαιος ὁ ἄνθρωπος or ὁ ἄνθρωπος δίκαιος the man (is) just. 
@@ -1264,7 +650,7 @@ the village had no garrison,
 
 
 
-1 With an expression like this &v@pwzoe is implied.
+1 With an expression like this ἄνθρωποι is implied.
 2 This is our fourth use of the dative. What were the other three?
 
 @17
@@ -1283,7 +669,7 @@ the village had no garrison,
 
 σκηνή: tent. SCENE. 
 φυλάττω: guard (verb).
-34. EXERCISES’
+34. EXERCISES
 
 (a) What use of the word do portions in heavy type suggest ?
 
@@ -1333,9 +719,19 @@ was but a step to σκηνή meaning the scene of an action.
 
 @19
 
+LESSON VII
+Declension of Α-stems -- continued.
+
 λύπης ἰᾱτρός ἐστιν ἀνθρώποις λόγος.
 Menander, fragment. Literally: Reason is for men a physician of
 grief.
+
+36. Feminines in ᾱ. If ε, ι, or ρ immediately precedes
+the final vowel of the stem, words of the α-declension have
+ᾱ, not η, throughout the singular.2
+
+ἡ μικρὰ στρατιά the small army
+
 
 37. Accusative of Extent. The accusative denotes extent
 of space or duration of time :
@@ -1359,8 +755,7 @@ They will be treated later.
 
 38. VOCABULARY
 
-ἀγορά: market, market-place.
-AGORAPHOBIA.
+ἀγορά: market, market-place. AGORAPHOBIA.
 
 ἀρχή: beginning, rule, province.
 
@@ -1368,10 +763,9 @@ AGORAPHOBIA.
 
 διά, prep.: with G., through ; with A., on account of. DIAMETER.
 
-ἐπιτήδειος: fit, suitable ;
-τὰ ἐπιτήδεια 1: provisions.
+ἐπιτήδειος: fit, suitable ; τὰ ἐπιτήδεια 1: provisions.
 
-ἡμέρα: day. EPHEMERAL.
+ἡμέρᾱ: day. EPHEMERAL.
 
 στρατιά army. Cf. στρατηγός.
 
@@ -1400,20 +794,21 @@ AGORAPHOBIA.
 Gate OF ATHENA ARCHEGETIS
 
 (b) Complete:
-1. ἡ δὲ κώμη ἐπιτηδει-- ἦν τ-- στρατηγ---
-(δἰπρα]α:). 
+1. ἡ δὲ κώμη ἐπιτηδει-- ἦν τ-- στρατηγ--- (singular). 
 2. δέκα ἡμερ--- ἡ στρατιὰ ἦν ἐν τ--- ἀγορ--- (singular). 
-3. πέμπει δὲ τ--- ἐπιτηδει--- τ--- φιλ--- (plural).
 
 
 
-1 Many Greek adjectives when preceded by the article are used as nouns,
-Compare English, the blind, a word to the wise; and the Greek, οἱ πολέμιοι.
-2 As in English, Greek questions are sometimes introduced by an interrogative pronoun or adverb, but often the mark of interrogation at the end of a printed sentence is the only clue. This mark of interrogation in Greek is the
-same as the English semicolon (;).
+
+
+
+
+1 Many Greek adjectives when preceded by the article are used as nouns, Compare English, the blind, a word to the wise; and the Greek, οἱ πολέμιοι.
+2 As in English, Greek questions are sometimes introduced by an interrogative pronoun or adverb, but often the mark of interrogation at the end of a printed sentence is the only clue. This mark of interrogation in Greek is the same as the English semicolon (;).
 
 
 @21
+3. πέμπει δὲ τ--- ἐπιτηδει--- τ--- φιλ--- (plural).
 
 (c) Write in Greek :
 
@@ -1423,17 +818,17 @@ same as the English semicolon (;).
 4. The flight was not evident to the general. 
 5. The garrison did not have (use ἦσαν) tents.
 
-THE ACROPOLIS
+<f>THE ACROPOLIS
 
 Although many Greek cities had a fortified hill, or acropolis, most people
 associate that word with the famous hi!l in the heart of Athens. At first the
 home of the early kings, it came to be devoted to the gods and heroes of the
 state. Its glorious temples were visible from the agora, as indeed for miles
-around in all directions.
+around in all directions.</f>
 
 40. Word-formation. (a) A very common means of
 forming adjectives is by adding to the stem of a noun
-the suffix -ιος, -ία, -ιον, which appears frequently in English as -ian. O-stems drop the o before this suffix, α-stems retain the α to form the diphthong αι:
+the suffix -ιος, -ίᾱ, -ιον, which appears frequently in English as -ian. O-stems drop the o before this suffix, α-stems retain the α to form the diphthong αι:
 
 φίλος friend, φίλιος friendly;
 but Ἀθῆναι Athens, Ἀθηναῖος Athenian.
@@ -1441,6 +836,9 @@ but Ἀθῆναι Athens, Ἀθηναῖος Athenian.
 (2) From δίκαιον and πολέμιος construct the corresponding nouns; from ἵππος and ἀγορά construct the corresponding adjectives.
 
 @22
+
+LESSON VIII
+Imperfect Indicative Active of ω-verbs
 
 ἔργον δ᾽ οὐδὲν ὄνειδος, ἀεργίη δέ τ᾽ ὄνειδος.
 Work is no disgrace, but idleness is a disgrace.
@@ -1479,7 +877,7 @@ Inflect the imperfect indicative active of πέμπω and ἀθροίζω.
 
 44. Dative of Manner.
 
-The dative may denote manner :?
+The dative may denote manner :2
 
 φεύγουσι σιγῇ they flee in silence.
 
@@ -1489,21 +887,19 @@ two words or phrases or
 clauses that are compared
 or contrasted: 
 
-ὁ (ἢ, τὸ) μέν . . ὁ (ἡ, τὸ) δέ the one . . . the other; 
+ὁ (ἡ, τὸ) μέν . . ὁ (ἡ, τὸ) δέ the one . . . the other; 
 
 οἱ (αἱ, τὰ) μέν. .. οἱ (αἱ, τὰ) δέ some . . . others; 
 ὁ δέ, ἡ δέ, κ.τ.λ. but (and) he, she, etc., 
 indicating change of subject. μέν is rarely to be translated but is a valuable warning that a comparison or contrast is coming. It is one of the many little words, often untranslatable, that make Greek so effective for expressing important shades of meaning.
 
-An Ionic CoLtumn
+<f>An Ionic Column
 
 The delicate workmanship of the
 Erechtheum, to which this column
-belongs, awakens universal admiration.
+belongs, awakens universal admiration.</f>
 
-1 Certain verbs beginning with ε chauge ε to ει when augmented : ἔχω,
-
-εἶχον.
+1 Certain verbs beginning with ε chauge ε to ει when augmented : ἔχω, εἶχον.
 
 2 This is our fifth use of the dative. What were the other four?
 3. κ.τ.λ. = καὶ τὰ λοιπά and the rest. Compare etc. = et cetera.
@@ -1513,16 +909,14 @@ belongs, awakens universal admiration.
 46. VOCABULARY
 ἀθροίζω: collect. 
 
-βάρβαρος: foreigner, barbarian.
 ἀλλά, conj.: but, however. Stronger than δέ. Final a is often elided.
+ἁρπάζω: seize,carry off. MARPY. PROLOGUE.
+ἀρχαῖος: original, ancient. Cf. ἀρχή. = ARCHAIC. 
+βάρβαρος: foreigner, barbarian.
 ἔργον: work, deed, ENERGY.
 κραυγή: outcry, shout.
 λόγος: word, speech.
-ἁρπάζω: seize,carry off. MARPY. PROLOGUE.
-ἀρχαῖος: original, ancient. 
 μέν: coord. conj. (§ 45).
-
-Cf. ἀρχή. = ARCHAIC. 
 σῑγή: silence.
 
 47. EXERCISES 
@@ -1545,7 +939,7 @@ Vhich resemble endings of the present ?
 2. ἀλλ᾽ ἐπέμπομεν τὴν φυλακὴν παρὰ τὸν ἀδελφον. 
 3. ἡ στρατιὰ ἦν ἐν τῇ κώμῃ καὶ τὰ ἐπιτήδεια ἥρπαζεν. 
 4. οἱ μὲν γὰρ κραυγῇ ἐκ τῆς ἀγορᾶς ἔφευγον. οἱ δὲ σιγῇ τὰς σκηνὰς ἐφύλαττον. 
-5. οἱ δὲ ἀρχαῖοι εἶχον! κώμας μικρᾶς.
+5. οἱ δὲ ἀρχαῖοι εἶχον1 κώμας μικρᾶς.
 6. καλὰ μὲν ἦν τὰ δῶρα, μικρὰ δέ. 
 7. τὰ μὲν ἔργα τὰ τοῦ βαρβάρου ἦν καλά, οἱ δὲ λόγοι φίλιοι.
 
@@ -1566,181 +960,8 @@ Vhich resemble endings of the present ?
 1 Page 23, note 1. 
 2 Page 11, note 3.
 
-@25
+@26
 
-Last login: Sat May 14 17:02:57 on ttys000
-/Users/gcrane/.zshrc:1: command not found: Skip
-/Users/gcrane/.zshrc:2: command not found: Search
-/Users/gcrane/.zshrc:3: command not found: Pull
-/Users/gcrane/.zshrc:4: command not found: Issues
-/Users/gcrane/.zshrc:5: command not found: Marketplace
-/Users/gcrane/.zshrc:6: command not found: Explore
-/Users/gcrane/.zshrc:8: command not found: @gregorycrane
-/Users/gcrane/.zshrc:9: command not found: ohmyzsh
-/Users/gcrane/.zshrc:10: permission denied: /
-/Users/gcrane/.zshrc:11: command not found: ohmyzsh
-/Users/gcrane/.zshrc:12: command not found: Public
-/Users/gcrane/.zshrc:13: command not found: Code
-/Users/gcrane/.zshrc:14: command not found: Issues
-/Users/gcrane/.zshrc:15: command not found: 187
-/Users/gcrane/.zshrc:16: command not found: Pull
-/Users/gcrane/.zshrc:17: command not found: 388
-/Users/gcrane/.zshrc:18: command not found: Discussions
-/Users/gcrane/.zshrc:19: command not found: Actions
-/Users/gcrane/.zshrc:20: command not found: Projects
-/Users/gcrane/.zshrc:21: command not found: 1
-/Users/gcrane/.zshrc:22: command not found: Wiki
-Usage: Security [-h] [-i] [-l] [-p prompt] [-q] [-v] [command] [opt ...]
-    -i    Run in interactive mode.
-    -l    Run /usr/bin/leaks -nocontext before exiting.
-    -p    Set the prompt to "prompt" (implies -i).
-    -q    Be less verbose.
-    -v    Be more verbose about what's going on.
-Security commands are:
-    help                                 Show all commands, or show usage for a command.
-    list-keychains                       Display or manipulate the keychain search list.
-    list-smartcards                      Display available smartcards.
-    default-keychain                     Display or set the default keychain.
-    login-keychain                       Display or set the login keychain.
-    create-keychain                      Create keychains and add them to the search list.
-    delete-keychain                      Delete keychains and remove them from the search list.
-    lock-keychain                        Lock the specified keychain.
-    unlock-keychain                      Unlock the specified keychain.
-    set-keychain-settings                Set settings for a keychain.
-    set-keychain-password                Set password for a keychain.
-    show-keychain-info                   Show the settings for keychain.
-    dump-keychain                        Dump the contents of one or more keychains.
-    create-keypair                       Create an asymmetric key pair.
-    add-generic-password                 Add a generic password item.
-    add-internet-password                Add an internet password item.
-    add-certificates                     Add certificates to a keychain.
-    find-generic-password                Find a generic password item.
-    delete-generic-password              Delete a generic password item.
-    set-generic-password-partition-list  Set the partition list of a generic password item.
-    find-internet-password               Find an internet password item.
-    delete-internet-password             Delete an internet password item.
-    set-internet-password-partition-list Set the partition list of a internet password item.
-    find-key                             Find keys in the keychain
-    set-key-partition-list               Set the partition list of a key.
-    find-certificate                     Find a certificate item.
-    find-identity                        Find an identity (certificate + private key).
-    delete-certificate                   Delete a certificate from a keychain.
-    delete-identity                      Delete an identity (certificate + private key) from a keychain.
-    set-identity-preference              Set the preferred identity to use for a service.
-    get-identity-preference              Get the preferred identity to use for a service.
-    create-db                            Create a db using the DL.
-    export                               Export items from a keychain.
-    import                               Import items into a keychain.
-    export-smartcard                     Export items from a smartcard.
-    cms                                  Encode or decode CMS messages.
-    install-mds                          Install (or re-install) the MDS database.
-    add-trusted-cert                     Add trusted certificate(s).
-    remove-trusted-cert                  Remove trusted certificate(s).
-    dump-trust-settings                  Display contents of trust settings.
-    user-trust-settings-enable           Display or manipulate user-level trust settings.
-    trust-settings-export                Export trust settings.
-    trust-settings-import                Import trust settings.
-    verify-cert                          Verify certificate(s).
-    authorize                            Perform authorization operations.
-    authorizationdb                      Make changes to the authorization policy database.
-    execute-with-privileges              Execute tool with privileges.
-    leaks                                Run /usr/bin/leaks on this process.
-    error                                Display a descriptive message for the given error code(s).
-    create-filevaultmaster-keychain      Create a keychain containing a key pair for FileVault recovery use.
-    smartcards                           Enable, disable or list disabled smartcard tokens.
-    translocate-create                   Create a translocation point for the provided path
-    translocate-policy-check             Check whether a path would be translocated.
-    translocate-status-check             Check whether a path is translocated.
-    translocate-original-path            Find the original path for a translocated path.
-    requirement-evaluate                 Evaluate a requirement against a cert chain.
-Missing filename ("less --help" for help)
-/Users/gcrane/.zshrc:25: no such file or directory: ohmyzsh/templates/zshrc.zsh-template
-/Users/gcrane/.zshrc:26: command not found: @mcornella
-/Users/gcrane/.zshrc:27: command not found: mcornella
-/Users/gcrane/.zshrc:28: command not found: Latest
-/Users/gcrane/.zshrc:29: command not found: History
-/Users/gcrane/.zshrc:30: command not found: 40
-/Users/gcrane/.zshrc:31: command not found: @robbyrussell@mcornella@ncanceill@hwti@zakkak@Dieterbe@cuonglm@midnite81@trevor@To1ne@TimelyToga@thii
-/Users/gcrane/.zshrc:32: unknown file attribute: 7
-/Users/gcrane/.zshrc:source:108: no such file or directory: /Users/gcrane/.oh-my-zsh/oh-my-zsh.sh
-/Users/gcrane/.zshrc:135: command not found: ©
-/Users/gcrane/.zshrc:136: command not found: Terms
-/Users/gcrane/.zshrc:137: command not found: Privacy
-Usage: Security [-h] [-i] [-l] [-p prompt] [-q] [-v] [command] [opt ...]
-    -i    Run in interactive mode.
-    -l    Run /usr/bin/leaks -nocontext before exiting.
-    -p    Set the prompt to "prompt" (implies -i).
-    -q    Be less verbose.
-    -v    Be more verbose about what's going on.
-Security commands are:
-    help                                 Show all commands, or show usage for a command.
-    list-keychains                       Display or manipulate the keychain search list.
-    list-smartcards                      Display available smartcards.
-    default-keychain                     Display or set the default keychain.
-    login-keychain                       Display or set the login keychain.
-    create-keychain                      Create keychains and add them to the search list.
-    delete-keychain                      Delete keychains and remove them from the search list.
-    lock-keychain                        Lock the specified keychain.
-    unlock-keychain                      Unlock the specified keychain.
-    set-keychain-settings                Set settings for a keychain.
-    set-keychain-password                Set password for a keychain.
-    show-keychain-info                   Show the settings for keychain.
-    dump-keychain                        Dump the contents of one or more keychains.
-    create-keypair                       Create an asymmetric key pair.
-    add-generic-password                 Add a generic password item.
-    add-internet-password                Add an internet password item.
-    add-certificates                     Add certificates to a keychain.
-    find-generic-password                Find a generic password item.
-    delete-generic-password              Delete a generic password item.
-    set-generic-password-partition-list  Set the partition list of a generic password item.
-    find-internet-password               Find an internet password item.
-    delete-internet-password             Delete an internet password item.
-    set-internet-password-partition-list Set the partition list of a internet password item.
-    find-key                             Find keys in the keychain
-    set-key-partition-list               Set the partition list of a key.
-    find-certificate                     Find a certificate item.
-    find-identity                        Find an identity (certificate + private key).
-    delete-certificate                   Delete a certificate from a keychain.
-    delete-identity                      Delete an identity (certificate + private key) from a keychain.
-    set-identity-preference              Set the preferred identity to use for a service.
-    get-identity-preference              Get the preferred identity to use for a service.
-    create-db                            Create a db using the DL.
-    export                               Export items from a keychain.
-    import                               Import items into a keychain.
-    export-smartcard                     Export items from a smartcard.
-    cms                                  Encode or decode CMS messages.
-    install-mds                          Install (or re-install) the MDS database.
-    add-trusted-cert                     Add trusted certificate(s).
-    remove-trusted-cert                  Remove trusted certificate(s).
-    dump-trust-settings                  Display contents of trust settings.
-    user-trust-settings-enable           Display or manipulate user-level trust settings.
-    trust-settings-export                Export trust settings.
-    trust-settings-import                Import trust settings.
-    verify-cert                          Verify certificate(s).
-    authorize                            Perform authorization operations.
-    authorizationdb                      Make changes to the authorization policy database.
-    execute-with-privileges              Execute tool with privileges.
-    leaks                                Run /usr/bin/leaks on this process.
-    error                                Display a descriptive message for the given error code(s).
-    create-filevaultmaster-keychain      Create a keychain containing a key pair for FileVault recovery use.
-    smartcards                           Enable, disable or list disabled smartcard tokens.
-    translocate-create                   Create a translocation point for the provided path
-    translocate-policy-check             Check whether a path would be translocated.
-    translocate-status-check             Check whether a path is translocated.
-    translocate-original-path            Find the original path for a translocated path.
-    requirement-evaluate                 Evaluate a requirement against a cert chain.
-/Users/gcrane/.zshrc:139: command not found: Status
-/Users/gcrane/.zshrc:140: command not found: Docs
-/Users/gcrane/.zshrc:141: command not found: Contact
-/Users/gcrane/.zshrc:142: command not found: Pricing
-/Users/gcrane/.zshrc:143: command not found: API
-/Users/gcrane/.zshrc:144: command not found: Training
-/Users/gcrane/.zshrc:145: command not found: Blog
-/Users/gcrane/.zshrc:146: command not found: About
-gcrane@MACLAU08628 ~ % cd Downloads/cros-schaeff-tiffs 
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 023eng.txt 
-
-O1-VERBS
 
 48. Greek as a World Language.
 
@@ -1762,15 +983,13 @@ forth) τὸ ἀγαθόν,1 ὁ δὲ πονη-
 Hundreds of ecclesiastical terms now in use came from Greek : Christ, Bible, Episcopalian, anthem, hierarchy, cathedral, liturgy, Pentatench, atheist, apostate, martyr, menphiyte, hypocrite, laity, CANON.
 and the like,
 
-How many similar derivatives can you supply from the
-
-Greek words that you have already had ?
+How many similar derivatives can you supply from the Greek words that you have already had ?
 
 Try these:
 
 λόγος (combine with φίλος, and δέκα), ἀπό, ἐξ (combine with ὁδός road), παρά, ἄγγελος, διά.
 
-@26
+
 
 1 Page 20, note 1.
 
@@ -1778,7 +997,7 @@ Try these:
 
 LESSON IX 
 
-FUTURE INDICATIVE AND INFINITIVE ACTIVE OF 0-VERBS
+FUTURE INDICATIVE AND INFINITIVE ACTIVE OF ω-VERBS
 
 καλὸν ἡσυχία.
 Leisure is a fine thing.
@@ -1792,14 +1011,16 @@ Periander
 
 3. A dental (τ, δ, θ) before σ is dropped:
 
-πέμπω, πέμψω; ἄγω, ἄξω; ἀθροίζω (ἀθροιδ-), ἀθροίσω.
+πέμπω, πέμψω; 
+ἄγω, ἄξω; 
+ἀθροίζω (ἀθροιδ-), ἀθροίσω.
 
 In most instances, the stem is readily recognized in the
 present tense, but verbs with stems in ζ are palatals and most verbs with stems in fare dentals. In case of doubt, consult the general vocabulary at the back of the book.
 
 Future Indicative of παύω I stop
 
-In like manner inflect Ata, ypadw, dpyw, re(Ow.
+In like manner inflect λύω, γράφω, ἄρχω, πείθω.
 
 59. Indirect Discourse. (a) Verbs whose meaning implies mental action (saying, thinking, or the like) are used to introduce an indirect quotation : the general sends (sent)
 
@@ -1847,7 +1068,7 @@ THE PROPYLAEA
 
 The gateway to the Acropolis.
 
-28 AN INTRODUCTION TO GREEK
+@28 AN INTRODUCTION TO GREEK
 
 51. VOCABULARY
 ἄρχω, ἄρξω:1 begin, rule, command,  with G. ARCHBISHOP.
