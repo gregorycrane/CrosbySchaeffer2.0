@@ -20,7 +20,8 @@ whose nominatives end in -ος are usually masculine.
 
 
 In like manner intlect ὁ ἀδελφός.
-3. Accents. (a) In nouns of the ο-declension an acute
+3. Accents.
+(a) In nouns of the ο-declension an acute
  
 (´) on the ultima in the ueminative is changed to a
 circumflex (῀) in the genitive and dative of both numbers.
@@ -63,7 +64,8 @@ he sends his brother to the general.
 (d) The accusative is the direct object of a transitive
 verb: ἀδελφὸν πέμπει he sends a brother.
 
-5. The Article. (a) Like English, and unlike Latin,
+5. The Article.
+(a) Like English, and unlike Latin,
 Greek has a definite article. This agrees with its noun
 in gender, number, and case. It often serves as a possessive pronoun, as my, your, his, etc. ὁ and οἱ are proclitic
 (page xxvii). 
@@ -169,11 +171,11 @@ he sends the man out of the river.
 
  
 
-THe ARCADIAN GATE
+<f>THe ARCADIAN GATE
 
 The walls of Messene still testify to the engineering skill and daring of the
 victor of Leuctra. Note particularly the central doorpost of this great gate.
-It is nearly nineteen feet long.
+It is nearly nineteen feet long.</f>
 
 10. VOCABULARY
 
@@ -185,7 +187,7 @@ It is nearly nineteen feet long.
 
 ἐκ (before consonants), ἐξ (before vowels), proclit. prep. with G. out of, from. Lat. ex. ECLECTIC. 
 μακρός: large. MACRON. MACROECONOMICS.
-μικρός: small. MICROSCOPIC. MICROECONOMICS
+μῑκρός: small. MICROSCOPIC. MICROECONOMICS
 
 πόλεμος: war.
 
@@ -197,7 +199,7 @@ It is nearly nineteen feet long.
 
 φίλος: friend. PHILANTHROPIST.
 
-1This is our second use of the genitive (§ 4). The use here given is like
+1 This is our second use of the genitive (§ 4). The use here given is like
 the Latin ablative in its from relations.
 2 Adjectives in -ρος usually have the acute on the last syllable.
 
@@ -217,7 +219,7 @@ the Latin ablative in its from relations.
 
 
 
-Pericles
+<f>Pericles
 
 The most brilliant period in Athe-
 nian history is justly called the Age
@@ -225,7 +227,7 @@ of Pericles. His home was the haunt
 of sculptor and architect, poet and
 philosopher. To him we owe above
 all the planning and construction of
-the matchless Parthenon.
+the matchless Parthenon.</f>
 
 (a) Translate :
 
@@ -241,37 +243,33 @@ the matchless Parthenon.
 (b) Complete:
 
 1. οἱ πολεμ--- ἦσαν μακρ---.
-2. τὸν ἀδελφ-- πέμπει ἐκ τ--- ποταμ- (singular)). 
+2. τὸν ἀδελφ-- πέμπει ἐκ τ--- ποταμ- (singular). 
 3. οἱ στρατηγοὶ τοὺς φίλους πεμπ-- τῷ ἀνθρωπ--.
 
 @7
 
-LESSON HI
+LESSON III
 
-PRESENT INDICATIVE AND INFINITIVE ACTIVE OF
-O-VERBS
+PRESENT INDICATIVE AND INFINITIVE ACTIVE OF ω-VERBS
 
 οἱ γὰρ πόνοι τίκτουσι τὴν εὐανδρίᾱν.
 Labor begets manhood.
 Euripides, fragment. Literally: For toils beget manhood.
 
-13. The Present Tense. This tense denotes action oe:
-curring or continuing or repeated in present time:
+13. The Present Tense. This tense denotes action occurring or continuing or repeated in present time:
 
-παύω I stop, I am stopping, I keep stopping. I do stop.
+παύω I stop. I am stopping. I keep stopping. I do stop.
 
-Present Inicative Active or παύω I stop
+Present Indicative Active or παύω I stop
 
-SINGULAR PLURAL
-Taio Tay-o-pev 
-Trades matvere
-Travnet Tay-ourt (v)
+
 
 Present Infintive ACTIVE παύ-ειν
 
-In like manner inflect é6éAw.
+In like manner inflect ἐθέλω.
 
-14. Verb Structure. (a) In the inflection of a verb
+14. Verb Structure.
+(a) In the inflection of a verb
 the stem is of fundamental importance. On it are built
 the various forms. παύ- is the stem of παύω.
 
@@ -290,7 +288,7 @@ nouns was persistent. That of verbs is recessive, that is,
 @8
 
 it goes back toward the beginning of the word as far as
-the quantity of the ultima will permit. ‘This means that
+the quantity of the ultima will permit. This means that
 the accent stands on the antepenult if the ultima is short;
 on the penult if the ultima is long -
 
@@ -366,7 +364,8 @@ and number of the subject ?
 3. οἱ ἄγγελοι πολέμιοι ἦσαν τι-- στρατηγ- (singular).
 
 
-19. (a) Translation Hints
+19.
+(a) Translation Hints
 
 1. Read the entire English sentence, noting how the
 words are related.
@@ -479,6 +478,7 @@ The Delphic stadium (page 12) still retains the row of flat stones whose double 
 2. στάδιον ἦν παρὰ τῷ ποταμῷ. 
 3. καὶ εἰς τὸ στάδιον ἄγουσι δῶρα καλά.
 4. οἱ δ' ἀδελφοὶ ἐθέλουσιν ἵππους πέμπειν παρὰ τοὺς 1 φίλους. 
+@12
 5. παρὰ τοῦ στρατηγοῦ ἦν τὰ δῶρα. 
 6. ἐκ τοῦ πεδίου ἄγομεν τοὺς πολεμίους. 
 7. ὁ δ' ἄνθρωπος ἄξιος ἦν δώρων 2 καλῶν.
@@ -596,7 +596,8 @@ In like manner inflect ἡ φυγή and ἡ μάχη.4
 
 What forms of the α-declension have the same ending as the corresponding form of the ο-declension? What have similar endings?
 
-30. Adjectives. (a) Adjectives of the ο- and α-declensions have three endings, one for each gender, like the
+30. Adjectives.
+(a) Adjectives of the ο- and α-declensions have three endings, one for each gender, like the
 Latin bonus, bona, bonum.
 
  
@@ -619,7 +620,8 @@ like the genitive plural of the o-declension.
 Inflect in all three genders dyads and 8jAes. Compare with para-
 digms, § 510, a.
 
-31. Position of Adjectives. (a) When an adjective or
+31. Position of Adjectives.
+(a) When an adjective or
 an adjective phrase accompanies a noun with a definite
 article, the adjective usually stands between the article
 and the noun, as in English:
@@ -826,7 +828,8 @@ home of the early kings, it came to be devoted to the gods and heroes of the
 state. Its glorious temples were visible from the agora, as indeed for miles
 around in all directions.</f>
 
-40. Word-formation. (a) A very common means of
+40. Word-formation.
+(a) A very common means of
 forming adjectives is by adding to the stem of a noun
 the suffix -ιος, -ίᾱ, -ιον, which appears frequently in English as -ian. O-stems drop the o before this suffix, α-stems retain the α to form the diphthong αι:
 
@@ -857,7 +860,7 @@ two kinds:
 1. Syllabic. Verbs with an initial consonant prefix ἐ
 by way of augment; an initial ῥ is doubled after ἐ.
 
-@24
+@23
 
 2. Temporal.
 
@@ -960,7 +963,7 @@ Vhich resemble endings of the present ?
 1 Page 23, note 1. 
 2 Page 11, note 3.
 
-@26
+@25
 
 
 48. Greek as a World Language.
@@ -1022,7 +1025,8 @@ Future Indicative of παύω I stop
 
 In like manner inflect λύω, γράφω, ἄρχω, πείθω.
 
-59. Indirect Discourse. (a) Verbs whose meaning implies mental action (saying, thinking, or the like) are used to introduce an indirect quotation : the general sends (sent)
+59. Indirect Discourse.
+(a) Verbs whose meaning implies mental action (saying, thinking, or the like) are used to introduce an indirect quotation : the general sends (sent)
 
 @27
 
@@ -1093,7 +1097,13 @@ The gateway to the Acropolis.
 
 (a) Identify the person and number of the following forms and give the corresponding forms of the present:
 
-πέμψουσι, ἄξομεν, γράψει, φυλάξεις. ἀθροίσω. ἄρξετε, λύσεις
+πέμψουσι, 
+ἄξομεν, 
+γράψει, 
+φυλάξεις, 
+ἀθροίσω, 
+ἄρξετε, 
+λύσεις
 
 (2) Translate :
 
@@ -1111,6 +1121,8 @@ The gateway to the Acropolis.
 1. ὑπ-οπτευσ--- οἱ πολέμιοι τὸν στρατηγ--- λῦ-- τὰς σπονδάς. 
 2. μέλλεις λῦ--- - τὴν ὁδ--- ;
 3. οἱ μὲν (will pursue) τοὺς πολεμίους, οἱ δὲ -----  (will seize) τὰ ἐπιτήδεια.
+
+@29
 
 (d) Write in Greek :
 1, But the barbarians were collecting the horses in silence
@@ -1130,18 +1142,17 @@ have cognate nouns or adjectives with ο instead of ε:
 πέμπω send (escort), πομπή procession ;
 σπένδω pour a libation, σπονδή Libation.
 
-Compare Latin tego I cover, toga cloak; English £ sing, song.
+Compare Latin tego I cover, toga cloak; English I sing, song.
 
  
 
  
 
-ὁδὸς ἀρχαία
+<f>ὁδὸς ἀρχαία
 This fine roadway, bordered with elevated sidewalks, led from the agora
 at Corinth to the harbor. The ancient Greeks did most of their travel by sea
-and so had few good roads,
+and so had few good roads.</f>
 
-@30
 
 
 @30
@@ -1167,7 +1178,8 @@ a motion picture:
 
 ἔπαυον I was stopping; ἔπαυσα I stopped.
 
-55. Formation of the Aorist. (a) The aorist, in common with other secondary tenses, in the indicative has
+55. Formation of the Aorist.
+(a) The aorist, in common with other secondary tenses, in the indicative has
 augment and secondary endings (§§ 42, 43).
 
 @31
@@ -1342,8 +1354,7 @@ READING
 
 City of light, with your violet crown, beloved of the poets,
 You are the bulwark of Greece; Athens, your fame is for ever.
-
-1 Pindar, fragment. Literally: 
+Pindar, fragment. Literally: 
 O renowned Athens, brilliant, violet-crowned, and famed in song, stay of Greece.
 
 62. The Value of Transiation. "There is no better wav
@@ -1369,15 +1380,7 @@ without conscious effort at translation.
 roots or suggestions as to meaning contained in the context,
 
 
-
-
-
-
-1. Read aloud and distinctly each Greek sentence as Greek,
-without conscious effort at translation.
-
-2. Note familiar words; in unfamiliar words look for familiar
-roots or suggestions as to meaning contained in the context.
+@37
 
 3. Note carefully word groups and relations of words as indicated by inflectional changes.
 
@@ -1396,9 +1399,10 @@ the entire thought is clear.
 
 64. VOCABULARY
 Ἀθῆναι: Athens. 
+ἀπ-έχω: be distant, be away. 
+
 ἐπί, prep.: with G., on, upon;1 with D., on, at, by; with A., upon, to, againsi, EPIDERMIS.<note>The difference between the genitive, dative, and accusative may be indicated by these phrases: on horseback, a city on the sea, he marches on the town. Compare παρά (§ 25).</note>
 Ἀθηναῖος: Athenian. 
-ἀπ-έχω: be distant, be away. 
 ἑπτά: seven. HEPTAGON.
 δρόμος: a running, run, race, race course. HIPPODROME.
 
@@ -1543,17 +1547,9 @@ nothing new in inflection, It is like ἀγαθός everywhere
 except in the neuter nominative and accusative singular,
 where it has the same endings as the article.
 
-6s who, which
+ὅς who, which
 
-MOF N M. F. N.
-¥ » ” - . ”
-og n 3 ot ae a
-co . * . °
-ov nS ov ov ov av
-*
-é q & ois als ots
-e é 5 ; y y
-ov ow ots as a
+
 
 68. αὐτός self, and ἄλλος other, are inflected similarly
 except that ἄλλος has the accent on the penult. Inflect
@@ -1571,6 +1567,8 @@ same ; modifying a noun or pronoun, but not following
 the article, it means se(f; standing alone, except in the
 nominative, it is a personal pronoun of the third person:
 
+@41
+
 ἡ αὐτὴ κώμῃ the same village,
 Κῦρος αὐτός Cyrus himself,
 αὐτῷ ἔγραψα I wrote to him,
@@ -1578,8 +1576,16 @@ nominative, it is a personal pronoun of the third person:
 αὐτὸς ἔφυγεν he himself fled ;
 αὐτοὺς ἀθροίζει he collects them.
 
-71. 
-VOCABULARY
+71. VOCABULARY
+
+
+ἀλλήλων:1 of one another. PARALLEL.
+
+ἄλλος: other, another; if preceded by the article, the other, the rest of. ALLOPATHY.
+
+αὐτός: same, self, he, she, it, they, etc. AUTOMATON.
+
+βουλεύω, βουλεύσω, ἐβούλευσα :  plan,
 
 βουλή: plan, BOULE.
 
@@ -1596,17 +1602,7 @@ VOCABULARY
 ὥρᾱ: hour, season. HOUR.
 
 
-ἀλλήλων:1 of one another. PARALLEL.
-
-ἄλλος: other, another; if preceded by the article, the other, the rest of. ALLOPATHY.
-
-αὐτός: same, self, he, she, it, they, etc. AUTOMATON.
-
-βουλεύω, βουλεύσω, ἐβούλευσα :  plan,
-
-72. 
-
-EXERCISES
+72. EXERCISES
 
 (a) What does αὐτός mean in these phrases ?
 
@@ -1639,13 +1635,7 @@ EXERCISES
 
 (c) Complete:
 
-1. τ--- στρατηγ--- ἐπ-εβούλευσαν οἱ βάρβαροι ἦσαν πολέμιοι.
-
-
-
-
-
-αὐτῷ
+1. τ--- στρατηγ--- ἐπ-εβούλευσαν οἱ βάρβαροι αὐτῷ ἦσαν πολέμιοι.
 
 2. αὐτ--- (them) πέμψομεν ἄλλο δῶρον --- ἔχομεν.
 3. αὐτῇ ἦσαν ἀλλ--- οἰκι---.
@@ -1661,10 +1651,9 @@ figures beneath the cornice represent the eight winds.
 73. SOME AXIOMS OF EUCLID<note>Consult Dictionary of Proper Names for the facts about Euclid.</note>
 
 1. τὰ τοῦ αὐτοῦ ἴσα καὶ ἀλλήλοις ἐστὶν (are) ἴσα.
-3. καὶ ἐὰν (if) ἴσοις ἴσα προσ-τεθῇ (be added), τὰ ὅλα
-(wholes, compare Holocaust) ἐστὶν ἴσα.
+2. καὶ ἐὰν (if) ἴσοις ἴσα προσ-τεθῇ (be added), τὰ ὅλα (wholes, compare Holocaust) ἐστὶν ἴσα.
 
-8. καὶ ἐὰν ἀπ᾽ ἴσων ἴσα ἀφ-αιρεθῇ (be taken), τὰ λοιπὰ
+3. καὶ ἐὰν ἀπ᾽ ἴσων ἴσα ἀφ-αιρεθῇ (be taken), τὰ λοιπὰ
 ἐστιν ἴσα.
 
 4. καὶ ἐὰν ἀν-ίσοις (ἀν- = un) ἴσα προσ-τεθῇ, τὰ ὅλα
@@ -1676,7 +1665,7 @@ figures beneath the cornice represent the eight winds.
 LESSON XIV
 
 DEMONSTRATIVE PRONOUNS
-σπεῦδε βραδέως. — 
+σπεῦδε βραδέως. 
 Make haste slowly.
 Suetonius, Augustus, 25. A favorite expression of Augustus.
 
@@ -1684,6 +1673,7 @@ Suetonius, Augustus, 25. A favorite expression of Augustus.
 (Latin hic), ὅδε this, and ἐκεῖνος that (Latin ille).
 
 οὗτος this
+ὅδε this
 
 
 Note that οὗτος has the same endings as αὐτός (§ 68), that it has
@@ -1700,181 +1690,12 @@ added.
 75. ἐκεῖνος has the same endings and accents as obtos,
 Inflect it, and compare with paradigm (§ 523).
 
-@Last login: Sat May 14 17:02:57 on ttys000
-/Users/gcrane/.zshrc:1: command not found: Skip
-/Users/gcrane/.zshrc:2: command not found: Search
-/Users/gcrane/.zshrc:3: command not found: Pull
-/Users/gcrane/.zshrc:4: command not found: Issues
-/Users/gcrane/.zshrc:5: command not found: Marketplace
-/Users/gcrane/.zshrc:6: command not found: Explore
-/Users/gcrane/.zshrc:8: command not found: @gregorycrane
-/Users/gcrane/.zshrc:9: command not found: ohmyzsh
-/Users/gcrane/.zshrc:10: permission denied: /
-/Users/gcrane/.zshrc:11: command not found: ohmyzsh
-/Users/gcrane/.zshrc:12: command not found: Public
-/Users/gcrane/.zshrc:13: command not found: Code
-/Users/gcrane/.zshrc:14: command not found: Issues
-/Users/gcrane/.zshrc:15: command not found: 187
-/Users/gcrane/.zshrc:16: command not found: Pull
-/Users/gcrane/.zshrc:17: command not found: 388
-/Users/gcrane/.zshrc:18: command not found: Discussions
-/Users/gcrane/.zshrc:19: command not found: Actions
-/Users/gcrane/.zshrc:20: command not found: Projects
-/Users/gcrane/.zshrc:21: command not found: 1
-/Users/gcrane/.zshrc:22: command not found: Wiki
-Usage: Security [-h] [-i] [-l] [-p prompt] [-q] [-v] [command] [opt ...]
-    -i    Run in interactive mode.
-    -l    Run /usr/bin/leaks -nocontext before exiting.
-    -p    Set the prompt to "prompt" (implies -i).
-    -q    Be less verbose.
-    -v    Be more verbose about what's going on.
-Security commands are:
-    help                                 Show all commands, or show usage for a command.
-    list-keychains                       Display or manipulate the keychain search list.
-    list-smartcards                      Display available smartcards.
-    default-keychain                     Display or set the default keychain.
-    login-keychain                       Display or set the login keychain.
-    create-keychain                      Create keychains and add them to the search list.
-    delete-keychain                      Delete keychains and remove them from the search list.
-    lock-keychain                        Lock the specified keychain.
-    unlock-keychain                      Unlock the specified keychain.
-    set-keychain-settings                Set settings for a keychain.
-    set-keychain-password                Set password for a keychain.
-    show-keychain-info                   Show the settings for keychain.
-    dump-keychain                        Dump the contents of one or more keychains.
-    create-keypair                       Create an asymmetric key pair.
-    add-generic-password                 Add a generic password item.
-    add-internet-password                Add an internet password item.
-    add-certificates                     Add certificates to a keychain.
-    find-generic-password                Find a generic password item.
-    delete-generic-password              Delete a generic password item.
-    set-generic-password-partition-list  Set the partition list of a generic password item.
-    find-internet-password               Find an internet password item.
-    delete-internet-password             Delete an internet password item.
-    set-internet-password-partition-list Set the partition list of a internet password item.
-    find-key                             Find keys in the keychain
-    set-key-partition-list               Set the partition list of a key.
-    find-certificate                     Find a certificate item.
-    find-identity                        Find an identity (certificate + private key).
-    delete-certificate                   Delete a certificate from a keychain.
-    delete-identity                      Delete an identity (certificate + private key) from a keychain.
-    set-identity-preference              Set the preferred identity to use for a service.
-    get-identity-preference              Get the preferred identity to use for a service.
-    create-db                            Create a db using the DL.
-    export                               Export items from a keychain.
-    import                               Import items into a keychain.
-    export-smartcard                     Export items from a smartcard.
-    cms                                  Encode or decode CMS messages.
-    install-mds                          Install (or re-install) the MDS database.
-    add-trusted-cert                     Add trusted certificate(s).
-    remove-trusted-cert                  Remove trusted certificate(s).
-    dump-trust-settings                  Display contents of trust settings.
-    user-trust-settings-enable           Display or manipulate user-level trust settings.
-    trust-settings-export                Export trust settings.
-    trust-settings-import                Import trust settings.
-    verify-cert                          Verify certificate(s).
-    authorize                            Perform authorization operations.
-    authorizationdb                      Make changes to the authorization policy database.
-    execute-with-privileges              Execute tool with privileges.
-    leaks                                Run /usr/bin/leaks on this process.
-    error                                Display a descriptive message for the given error code(s).
-    create-filevaultmaster-keychain      Create a keychain containing a key pair for FileVault recovery use.
-    smartcards                           Enable, disable or list disabled smartcard tokens.
-    translocate-create                   Create a translocation point for the provided path
-    translocate-policy-check             Check whether a path would be translocated.
-    translocate-status-check             Check whether a path is translocated.
-    translocate-original-path            Find the original path for a translocated path.
-    requirement-evaluate                 Evaluate a requirement against a cert chain.
-Missing filename ("less --help" for help)
-/Users/gcrane/.zshrc:25: no such file or directory: ohmyzsh/templates/zshrc.zsh-template
-/Users/gcrane/.zshrc:26: command not found: @mcornella
-/Users/gcrane/.zshrc:27: command not found: mcornella
-/Users/gcrane/.zshrc:28: command not found: Latest
-/Users/gcrane/.zshrc:29: command not found: History
-/Users/gcrane/.zshrc:30: command not found: 40
-/Users/gcrane/.zshrc:31: command not found: @robbyrussell@mcornella@ncanceill@hwti@zakkak@Dieterbe@cuonglm@midnite81@trevor@To1ne@TimelyToga@thii
-/Users/gcrane/.zshrc:32: unknown file attribute: 7
-/Users/gcrane/.zshrc:source:108: no such file or directory: /Users/gcrane/.oh-my-zsh/oh-my-zsh.sh
-/Users/gcrane/.zshrc:135: command not found: ©
-/Users/gcrane/.zshrc:136: command not found: Terms
-/Users/gcrane/.zshrc:137: command not found: Privacy
-Usage: Security [-h] [-i] [-l] [-p prompt] [-q] [-v] [command] [opt ...]
-    -i    Run in interactive mode.
-    -l    Run /usr/bin/leaks -nocontext before exiting.
-    -p    Set the prompt to "prompt" (implies -i).
-    -q    Be less verbose.
-    -v    Be more verbose about what's going on.
-Security commands are:
-    help                                 Show all commands, or show usage for a command.
-    list-keychains                       Display or manipulate the keychain search list.
-    list-smartcards                      Display available smartcards.
-    default-keychain                     Display or set the default keychain.
-    login-keychain                       Display or set the login keychain.
-    create-keychain                      Create keychains and add them to the search list.
-    delete-keychain                      Delete keychains and remove them from the search list.
-    lock-keychain                        Lock the specified keychain.
-    unlock-keychain                      Unlock the specified keychain.
-    set-keychain-settings                Set settings for a keychain.
-    set-keychain-password                Set password for a keychain.
-    show-keychain-info                   Show the settings for keychain.
-    dump-keychain                        Dump the contents of one or more keychains.
-    create-keypair                       Create an asymmetric key pair.
-    add-generic-password                 Add a generic password item.
-    add-internet-password                Add an internet password item.
-    add-certificates                     Add certificates to a keychain.
-    find-generic-password                Find a generic password item.
-    delete-generic-password              Delete a generic password item.
-    set-generic-password-partition-list  Set the partition list of a generic password item.
-    find-internet-password               Find an internet password item.
-    delete-internet-password             Delete an internet password item.
-    set-internet-password-partition-list Set the partition list of a internet password item.
-    find-key                             Find keys in the keychain
-    set-key-partition-list               Set the partition list of a key.
-    find-certificate                     Find a certificate item.
-    find-identity                        Find an identity (certificate + private key).
-    delete-certificate                   Delete a certificate from a keychain.
-    delete-identity                      Delete an identity (certificate + private key) from a keychain.
-    set-identity-preference              Set the preferred identity to use for a service.
-    get-identity-preference              Get the preferred identity to use for a service.
-    create-db                            Create a db using the DL.
-    export                               Export items from a keychain.
-    import                               Import items into a keychain.
-    export-smartcard                     Export items from a smartcard.
-    cms                                  Encode or decode CMS messages.
-    install-mds                          Install (or re-install) the MDS database.
-    add-trusted-cert                     Add trusted certificate(s).
-    remove-trusted-cert                  Remove trusted certificate(s).
-    dump-trust-settings                  Display contents of trust settings.
-    user-trust-settings-enable           Display or manipulate user-level trust settings.
-    trust-settings-export                Export trust settings.
-    trust-settings-import                Import trust settings.
-    verify-cert                          Verify certificate(s).
-    authorize                            Perform authorization operations.
-    authorizationdb                      Make changes to the authorization policy database.
-    execute-with-privileges              Execute tool with privileges.
-    leaks                                Run /usr/bin/leaks on this process.
-    error                                Display a descriptive message for the given error code(s).
-    create-filevaultmaster-keychain      Create a keychain containing a key pair for FileVault recovery use.
-    smartcards                           Enable, disable or list disabled smartcard tokens.
-    translocate-create                   Create a translocation point for the provided path
-    translocate-policy-check             Check whether a path would be translocated.
-    translocate-status-check             Check whether a path is translocated.
-    translocate-original-path            Find the original path for a translocated path.
-    requirement-evaluate                 Evaluate a requirement against a cert chain.
-/Users/gcrane/.zshrc:139: command not found: Status
-/Users/gcrane/.zshrc:140: command not found: Docs
-/Users/gcrane/.zshrc:141: command not found: Contact
-/Users/gcrane/.zshrc:142: command not found: Pricing
-/Users/gcrane/.zshrc:143: command not found: API
-/Users/gcrane/.zshrc:144: command not found: Training
-/Users/gcrane/.zshrc:145: command not found: Blog
-/Users/gcrane/.zshrc:146: command not found: About
-gcrane@MACLAU08628 ~ % cd Downloads/cros-schaeff-tiffs 
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 023eng.txt 
 
-44 AN INTRODUCTION TO GREEK
+@44 AN INTRODUCTION TO GREEK
 
-76. Uses of the Demonstratives. (a) οὗτος and ὅδε both
+76. Uses of the Demonstratives. 
+
+(a) οὗτος and ὅδε both
 mean this, this book, ete.; but οὗτος usually refers to something already mentioned, and ὅδε to something yet to
 follow:
 
@@ -1987,7 +1808,8 @@ prepositions. The nominative is not used except when emphasis is desired.
 
 @47
 
-83. Particular Conditions. (a) εἰ with a present or past
+83. Particular Conditions.
+(a) εἰ with a present or past
 tense of the indicative in the protasis1 and the same tense
 of the indicative or its equivalent in the apodosis1 states a
 particular condition without implying anything as to its
@@ -2000,7 +1822,7 @@ if he is guarding the bridge, he is breaking the treaty ;
 εἰ ... ἐφύλαξε, ... ἔλυσε 
 if he guarded ..., he broke... .
 
-(b)) The regular negative of the protasis is μή, of the
+(b) The regular negative of the protasis is μή, of the
 apodosis οὐ.
   
 84. VOCABULARY
@@ -2008,7 +1830,7 @@ apodosis οὐ.
 
 βασίλεια: queen. 
 γέφῡρα: bridge. 
-ἐγώ: J. EGOTIST. 
+ἐγώ: I. EGOTIST. 
 ὅπλον: implement, tool ;
 εἰ, proclit. conj.: if. frequently pl, arms (in war). PANOPLY.
 θάλαττα: sea. 
@@ -2033,6 +1855,7 @@ apodosis οὐ.
 1 The terms “protasis” and "apodosis" denote respectively the “if clause” and the "conclusion ” of conditional sentences.
 2 Proclitic of takes an accent at the end of a sentence, because no word follows with which it may be pronounced.
 
+@48
 7. οἱ μὲν κακοὶ ἐπὶ τῶν ἁμαξῶν ἔφυγον, ἡ δὲ βασίλεια οὐκ ἔλιπε τὴν γέφύραν. 
 8. εἰ ὁ ποταμὸς ἣν δια-βατός, ἤθελον αὐτὸν δια-βαίνειν.
 
@@ -2189,8 +2012,7 @@ Euclid.
 
 LESSON XVII
 
-PRESENT AND {MPERFECT INDICATIVE AND PRESENT
-INFINITIVE OF εἰμί. ENCLITICS
+PRESENT AND IMPERFECT INDICATIVE AND PRESENT INFINITIVE OF εἰμί. ENCLITICS
 
 ἄγροικός εἶμι· τὴν σκάφην σκάφην λέγω.
 Lam from the country; I call a spade a spade.
@@ -2267,6 +2089,8 @@ a contrary to fact from a past particular condition (§ 85).
 φᾱσί(ν),2 enclit.; they say.
 
 φησί(ν),2 enclit.: he or she says, PROPHET.
+
+@54
 
 99. EXERCISES
 
@@ -2398,179 +2222,9 @@ Distinguish between φυλακῶν and
 
 2 γυνή, like monosyllables of the consonant declensian, accents the ultima in the genitive and dative of all numbers. In the other forms it accents the last syllable of the stem.
 
-@Last login: Sat May 14 17:02:57 on ttys000
-/Users/gcrane/.zshrc:1: command not found: Skip
-/Users/gcrane/.zshrc:2: command not found: Search
-/Users/gcrane/.zshrc:3: command not found: Pull
-/Users/gcrane/.zshrc:4: command not found: Issues
-/Users/gcrane/.zshrc:5: command not found: Marketplace
-/Users/gcrane/.zshrc:6: command not found: Explore
-/Users/gcrane/.zshrc:8: command not found: @gregorycrane
-/Users/gcrane/.zshrc:9: command not found: ohmyzsh
-/Users/gcrane/.zshrc:10: permission denied: /
-/Users/gcrane/.zshrc:11: command not found: ohmyzsh
-/Users/gcrane/.zshrc:12: command not found: Public
-/Users/gcrane/.zshrc:13: command not found: Code
-/Users/gcrane/.zshrc:14: command not found: Issues
-/Users/gcrane/.zshrc:15: command not found: 187
-/Users/gcrane/.zshrc:16: command not found: Pull
-/Users/gcrane/.zshrc:17: command not found: 388
-/Users/gcrane/.zshrc:18: command not found: Discussions
-/Users/gcrane/.zshrc:19: command not found: Actions
-/Users/gcrane/.zshrc:20: command not found: Projects
-/Users/gcrane/.zshrc:21: command not found: 1
-/Users/gcrane/.zshrc:22: command not found: Wiki
-Usage: Security [-h] [-i] [-l] [-p prompt] [-q] [-v] [command] [opt ...]
-    -i    Run in interactive mode.
-    -l    Run /usr/bin/leaks -nocontext before exiting.
-    -p    Set the prompt to "prompt" (implies -i).
-    -q    Be less verbose.
-    -v    Be more verbose about what's going on.
-Security commands are:
-    help                                 Show all commands, or show usage for a command.
-    list-keychains                       Display or manipulate the keychain search list.
-    list-smartcards                      Display available smartcards.
-    default-keychain                     Display or set the default keychain.
-    login-keychain                       Display or set the login keychain.
-    create-keychain                      Create keychains and add them to the search list.
-    delete-keychain                      Delete keychains and remove them from the search list.
-    lock-keychain                        Lock the specified keychain.
-    unlock-keychain                      Unlock the specified keychain.
-    set-keychain-settings                Set settings for a keychain.
-    set-keychain-password                Set password for a keychain.
-    show-keychain-info                   Show the settings for keychain.
-    dump-keychain                        Dump the contents of one or more keychains.
-    create-keypair                       Create an asymmetric key pair.
-    add-generic-password                 Add a generic password item.
-    add-internet-password                Add an internet password item.
-    add-certificates                     Add certificates to a keychain.
-    find-generic-password                Find a generic password item.
-    delete-generic-password              Delete a generic password item.
-    set-generic-password-partition-list  Set the partition list of a generic password item.
-    find-internet-password               Find an internet password item.
-    delete-internet-password             Delete an internet password item.
-    set-internet-password-partition-list Set the partition list of a internet password item.
-    find-key                             Find keys in the keychain
-    set-key-partition-list               Set the partition list of a key.
-    find-certificate                     Find a certificate item.
-    find-identity                        Find an identity (certificate + private key).
-    delete-certificate                   Delete a certificate from a keychain.
-    delete-identity                      Delete an identity (certificate + private key) from a keychain.
-    set-identity-preference              Set the preferred identity to use for a service.
-    get-identity-preference              Get the preferred identity to use for a service.
-    create-db                            Create a db using the DL.
-    export                               Export items from a keychain.
-    import                               Import items into a keychain.
-    export-smartcard                     Export items from a smartcard.
-    cms                                  Encode or decode CMS messages.
-    install-mds                          Install (or re-install) the MDS database.
-    add-trusted-cert                     Add trusted certificate(s).
-    remove-trusted-cert                  Remove trusted certificate(s).
-    dump-trust-settings                  Display contents of trust settings.
-    user-trust-settings-enable           Display or manipulate user-level trust settings.
-    trust-settings-export                Export trust settings.
-    trust-settings-import                Import trust settings.
-    verify-cert                          Verify certificate(s).
-    authorize                            Perform authorization operations.
-    authorizationdb                      Make changes to the authorization policy database.
-    execute-with-privileges              Execute tool with privileges.
-    leaks                                Run /usr/bin/leaks on this process.
-    error                                Display a descriptive message for the given error code(s).
-    create-filevaultmaster-keychain      Create a keychain containing a key pair for FileVault recovery use.
-    smartcards                           Enable, disable or list disabled smartcard tokens.
-    translocate-create                   Create a translocation point for the provided path
-    translocate-policy-check             Check whether a path would be translocated.
-    translocate-status-check             Check whether a path is translocated.
-    translocate-original-path            Find the original path for a translocated path.
-    requirement-evaluate                 Evaluate a requirement against a cert chain.
-Missing filename ("less --help" for help)
-/Users/gcrane/.zshrc:25: no such file or directory: ohmyzsh/templates/zshrc.zsh-template
-/Users/gcrane/.zshrc:26: command not found: @mcornella
-/Users/gcrane/.zshrc:27: command not found: mcornella
-/Users/gcrane/.zshrc:28: command not found: Latest
-/Users/gcrane/.zshrc:29: command not found: History
-/Users/gcrane/.zshrc:30: command not found: 40
-/Users/gcrane/.zshrc:31: command not found: @robbyrussell@mcornella@ncanceill@hwti@zakkak@Dieterbe@cuonglm@midnite81@trevor@To1ne@TimelyToga@thii
-/Users/gcrane/.zshrc:32: unknown file attribute: 7
-/Users/gcrane/.zshrc:source:108: no such file or directory: /Users/gcrane/.oh-my-zsh/oh-my-zsh.sh
-/Users/gcrane/.zshrc:135: command not found: ©
-/Users/gcrane/.zshrc:136: command not found: Terms
-/Users/gcrane/.zshrc:137: command not found: Privacy
-Usage: Security [-h] [-i] [-l] [-p prompt] [-q] [-v] [command] [opt ...]
-    -i    Run in interactive mode.
-    -l    Run /usr/bin/leaks -nocontext before exiting.
-    -p    Set the prompt to "prompt" (implies -i).
-    -q    Be less verbose.
-    -v    Be more verbose about what's going on.
-Security commands are:
-    help                                 Show all commands, or show usage for a command.
-    list-keychains                       Display or manipulate the keychain search list.
-    list-smartcards                      Display available smartcards.
-    default-keychain                     Display or set the default keychain.
-    login-keychain                       Display or set the login keychain.
-    create-keychain                      Create keychains and add them to the search list.
-    delete-keychain                      Delete keychains and remove them from the search list.
-    lock-keychain                        Lock the specified keychain.
-    unlock-keychain                      Unlock the specified keychain.
-    set-keychain-settings                Set settings for a keychain.
-    set-keychain-password                Set password for a keychain.
-    show-keychain-info                   Show the settings for keychain.
-    dump-keychain                        Dump the contents of one or more keychains.
-    create-keypair                       Create an asymmetric key pair.
-    add-generic-password                 Add a generic password item.
-    add-internet-password                Add an internet password item.
-    add-certificates                     Add certificates to a keychain.
-    find-generic-password                Find a generic password item.
-    delete-generic-password              Delete a generic password item.
-    set-generic-password-partition-list  Set the partition list of a generic password item.
-    find-internet-password               Find an internet password item.
-    delete-internet-password             Delete an internet password item.
-    set-internet-password-partition-list Set the partition list of a internet password item.
-    find-key                             Find keys in the keychain
-    set-key-partition-list               Set the partition list of a key.
-    find-certificate                     Find a certificate item.
-    find-identity                        Find an identity (certificate + private key).
-    delete-certificate                   Delete a certificate from a keychain.
-    delete-identity                      Delete an identity (certificate + private key) from a keychain.
-    set-identity-preference              Set the preferred identity to use for a service.
-    get-identity-preference              Get the preferred identity to use for a service.
-    create-db                            Create a db using the DL.
-    export                               Export items from a keychain.
-    import                               Import items into a keychain.
-    export-smartcard                     Export items from a smartcard.
-    cms                                  Encode or decode CMS messages.
-    install-mds                          Install (or re-install) the MDS database.
-    add-trusted-cert                     Add trusted certificate(s).
-    remove-trusted-cert                  Remove trusted certificate(s).
-    dump-trust-settings                  Display contents of trust settings.
-    user-trust-settings-enable           Display or manipulate user-level trust settings.
-    trust-settings-export                Export trust settings.
-    trust-settings-import                Import trust settings.
-    verify-cert                          Verify certificate(s).
-    authorize                            Perform authorization operations.
-    authorizationdb                      Make changes to the authorization policy database.
-    execute-with-privileges              Execute tool with privileges.
-    leaks                                Run /usr/bin/leaks on this process.
-    error                                Display a descriptive message for the given error code(s).
-    create-filevaultmaster-keychain      Create a keychain containing a key pair for FileVault recovery use.
-    smartcards                           Enable, disable or list disabled smartcard tokens.
-    translocate-create                   Create a translocation point for the provided path
-    translocate-policy-check             Check whether a path would be translocated.
-    translocate-status-check             Check whether a path is translocated.
-    translocate-original-path            Find the original path for a translocated path.
-    requirement-evaluate                 Evaluate a requirement against a cert chain.
-/Users/gcrane/.zshrc:139: command not found: Status
-/Users/gcrane/.zshrc:140: command not found: Docs
-/Users/gcrane/.zshrc:141: command not found: Contact
-/Users/gcrane/.zshrc:142: command not found: Pricing
-/Users/gcrane/.zshrc:143: command not found: API
-/Users/gcrane/.zshrc:144: command not found: Training
-/Users/gcrane/.zshrc:145: command not found: Blog
-/Users/gcrane/.zshrc:146: command not found: About
-gcrane@MACLAU08628 ~ % cd Downloads/cros-schaeff-tiffs 
-gcrane@MACLAU08628 cros-schaeff-tiffs % vi 023eng.txt 
 
-58 AN INTRODUCTION TO GREEK
+
+@58 AN INTRODUCTION TO GREEK
 
 (c) Complete :
 
@@ -2814,7 +2468,8 @@ endings are the same as those of the present participle, except in the
 nominative singular, where -ς has been added to the stem, causing wr
 to drop out and lengthening α. In like manner inflect ceAaioas.
 
-116. Uses of Participles. (a) A participle, when used in
+116. Uses of Participles.
+(a) A participle, when used in
 the attributive position ($ 31, a), has the force of an attributive adjective. his is called the attributive participle :
 
 ὁ διαρπάζων στρατιώτης the plundering soldier, 
@@ -2922,7 +2577,8 @@ feminine is regular.
 
 
 
-122. Uses of πᾶς. (a) πᾶς, when modifying a noun,
+122. Uses of πᾶς.
+(a) πᾶς, when modifying a noun,
 usually has the predicate qgosition (§ 31, 6) and means
 all: 
  
@@ -3021,7 +2677,8 @@ God helps him who helps himself
 Aeschylus, fragment. Literally: God loves to assist zealously the man
 who works.
 
-127. Contract Verbs. (a) Two successive vowels are
+127. Contract Verbs.
+(a) Two successive vowels are
 regularly contracted into one long vowel or diphthong :
 
 ε+ω=ω; 
@@ -3331,7 +2988,8 @@ Write out the inflection of the present and imperfect indicative middle and pass
 infinitive and participle middle and passive. Compare
 with paradigms (§ 534). 
 
-144. Temporal Clauses. (a) ἐπεί  and ἐπειδή followed
+144. Temporal Clauses.
+(a) ἐπεί  and ἐπειδή followed
 by an imperfect or aorist indicative often mean when and
 refer to a definite act or situation in past time :
  
@@ -3384,7 +3042,7 @@ before, in which case there will be no negative in the main clause :
 1 Future and aorist middle are presented in the next lesson, at which time
 the forms will be morg intelligible. They are given now for convenience.
 
-@1
+@81
 
 8. ἀλλ᾽ ἐπειδὴ ταῦθ᾽ αἱρεῖσθε, ὑμῖν εἰς τὴν Ἕλλάδα ἡγοῦμαι.
 
@@ -3475,12 +3133,11 @@ he sent soldiers to gather provisions.
 @84
 
 155. VOCABULARY
+
+δεξιός: right, righthand, clever : ἡ δεξιᾷ: the right. Lat. dexter. 
+
 γίγνομαι, γενήσομαι, ἐγενόμην: become, be born, be, prove to be, ecliptic. GENESIS.
 
-νέος: new, young, fresh. Lat. novus, NEOPHYTE.
-
-ὀλίγος: little, few. OLIGARCHY.
-δεξιός: right, righthand, clever : ἡ δεξιᾷ: the right. Lat. dexter. 
 
 
 
@@ -3494,6 +3151,11 @@ with D.
 ϑυμός: spirit, temper, mind. 
 
 ἱκανός: sufficient, able, capable,
+
+νέος: new, young, fresh. Lat. novus, NEOPHYTE.
+
+ὀλίγος: little, few. OLIGARCHY.
+
 
 ὁμο-λογέω, ὁμο-λογήσω, ὡμολόγησα: say the same thing, agree. HOMOLOGOUS.
 
@@ -3589,6 +3251,8 @@ perfect, future, and aorist indicative active and middle ot
 πέμπω, ἄγω, ἀθροίζω. Give the corresponding infinitives.
 
 (f) Inflect the future and aorist active participles of πείθω.
+
+@87
 
 (g) What vowels or diphthongs are contracted with ε to give ου, ει, ω? with α to give ω?
 
@@ -3847,8 +3511,7 @@ Where do πόσος and ὁπύσος fit in such a scheme?
 τίς, τί, inter. pron. : who, what?
 τί, sometimes = why?
 τις, τι, indef. pron.: some, any.
-ὅστις, ἦτις, ὅ τι, indef. rel. pron.: whoever, whichever,
-whatever.
+ὅστις, ἦτις, ὅ τι, indef. rel. pron.: whoever, whichever, whatever.
 χρόνος: time. CHRONOMETER
 
 1 Not all the words in this vocabulary will be used in the lesson, but
@@ -3858,7 +3521,7 @@ because of their interrelation it seems wise to group them here.
 
 @93
 
-170. EXERCISE
+170. EXERCISES
 
 Translate :
 
@@ -3900,8 +3563,7 @@ SUBJUNCTIVE ACTIVE
 ῥᾷον παραινεῖν ἢ παθόντα καρτερεῖν.
 It is easier to give advice than to bear one’s own ills.
 Euripides, Alcestis, 1078. 
-Literally: (It is) easier to advise than having
-suffered to endure.
+Literally: (It is) easier to advise than having suffered to endure.
 
 
 173. The subjunctive in all its tenses and voices uses the
@@ -3923,7 +3585,8 @@ of φιλέω. Compare with paradigm (§ 534).
 
 @95
 
-176. Uses of the Subjunctive. (a) The subjunctive as
+176. Uses of the Subjunctive.
+(a) The subjunctive as
 the main verb and in the first person (generally plural)
 denotes exhortation.
 
@@ -4221,7 +3884,8 @@ Write the inflection of the present optative active of
 Inflect the present, future, and aorist optative active of
 πέμπω, ἄγω, πείθω, ποιέω.
 
-192. Uses of the Optative. (a) The optative when
+192. Uses of the Optative.
+(a) The optative when
 used alone or with εἴθε or ef γάρ expresses a wish that
 refers to the future. As in the subjunctive (§ 176, a),
 present and aorist respectively denote continued action
@@ -4379,7 +4043,8 @@ Present Optative Middle and Passive of παύω I stop
 
 
 
-198. (a) Write the inflection of the optative middle of
+198.
+(a) Write the inflection of the optative middle of
 παύω in future and aorist ; of λείπω in the aorist ; and of
 φιλέω in the present (contracting ε with the endings
 of παυοίμην, § 127). Compare with paradigms ($$ 527,
@@ -4388,7 +4053,8 @@ of παυοίμην, § 127). Compare with paradigms ($$ 527,
 (b) Write the inflection of the present, future, and
 aorist optative middle of πέμπω, ἄγω, πείθω, ποιέω.
 
-199. The Optative in Conditions. (a) εἰ with the optative may state the protasis of a past general or a future
+199. The Optative in Conditions.
+(a) εἰ with the optative may state the protasis of a past general or a future
 
 @106 AN INTRODUCTION TO GREEK
 
@@ -4440,7 +4106,7 @@ This is called a potential optative. The negative is ov.
 3 This is really a future less vivid condition with the conditional part
 omitted.
 
-107
+@107
 
 4. ὥστε ἐπ-εθύμουν στρατεύεσθαι μᾶλλον ἢ ἄ-δικοι γενέσθαι. 
 5. ἀλλ᾽ ἔδει οἶνον καὶ σῖτον πορίζειν, ἵνα στρατευόμενοι τρέφοιντο.
@@ -4629,7 +4295,8 @@ Sophocles, Philoctetes, 641.
 
 Menander, fragment.
 
-210. Word-formation. (a) -τικος added to a verb stem 
+210. Word-formation.
+(a) -τικος added to a verb stem 
 makes an adjective that denotes relation, fitness, or ability.
 Many of these words have passed over into English with
 slight change:
@@ -5027,7 +4694,8 @@ verse by the attendant priests.
 δεῖ ποιεῖν ὅσα ἃ θεὸς ἐκέλευσεν.
 
 
-225. Word-formation. (a) The names of certain sciences
+225. Word-formation.
+(a) The names of certain sciences
 have been explained in § 210, d and e. Others are formed
 from ypddew and réyo :
 γέα (γῆ) earth, 
@@ -5372,7 +5040,8 @@ sponding form of the masculine and neuter.
 μέγας big, great
 
 
-245. Two Accusatives. (a) Two accusatives may ocuur
+245. Two Accusatives.
+(a) Two accusatives may ocuur
 with verbs meaning appoint, choose, call, make, and the like.
 One of these accusatives is the direct object, the other isa
 predicate accusative:
@@ -5497,7 +5166,8 @@ REGULAR COMPARISON OF ADJECTIVES
 ’Tis hard not to love.’
 Anacreontic. The infinitive is here used as a neuter noun, as τὸ shows.
 
-251. Comparison of Adjectives. (a) The comparative
+251. Comparison of Adjectives.
+(a) The comparative
 degree of adjectives is commonly formed by adding -εέρος,
 -τέρα, -τερον to the masculine stem of the positive.
 
@@ -5535,7 +5205,8 @@ Give the comparative and superlative of δεινός, σοφός,
 
 ἀσφαλής.
 
-253. Inflection of Comparatives and Superlatives. (a)
+253. Inflection of Comparatives and Superlatives.
+(a)
 Comparatives in -tepos are declined like pixpds; super-
 latives in -tatos and -tores are declined like ayaGds.
 The accent of all comparatives and superlatives is recessive
@@ -5543,7 +5214,7 @@ The accent of all comparatives and superlatives is recessive
 
 Inflect πιστότερος, πιστότατος, τάχιστος.
 
-(6) Comparatives in -ῑων are inflected like εὐδαίμων,
+(b) Comparatives in -ῑων are inflected like εὐδαίμων,
 except that they have additional forms as given below.
 These additional forms come from a stem in -οσ, which
 drops the ο between two vowels and contracts: ο+α= ω,
@@ -5713,7 +5384,7 @@ Latin ablative of degree of difference) :1
 Κῦρος πολλῴ ἦν νεώτερος 
 Cyrus was much younger (that is, younger by much).
 
-EXERCISES
+262. EXERCISES
 
  
 
@@ -5978,7 +5649,8 @@ he began his speech ;
 ἤκουσαν τῆς σάλπιγγος 
 they heard the trumpet.
 
-276. Prepositions. (a) Prepositions at first were adverbs and in classic Greek they still occasionally retain
+276. Prepositions.
+(a) Prepositions at first were adverbs and in classic Greek they still occasionally retain
 that function. Usually they show adverbial force when
 used as prefixes to compound verbs. Often the preposition with the proper case is repeated in connection with
 the compound verb.
@@ -6082,7 +5754,8 @@ Adapted from Plutarch, Alcibiades, 11.
 This slab from the Parthenon Frieze portrays a member of the City Troop
 about to mount for the Panathenaic procession.</f>
 
-280. Word-formation. (a) The suffix -σις, both in Greek
+280. Word-formation.
+(a) The suffix -σις, both in Greek
 and in English, denotes a name of an action:
 
 ἀναλύω analyze, ἀνάλυσις ANALYSIS;
@@ -6590,7 +6263,8 @@ in man and his idealisms, and of our faith in the triumph
 of the highest.
 T. R. Glover, Herodotus, page 254.
 
-292. Word-formation. (a) Nouns that are formed from
+292. Word-formation.
+(a) Nouns that are formed from
 verb stems by adding -ματ (nominative mμα, English mma)
 express the result or effect of an action. Their nominatives
 often pass directly into English; more often α is dropped:
@@ -6651,7 +6325,8 @@ Aap Bave.
 Inflect the present imperative active of φιλέω, observing rules for
 contraction and accent (§ 127). Compare with paradigm (§ 534).
 
-294. Uses of the Imperative. (a) The imperative denotes a command. The present imperative does not differ
+294. Uses of the Imperative.
+(a) The imperative denotes a command. The present imperative does not differ
 from the aorist imperative in time, all imperatives necessarily referring to the future. The difference is that to
 be found with the subjunctive (§ 176, a), the present denoting continuance or repetition (motion picture), the aorist
 mere oceurrence (snapshot):
@@ -7104,7 +6779,8 @@ Inflect the aorist indicative, subjunctive, optative,
 imperative, infinitive, and participle active and middle of
 gaive. Compare with paradigm ($ 529).
 
-314. Object Clauses after Verbs of Fearing. (a) After
+314. Object Clauses after Verbs of Fearing.
+(a) After
 a verb of fearing in a primary tense μή lest and the subjunctive state the object of fear:
 
 φοβεῖται μὴ κακὰ πάθῃ 
@@ -7213,7 +6889,7 @@ Plutarch, Themistocles, XVII. 3.
 
 3 Aorist follows.
 
-@1472 AN INTRODUCTION TO GREEK
+@172 AN INTRODUCTION TO GREEK
 
 318. SANG FROID
 
@@ -7261,7 +6937,8 @@ PERFECT ACTIVE!
 εὕρηκα. — I have it.
 Archimedes. Motto of the state of California. Literally: 7 have found
 
-319. The Perfect Indicative. (a) The perfect denotes
+319. The Perfect Indicative.
+(a) The perfect denotes
 completed action with the effect of the action still continuing at the time of speaking or writing:
 
 πέπαυκα I have stopped (it), that is, I have (it) stopped at the
@@ -7869,7 +7546,7 @@ Write in Greek:
 
 1 Only in compounds.
 
-@183 AN INTRODUCTION TO GREEK 
+@188 AN INTRODUCTION TO GREEK 
 
  
 
@@ -8310,7 +7987,7 @@ out its inflection. Compare with paradigm (§ 514, f).
 
 usual than ἐδύνασο. The same applies to ἐπίσταμαι.
 
-199
+@199
 
 366. VOCABULARY 
 δύναμαι, δυνήσομαι, δεδύνημαι, ἐδυνήθηv: be able, DYNAMIC.
@@ -8384,6 +8061,50 @@ to His disciples :
 
 1 The illustration shows an ancient signet. Note the mistake in spelling
 
+@201
+
+LESSON LX
+
+SECOND AORIST ACTIVE OF ἵστημι1
+
+δός μοι ποῦ στῶ, καὶ κινῶ τὴν γῆν.
+Give me where I muy stand and I will move the earth?
+Archimedes.
+
+371. tornpt in the Second Aorist. (a) Learn the inflection of ἵστημι in the second aorist active (§ 535).
+Note that a occurs in all forms of the optative and of the
+participle, and in the third person plural of the imperative.
+η occurs in all other forms except where ω is normal in
+the subjunctive.
+
+Note the general similarity, apart from stem (στα-, not
+ἱστα-), between the second aorist and the present active
+except in the indicative plural, the imperative, and the
+infinitive).
+
+(b) Inflect στάς (like ἱστάς).
+
+(c) In like manner inflect the aorist of βαίνω (ἔβην).
+
+372. Meanings of ἵστημι. Besides the normal meanings appropriate to that voice, the middle of ἵστημι in
+the intransitive usage frequently means to stand. The
+second aorist, perfect, and pluperfect active of this verb
+are always intransitive.
+
+ 
+
+373. VOCABULARY
+ἔπ-ειτα, adv.: thereupon, next. Cf. εἶτα.
+
+
+ἴσως, adv.: perhaps.
+ὅμως, adv.: all the same, however. 
+
+στέλλω, στελῶ, ἔστειλα, ἔσταλκα, ἔσταλμαι, ἐστάλην: send. APOSTOLIC, PERISTALTIC.
+
+τοίνυν, post-pos. adv.: then, therefore.
+
+1 ἵστημι has no second aorist middle. 
 @202 AN INTRODUCTION TO GREEK
 
 374. EXERCISES
@@ -8421,7 +8142,8 @@ Adapted from Aesop, 285.
 
 @203
 
-376. Word-formation. (a) Nouns in -σιᾱ express an 
+376. Word-formation.
+(a) Nouns in -σιᾱ express an 
 abstract idea of action. Many such words have passed
 directly into English :
 
@@ -8460,7 +8182,8 @@ in the present system (§ 536). Note the general similarity to ἴστημι; an
 singular, is enclitic. Instead of the participle φάς, Attic
 prose uses φάσκων.
 
-378. Indirect Discourse. (a) Review the principles already studied for the various constructions that follow
+378. Indirect Discourse.
+(a) Review the principles already studied for the various constructions that follow
 words of saying, thinking, telling, knowing, and perceiving
 (§§ 211-217).
 
@@ -8626,13 +8349,14 @@ active voice has alternative forms that are like the forms
 of φιλέω (§ 5384). In the active participle ε lengthens
 to ει.
 
-385. ἵημι in the Present. (a) ἵημι in the present system
+385. ἵημι in the Present.
+(a) ἵημι in the present system
 is like τίθημι, except that it has an alternative form, ἱεῖς,
 in the second person singular present indicative active
 and contracts -εᾱσι to -ᾶσι in the third person plural of
 the same tense.
 
-(b) Write the inflection of fue in the present system.
+(b) Write the inflection of ἵημι in the present system.
 Compare with paradigm (§ 537).
 
 386. The participles τιθείς and ἱεῖς are inflected like
@@ -8649,7 +8373,7 @@ inscribed on the temple of Apollo at Delphi.
 ἅμα, adv.: together with, at the  same time as. Cf. ἅμ-αξα. HAMADRYAD.
 ξύλον, ξύλου, τό: wood. XYLOPHONE.
  
- τίθημι, θήσω, ἔθηκα, τέθηκα, τέθειμαι, ἐτέθην : put, place.  Frequently in compounds. ANTITHESIS.
+τίθημι, θήσω, ἔθηκα, τέθηκα, τέθειμαι, ἐτέθην : put, place.  Frequently in compounds. ANTITHESIS.
 ἅπαξ, adv.: altogether, once for all, Cf. ἅ-πᾱς.
  
 εἶδον,1 2d. aor. : saw. 
@@ -8665,8 +8389,7 @@ inscribed on the temple of Apollo at Delphi.
 (a) Translate :
 
 1. ἤδη ἵεντο ὥσπερ ἂν δράμοι τις τοῦ σώματος ἕνεκα
-2. τῶν δὲ Μένωνος στρατιωτῶν τις ξύλα σχίξων (compare
-SCHISM) ὡς εἶδε Κλέαρχον δι-ελαύνοντα, ἵησι τῇ ἀξένῃ 2 (ax).
+2. τῶν δὲ Μένωνος στρατιωτῶν τις ξύλα σχίξων (compare SCHISM) ὡς εἶδε Κλέαρχον δι-ελαύνοντα, ἵησι τῇ ἀξένῃ 2 (ax).
 3. ἀλλ᾽ ἅμα ἰδὼν τὰν ἀδελφὸν ἵετο ἐπ᾽ αὐτόν. 
 4. φοβούμεθα γὰρ μὴ ἅμα τῇ ἡμέρᾳ ἡμῖν ἐπι-τιθῶνται. 
 5. οὐδεὶς τῶν Ἀθηναίων τοιαύτην σοφίαν εἶχεν οἵαν Σωκράτης.
@@ -8778,7 +8501,8 @@ Son, come home with your shield or on it.
 Plutarch, Moralia, 241 F.1 
 Literally: Son, (bring) this or (come) on this.
 
-391. τίθημι in the Aorist. (a) Learn the inflection ot
+391. τίθημι in the Aorist.
+(a) Learn the inflection ot
 τίθημι in the aorist active and middle (§ 535). Note
 that first aorist forms occur in the singular of the indicative
 active. Note also the general similarity, apart from the
@@ -9071,7 +8795,8 @@ of the New York Post Office at 33rd Street and Eighth Avenue.
 
 @219 
 
-409. Word-formation. (a) Compound nouns and adjectives are formed by uniting to a substantive stem or to a verb stem with substantive suffix :
+409. Word-formation.
+(a) Compound nouns and adjectives are formed by uniting to a substantive stem or to a verb stem with substantive suffix :
 
 (1) A substantive or an adjective
 φωσ-φόρος bringing light, PHOSPHORUS ;
@@ -9282,7 +9007,8 @@ AORIST ACTIVE AND MIDDLE OF δίδωμι
 Not every man may visit Corinth.
 Greek maxim
 
-410. δίδωμι in the Aorist. (a) Learn the infiection of
+410. δίδωμι in the Aorist.
+(a) Learn the infiection of
 δίδωμι in the aorist active and middle (§ 535). Note the
 general resemblance to the corresponding forms of τίθημι.
 Note also that, as ἔθεμεν, κ.τ.λ., parallels ἐτίθεμεν. κ.τ.λ.,
@@ -9293,7 +9019,8 @@ between θοῦ, οὗ, δοῦ.
 
 (2) Inflect δούς (like διδούς).
 
-411. Unattainable Wishes.2 (a) εἴθε or εἰ γάρ  with the
+411. Unattainable Wishes.2
+(a) εἴθε or εἰ γάρ  with the
 imperfect indicative expresses an unattainable wish in present
 time; with the aortst indicative, an unattainable wish in
 past time :
@@ -9469,7 +9196,8 @@ Aeschylus, Prometheus, 514. Compare the English, Necessity is the mother of inve
 
 ASSIGNMENTS
 
-416. (a) Review the words in § 556, following the
+416.
+(a) Review the words in § 556, following the
 method suggested in § 27, a. Give principal parts of the
 verbs.
 
@@ -9535,7 +9263,8 @@ All is flux
 Heraclitus. A curious and interesting foreshadowing of the modern
 theory of evolution.
 
-418. Rules for Contraction. (a) Review the principles
+418. Rules for Contraction.
+(a) Review the principles
 of contraction in § 127.
 (b) Rules for contraction of verbs in -aw:
 
@@ -9660,7 +9389,8 @@ scene.</f>
 
 Adapted from Herodotus, II. 32.
 
-424. Word-formation. (a) Verbs formed by adding
+424. Word-formation.
+(a) Verbs formed by adding
 -αω to noun (or adjective) stems denote action of a
 nature similar to that expressed by the noun (or adjective).
 They usually denote te do, to be, or to have what the stem
@@ -9713,7 +9443,7 @@ ment or means, and place.
 ὅσος, ὅση, ὅσον: sing., as large as, as much as: pl, as many as.
  
 
- 231
+@231
 
 429. EXERCISES
 (a) Translate:
@@ -9819,7 +9549,8 @@ Euripides, fragment.
 
 Anacreontic,
 
-434. Word-formation. (a) Numerous compounds in
+434. Word-formation.
+(a) Numerous compounds in
 Greek and English derive their second part from the stem
 ιδ of εἶδον and οἶδα. -ειδής and English -oid both come
 from εἶδος that which is seen, shape ; and from them come
@@ -10212,7 +9943,8 @@ Note the general similarity of the indicative, imperative, infinitive, and parti
 
 αὐτῶν· σὺ δ᾽ ἴσως πολυ-μαθὴς ὢν περὶ τῶν αὐτῶν οὐδέποτε
 
-1 See sentence 2 in (a).
+1 See sentence 2 in
+(a).
 
 @243 
 
@@ -10265,7 +9997,8 @@ Know thyself
 Thales, as quoted by Diogenes Laertius, I. 40. 
 Also said to have been inscribed on the temple of Apolle at Delphi.
 
-453. γιγνώσκω in the Aorist. (a) Learn the inflection 
+453. γιγνώσκω in the Aorist.
+(a) Learn the inflection 
 of ἔγνων (§ 548).
 
 Although not a -μι verb, γιγνώσκω has an aorist much
@@ -10328,7 +10061,7 @@ CRANIUM) τῶν σαρκῶν (Compare SARCOPHAGUS) γυμνά,
 letters of the alphabet to represent numbers. 1-6=α β γ δ ε ϛ  and 7—10
 = ζ η θ ι. Their day was from sunrise to sunset.
 
-@46 AN INTRODUCTION TO GREEK
+@246 AN INTRODUCTION TO GREEK
 
 
 
@@ -10408,7 +10141,8 @@ their own dwellings. This majestic shrine stands in a remote corner of
 mountainous Arcadia. It is said to have been built by the architect of the
 Parthenon.
 
-461. Rules of Contraction. (a) Review the principles
+461. Rules of Contraction.
+(a) Review the principles
 of contraction in § 127.
 (b) Rules for contraction of verbs in -οω:
 
@@ -10422,7 +10156,8 @@ of contraction in § 127.
 
 @248 AN INTRODUCTION TO GREEK
 
-462. Inflection of δηλόω. (a) Write out inflection of the
+462. Inflection of δηλόω.
+(a) Write out inflection of the
 present system of δηλόω. Compare with paradigm (§ 534).
 (b) In other systems than the present, o of the stem
 becomes ω : δηλόω, δηλώσω, ἐδήλωσα, κ.τ.λ.
@@ -10511,7 +10246,8 @@ upon an inattentive jury.
 δ᾽ εἶπεν ὅτι τὸν ὄνον μισθωσάμενος μισθώσαιτο καὶ τὴν σκιᾶν.
 ἐν τούτῳ (meanwhile) μαχομένους αὐτοὺς κατ-έλιπεν ὁ ὄνος.
 
-467. Word-formation. (a) Verbs formed by adding -οω
+467. Word-formation.
+(a) Verbs formed by adding -οω
 to noun (or adjective) stems denote action of a nature
 similar to that expressed by the noun (or adjective). They
 are usually causative : 
@@ -10707,7 +10443,7 @@ treasure to justify the Homeric epithet "golden."</f>
 3. ἀλλ᾽ οὐκ ἔσται τὸν λύφον κτᾶσθαι, ἐὰν μὴ πελταστὰς περὶ τὸ ἄκρον κύκλῳ ἱστῆτε. 
 4. καὶ ὅσᾱς ἔλαβον κώμᾱς πᾶσᾱς ηὕρισκον μεστὰς οὔσᾱς σίτου καὶ οἴνου, ὥστε μὴ δεῖν τὰ ἐπιτήδεια ὠνεῖσθαι. 
 
-@c256 ΑΝ ἹΝΤΕΟΘΤΠΟΤΙΟΝ ΤῸ ΘΠΕΕΚ
+@256 ΑΝ ἹΝΤΕΟΘΤΠΟΤΙΟΝ ΤῸ ΘΠΕΕΚ
 
 5. πρὶν μέντοι εἰς τὴν μάχην ἰέναι, πάντες οἱ Πέρσαι ὁπλίζονται θώραξι καὶ
 ἀσπίσι καὶ λόγχαις. 
@@ -10819,7 +10555,7 @@ tenses (§ 546, a and e).
 
 2 Dees not contract.
 
-259 
+@259 
 
 482. EXERCISES
 (a) Translate :
