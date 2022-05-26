@@ -205,7 +205,7 @@ the Latin ablative in its from relations.
 
 @6
 
-1. TRANSLATION HINTS
+11. TRANSLATION HINTS
 
 . Learn all words given in vocabularies.
 
@@ -847,6 +847,15 @@ Imperfect Indicative Active of ω-verbs
 Work is no disgrace, but idleness is a disgrace.
 Hesiod, Works and Days, 311.
 
+41. The Imperfect Tense. his tense denotes action
+continued, repeated, customary, or attempted in past time:
+
+ἔπαυον I was stopping, I kept stopping, I used to stop, I tried to stop.
+
+IMPERFECT INDICATIVE ACTIVE
+
+παύω I stop ἄγω lead
+
 42. Formation. The imperfect tense is built on the
 present stem showing the variable vowel (ο or ε). Being
 a secondary3 tense, it differs from the present in having
@@ -1010,7 +1019,7 @@ Periander
 
 1. A labial (π, β, φ) unites with σ to form y (πσ) ;
 
-2, A palatal (κ, γ, χ) unites with σ to form & (κσ);
+2. A palatal (κ, γ, χ) unites with σ to form & (κσ);
 
 3. A dental (τ, δ, θ) before σ is dropped:
 
@@ -1025,7 +1034,7 @@ Future Indicative of παύω I stop
 
 In like manner inflect λύω, γράφω, ἄρχω, πείθω.
 
-59. Indirect Discourse.
+50. Indirect Discourse.
 (a) Verbs whose meaning implies mental action (saying, thinking, or the like) are used to introduce an indirect quotation : the general sends (sent)
 
 @27
@@ -1669,7 +1678,7 @@ DEMONSTRATIVE PRONOUNS
 Make haste slowly.
 Suetonius, Augustus, 25. A favorite expression of Augustus.
 
-74, The principal demonstrative pronouns are οὗτος this
+74. The principal demonstrative pronouns are οὗτος this
 (Latin hic), ὅδε this, and ἐκεῖνος that (Latin ille).
 
 οὗτος this
@@ -2019,13 +2028,18 @@ Lam from the country; I call a spade a spade.
 Comic Attic fragment. 
 Literally : I am a countryman; I call the tub a tub.
 
-93. The verb eipi to de is irregular, as are the corresponding verbs in English and Latin.
+93. The verb εἰμί to be is irregular, as are the corresponding verbs in English and Latin.
 
 94. All forms of the present indicative of εἰμί except
 εἶ are enclitic. ἔστι when thus accented means exists or is
 possible, except that it is regularly so accented after ἀλλά,
 καί, μή, οὐκ, τοῦτο, ὡς and εἰ (if), whether it has this spe-
 cial meaning or not.
+
+95. Enclitics. (a) If the preeeding word has an ac-
+cent on the ultima, the enclitic has no accent : 
+
+καλοί εἰσιν they are beautiful.
 
 (b) If the preceding word has an acute on the antepenult or a circumflex on the penult, it receives an additional acute on the ultima and the enclitic has no accent :
 
@@ -2368,10 +2382,9 @@ cheers the thirsty,
 
 
 
-ASSIGNMENTS
+111. ASSIGNMENTS
 
-(a) Review Vocabulary
-III, page 330, following the 
+(a) Review Vocabulary III, page 330, following the 
 method indicated in § 27, a.
  
 (b) Name and define the
@@ -4490,7 +4503,7 @@ Latin.
 9. ἀλλ᾽ εἰ ὑμᾶς ἠσθόμην οὕτως ὀλίγους ὄντας, οὐκ ἂν ἔπεμψα ὑμᾶς ἐπὶ τὴν κώμην. 
 10. τοῦ δὲ Κύρου ὁ ἠκούσατε τοὺς βαρβάρους κραυγῇ μάχεσθαι. 
 11. ἀλλ᾽ οὐ γιγνώσκομεν τίνα βουλὴν ποιεῖται. 
-13. εὑρίσκουσι δ᾽ αὐτοὺς τὰ ὅπλα κλέπτοντας.
+12. εὑρίσκουσι δ᾽ αὐτοὺς τὰ ὅπλα κλέπτοντας.
 
 (b) Complete :
 
@@ -4937,7 +4950,7 @@ they are following the commander.
 
 
 
-238, EXERCISES
+238. EXERCISES
 
 (a) Translate : 
 
@@ -4975,7 +4988,7 @@ they are following the commander.
 4, During that month the Greek soldiers kept asking for their pay. 
 5. They may reach their fatherland within ten months,
 
-229. A PRACTICAL POLITICIAN
+239. A PRACTICAL POLITICIAN
 
 καὶ δὴ τῷ πλήθει ἐν-ήρμοττε (fitted in with) Θεμιστοκλῆς
 λέγων μὲν τὸ ὄνομα ἑκάστου (Θeach), κριτὴν (judge) δὲ
@@ -7156,7 +7169,8 @@ verbs.
 διαβατέος ἐστὶν ὁ ποταμός the river must be crossed.
 (b) They may be used impersonally: 1
 πρᾱκτέον ἐστίν it must be done.
-231. Dative of Agent. The dative of reference, used with
+
+331. Dative of Agent. The dative of reference, used with
 
 a perfect passive or a verbal in -τέος, denotes the agent: 2
 
@@ -7445,7 +7459,7 @@ perfect, perfect middle, and aorist passive. These supply
 the stems for the various tenses (with all the moods of
 each) in the three voices (§ 548).
 
-5.5. One or more parts are lacking in very many verbs,
+345. One or more parts are lacking in very many verbs,
 which therefore are not inflected or used in the tenses thus
 lacking. In many verbs one or more of the parts are
 irregular as to form.
@@ -8441,7 +8455,7 @@ Theophrastus, Characters, III.
 Zeus was the supreme god o the universe.</f>
 
 
-290. Word-formation. Reference has already been made
+390. Word-formation. Reference has already been made
 (§ 210) to certain ways in which Greek technical terms
 originated. Frequently the word as then used still ap-
 plies. The Greeks would understand us if they heard us
@@ -9909,7 +9923,7 @@ Note the general similarity of the indicative, imperative, infinitive, and parti
 
 @242 AN INTRODUCTION TO GREEK
 
-449, EXERCISES
+449. EXERCISES
 (a) Translate :
 
 1. στρατηγὸν δὲ ἀπο-δείκνῦσιν αὐτὸν πάντων ὅσοι εἰς Καστωλοῦ πεδίον ἀθροίζονται. 
@@ -10671,13 +10685,14 @@ discourse and not in indirect discourse (§ 546, a and ¢).
 
 πλέθρον, -ου. τό : plethron (100 ft.)
 
-σημαίνω, σημανῶ, ἐσήμηνα, σεσήμασμαι, ἐσημάνθην: give a signal, signify, betoken.
+σημαίνω, σημανῶ, ἐσήμηνα, σεσήμασμαι, ἐσημάνθην: give a signal, signify, betoken. SEMANTIC, SEMAPHORE.
 
 ἐν-θυμέομαι, -θυμήσομαι, -τεθύμημαι, -εθυμήθην:  have in mind, consider, reflect.
 
   
+491. EXERCISES
 
-SEMANTIC, SEMAPHORE.
+(a) Translate:
 
 1. ἀλλ᾽ εἴ τις αὐτὸν βλάπτοι, ἐτιμωρεῖτο. 
 2. τότε δὴ ἠρώτησεν εἰ δέοι τοὺς ἐμπείρους φθάνειν ὠνουμένους τὰ ἐπιτήδεια.
@@ -10789,7 +10804,7 @@ renses (§ 546, a and c).
 ποῦς, ποδός, ὁ; foot, leg. OCTOPUS.
 ὑπο-ζύγιον, ὑπο-ζυγίου, τό: beast of burden. Cf. ζεύγνῦμι.
  
-497, EXERCISES
+497. EXERCISES
 
 (a) Translate:
 
@@ -10881,7 +10896,7 @@ THE PARTING OF HECTOR AND ANDROMACHE
 
 @269
 
-§00. The Iliad has had an incalculable influence on the
+500. The Iliad has had an incalculable influence on the
 literature of the world. It has been read in the schools
 by boys of all nations from the earliest days of Greece to
 the present time. Greek poets quoted it, Latin poets borrowed from it, most modern poets have attempted to translate it. Keats bears eloquent testimony to his own feelings:
@@ -10910,7 +10925,7 @@ Look’d at each other with a wild surmise --
 Silent, upon a peak in Darien.
 
  @270
-XXIX
+LESSON XXIX
 
 SUMMARY OF INDICATIVE FORMS AND USES
 Ζεὺς σωτὴρ καὶ νίκη. 
