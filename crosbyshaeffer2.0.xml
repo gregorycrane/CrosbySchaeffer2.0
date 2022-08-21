@@ -144,7 +144,7 @@ he sends his brother to the general.
 verb: ἀδελφὸν πέμπει he sends a brother.</p></div>
 
 <div type="textpart" subtype="para" n="5"><p>The Article.
-(a) Like English, and unlike Latin,
+(a) <rs type="lemma">ὁ</rs> Like English, and unlike Latin,
 Greek has a definite article. This agrees with its noun
 in gender, number, and case. It often serves as a possessive pronoun, as my, your, his, etc. ὁ and οἱ are proclitic
 (page xxvii). 
@@ -936,7 +936,7 @@ They will be treated later.
 
 <rs type="lemma">φίλιος</rs>, φιλία, φίλιον: friendly.
 
-χώρᾱ country.</p></div>
+<rs type="lemma">χώρᾱ</rs> country.</p></div>
 
 <div type="textpart" subtype="para" n="39">
 <p>EXERCISES
@@ -2073,7 +2073,8 @@ and dative show the same agreement.</p>
 <p>In like manner inflect θάλαττα and βασίλεια.</p></div>
 
 <div type="textpart" subtype="para" n="82">
-<p>The Personal Pronouns are ἐγώ, σύ you (sg.), for
+<p>The Personal Pronouns are <rs type="lemma">ἐγώ</rs>, 
+  <rs type="lemma">σύ</rs> you (sg.), for
 the first and second persons. For the third person, αὐτός
 is used in all cases except the nominative.
 
@@ -2524,7 +2525,7 @@ ypayw mevre quepwy | shall write within five days.</p></div>
 <rs type="lemma">φύλαξ.</rs> φύλακος, ὁ: guard. Cf. φυλακή, φυλάττω.
 <rs type="lemma">κῆρυξ</rs>, κήρῡκος, ὁ: herald.
 
-πρός, prep.: with G., from the side of, in the sight of; with D., near, beside, besides ; with A., to the side of, toward. PROSELYTE.</p></div>
+<rs type="lemma">πρός</rs>, prep.: with G., from the side of, in the sight of; with D., near, beside, besides ; with A., to the side of, toward. PROSELYTE.</p></div>
 
 <div type="textpart" subtype="para" n="105">
 <p>EXERCISES 
@@ -3257,7 +3258,7 @@ action (compare with the Latin a or ab and the ablative): 1
 <rs type="lemma">ἕπομαι</rs>: follow, with D. 
 <rs type="lemma">πορεία</rs>: journey.
 <rs type="lemma">ἔρχομαι</rs>, ἦλθον (aor.): come, go. 
-<rs type="lemma">πορεύομαι</rs>: journey, march,
+<rs type="lemma" n="πορεύω">πορεύομαι</rs>: journey, march,
 <rs type="lemma">ἥδομαι</rs>; be pleased. HEDONIST. 
 <rs type="lemma">ὑπό</rs>, prep.: with G., from under, by (agent); with D., under, beneath (with verbs of rest); with A., under (with verbs of motion). HYPOTHESIS.
 <rs type="lemma">μάχομαι</rs>: fight, give battle. Cf. μάχη. 
@@ -3408,7 +3409,17 @@ before, in which case there will be no negative in the main clause :
 
 <rs type="lemma">δεσπότης</rs>, του, ὁ: master. DESPOT. 
 <rs type="lemma">ἐπεί</rs>, conj.: when, because, since.
-ἐπειδή, conj.; when, because, since.</p></div>
+<rs type="lemma">ἐπειδή</rs>, conj.; when, because, since.</p></div>
+
+<rs type="lemma">ἐπι-μελέομαι</rs>, -μελήσομαι1: take care of, care for; with G. or object clause.
+
+<rs type="lemma">ἡγέομαι</rs>, ἡγήσομαι, ἡγησάμην1: with G., be leader of ; with D., be leader for; also with int., believe. Cf. Lat. duco. HEGEMONY.
+
+<rs type="lemma">μόνος</rs>, μόνη, μόνον: only, sole. MONOLOGUE.
+
+<rs type="lemma">περί</rs>, prep.: with G., about, concerning, for; with A., about, around, near. PERISCOPE.
+
+<rs type="lemma">πρίν</rs>, conj.; with ind., unéil ; with inf., before.
 
 <div type="textpart" subtype="para" n="146">
 <p>EXERCISES
@@ -5125,7 +5136,9 @@ Sophocles, fragment.</p></div>
 <rs type="lemma">εὔχομαι</rs>, εὔξομαι, ηὐξάμην: pray,  vow.
 <rs type="lemma">μέν-τοι</rs>, postpos. adv.: however.
 <rs type="lemma">Ξενοφῶν</rs>, ενοφῶντος: Xenophon.
-<rs type="lemma">θύω</rs>, θύσω, ἔθυσα: sacrifice. πότερος, pron.: which (of two); mérepoy, adv.: whether. Often fol. by ἤ or.
+<rs type="lemma">θύω</rs>, θύσω, ἔθυσα: sacrifice. 
+<rs type="lemma">πότερος</rs>, pron.: which (of two); πότερον, adv.: whether. 
+Often fol. by <rs type="lemma">ἤ</rs> or.
 <rs type="lemma">λοχᾶγός</rs>: captain. Cf. στρατηγός. 
 
 <rs type="lemma">λόχος</rs>: company.
@@ -5523,7 +5536,7 @@ and number is simple. The feminine is like γέφῦρα (§ 81).</p></div>
 of the consonant declension where tayvs has υ; elsewhere
 it has λλ and endings of the ο- and the α-declensions.
 
-πολύς much, many</p></div>
+<rs type="lemma">πολύς</rs> much, many</p></div>
 
 <div type="textpart" subtype="para" n="244">
 <p>Another irregular adjective, péyas, has the stem
@@ -6156,14 +6169,14 @@ their inflection that detailed analysis is of little value.
 Learn the forms as given, noting for purposes of case
 recognition those forms that seem peculiar.
 
-πόλις (ἡ) city
+<rs type="lemma">πόλις</rs> (ἡ) city
 
-βασιλεύς (ὁ) king
+<rs type="lemma">βασιλεύς</rs> (ὁ) king
 
 
-ναῦς (ἡ) ship 
+<rs type="lemma">ναῦς</rs> (ἡ) ship 
 
-Like wéAts, inflect dv¢Bacis; like BactAevs, inflect irreds.</p></div>
+Like πόλις, inflect ἀνάβασις; like βασιλεύς, inflect ἱππεύς.</p></div>
 
 <div type="textpart" subtype="para" n="275">
 <p>Partitive Genitive.
@@ -6232,7 +6245,7 @@ proper meaning of an unfamiliar compound.</p></div>
 <rs type="lemma">βασιλεύς</rs>, -βασιλέως, ἡ: king. Cf. βασίλεια, Basilea. BASIL.
 <rs type="lemma">πίπτω</rs>, πεσοῦμαι, ἔπεσον: fall.
 
- πλήττω, πλήξω, ἔπληξα: strike. , APOPLEXY (“stroke”),
+<rs type="lemma" n="πλήσσω">πλήττω</rs>, πλήξω, ἔπληξα: strike. , APOPLEXY (“stroke”),
 <rs type="lemma">βασιλεύω</rs>, -σω, -σα: be king; aor. became king.
 
 <rs type="lemma">ναῦς</rs>, νεώς, ἡ:  city, state, Cf. πολίτης. POLITICAL.
@@ -7817,7 +7830,7 @@ digms (§§ 528, 533).</p></div>
 <rs type="lemma">ἀ-μελέω</rs>, ἀμελήσω, ἠμέλησαdyoa, ἠμέληκα, ἠμέλημαι:  be careless, neglect, with G. Cf. μέλει.
 <rs type="lemma">δια-τρίβω</rs>, -τρίψω, -ἐτρῑψα, -τέτριφα, -τέτρίμμαι, -ετρίβην : rub through or away, spend, waste (time), delay. DIATRIBE.
 
-<rs type="lemma">δέομαι</rs>, δεήσομαι, δεδέημαι, ἐδεήθην: lack, need, want, desire, request. Freq with G., or with G. of pers. and inf. Cf. δεῖ
+<rs type="lemma" n="δέω">δέομαι</rs>, δεήσομαι, δεδέημαι, ἐδεήθην: lack, need, want, desire, request. Freq with G., or with G. of pers. and inf. Cf. δεῖ
 
 <rs type="lemma">ὁπλίζω</rs>, ὥπλισα, ὥπλισμαι, ὡπλίσθην : arm, equip, Cf. ὅπλα.
 
@@ -8155,9 +8168,10 @@ One man, no man.</p></div>
 <div type="textpart" subtype="para" n="353">
 <p>INFLECTION OF CARDINAL NUMBERS.
 
-εἷς one
+<rs type="lemma">εἷς</rs> one
 
-οὐδείς (and μηδείς) are inflected like εἷς with οὐδ- (μηδ-)
+<rs type="lemma">οὐδείς</rs> 
+(and <rs type="lemma">μηδείς</rs>) are inflected like εἷς with οὐδ- (μηδ-)
 prefixed to the masculine and neuter, οὐδὲ- (μηδε-) to the
 feminine. The accent of the nominative masculine is
 acute. Inflect οὐδείς. Compare with paradigm (§ 517).
