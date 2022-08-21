@@ -567,7 +567,7 @@ into the plain
 <rs type="lemma">εἰς</rs>, proclit. prep. with A.: into  (Lat. in).
 <rs type="lemma">πεδίον</rs>: plain.
 
-στάδιον: stadium (race course); stade (600 ft.).3 </p></div>
+<rs type="lemma">στάδιον</rs>: stadium (race course); stade (600 ft.).3 </p></div>
 
 <div type="textpart" subtype="para" n="26">
 <p>EXERCISES
@@ -767,14 +767,14 @@ an adjective phrase accompanies a noun with a definite
 article, the adjective usually stands between the article
 and the noun, as in English:
 
-ὁ δίκικος ἄνθρωπος the just man.
+ὁ δίκαιος ἄνθρωπος the just man.
 
 Note that (unlike English) even a prepositional phrase
 may stand in this position:
 οἱ ἐν τῇ κώμῃ ἄνθρωποι or οἱ ἐν τῇ κώμῃ1 the men in the village.
 
 The adjective may also follow the noun and have the article repeated with it:
-ὃ ἄνθρωπος ὃ δίκαιος the Just man.
+ὁ ἄνθρωπος ὁ δίκαιος the Just man.
 
 In the above instances the adjective or phrase is said to
 have the attributive position.
@@ -807,7 +807,7 @@ the village had no garrison,
 <rs type="lemma">γάρ</rs>, postpos. conj. : for. 
 <rs type="lemma">σπονδή</rs>: libation; pl, treaty, truce. SPONDEE.
 <rs type="lemma">κώμη</rs>: village. 
-<rs type="lemma">μάχῃ</rs>: battle. LOGOMACHY. 
+<rs type="lemma">μάχη</rs>: battle. LOGOMACHY. 
 <rs type="lemma">φεύγω</rs>: flee. Lat. fugio. FUGITIVE,
 <rs type="lemma">οὐ</rs> (before consonants), οὐκ (before smooth breathing), οὐχ (before rough breathing), proclit. adv.: not, UTOPIA. PROPHYLACTIC.
 <rs type="lemma">φυγή</rs>: flight, exile. Lat fuga.
@@ -816,7 +816,7 @@ the village had no garrison,
 
 
 <rs type="lemma">σκηνή</rs>: tent. SCENE. 
-φυλάττω: guard (verb).</p></div>
+<rs type="lemma" n="φυλάσσω">φυλάττω</rs>: guard (verb).</p></div>
 
 <div type="textpart" subtype="para" n="34">
 <p>EXERCISES
@@ -1057,7 +1057,7 @@ Verbs with an initial vowel or diphthong lengthen the initial vowel.
 αυ  - ηυ
 οι  - ῳ
 
-Inflect the imperfect indicative active of πέμπω and ἀθροίζω.</p></div>
+Inflect the imperfect indicative active of <rs type="lemma">πέμπω</rs> and ἀθροίζω.</p></div>
 
 <div type="textpart" subtype="para" n="44">
 <p>Dative of Manner.
@@ -1288,7 +1288,7 @@ The gateway to the Acropolis.
 
 <rs type="lemma">ὑπ-οπτεύω</rs>, ὑπ-οπτεύσω: suspect (ὑπό, under + ὀπτεύω, look), with inf. HYPODERMIC. OPTIC.
 
-ἰσχυρός: strong. </p></div>
+<rs type="lemma">ἰσχυρός</rs>: strong. </p></div>
 
 <div type="textpart" subtype="para" n="52">
 <p>EXERCISES
@@ -1336,10 +1336,10 @@ The gateway to the Acropolis.
 <div type="textpart" subtype="para" n="53">
 <p>Word-formation. Many verbs with ε in the stem
 have cognate nouns or adjectives with ο instead of ε:
-λείπω leave, λοιπὸς left;
+λείπω leave, λοιπός left;
 λέγω speak, λόγος word or speech ;
-πέμπω send (escort), πομπή procession ;
-σπένδω pour a libation, σπονδή Libation.
+πέμπω send (escort), <rs type="lemma">πομπή</rs> procession ;
+<rs type="lemma">σπένδω</rs> pour a libation, σπονδή Libation.
 
 Compare Latin tego I cover, toga cloak; English I sing, song.
 
@@ -1445,8 +1445,7 @@ face, "This is the city of Hadrian, not of Theseus."
 <p>VOCABULARY
 <rs type="lemma">ἐνταῦθα</rs>, adv.: there, at that place. 
 
-<rs type="lemma">λοιπός</rs>: left, remaining ;
-<rs type="lemma">τὸ</rs> λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.
+<rs type="lemma">λοιπός</rs>: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.
 <rs type="lemma">ἐντεῦθεν</rs>, adv. : from there, thence. 
 <rs type="lemma">ἐπιστολή</rs>: letter. EPISTLE. 
 <rs type="lemma">οἰκία</rs>: house. ECONOMY.
@@ -1842,7 +1841,7 @@ nominative, it is a personal pronoun of the third person:
 
 <rs type="lemma">ὅς</rs>, ἥ, ὅ: rel. pron, : who, which, that.
 
-ὥρᾱ: hour, season. HOUR.</p></div>
+<rs type="lemma">ὥρᾱ</rs>: hour, season. HOUR.</p></div>
 
 <div type="textpart" subtype="para" n="72">
 <p>EXERCISES
@@ -2110,14 +2109,14 @@ apodosis οὐ.
 
 <div type="textpart" subtype="para" n="84">
 <p>VOCABULARY
-<rs type="lemma">ἅμαξα</rs>: cart, wagon. 
+<rs type="lemma" n="ἄμαξα">ἅμαξα</rs>: cart, wagon. 
 
-<rs type="lemma">βασίλεια</rs>: queen. 
+<rs type="lemma" n="βασιλεία">βασίλεια</rs>: queen. 
 <rs type="lemma">γέφῡρα</rs>: bridge. 
 <rs type="lemma">ἐγώ</rs>: I. EGOTIST. 
 <rs type="lemma">ὅπλον</rs>: implement, tool ;
 <rs type="lemma">εἰ</rs>, proclit. conj.: if. frequently pl, arms (in war). PANOPLY.
-<rs type="lemma">θάλαττα</rs>: sea. 
+<rs type="lemma" n="θάλασσα">θάλαττα</rs>: sea. 
 <rs type="lemma">κακός</rs>: bad, cowardly. CACOPHONY.
 <rs type="lemma">οὖν</rs>, post-pos. conj.: therefore, then,  accordingly.
 
@@ -2264,7 +2263,7 @@ they persuaded me to go to their (own) tent.</p></div>
 
 <rs type="lemma">σεαυτοῦ</rs>: Of yourself.
 
-<rs type="lemma">σταθμός</rs>: haiting-place, day’s march,
+<rs type="lemma" n="σταθμόν">σταθμός</rs>: haiting-place, day’s march,
 
 <rs type="lemma">στρατιώτης</rs>: soldier. Cf. στρατιά, στρατηγός.
 
@@ -2517,12 +2516,12 @@ ypayw mevre quepwy | shall write within five days.</p></div>
 <p>VOCABULARY
 <rs type="lemma">γυνή</rs>, γυναικός, ἡ: woman, wife.  MISOGYNIST. 
 <rs type="lemma">δι-αρπάζω</rs>, δι-αρπάσω, δι-ήρπασα:  plunder, pillage, sack. 
-<rs type="lemma">θρᾷξ</rs>, θρᾳκός, ὁ: Thracian. 
+<rs type="lemma">Θρᾷξ</rs>, θρᾳκός, ὁ: Thracian. 
 <rs type="lemma">σάλπιγξ</rs>, -γγος, ἡ: trumpet.
 <rs type="lemma">κατά</rs>, prep.: with G., down from; with A., down along, along, according to. CATALOGUE. 
 <rs type="lemma">φάλαγξ</rs>, -γγος, ἡ: phalanx, battle-line.
 
-<rs type="lemma">φύλαξ.</rs> φύλακος, ὁ: guard. Cf. φυλακή, φυλάττω.
+<rs type="lemma">φύλαξ</rs>. φύλακος, ὁ: guard. Cf. φυλακή, φυλάττω.
 <rs type="lemma">κῆρυξ</rs>, κήρῡκος, ὁ: herald.
 
 <rs type="lemma">πρός</rs>, prep.: with G., from the side of, in the sight of; with D., near, beside, besides ; with A., to the side of, toward. PROSELYTE.</p></div>
@@ -2623,7 +2622,7 @@ stem lengthens to ου.
 
 
 <div type="textpart" subtype="para" n="108">
-<p>Result Clauses. dare followed by the indicative
+<p>Result Clauses. <rs type="lemma">ὥστε</rs> followed by the indicative
 tlenotes an actual result ; followed by the znfinitive it denotes
 a natural or probable result :
 
@@ -2979,7 +2978,7 @@ all the water.
 
 <rs type="lemma">εἶτα</rs>, adv.: then, next.
 
-<rs type="lemma">οὕτω</rs> (before consonants), οὕτως (before vowels), adv. : thus, so, as afore- said. Cf. οὗτος.
+<rs type="lemma" n="οὕτως">οὕτω</rs> (before consonants), οὕτως (before vowels), adv. : thus, so, as afore- said. Cf. οὗτος.
 
 <rs type="lemma">πᾶς</rs>, πᾶσα, πᾶν: sing., every, whole ; pl. all. PANDEMONIUM.
 
@@ -3105,7 +3104,7 @@ shall hasten ;
 
 <rs type="lemma">φιλέω</rs>, φιλήσω, ἐφίλησα: love. Cf. φίλος.
 
-ὧδε, adv.; thus, as follows. Cf. ὅδε.</p></div>
+<rs type="lemma">ὧδε</rs>, adv.; thus, as follows. Cf. ὅδε.</p></div>
 
 <div type="textpart" subtype="para" n="130">
 <p>EXERCISES
@@ -3253,7 +3252,7 @@ action (compare with the Latin a or ab and the ablative): 1
 <div type="textpart" subtype="para" n="140">
 <p>VOCABULARY
 <rs type="lemma">ἄχθομαι</rs>: be burdened, vexed. 
-<rs type="lemma">μετα-πέμπομαι</rs>: send after, sum-
+<rs type="lemma" n="μεταπέμπω">μετα-πέμπομαι</rs>: send after, sum-
 <rs type="lemma">βούλομαι</rs>: wish, desire. mon.
 <rs type="lemma">ἕπομαι</rs>: follow, with D. 
 <rs type="lemma">πορεία</rs>: journey.
@@ -3547,7 +3546,8 @@ he sent soldiers to gather provisions.
 <div type="textpart" subtype="para" n="155">
 <p>VOCABULARY
 
-<rs type="lemma">δεξιός</rs>: right, righthand, clever : ἡ δεξιᾷ: the right. Lat. dexter. 
+<rs type="lemma">δεξιός</rs>: right, righthand, clever : 
+ἡ <rs type="lemma">δεξιά</rs>: the right. Lat. dexter. 
 
 <rs type="lemma">γίγνομαι</rs>, γενήσομαι, ἐγενόμην: become, be born, be, prove to be, ecliptic. GENESIS.
 
@@ -3577,7 +3577,7 @@ he sent soldiers to gather provisions.
 
 <rs type="lemma">ὑπ-ισχνέομαι</rs>, ὑπο-σχήσομαι, ὑπ-εσχόμην: undertake, promise-
 
-χαλεπός: hard, severe.</p></div>
+<rs type="lemma">χαλεπός</rs>: hard, severe.</p></div>
 
 <div type="textpart" subtype="para" n="156">
 <p>EXERCISES
@@ -3767,7 +3767,7 @@ and does my translation fit the passage ?”</p></div>
 <rs type="lemma">ὦ</rs>, interj. : O, often preceding the name of the person addressed.
 
 
-οὐκ-έτι, adv.: not longer, no longer, never again, </p></div>
+<rs type="lemma">οὐκ-έτι</rs>, adv.: not longer, no longer, never again, </p></div>
 
 <div type="textpart" subtype="para" n="162">
 <p>Οὐ φροντὶς Ἱπποκλείδῃ 1
@@ -4209,15 +4209,15 @@ if he plans (shall plan) this, he will do wrong. </p></div>
 <div type="textpart" subtype="para" n="184">
 <p>VOCABULARY
 
-<rs type="lemma">δεῖ</rs>, δεήσει, ἐδέησε, impers.: be necessary. Usually followed by A. and inf.
+<rs type="lemma" n="δέω">δεῖ</rs>, δεήσει, ἐδέησε, impers.: be necessary. Usually followed by A. and inf.
 
 <rs type="lemma">διδάσκω</rs>, διδάξω, ἐδίδαξα: teach. DIDACTIC.
 
 <rs type="lemma">ἐάν</rs> (=εἰ + ἄν), conj.: if, with subj.
 
-<rs type="lemma">ἤν</rs> (=ἐάν), conj.: if, with subjy.
+<rs type="lemma" n="ἐάν">ἤν</rs> (=ἐάν), conj.: if, with subjy.
 
-<rs type="lemma">μᾶλλον</rs>, adv.: rather (than), more (than).
+<rs type="lemma" n="μάλα">μᾶλλον</rs>, adv.: rather (than), more (than).
 
 
 
@@ -4228,11 +4228,11 @@ if he plans (shall plan) this, he will do wrong. </p></div>
 
 <rs type="lemma">σοφία</rs>: wisdom. SOPHIA.
 
-<rs type="lemma">ὥσ-περ</rs>, intens. form of ds ; just as.
+<rs type="lemma">ὥσ-περ</rs>, intens. form of ὥς ; just as.
 
 <rs type="lemma">ὠφελέω</rs>, ὠφελήσω, ὠφέλησα: aid, help, benefit.
 
-ὠφέλιμος: beneficial, useful, ANOPHELES, OPHELIA,</p></div>
+<rs type="lemma">ὠφέλιμος</rs>: beneficial, useful, ANOPHELES, OPHELIA,</p></div>
 
 <div type="textpart" subtype="para" n="185">
 <p>EXERCISES
@@ -4395,7 +4395,7 @@ famous of all Greek statues.</p></figure>
 
 <rs type="lemma">πόνος</rs>: toil, labor, travail.
 
-<rs type="lemma">πράττω</rs>, πράξω, ἔπραξα: do, fare. PRACTICAL. Cf. πρᾶγμα.
+<rs type="lemma" n="πράσσω">πράττω</rs>, πράξω, ἔπραξα: do, fare. PRACTICAL. Cf. πρᾶγμα.
 
 <rs type="lemma">χρῡσός</rs>: gold, money.
 <rs type="lemma">χρῡσός</rs>: gold, gold metal. CHRYSANTHEMUM.
@@ -4540,16 +4540,16 @@ This is called a potential optative. The negative is ov.</p></div>
 <rs type="lemma">ἄ-δικος</rs>: unjust. Cf. δίκαιος. 
 <rs type="lemma">πορίζω</rs>, ποριῶ, ἐπόρισα: bring, supply.
 <rs type="lemma">ἀ-δικέω</rs>, See § 205,  Cf. mopeta, wopetopar,
-<rs type="lemma">ἀἀναγκαῖος</rs>: necessary. Cf.  ἀνάγκη.
+<rs type="lemma">ἀναγκαῖος</rs>: necessary. Cf.  ἀνάγκη.
 <rs type="lemma">στρατεύω</rs>, στρατεύσω, ἐστράτευσα : make campaign. Usually mid.
 
 <rs type="lemma">δίκη</rs>: justice. Cf. στρατιά.
 <rs type="lemma">ἐπιθυμέω</rs>, ἐπιθυμ-ήσω, ἐπ-εθύμησα: desire, with G, Cf. θυμός.  
-<rs type="lemma">τάττω</rs>, τάξω, ἔταξα: order, arrange, station. TAXIDERMIST, TACTICS.
-<rs type="lemma">ἥ</rs>, conj. : or, than. 
+<rs type="lemma" n="τάσσω">τάττω</rs>, τάξω, ἔταξα: order, arrange, station. TAXIDERMIST, TACTICS.
+<rs type="lemma">ἤ</rs>, conj. : or, than. 
 <rs type="lemma">οἶνος</rs>: wine. 
 <rs type="lemma">τρέφω</rs>, θρέψω, ἔθρεψα: nourish, support, rear, keep (of animals). ATROPHY.
-πάλιν, adv. : again, back,  PALINODE. </p></div>
+<rs type="lemma">πάλιν</rs>, adv. : again, back,  PALINODE. </p></div>
 
 <div type="textpart" subtype="para" n="201">
 <p>EXERCISES
@@ -4691,7 +4691,7 @@ Review the various forms of conditional sentences
 <rs type="lemma">θάνατος</rs>: death. THANATOPSIS.
 
 <rs type="lemma">μηδέ</rs> neg, conj. and ady.: and  not, nar, not even.
-<rs type="lemma">σωτηρίᾶ</rs>:  safety.
+<rs type="lemma">σωτηρίᾱ</rs>:  safety.
 
 <pb n="110"/>
 
@@ -4951,7 +4951,7 @@ Latin.
 
 <rs type="lemma">λέγω</rs>, λέξω, ἔλεξα: say, tell, speak, Cf. DIALECT.
 <rs type="lemma">ὅτι</rs>, conj.: that, because.
-<rs type="lemma">εἶπον</rs> 3 (2d. aor.); said. EPIC. 
+<rs type="lemma" n="λέγω">εἶπον</rs> 3 (2d. aor.); said. EPIC. 
 <rs type="lemma">πυνθάνομαι</rs>, πεύσομαι, ἐπυθόμην:  inquire, learn (by inquiry).
 <rs type="lemma">εὑρίσκω</rs>, εὑρήσω, ηὗρον: find. EUREKA, 
 
@@ -5137,9 +5137,10 @@ Sophocles, fragment.</p></div>
 <rs type="lemma">μέν-τοι</rs>, postpos. adv.: however.
 <rs type="lemma">Ξενοφῶν</rs>, ενοφῶντος: Xenophon.
 <rs type="lemma">θύω</rs>, θύσω, ἔθυσα: sacrifice. 
-<rs type="lemma">πότερος</rs>, pron.: which (of two); πότερον, adv.: whether. 
+<rs type="lemma">πότερος</rs>, pron.: which (of two); 
+<rs type="lemma">πότερον</rs>, adv.: whether. 
 Often fol. by <rs type="lemma">ἤ</rs> or.
-<rs type="lemma">λοχᾶγός</rs>: captain. Cf. στρατηγός. 
+<rs type="lemma">λοχᾱγός</rs>: captain. Cf. στρατηγός. 
 
 <rs type="lemma">λόχος</rs>: company.
 
@@ -5260,7 +5261,7 @@ accusative singular and plural. The accent is recessive
 
 <pb n="123"/>
 
-εὐδαίμων prosperous</p></div>
+</p></div>
 
 <div type="textpart" subtype="para" n="228">
 <p>Dative of Time When. The dative denotes time-when.1 This use is akin to that of place where except that
@@ -5272,20 +5273,22 @@ he came (on) that day.</p></div>
 <div type="textpart" subtype="para" n="229">
 <p>VOCABULARY
 <rs type="lemma">ἀγών</rs>: contest, struggle.  AGONY, PROTAGONIST.
-<rs type="lemma">ἡγεμών</rs>: leader, guide. Cf. ἡγέομαι. HEGEMONY.
 <rs type="lemma">ἔδεισα</rs> (aor.): feared. 
 
-<rs type="lemma">μήν</rs>, μηνός, ὁ: month. Cf. Moon,
 
 <rs type="lemma">Ἕλλην</rs>, Ἕλληνος, ὁ: Hellene, Greek. 
-<rs type="lemma">πατρίς</rs>, πατρίδος, ἡ: fatherland.
 <rs type="lemma">Ἑλληνικός</rs>: Hellenic.  Greek.
-<rs type="lemma">ῥήτωρ</rs>, ῥήτορος: speaker, orator. RHETORIC.
-
-
 <rs type="lemma">εὖ</rs>, adv.: well. EULOGY. 
+<rs type="lemma">εὐ-δαίμων</rs>, εὔ-δαιμον: lucky, prosperous, EUDAMONISM.
+<rs type="lemma">ἡγεμών</rs>: leader, guide. Cf. ἡγέομαι. HEGEMONY.
+<rs type="lemma" n="μείς">μήν</rs>, μηνός, ὁ: month. Cf. Moon,
+
+
+<rs type="lemma">πατρίς</rs>, πατρίδος, ἡ: fatherland.
+<rs type="lemma">ῥήτωρ</rs>, ῥήτορος, ὁ: speaker, orator. RHETORIC.
+
 <rs type="lemma">χείρ</rs>, χειρός, ἡ hand, arm. CHIROPRACTOR.
-εὐδαίμων, εὔδαιμον: lucky, prosperous, EUDAMONISM.</p></div>
+</p></div>
 
 <div type="textpart" subtype="para" n="230">
 <p>EXERCISES
@@ -5442,7 +5445,7 @@ they are following the commander.</p></div>
 <rs type="lemma">τεῖχος</rs>, τείχους, τό: wall (of fortification).
 <rs type="lemma">θεμιστοκλῆς</rs>, θεμιστοκλέους, ὁ: Themistocles. 
 <rs type="lemma">τριήρης</rs>, τριήρους, ἡ:  trireme, war vessel, with three (τρι-) banks of oars.
-μέρος, μέρους, τό: part, share, role. </p></div>
+<rs type="lemma">μέρος</rs>, μέρους, τό: part, share, role. </p></div>
 
 <div type="textpart" subtype="para" n="238">
 <p>EXERCISES
@@ -5884,29 +5887,47 @@ Anacreontic</p></div>
 of adjectives.2
 
 Positive COMPARATIVE SUPERLATIVE
-ἀγαθός good, brave, etc. ἀμείνων better, braver ἄριστος best, bravest,
-etc, ARISTOCRAT.
-βελτίων morally better βέλτιστος morally best 
-κρείττων physically κράτιστος strongest, stronger, preferable hest
-κακός bad, ugly, κακίων κάκιστος cowardly
-χείρων meaner χείριστος
-ἥττων weaker, inferior [ἥκιστα, adv.: least, by no means]
-καλός beautiful, noble καλλίων κάλλιστος
-μέγας great, large μείζων μέγιστος
-μικρός small μκρότερος μικρότατος
-μείων; pl, fewer
-ἐλάττων3 ἐλάχιστος
-πολύς much; pl, many πλείων or πλέων πλεῖστος PLEONASM. </p></div>
+ἀγαθός good, brave, etc. 
+<rs type="lemma">ἀμείνων</rs> better, braver 
+<rs type="lemma">ἄριστος</rs> best, bravest, etc, ARISTOCRAT.
+<rs type="lemma">βελτίων</rs> morally better 
+<rs type="lemma">βέλτιστος</rs> morally best 
+<rs type="lemma">κρείττων</rs> physically κράτιστος strongest, stronger, preferable hest
+κακός bad, ugly, 
+<rs type="lemma">κακίων</rs> cowardly
+<rs type="lemma">κάκιστος</rs> cowardly
+<rs type="lemma">χείρων</rs> meaner 
+<rs type="lemma">χείριστος</rs> worst
+<rs type="lemma" n="ἥσσων">ἥττων</rs> weaker, inferior 
+[<rs type="lemma">ἥκιστα</rs>, adv.: least, by no means]
+καλός beautiful, noble 
+<rs type="lemma">καλλίων</rs> more beautiful, more noble
+<rs type="lemma">κάλλιστος</rs> more beautiful, most noble
+μέγας great, large 
+<rs type="lemma">μείζων</rs> greater
+<rs type="lemma">μέγιστος</rs> greatest
+μικρός small 
+<rs type="lemma">μικρότερος</rs> smaller
+<rs type="lemma">μικρότατος</rs> smallest
+<rs type="lemma">μείων</rs> pl, fewer
+<rs type="lemma" n="ἐλαχύς">ἐλάττων</rs> Serves also as comparative for ὀλίγος little, few. 
+<rs type="lemma" n="ἐλαχύς">ἐλάχιστος</rs> least
+πολύς much; pl, many 
+<rs type="lemma">πλείων</rs> more
+<rs type="lemma">πλέων</rs> more
+<rs type="lemma">πλεῖστος</rs> PLEONASM. </p></div>
 
 <div type="textpart" subtype="para" n="260">
 <p>Some words lack a positive :
 
-[πρό before] πρότερος former πρῶτος first
-ὕστερος later, latter ὕστατος last
+[πρό before] <rs type="lemma">πρότερος</rs> former 
+<rs type="lemma">πρῶτος</rs> first
+<rs type="lemma">ὕστερος</rs> later, latter 
+<rs type="lemma">ὕστατος</rs> last
 
 Inflect ἀμείνων (like ἡδίων), πρότερος. πλεῖστος,
 2 Only the more common adjectives are here given.
-3 Serves also as comparative for ὀλίγος little, few.
+3 
 
 <pb n="138"/>
 
@@ -6037,17 +6058,17 @@ corresponding to ἄξιος, μέγας, ἀληθής, ταχύς, κακός,
 <div type="textpart" subtype="para" n="268">
 <p>Irregularities occur in the comparison of some adverbs.
 
-ἐγγύς near, nearly 
-ἐγγύτερον  ἐγγυτέρω  
-ἐγγύτατα ἐγγυτάτω
+<rs type="lemma">ἐγγύς</rs>, near, nearly 
+<rs type="lemma">ἐγγύτερον</rs>,  ἐγγυτέρω  
+<rs type="lemma">ἐγγύτατα</rs> ,ἐγγυτάτω
 
-εὖ well (adv. of ἀγαθός) 
-ἄμεινον, better
-ἄριστα, best
+<rs type="lemma">εὖ</rs> well (adv. of ἀγαθός) 
+<rs type="lemma">ἄμεινον</rs>, better
+<rs type="lemma">ἄριστα</rs>, best
 
-μάλα, very 
-μᾶλλον more, rather 
-μάλιστα most, certainly
+<rs type="lemma">μάλα</rs>, very 
+<rs type="lemma">μᾶλλον</rs>, more, rather 
+<rs type="lemma">μάλιστα</rs>, most, certainly
 
 <pb n="142"/>
 
@@ -6385,7 +6406,7 @@ thing: used without the article, they refer to something indefinite:
 
 <rs type="lemma">ἡμέτερος</rs>, ἡμετέρος, ἡμέτερον: our, ours. Cf. ἡμεῖς.
 
-<rs type="lemma">κέρος</rs>, κἐρᾱτος or κέρως,1 τό: horn, wing (milit.). Lat. cornu. RHINOCEROS 
+<rs type="lemma">κέρας</rs>, κἐρᾱτος or κέρως,1 τό: horn, wing (milit.). Lat. cornu. RHINOCEROS 
 
 
 
@@ -6397,7 +6418,7 @@ thing: used without the article, they refer to something indefinite:
 
 <rs type="lemma">σῶμα</rs>, σώματος, τό: body. CHROMOSOME.
 
-ὑμέτερος, ὑμετέρη, ὑμέτερον: your, yours (pl.), Cf. ὑμεῖς.</p></div>
+<rs type="lemma">ὑμέτερος</rs>, ὑμετέρη, ὑμέτερον: your, yours (pl.), Cf. ὑμεῖς.</p></div>
 
 <div type="textpart" subtype="para" n="284">
 <p>EXERCISES
@@ -6585,7 +6606,7 @@ Simonides.</p></div>
 
 <rs type="lemma">βάλλω</rs>, ἔβαλον:3 throw, pelt; εἰσβάλλω(milit.): invade. PROBLEM, BALLISTICS.
 
-χωρίον, -ου, τό: place, spot. Dimin. of χώρα.</p></div>
+<rs type="lemma">χωρίον</rs>, -ου, τό: place, spot. Dimin. of χώρα.</p></div>
 
 <div type="textpart" subtype="para" n="290">
 <p>THERMOPYLE
@@ -6761,7 +6782,7 @@ present) subjunctive are used here.
 <rs type="lemma">ἀμφότερος</rs> (rare in sing.):  both.
 <rs type="lemma">Ζεύς</rs>, Διός, ὁ: Zeus.
 
-<rs type="lemma">θαρρέω</rs>, θαρρήσω, ἐθάρρησα: have courage.
+<rs type="lemma" n="θαρσέω">θαρρέω</rs>, θαρρήσω, ἐθάρρησα: have courage.
 <rs type="lemma">ἐλευθερία</rs>, -ἄς, ἡ : freedom.  ELEUTHERISM.
 
 <rs type="lemma">μνῆμα</rs>, μνήματος, τό: memorial, monument.
@@ -6914,7 +6935,7 @@ Inflect the present and aorist imperatives of μετα-πέμπομαι and
 
 <div type="textpart" subtype="para" n="303">
 <p>VOCABULARY
-<rs type="lemma">ἀλλάττω</rs>, ἀλλάξω, ἤλλαξα: change. PARALLAX, HYPALLAGE.
+<rs type="lemma" n="ἀλλάσσω">ἀλλάττω</rs>, ἀλλάξω, ἤλλαξα: change. PARALLAX, HYPALLAGE.
 
 <rs type="lemma">ἤδη</rs>, adv.: now, already.
 <rs type="lemma">μέσος</rs>, μέση, μέσον: middle; τὸ μέσον: the middle. MESOPOTAMIA.
@@ -7008,24 +7029,15 @@ The stirring march-song that follows breathes pride of
 race and interest in military traditions. (Ask your in-
 structor to read you these lively anapiests. )
 
-dyer’ (up), & Sardpras (-n5) ebdvipw (-0v)
 
-K@pou (scions) watépey TroALaTav (TOALTOV)
+ἄγετ᾽ (up), ὦ Σπάρτας (-ης) εὐάνδρω (-ου)
 
-rae (left hand) pev truv (shield) mpo-Bdrea Ge,
-Sdpu & edtdApws (courageously) dv-cyerde
-
-1 peddpevor Tas (THs) Sods (compare zobLOGY) -
-od yap matpiov (customary) T& (7H) Lawapta.
-
-ἄγετ᾽ (up), ὦ Σπάρτας (Σπάρτης) εὐάνδρω (εὐάνδρου)
-
-κῶροι (scions) πατέρων πολιᾶτᾶν (πολῑτῶν.)
+κῶροι (scions) πατέρων πολιᾱτᾶν (πολῑτῶν.)
 
 λαιᾷ (left hand) μὲν ἴτυν (shield) προ-βάλεσθε,
-δόρυ δ᾽ εὐτόλμως (courageously) ἄντ-σχεσθε
+δόρυ δ᾽ εὐτόλμως (courageously) ἄν-σχεσθε
 
-μὴ φειδόμενοι τᾶς (τῆς) ζωᾶς (compare ZOOLOGY)·
+μὴ φειδόμενοι τᾶς (τῆς) ζωᾶς (compare ZOOLOGY)"
 οὐ γὰρ πάτριον (customary) τᾷ (τῇ) Σπάρτᾳ.
 
 
@@ -7087,7 +7099,7 @@ The negative is 41.</p></div>
 
 <div type="textpart" subtype="para" n="309">
 <p>VOCABULARY
-<rs type="lemma">ἀπο-κρίνομαι</rs>, ἀπο-κρινοῦμαι: reply. 
+<rs type="lemma" n="ἀποκρίνω">ἀπο-κρίνομαι</rs>, ἀπο-κρινοῦμαι: reply. 
 <rs type="lemma">σκοπέω</rs>: look to see, inquire, consider. MICROSCOPE, PERISCOPE.
 <rs type="lemma">ἀρετή</rs>, ἀρετῆς, ἡ: fitness, excellence, bravery, virtue. Cf. ἄριστος.  Cf. Lat. virtus. 
 <rs type="lemma">φαίνω</rs>, φανῶ2: shed light, show; mid. and pass., appear. PHENOMENON,
@@ -7095,7 +7107,7 @@ The negative is 41.</p></div>
 <rs type="lemma">κρίνω</rs>, κρινῶ2: pick out, judge, decide, CRISIS, CRITIC. 
 
 <rs type="lemma">φανερός</rs>: visible, apparent, evident. PHANEROGAM.
-σκέπτομαι, σκέψομαι, ἐσκεψάμην 4: look to see, inquire, consider. SCEPTIC.</p></div>
+<rs type="lemma">σκέπτομαι</rs>, σκέψομαι, ἐσκεψάμην 4: look to see, inquire, consider. SCEPTIC.</p></div>
 
 <div type="textpart" subtype="para" n="310">
 <p>EXERCISES
@@ -7259,7 +7271,7 @@ of fear.2
 
 <rs type="lemma">μανθάνω</rs>, μαθήσομαι, ἔμαθον: learn, understand. POLYMATH.
 
-<rs type="lemma">φοβέομαι</rs>, φοβήσομαι:1 fear. Cf. φόβος.
+<rs type="lemma" n="φοβέω">φοβέομαι</rs>, φοβήσομαι:1 fear. Cf. φόβος.
 
 <rs type="lemma">μέλει</rs>, μελήσει, ἐμέλησε: is a care, concerns. Used impersonally.
 
@@ -7491,17 +7503,20 @@ Perfect Participle of παύω</p></div>
 
 <div type="textpart" subtype="para" n="325">
 <p>VOCABULARY
-<rs type="lemma">δέδοικα</rs> (δείδω) : fear. πέπονθα (πάσχω) : have left.
-<rs type="lemma">εἴληφα</rs> (λαμβάνω): have taken. πέπεικα (πείθω): have persuaded.
-<rs type="lemma">ἔρ-ριφα</rs> (ῥίπτω): have thrown. πέποιθα (πείθω): have been versuaded, am confident, trust.
-<rs type="lemma">ἐ-στράτευκα</rs> (στρατεύω): have made a campaign.
-<rs type="lemma">πέπομφα</rs> (πέμπω) : have sent.
+δέδοικα (δείδω) : fear. 
+πέπονθα (πάσχω) : have left.
+εἴληφα (λαμβάνω): have taken. 
+πέπεικα (πείθω): have persuaded.
+ἔρ-ριφα (ῥίπτω): have thrown. 
+πέποιθα (πείθω): have been versuaded, am confident, trust.
+ἐ-στράτευκα (στρατεύω): have made a campaign.
+πέπομφα (πέμπω) : have sent.
 
-<rs type="lemma">εὕρηκα</rs> 1 (εὑρίσκω) : have found. 
-<rs type="lemma">πέπονθα</rs> (πάσχω): hare experienced, have been treated.
-<rs type="lemma">ἤρηκα</rs> (αἱρέω) : have seized, have captured.
-<rs type="lemma">τέθνηκα</rs> (θνήσκω) : be dead.
-<rs type="lemma">ἥρπακα</rs> (ἁρπάζω):2 have seized, have plundered.
+εὕρηκα 1 (εὑρίσκω) : have found. 
+πέπονθα (πάσχω): hare experienced, have been treated.
+ἤρηκα (αἱρέω) : have seized, have captured.
+τέθνηκα (θνήσκω) : be dead.
+ἥρπακα (ἁρπάζω):2 have seized, have plundered.
 
 1 Or ηὕρηκα. 
 2 Verbs in -ιζω (stem -δ) drop the δ before the κ of the perfect as before the σ of the future and aorist.
@@ -7605,7 +7620,7 @@ Note these significant facts:
 4. A stem ending in -ν shows
 
 5. A perfect participle and εἰσί or ἦσαν are used for
-the third person plural of the perfeet or pluperfect
+the third person plural of the perfect or pluperfect
 indicative middle (and passive) respectively of such
 verbs.</p></div>
 
@@ -7653,7 +7668,7 @@ the river must be crossed.
 <rs type="lemma">τάφος</rs>: burial, grave.
 
 
-<rs type="lemma">μιμνήσκω</rs>, μνήσω, ἔμνησα: remind; μέμνημαι: remember, MNEMONIC.
+<rs type="lemma">μιμνῄσκω</rs>, μνήσω, ἔμνησα: remind; μέμνημαι: remember, MNEMONIC.
 
 <rs type="lemma">τάφρος</rs>, τάφρου, ἡ: ditch, trench. Cf. θάπτω.
 
@@ -7836,7 +7851,7 @@ digms (§§ 528, 533).</p></div>
 
 
 <rs type="lemma">παλτόν</rs>, παλτοῦ, τό: javelin.
-φύσις, φύσεως, ἡ : nature. PHYSICS.</p></div>
+<rs type="lemma">φύσις</rs>, φύσεως, ἡ : nature. PHYSICS.</p></div>
 
 <div type="textpart" subtype="para" n="342">
 <p>EXERCISES
@@ -8094,68 +8109,72 @@ One man, no man.</p></div>
 <p>CARDINAL NUMBERS,
 </p>
 
-<p><num>1</num>. εἷς, μία, ἕν: one, HENDIADYS, HYPHEN.
+<p><num>1</num>. <rs type="lemma">εἷς</rs>, μία, ἕν: one, HENDIADYS, HYPHEN.
 μη-δ-είς, μη-δε-μία, μηδ-έν: no one, no.
 οὐ-ὃ-εἰς, οὐ-δε-μία, οὐδ-ἐν: no one, no.</p>
 
-<p><num>2</num>. δύο [δι- as prefix: DIMETER].  Lat. duo. DUET. </p>
+<p><num>2</num>. <rs type="lemma">δύο</rs> [δι- as prefix: DIMETER].  Lat. duo. DUET. </p>
 
-<p><num>3</num>. τρεῖς, τρία. TRIAD, TRIGONOMETRY. </p>
+<p><num>3</num>. <rs type="lemma">τρεῖς</rs>, τρία. TRIAD, TRIGONOMETRY. </p>
 
-<p><num>4</num>. τέτταρες. τέτταρα. TETRAHEDRON. </p>
+<p><num>4</num>. <rs type="lemma" n="τέσσαρες">τέτταρες</rs>, τέτταρα. TETRAHEDRON. </p>
 
-<p><num>5</num>. πέντε. PENTAGON. </p>
+<p><num>5</num>. <rs type="lemma">πέντε</rs>. PENTAGON. </p>
 
-<p><num>6</num>. ἔξ HEXAMETER. </p>
+<p><num>6</num>. <rs type="lemma">ἔξ</rs> HEXAMETER. </p>
 
-<p><num>7</num>. ἑπτά, HEPTAMETER. </p>
+<p><num>7</num>. <rs type="lemma">ἑπτά</rs>, HEPTAMETER. </p>
 
-<p><num>8</num>. ὀκτώ. OCTOPUS. </p>
+<p><num>8</num>. <rs type="lemma">ὀκτώ</rs>. OCTOPUS. </p>
 
-<p><num>9</num>. ἐννέα, ENNEAD.</p>
+<p><num>9</num>. <rs type="lemma">ἐννέα</rs>, ENNEAD.</p>
 
-<p><num>10</num>. δέκα, DECALOGUE. 
+<p><num>10</num>. <rs type="lemma">δέκα</rs>, DECALOGUE. 
 </p>
 
-<p><num>11</num>. ἔν-δεκα,  HENDECASYLLABIC,
+<p><num>11</num>. <rs type="lemma">ἔν-δεκα</rs>,  HENDECASYLLABIC,
 </p>
 
-<p><num>12</num>. δώ-δεκα. DODECANESE.
-
-</p>
-
-<p><num>13</num>. τρεῖς καὶ δέκα.
-</p>
-
-<p><num>14</num>. τέτταρες καὶ δέκα.</p>
-
-<p><num>15</num>. πεντε-καί-δεκα.
+<p><num>12</num>. <rs type="lemma">δώ-δεκα</rs>. DODECANESE.
 
 </p>
 
-<p><num>16</num>. ἑκ-καὶ-δεκα.</p>
+<p><num>13</num>. <rs type="lemma">τρεῖς καὶ δέκα</rs>.
+</p>
 
-<p><num>17</num>. ἑπτα-καὶ-δεκα.</p>
+<p><num>14</num>. <rs type="lemma">τέτταρες καὶ δέκα</rs>.</p>
 
-<p><num>18</num>. ὀκτω-καί-δεκα. </p>
+<p><num>15</num>. <rs type="lemma">πεντε-καί-δεκα</rs>.
 
-<p><num>19</num>. ἐννεα-καί-δεκα</p>
+</p>
 
-<p><num>20</num>. εἴκοσι(ν). </p>
+<p><num>16</num>. <rs type="lemma">ἑκ-καὶ-δεκα</rs>.</p>
 
-<p><num>21</num>. εἷς καὶ εἴκοσι, εἴκοσι καὶ εἷς</p>
+<p><num>17</num>. <rs type="lemma">ἑπτα-καὶ-δεκα</rs>.</p>
 
-<p><num>30</num>. τριάκοντα.</p>
+<p><num>18</num>. <rs type="lemma">ὀκτω-καί-δεκα</rs>. </p>
 
-<p><num>100</num> ἑκατόν. HECATOMB.</p>
+<p><num>19</num>. <rs type="lemma">ἐννεα-καί-δεκα</p></rs>
 
-<p><num>200</num>. δισ-κόσιοι</p>
+<p><num>20</num>. <rs type="lemma">εἴκοσι</rs>.  (εἴκοσιν)</p>
 
-<p><num>1000</num>. χίλιοι.</p>
+<p><num>21</num>. <rs type="lemma">εἷς καὶ εἴκοσι</rs>, εἴκοσι καὶ εἷς</p>
 
-<p><num>2000</num>. δισ-χίλιοι.</p>
+<p><num>30</num>. <rs type="lemma">τριάκοντα</rs>.</p>
 
-<p><num>10000</num>. μύριοι. MYRIAD.</p>
+<p><num>40</num>. <rs type="lemma">πεντήκοντα</rs>.</p>
+
+
+<p><num>100</num>. <rs type="lemma">ἑκατόν</rs>. HECATOMB.</p>
+
+<p><num>200</num>. <rs type="lemma">δισ-κόσιοι</rs>.</p>
+<p><num>300</num>. <rs type="lemma">τρια-κόσιοι</rs>.</p>
+
+<p><num>1000</num>. <rs type="lemma">χίλιοι</rs>.</p>
+
+<p><num>2000</num>. <rs type="lemma">δισ-χίλιοι</rs>.</p>
+
+<p><num>10000</num>. <rs type="lemma" n="μυρίος">μύριοι</rs>. MYRIAD.</p>
 
 -κοντ indicates the tens (-ty) from thirty to ninety.
 -κόσιοι indicates the hundreds from 200 to 900, which are inflected.
@@ -8405,12 +8424,13 @@ Marcus Aurelius, Meditations, VI. 21.
 
 
 
-<rs type="lemma">ἔρημος</rs>: desert, deserted, lonely, deprived of. HERMIT. MONOPOLY.
+<rs type="lemma" n="ἐρῆμος">ἔρημος</rs>: desert, deserted, lonely, deprived of. HERMIT. MONOPOLY.
 
 <rs type="lemma">πωλέω</rs>, πωλήσω, ἐπώλησα: sell.
 
 
-ἱερός: sacred, holy; τὸ ἱερόν: the holy place, i.e., temple ;  τὰ ἱερά: sacrifices, sacrificial  victims  HIERARCHY.</p></div>
+<rs type="lemma">ἱερός</rs>: sacred, holy; 
+τὸ <rs type="lemma">ἱερόν</rs>: the holy place, i.e., temple ;  τὰ ἱερά: sacrifices, sacrificial  victims  HIERARCHY.</p></div>
 
 <div type="textpart" subtype="para" n="360">
 <p>THE ORIGINAL RESEARCH MAN
@@ -8521,14 +8541,19 @@ usual than ἐδύνασο. The same applies to ἐπίσταμαι.
 <p>VOCABULARY 
 <rs type="lemma">δύναμαι</rs>, δυνήσομαι, δεδύνημαι, ἐδυνήθηv: be able, DYNAMIC.
 
-<rs type="lemma">ἵστημι</rs>, στήσω, ἔστησα or ἔστην, ἕστηκα, ἕσταμαι, ἐστάθην:  stand, halt, place. Cf. σταθμός. δύναμις, δυναμέως, ῃ: power, force (often in military usage). STATIC. 
+<rs type="lemma">δύναμις</rs>, δυναμέως, ἡ: power, force (often in military usage). STATIC. 
 
 
 <rs type="lemma">δυνατός</rs>, δυνατή, δυνατόν: powerful, able, capable.
+<rs type="lemma">ἐπίσταμαι</rs>, ἐπιστήσομαι, ἠπιστήθην: know, understand, know  how, EPISTEMOLOGY. 
+
+<rs type="lemma">ἵστημι</rs>, στήσω, ἔστησα or ἔστην, ἕστηκα, ἕσταμαι, ἐστάθην:  stand, halt, place. Cf. σταθμός. 
+
 <rs type="lemma">κέρδος</rs>, κέρδους, τό: gain, profit, pay.
 
 <rs type="lemma">οἷος</rs>, οἵη, οἷον; of which (what) sort; when followed by τε, of the sort that, able to, possible.
-ἐπίσταμαι, ἐπιστήσομαι, ἠπιστήθην: know, understand, know  how, EPISTEMOLOGY. υἱός, υἱοῦ, ὁ: son.</p></div>
+
+<rs type="lemma">υἱός</rs>, υἱοῦ, ὁ: son.</p></div>
 
 <div type="textpart" subtype="para" n="367">
 <p>EXERCISE
@@ -8784,7 +8809,7 @@ Indirect
 <rs type="lemma">παίω</rs>, παίσω, ἔπαισα, πέπαικα: strike. ANAPAEST.
 
 
-<rs type="lemma">γοῦς</rs>, νοῦ, ὁ: mind; ἐν νῷ ἔχω:intend; τὸν νοῦν προσ-έχω: attend, i.e. pay heed.
+<rs type="lemma" n="νόος">νοῦς</rs>, νοῦ, ὁ: mind; ἐν νῷ ἔχω:intend; τὸν νοῦν προσ-έχω: attend, i.e. pay heed.
 
 <rs type="lemma">φημί</rs>, φήσω, ἔφησα: say.
 <rs type="lemma">ψευδής</rs>: false. PSEUDONYM, PSEUDOSCIENTIFIC.
@@ -8792,7 +8817,7 @@ Indirect
 
 <rs type="lemma">ὅλος</rs>: whole, all
 
-ψεύδω, ψεύσω, ἔψευσα, ἔψευσμαι, ἐψεύσθην: deceive; middle, lie.</p></div>
+<rs type="lemma">ψεύδω</rs>, ψεύσω, ἔψευσα, ἔψευσμαι, ἐψεύσθην: deceive; middle, lie.</p></div>
 
 <div type="textpart" subtype="para" n="380">
 <p>EXERCISES
@@ -8945,7 +8970,7 @@ inscribed on the temple of Apollo at Delphi.
 
 <rs type="lemma">τοιοῦτος</rs>, τοιαύτη, τοιοῦτο: of such sort,  such size or quantity.
 
-ἵημι, ἧσω, ἧκα, εἶκα, εἶμαι, εἴθην: send, throw ; mid., rush.</p></div>
+<rs type="lemma">ἵημι</rs>, ἧσω, ἧκα, εἶκα, εἶμαι, εἴθην: send, throw ; mid., rush.</p></div>
 
 <div type="textpart" subtype="para" n="388">
 <p>EXERCISES
@@ -9651,12 +9676,17 @@ or past time respectively:
 <rs type="lemma">δίς</rs>, adv.: twice. Cf. δύο. DISSYLLABIC.
 
 
-<rs type="lemma">pay</rs>, post-pos. particle: indeed, wAéw, mAcioopar, érdevoa, Te
-<rs type="lemma">certainly.</rs> Cf. pév. mAcvKa, Térreve pac: sail.
+<rs type="lemma">μήν</rs>, post-pos. particle: indeed, certainly. Cf. μέν. 
 
-<rs type="lemma">ὥφελον</rs>, sec. aor. of ὀφείλω, owe: most common as a device for  expressing unattainable wishes in present or past time, with inf.
 
-πλοῦς, πλοῦ, ὁ : sailing, voyage. Cf. πλέω, πλοῖον.</p></div>
+
+<rs type="lemma">πλέω</rs>, πλεύσομαι, ἔπλευσα, πέπλευκα, πέπλευσμαι: sail.
+
+<rs type="lemma" n="πλόος">πλοῦς</rs>, πλοῦ, ὁ : sailing, voyage. Cf. πλέω, πλοῖον.
+
+<rs type="lemma">ὥφελον</rs>, sec. aor. of ὀφείλω, owe: most common as a device for expressing unattainable wishes in present or past time, with inf.
+
+</p></div>
 
 <div type="textpart" subtype="para" n="413">
 <p>EXERCISES
@@ -9915,9 +9945,9 @@ tive, objective, separative. </p></div>
 <div type="textpart" subtype="para" n="421">
 <p>VOCABULARY
 
-<rs type="lemma">ἅπτω</rs>, ἅψω, ἦψα, ἧμμαι, ἤφθην: 
+<rs type="lemma">ἅπτω</rs>, ἅψω, ἦψα, ἧμμαι, ἤφθην: lay hold of; mid., touch, with  G. Cf. Lat. aptus. APSE. 
+
 <rs type="lemma">ὁράω</rs>, ὄψομαι, εἶδον, ἑώρακα or ἑόρᾶκα, ἕωρᾶμαι or ὦμμαιὥφθην:  see. PANORAMA, OPTIC.
-<rs type="lemma">lay</rs> hold of; mid., touch, with  G. Cf. Lat. aptus. APSE. 
 <rs type="lemma">ἐρωτάω</rs>, ἐρωτήσω, ἠρώτησα, ἠρώτηκα, ἠρώτημαι, ἠρωτήθην:  ask, inquire.
 
 <rs type="lemma">ῥέω</rs>, ῥυήσομαι, ἐρρύηκα, ἐρρύην: flow, RHEUMATIC. 
@@ -10050,10 +10080,10 @@ ment or means, and place.</p></div>
 <div type="textpart" subtype="para" n="428">
 <p>VOCABULARY
 <rs type="lemma">βίᾱ</rs>, βίᾱς, ἡ: force, violence. Cf. δύναμις: force, power. 
+
+<rs type="lemma">δαπανάω</rs>, δαπανήσω, ἐδαπάνησα, δεδαπάνηκα, δεδαπάνημαι, ἐδαπανήθην : spend, waste.
 <rs type="lemma">νῑκάω</rs>, νῑκήσω, ἐνίκησα, νενίκηκα,  νενίκημαι, ἐνῑκήθην: conquer,  win.
 
-<rs type="lemma">δαπανάω</rs>, δαπανήσω, ἐδαπάνησα,
-<rs type="lemma">δεδαπάνηκα</rs>, δεδαπάνημαι, ἐδαπανήθην : spend, waste.
 <rs type="lemma">νίκη</rs>, νίκης, ἡ: victory. EUNICE.
 <rs type="lemma">οἶδα</rs>, εἴσομαι: know.
 <rs type="lemma">ἔξω</rs>, ady.: outside. Cf. ἐκ, ἐξ. EXOTIC.
@@ -10137,10 +10167,8 @@ John Finley.</p></div>
 
 <div type="textpart" subtype="para" n="432">
 <p>IN PRAISE OF EROS
-“Epwra & Saris pip Gedy xpiver wéyav
-Kal Tov ardvtTwr Satpover birép-TaTov,
-} oxatos éorty } Kaddv d-retpos (inexperienced) ov
-ove olde Tov peysoTov avOpwroa:s Hedy.
+
+  
 
 Ἔρωτα δ᾽ ὅστις μὴ θεὸν κρίνει μέγαν
 καὶ τῶν ἁπάντων δαιμόνων ὑπέρ-τατον,
@@ -10250,11 +10278,11 @@ of the thing effected.
 <rs type="lemma">ἐάω</rs>, ἐάσω, εἴᾱσα, εἴᾱκα, εἴᾱμαι, εἰάθην: allow, let be. 
 <rs type="lemma">εἶμι</rs>, only pres., but freq. with fut. significance: go. 
 <rs type="lemma">μάντις</rs>, τεως, ὁ: seer, soothsayer, prophet, MANTIC, NECROMANCY. 
-<rs type="lemma">πειράομαι</rs>, πειράσομαι, ἐπειρᾱσάμην, πεπείραμαι, ἐπειράθην: try. PIRATE, EMPIRIC.
+<rs type="lemma" n="πειράω">πειράομαι</rs>, πειράσομαι, ἐπειρᾱσάμην, πεπείραμαι, ἐπειράθην: try. PIRATE, EMPIRIC.
 
 <rs type="lemma">τάξις</rs>, τάξεως, ἡ : order, arrangement, position, division. Cf, τάττω. TAXIDERMIST.
 
-χράομαι, χρήσομαι, ἐχρησάμην, κέχρημαι, ἐχρήσθην: use. with D. Cf. χρῆμα.</p></div>
+<rs type="lemma" n="χράω">χράομαι</rs>, χρήσομαι, ἐχρησάμην, κέχρημαι, ἐχρήσθην: use. with D. Cf. χρῆμα.</p></div>
 
 <div type="textpart" subtype="para" n="439">
 <p>EXERCISES
@@ -10833,7 +10861,7 @@ becomes ω : δηλόω, δηλώσω, ἐδήλωσα, κ.τ.λ.</p></div>
 <rs type="lemma">ἀξιόω</rs>, ἀξιώσω, ἠξίωσα, ἠξίωκα, ἠξίωμαι, ἠξιώθην : deem worthy, demand. Cf. ἄξιος. AXIOM.
 
 <rs type="lemma">ἥλιος</rs>: sun. HELIOGRAPH.
-<rs type="lemma">ἡττάομαι</rs>, ἡττήσομαι, ἥττημαι, ἡττήθην: be worsted, defeated. Cf. ἥττων.
+<rs type="lemma" n="ἡσσάομαι">ἡττάομαι</rs>, ἡττήσομαι, ἥττημαι, ἡττήθην: be worsted, defeated. Cf. ἥττων.
 <rs type="lemma">δηλόω</rs>, δηλώσω, ἐδήλωσα, δεδήλωκα, δεδήλωμαι, ἐδηλώθην: make plain, show. Cf. δῆλος.
 
 
@@ -10842,7 +10870,7 @@ becomes ω : δηλόω, δηλώσω, ἐδήλωσα, κ.τ.λ.</p></div>
 
 <rs type="lemma">ὁρμάω</rs>, ὁρμήσω, ὥρμησα, ὥρμηκα, ὥρμημαι, ὡρμήθην: set in motion, start (trans.)
 
-ἐξ-απατάω, ἐξ-απατήσω, ἐξ-ηπάτησα,ἐξ-ηπάτηκα, ἐξ-ηπάτημαι, ἐξ-ηπατήθην: deceive utterly.</p></div>
+<rs type="lemma">ἐξ-απατάω</rs>, ἐξ-απατήσω, ἐξ-ηπάτησα,ἐξ-ηπάτηκα, ἐξ-ηπάτημαι, ἐξ-ηπατήθην: deceive utterly.</p></div>
 
 <div type="textpart" subtype="para" n="464">
 <p>EXERCISES
@@ -10988,7 +11016,7 @@ stopped to pick up.</p></figure>
 <rs type="lemma">ἁμαρτάνω</rs>, ἁμαρτήσομαι, ἥμαρτον, ἡμάρτηκα, ἡμάρτημαι, ἡμαρτήθην : miss, with G.; err.
 
 
-<rs type="lemma">τετρώσκω</rs>, τρώσω, ἔτρωσα, τέτρωμαι, ἐτρώθην : wound. TRAUMA.
+<rs type="lemma">τιτρώσκω</rs>, τρώσω, ἔτρωσα, τέτρωμαι, ἐτρώθην : wound. TRAUMA.
 
 <rs type="lemma">θώρᾱξ</rs>, θώρᾱκος, ὁ: breastplate, corselet, cuirass. THORAX, THORACIC.
 
@@ -11239,7 +11267,7 @@ tenses (§ 546, a and e).
 
 <rs type="lemma">θόρυβος</rs>: noise, din, outcry. 
 
-<rs type="lemma">κάω</rs> 2 (καίω), καύσω, ἔκαυσα, κέκαυκα, κέκαυμαι, ἐκαύθην : burn, CAUSTIC.
+<rs type="lemma" n="καίω">κάω</rs> 2 (καίω), καύσω, ἔκαυσα, κέκαυκα, κέκαυμαι, ἐκαύθην : burn, CAUSTIC.
 <rs type="lemma">πολιορκέω</rs>, πολιορκήσω, ἐπολιόρλιόρκημαι, ἐπολιορκήθην : siege. Cf. πόλις.
 
 <rs type="lemma">τῑμωρέω</rs>, τῑμωρήσω, ἐτῑμώρησα, τετῑμώρηκα, τετῑμώρημαι, ἐτῑμωρήθην : avenge ; mid., punish. With D. of person avenged, A. of person punished.
@@ -11273,7 +11301,7 @@ tenses (§ 546, a and e).
 <div type="textpart" subtype="para" n="483">
 <p>A FRIEND IN NEED
 
-φίλη ΠΕειθοῖ, παρ-οῦσα σύμμαχος
+φίλη Πειθοῖ, παρ-οῦσα σύμμαχος
 πόει (ποίει) κατ-ορθοῦν (to prosper) τοὺς λόγους, οὓς ἂν λέγω.
 
 Menander, fragment.</p></div>
