@@ -94,7 +94,15 @@ instead of five as in Latin. To these, because of their general uniformity, the 
 <div type="textpart" subtype="para" n="2"><p>Ο-Stem Masculines. Nouns of the ο-declension
 whose nominatives end in -ος are usually masculine.
 
-ὁ ποταμός the river
+masc-nom-sg: ὁ ποταμός: the river [subject]
+masc-gen-sg: τοῦ ποταμοῦ: of the river
+masc-dat-sg: τῷ ποταμῷ: to/for the river
+masc-acc-sg: τὸν ποταμόν: the river [object]
+
+masc-nom-pl: οἱ ποταμοί:  the rivers [subject]
+masc-nom-pl: τῶν ποταμῶν: of the rivers
+masc-gen-pl: τοῖς ποταμοῖς: to/for the rivers 
+masc-gen-pl: τοὺς ποταμούς: the rivers [object]
 
 
 In like manner inflect ὁ ἀδελφός.</p></div>
@@ -120,8 +128,8 @@ in succeeding lessons. The vocative is not included in the forms to be memorized
 (b) An acute on the ultima changes to a grave (`)
 when a word follows without intervening punctuation:
 
-ἀδελφὸν ἔχει 
-he has a brother.</p></div>
+ἀδελφὸν ἔχει: s/he has a brother.
+</p></div>
 
 <div type="textpart" subtype="para" n="4"><p>Cases. The endings of a noun tell its case and use
 
@@ -132,13 +140,11 @@ he has a brother.</p></div>
 (2) The genitive suggests relations like those expressed
 
 with of in English. It frequently denotes possession :
-ὁ τοῦ στρατηγοῦ ἀδελφός 
-the brother of the yeneral.
+ὁ τοῦ στρατηγοῦ ἀδελφός: the brother of the general.
 
 (c) The dative suggests relations like those with fo or
 for in English. It frequently denotes the indirect object :
-τῷ στρατηγῷ πέμπει τὸν ἀδελφόν 
-he sends his brother to the general.
+τῷ στρατηγῷ πέμπει τὸν ἀδελφόν: s/he sends his brother to the general.
 
 (d) The accusative is the direct object of a transitive
 verb: ἀδελφὸν πέμπει he sends a brother.</p></div>
@@ -152,19 +158,19 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 (b) Greek has no indefinite article. Many nouns having no definite article require a or an in translation:</p></div>
 
 <div type="textpart" subtype="para" n="6"><p>VOCABULARY
-<rs type="lemma">ἀδελφός</rs>, -οὔ, δ: brother.  PHILADELPHIA.
+<rs type="lemma">ἀδελφός</rs>, ἀδελφοῦ, ὁ: brother.  PHILADELPHIA.
 
 <rs type="lemma">ἔχει</rs>: he, she, or it has,
 <rs type="lemma">ἔχουσι</rs>: they have.
 <rs type="lemma">ἦν</rs>: he, she, it, or there was.
 <rs type="lemma">ἦσαν</rs>: they or there were.
-<rs type="lemma">παύει</rs>; he, she, or it stops (transitive).
+<rs type="lemma">παύει</rs>: he, she, or it stops (transitive).
 
 <rs type="lemma">παύουσι</rs>: they stop.
 <rs type="lemma">πέμπει</rs>: he, she, or it sends (transitive).
 <rs type="lemma">πέμπουσι</rs>: they send.
-<rs type="lemma">ποταμός</rs>, -οὔ, ὃ: river, HIPPOPOTAMUS.
-<rs type="lemma">στρατηγός</rs>, -οὔ, ὃ: general. STRATEGY.
+<rs type="lemma">ποταμός</rs>, ποταμοῦ, ὁ: river, HIPPOPOTAMUS.
+<rs type="lemma">στρατηγός</rs>, στρατηγοῦ, ὁ: general. STRATEGY.
 
 1 The definite article accompanies nouns in vocabularies to show gender.
 2 In the vocabularies derivatives and cognates are printed in small capitals.
@@ -213,8 +219,8 @@ winds through it, is one of the few in Greece that never go dry.</p></figure></p
 <head>DECLENSION OF O-STEMS — Continued</head>
 <p>
 <cit><quote>
-πόνος γάρ, ὡς λέγουσιν. εὐκλείας πατήρ.</quote>
-  <quote>Toil, so they say, is the father of fame?
+πόνος γάρ, ὡς λέγουσιν, εὐκλείας πατήρ.</quote>
+  <quote>Toil, so they say, is the father of fame.
   </quote><bibl>Euripides, fragment</bibl></cit>
 </p></div>
 
@@ -263,13 +269,13 @@ It is nearly nineteen feet long.</p></figure>></p></div>
 
 <div type="textpart" subtype="para" n="10"><p>VOCABULARY
 
-<rs type="lemma">ἄνθρωπος</rs>: person, human being. When used with the feminine article, this noun can explicitly designate a female person. Lat. homo. ANTHROPOLOGY
+<rs type="lemma">ἄνθρωπος</rs>, ἀνθρώπου, ὁ: person, human being. When used with the feminine article, this noun can explicitly designate a female person. Lat. homo. ANTHROPOLOGY
 <rs type="lemma">ἄξιος</rs>: worthy, worth. AXIOM
-<rs type="lemma">ἀπό</rs>, prep. with G.: from, away from, Lat. ab. APOSTLE. 
+<rs type="lemma">ἀπό</rs>: prep. with G.: from, away from, Lat. ab. APOSTLE. 
 <rs type="lemma">δίκαιος</rs> : just. 
-<rs type="lemma">Ἑλλήσποντος</rs>: Hellespont, the Dardanelles.
+<rs type="lemma">Ἑλλήσποντος</rs>, Ἑλλησπόντου, ὁ: Hellespont, the Dardanelles.
 
-<rs type="lemma">ἐκ</rs> (before consonants), ἐξ (before vowels), proclit. prep. with G. out of, from. Lat. ex. ECLECTIC. 
+<rs type="lemma">ἐκ</rs>: (before consonants), ἐξ (before vowels), proclit. prep. with G. out of, from. Lat. ex. ECLECTIC. 
 <rs type="lemma">μακρός</rs>: large. MACRON. MACROECONOMICS.
 <rs type="lemma">μῑκρός</rs>: small. MICROSCOPIC. MICROECONOMICS
 
@@ -394,7 +400,7 @@ he was hostile to the general.</p></div>
 <rs type="lemma">ἀγαθός</rs>: good, brave. AGATHA. 
 
 
-<rs type="lemma">ἄγγελος</rs>: messenger. ANGEL.
+<rs type="lemma">ἄγγελος</rs>, ἀγγέλου, ὁ: messenger. ANGEL.
 
 <rs type="lemma">ἄγω</rs>: lead, Lat. ago. 
 
@@ -402,12 +408,12 @@ he was hostile to the general.</p></div>
 
 <rs type="lemma">ἐθέλω</rs>: wish, be willing. 
 
-<rs type="lemma">ἵππος</rs>: horse. ANALYSIS. HIPPOPOTAMUS, 
+<rs type="lemma">ἵππος</rs>, ἵππου: horse. ANALYSIS. HIPPOPOTAMUS, 
 
 <rs type="lemma">καί</rs>: conj.: and, also, even.
 
 <rs type="lemma">καλός</rs>: beautiful, honorable, fine.
-<rs type="lemma">κίνδυνος</rs>: danger.
+<rs type="lemma">κίνδυνος</rs>, κινδύνου, ὁ: danger.
 
 
 <rs type="lemma">λίθος</rs>: stone.
@@ -555,19 +561,19 @@ into the plain
 
 <div type="textpart" subtype="para" n="25">
 <p>VOCABULARY
-<rs type="lemma">δέ</rs> (δ᾽ before vowels), postpos.2 conj: but, and.
+<rs type="lemma">δέ</rs>: (δ᾽ before vowels), postpositive conj: but, and.
 
-<rs type="lemma">ἐν</rs>, proclit. prep. with D. : in (Lat. in). ENCLITIC.
-<rs type="lemma">δένδρον</rs>: tree. RHODODENDRON. 
+<rs type="lemma">ἐν</rs>: proclitic prep. with D. : in (Lat. in). ENCLITIC.
+<rs type="lemma">δένδρον</rs>, δένδρου, τό: tree. RHODODENDRON. 
 
-<rs type="lemma">παρά</rs>, prep.: with G., from the side of; with D., by the side of; with A., to the side of, to, alongside. PARALLEL.
+<rs type="lemma">παρά</rs>: prep., with G., from the side of; with D., by the side of; with A., to the side of, to, alongside. PARALLEL.
 
 <rs type="lemma">δῆλος</rs>: plain, evident. 
-<rs type="lemma">δῶρον</rs>: gift. THEODORE, 
-<rs type="lemma">εἰς</rs>, proclit. prep. with A.: into  (Lat. in).
-<rs type="lemma">πεδίον</rs>: plain.
+<rs type="lemma">δῶρον</rs>, δώρου, τό: gift. THEODORE, 
+<rs type="lemma">εἰς</rs>: proclit. prep. with A.: into  (Lat. in).
+<rs type="lemma">πεδίον</rs>, πεδίου, τό: plain.
 
-<rs type="lemma">στάδιον</rs>: stadium (race course); stade (600 ft.).3 </p></div>
+<rs type="lemma">στάδιον</rs>, σταδίου, τό: stadium (race course); stade (600 ft.).3 </p></div>
 
 <div type="textpart" subtype="para" n="26">
 <p>EXERCISES
@@ -828,7 +834,7 @@ the village had no garrison,
 μάχ-ην 
 κώμ-αις 
 σκην-άς 
-φυλακ-ἢς 
+φυλακ-ῆς 
 σπονδ-αί 
 σκην-ή 
 
@@ -2389,7 +2395,7 @@ a contrary to fact from a past particular condition (§ 85).</p></div>
 
 <rs type="lemma">εἰμί</rs> enclit.: be.
 
-<rs type="lemma">ἔξ-ἐστι(ν)</rs>,2 impersonal ; it is possible.
+<rs type="lemma" n="ἔξεστι">ἔξ-ἐστι(ν)</rs>,2 impersonal ; it is possible.
 
 <rs type="lemma">οὔπω</rs>, neg. adv. : not yet.
 
@@ -3761,7 +3767,7 @@ and does my translation fit the passage ?”</p></div>
 <rs type="lemma">ἔτι</rs>, adv.: still, longer, yet. 
 <rs type="lemma">τρίτος</rs>: third, TRISYLLABIC. 
 
-<rs type="lemma">καλῶς</rs>, adv.: well. Cf. καλός. 
+<rs type="lemma" n="καλός">καλῶς</rs>, adv.: well. Cf. καλός. 
 
 <rs type="lemma">κεφαλή</rs>: head. CEPHALIC. 
 <rs type="lemma">ὦ</rs>, interj. : O, often preceding the name of the person addressed.
@@ -3934,8 +3940,7 @@ Where do πόσος and ὁπύσος fit in such a scheme?</p></div>
 <rs type="lemma">πῶς</rs>, inter. ady.: how ?
 <rs type="lemma">πως</rs>, indef, adv.: somehow, in any way.
 <rs type="lemma">ὅπως</rs>, indef. rel. adv. : hove, that.
-<rs type="lemma">τίς</rs>, τί, inter. pron. : who, what?
-<rs type="lemma">τί</rs>, sometimes = why?
+<rs type="lemma">τίς</rs>, τί, inter. pron. : who, what? τί, sometimes = why?
 <rs type="lemma">τις</rs>, τι, indef. pron.: some, any.
 <rs type="lemma">ὅστις</rs>, ἦτις, ὅ τι, indef. rel. pron.: whoever, whichever, whatever.
 <rs type="lemma">χρόνος</rs>: time. CHRONOMETER
@@ -5273,7 +5278,7 @@ he came (on) that day.</p></div>
 <div type="textpart" subtype="para" n="229">
 <p>VOCABULARY
 <rs type="lemma">ἀγών</rs>: contest, struggle.  AGONY, PROTAGONIST.
-<rs type="lemma">ἔδεισα</rs> (aor.): feared. 
+<rs type="lemma" n="δείδω">ἔδεισα</rs> (aor.): feared. 
 
 
 <rs type="lemma">Ἕλλην</rs>, Ἕλληνος, ὁ: Hellene, Greek. 
@@ -5592,10 +5597,10 @@ sacrifice a necessity (it is necessary to sacrifice).
 <p>VOCABULARY 
 <rs type="lemma">εὐθύς</rs>, -εὐθεῖα, εὐθύ: straight, direct; 
 
-<rs type="lemma">πρό</rs>, prep. with G.: before, in front of. PROLOGUE.
-<rs type="lemma">εὐθύς</rs>, adv.: straightway, immediately. 
+<rs type="lemma">πρό</rs>: prep. with G.: before, in front of. PROLOGUE.
+<rs type="lemma">εὐθύς</rs>: adv., straightway, immediately. 
 <rs type="lemma">ταχύς</rs>, ταχεῖα, ταχύ: swift.
-<rs type="lemma">ἡδέως</rs>, adv.: gladly. TACHYMETER.
+<rs type="lemma" n="ἡδύς">ἡδέως</rs>, adv.: gladly. TACHYMETER.
 <rs type="lemma">ἡδύς</rs>, ἡδεῖα, ἡδύ: sweet, pleasant, 
 <rs type="lemma">τέλος</rs>, τέλους, τό: end; A. used as adv. : finally. TELEOLOGICAL.
 <rs type="lemma">μέγας</rs>, μεγάλη, μέγα: great, large. MEGALOMANIA.
@@ -5888,34 +5893,35 @@ of adjectives.2
 
 Positive COMPARATIVE SUPERLATIVE
 ἀγαθός good, brave, etc. 
-<rs type="lemma">ἀμείνων</rs> better, braver 
-<rs type="lemma">ἄριστος</rs> best, bravest, etc, ARISTOCRAT.
-<rs type="lemma">βελτίων</rs> morally better 
-<rs type="lemma">βέλτιστος</rs> morally best 
-<rs type="lemma">κρείττων</rs> physically κράτιστος strongest, stronger, preferable hest
+<rs type="lemma" n="ἀγαθός">ἀμείνων</rs> better, braver 
+<rs type="lemma" n="ἀγαθός">ἄριστος</rs> best, bravest, etc, ARISTOCRAT.
+<rs type="lemma" n="ἀγαθός">βελτίων</rs> morally better 
+<rs type="lemma" n="ἀγαθός">βέλτιστος</rs> morally best 
+<rs type="lemma" n="κρατύς">κρείττων</rs> physically 
+<rs type="lemma" n="κρατύς">κράτιστος</rs> strongest, stronger, preferable hest
 κακός bad, ugly, 
-<rs type="lemma">κακίων</rs> cowardly
-<rs type="lemma">κάκιστος</rs> cowardly
+<rs type="lemma" n="κακός">κακίων</rs> cowardly
+<rs type="lemma" n="κακός">κάκιστος</rs> cowardly
 <rs type="lemma">χείρων</rs> meaner 
 <rs type="lemma">χείριστος</rs> worst
 <rs type="lemma" n="ἥσσων">ἥττων</rs> weaker, inferior 
-[<rs type="lemma">ἥκιστα</rs>, adv.: least, by no means]
+[<rs type="lemma" n="ἥκιστος">ἥκιστα</rs>, adv.: least, by no means]
 καλός beautiful, noble 
-<rs type="lemma">καλλίων</rs> more beautiful, more noble
-<rs type="lemma">κάλλιστος</rs> more beautiful, most noble
+<rs type="lemma" n="καλός">καλλίων</rs> more beautiful, more noble
+<rs type="lemma" n="καλός">κάλλιστος</rs> more beautiful, most noble
 μέγας great, large 
-<rs type="lemma">μείζων</rs> greater
-<rs type="lemma">μέγιστος</rs> greatest
+<rs type="lemma" n="μέγας">μείζων</rs> greater
+<rs type="lemma" n="μέγας">μέγιστος</rs> greatest
 μικρός small 
-<rs type="lemma">μικρότερος</rs> smaller
-<rs type="lemma">μικρότατος</rs> smallest
+<rs type="lemma" n="μικρός">μικρότερος</rs> smaller
+<rs type="lemma" n="μικρός">μικρότατος</rs> smallest
 <rs type="lemma">μείων</rs> pl, fewer
 <rs type="lemma" n="ἐλαχύς">ἐλάττων</rs> Serves also as comparative for ὀλίγος little, few. 
 <rs type="lemma" n="ἐλαχύς">ἐλάχιστος</rs> least
 πολύς much; pl, many 
-<rs type="lemma">πλείων</rs> more
-<rs type="lemma">πλέων</rs> more
-<rs type="lemma">πλεῖστος</rs> PLEONASM. </p></div>
+<rs type="lemma" n="πολύς">πλείων</rs> more
+<rs type="lemma" n="πολύς">πλέων</rs> more
+<rs type="lemma" n="πολύς">πλεῖστος</rs> PLEONASM. </p></div>
 
 <div type="textpart" subtype="para" n="260">
 <p>Some words lack a positive :
@@ -5923,7 +5929,7 @@ Positive COMPARATIVE SUPERLATIVE
 [πρό before] <rs type="lemma">πρότερος</rs> former 
 <rs type="lemma">πρῶτος</rs> first
 <rs type="lemma">ὕστερος</rs> later, latter 
-<rs type="lemma">ὕστατος</rs> last
+<rs type="lemma" n="ὕστερος">ὕστατος</rs> last
 
 Inflect ἀμείνων (like ἡδίων), πρότερος. πλεῖστος,
 2 Only the more common adjectives are here given.
@@ -6059,16 +6065,16 @@ corresponding to ἄξιος, μέγας, ἀληθής, ταχύς, κακός,
 <p>Irregularities occur in the comparison of some adverbs.
 
 <rs type="lemma">ἐγγύς</rs>, near, nearly 
-<rs type="lemma">ἐγγύτερον</rs>,  ἐγγυτέρω  
-<rs type="lemma">ἐγγύτατα</rs> ,ἐγγυτάτω
+<rs type="lemma" n="ἐγγύς">ἐγγύτερον</rs>,  ἐγγυτέρω  
+<rs type="lemma" n="ἐγγύς">ἐγγύτατα</rs> ,ἐγγυτάτω
 
 <rs type="lemma">εὖ</rs> well (adv. of ἀγαθός) 
-<rs type="lemma">ἄμεινον</rs>, better
-<rs type="lemma">ἄριστα</rs>, best
+<rs type="lemma" n="εὖ">ἄμεινον</rs>, better
+<rs type="lemma" n="εὖ">ἄριστα</rs>, best
 
 <rs type="lemma">μάλα</rs>, very 
-<rs type="lemma">μᾶλλον</rs>, more, rather 
-<rs type="lemma">μάλιστα</rs>, most, certainly
+<rs type="lemma" n="μάλα">μᾶλλον</rs>, more, rather 
+<rs type="lemma" n="μάλα">μάλιστα</rs>, most, certainly
 
 <pb n="142"/>
 
@@ -6792,7 +6798,7 @@ Note that the present (not aorist) imperative and the aorist (not present) subju
 <rs type="lemma">ἕτερος</rs>: other (of two); 
 
 <rs type="lemma">χρή</rs>, χρῆν, χρῇ 4, χρείη, χρῆναι: be necessary, fitting.
-<rs type="lemma">θάτερον</rs> = Td Erepov.  HETERODOX.
+<rs type="lemma" n="ἕτερος">θάτερον</rs> = τὸ ἕτερον.  HETERODOX.
 1 D, Ad; A. Ala. 
 2 Future and aorist follow.
 3 Imperfect, seemingly for χρὴ + ἦν
@@ -7272,7 +7278,7 @@ of fear.2
 
 <rs type="lemma" n="φοβέω">φοβέομαι</rs>, φοβήσομαι:1 fear. Cf. φόβος.
 
-<rs type="lemma">μέλει</rs>, μελήσει, ἐμέλησε: is a care, concerns. Used impersonally.
+<rs type="lemma" n="μέλω">μέλει</rs>, μελήσει, ἐμέλησε: is a care, concerns. Used impersonally.
 
 χαλεπαίνω, χαλεπανῷ, ἐχαλεπηνα: be severe, angry. Ci. χαλεπός.</p></div>
 
@@ -8128,7 +8134,7 @@ One man, no man.</p></div>
 
 <p><num>9</num>. <rs type="lemma">ἐννέα</rs>, ENNEAD.</p>
 
-<p><num>10</num>. <rs type="lemma">δέκα</rs>, DECALOGUE. 
+<p><num>10</num>. δέκα, DECALOGUE. 
 </p>
 
 <p><num>11</num>. <rs type="lemma">ἔν-δεκα</rs>,  HENDECASYLLABIC,
@@ -8138,10 +8144,10 @@ One man, no man.</p></div>
 
 </p>
 
-<p><num>13</num>. <rs type="lemma">τρεῖς καὶ δέκα</rs>.
+<p><num>13</num>. <rs type="lemma">τρεῖ-καὶ-δέκα</rs>.
 </p>
 
-<p><num>14</num>. <rs type="lemma">τέτταρες καὶ δέκα</rs>.</p>
+<p><num>14</num>. <rs type="lemma">τέτταρες-καὶ-δέκα</rs>.</p>
 
 <p><num>15</num>. <rs type="lemma">πεντε-καί-δεκα</rs>.
 
@@ -8157,7 +8163,7 @@ One man, no man.</p></div>
 
 <p><num>20</num>. <rs type="lemma">εἴκοσι</rs>.  (εἴκοσιν)</p>
 
-<p><num>21</num>. <rs type="lemma">εἷς καὶ εἴκοσι</rs>, εἴκοσι καὶ εἷς</p>
+<p><num>21</num>. <rs type="lemma">εἷς-καὶ-εἴκοσι</rs>, εἴκοσι καὶ εἷς</p>
 
 <p><num>30</num>. <rs type="lemma">τριάκοντα</rs>.</p>
 
@@ -8964,7 +8970,7 @@ inscribed on the temple of Apollo at Delphi.
 <rs type="lemma">τίθημι</rs>, θήσω, ἔθηκα, τέθηκα, τέθειμαι, ἐτέθην : put, place.  Frequently in compounds. ANTITHESIS.
 <rs type="lemma">ἅπαξ</rs>, adv.: altogether, once for all, Cf. ἅ-πᾱς.
 
-<rs type="lemma">εἶδον</rs>,1 2d. aor. : saw. 
+<rs type="lemma" n="ὁράω">εἶδον</rs>,1 2d. aor. : saw. 
 <rs type="lemma">ἕνεκα</rs>, post-pos. prep. with G.: on account of, for the sake af, for.
 
 <rs type="lemma">τοιοῦτος</rs>, τοιαύτη, τοιοῦτο: of such sort,  such size or quantity.
@@ -9318,8 +9324,7 @@ The negative is μή:
 
 <rs type="lemma">ἦρα</rs>, interrog, particle indicating an impatient question: then.
 
-<rs type="lemma">δίδωμι</rs>, δώσω, ἔδωκα, δέδωκα,
-<rs type="lemma">δέδομαι</rs>, ἐδόθην: give. Cf. &δῶρον. DOSE.
+<rs type="lemma">δίδωμι</rs>, δώσω, ἔδωκα, δέδωκα, δέδομαι, ἐδόθην: give. Cf. δῶρον. DOSE.
 
 <rs type="lemma">ἕκαστος</rs>: each.
 
@@ -9683,7 +9688,7 @@ or past time respectively:
 
 <rs type="lemma" n="πλόος">πλοῦς</rs>, πλοῦ, ὁ : sailing, voyage. Cf. πλέω, πλοῖον.
 
-<rs type="lemma">ὥφελον</rs>, sec. aor. of ὀφείλω, owe: most common as a device for expressing unattainable wishes in present or past time, with inf.
+<rs type="lemma" n="ὀφείλω">ὥφελον</rs>, sec. aor. of ὀφείλω, owe: most common as a device for expressing unattainable wishes in present or past time, with inf.
 
 </p></div>
 
