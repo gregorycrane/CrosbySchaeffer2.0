@@ -7,6 +7,8 @@ covers Iliad 1, which has just over 6,000 running words).
 
 ### Linguistic analysis of Xenophon's Anabasis
 
+This messy [Jupyter Notebook]([url](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/analyzeCS2.0.ipynb)https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/analyzeCS2.0.ipynb)  analyzes Crosby and Schaeffer vocabulary. It also searches for grammatical features in Anabasis 1.
 
 
-https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/analyzeCS2.0.ipynb
+
+
