@@ -9,6 +9,9 @@ covers Iliad 1, which has just over 6,000 running words).
 
 This messy [Jupyter Notebook]([url](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/analyzeCS2.0.ipynb)https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/analyzeCS2.0.ipynb)  analyzes Crosby and Schaeffer vocabulary. It also searches for grammatical features in Anabasis 1.
 
+![image](https://github.com/gregorycrane/CrosbySchaeffer2.0/assets/5159577/8283abed-ea7e-44f5-8eef-215b1c006525)
+
+
 
 
 
