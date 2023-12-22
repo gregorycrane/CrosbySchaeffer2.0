@@ -11,6 +11,11 @@ This messy [Jupyter Notebook]([url](https://github.com/gregorycrane/CrosbySchaef
 
 ![image](https://github.com/gregorycrane/CrosbySchaeffer2.0/assets/5159577/8283abed-ea7e-44f5-8eef-215b1c006525)
 
+#### Purpose clauses
+
+ 1.1.3: Τισσαφέρνης διαβάλλει τὸν Κῦρον πρὸς τὸν ἀδελφὸν ὡς ἐπιβουλεύοι αὐτῷ.
+ 1.1.5: καὶ τῶν παρʼ ἑαυτῷ δὲ βαρβάρων ἐπεμελεῖτο ὡς πολεμεῖν τε ἱκανοὶ εἴησαν καὶ εὐνοϊκῶς ἔχοιεν αὐτῷ.
+
 
 
 
