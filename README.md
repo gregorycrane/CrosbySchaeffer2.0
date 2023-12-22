@@ -5,6 +5,14 @@ corpus. Crosby and Schaeffer is clearly geared for the Anabasis of Xenophon and 
 contains more than 10,000 running words (if we include punctuation) and this is quite large enough for a challenging year of study. (By comparison, Pharr's Homeric Greek 
 covers Iliad 1, which has just over 6,000 running words).
 
+### How do we represent a textbook of Greek or Latin?
+
+Our goal is to give learners the tools 
+
+We want to integrate examples from the sources that motivated students to learn the language.
+
+We want to support communicati
+
 ### Linguistic analysis of Xenophon's Anabasis
 
 This messy [Jupyter Notebook]([url](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/analyzeCS2.0.ipynb)https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/analyzeCS2.0.ipynb)  analyzes Crosby and Schaeffer vocabulary. It also searches for grammatical features in Anabasis 1.
