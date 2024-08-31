@@ -12,7 +12,7 @@ instead of five as in Latin. To these, because of their general uniformity, the 
 
 [2.] Ο-Stem Masculines. Nouns of the ο-declension
 whose nominatives end in -ος are usually masculine.
-
+<code style="color : name_color">foo</code>
 <table>
   <head>ποταμός, ποταμοῦ, ὁ — a river</head>
   <row role="label"><cell cols="3">Singular</cell></row>
