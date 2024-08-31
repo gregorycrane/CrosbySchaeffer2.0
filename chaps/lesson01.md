@@ -7,10 +7,10 @@
 
 <figure><head>Eager to Go</head></figure>
 
-[1.] **Declensions**. There are three declensions in Greek,
+[§ 1](#para1). **Declensions**. There are three declensions in Greek,
 instead of five as in Latin. To these, because of their general uniformity, the o-stems serve as a good introduction.
 
-[2.] **Ο-Stem Masculines**. Nouns of the ο-declension
+[§ 2](#para2). **Ο-Stem Masculines**. Nouns of the ο-declension
 whose nominatives end in -ος are usually masculine.
 
 **ποταμός, ποταμοῦ, ὁ — a river**
@@ -31,7 +31,7 @@ whose nominatives end in -ος are usually masculine.
 
 In like manner inflect ὁ ἀδελφός.
 
-[3.] **Accents**.
+[§ 3](#para3). **Accents**.
 (a) In nouns of the ο-declension an acute
 
 (´) on the ultima in the nominative is changed to a
@@ -50,7 +50,7 @@ when a word follows without intervening punctuation:
 
 
 
-[4.] Cases. The endings of a noun tell its case and use
+[§ 4](#para4). **Cases.** The endings of a noun tell its case and use
 
 (a) The nominative is the case of the subject:
 
@@ -68,7 +68,7 @@ for in English. It frequently denotes the indirect object :
 (d) The accusative is the direct object of a transitive
 verb: ἀδελφὸν πέμπει he sends a brother.
 
-[5.] The Article.
+[§ 5](#para5). The Article.
 (a) <span style="color:green">ὁ</span> Like English, and unlike Latin,
 Greek has a definite article. This agrees with its noun
 in gender, number, and case. It often serves as a possessive pronoun, as my, your, his, etc. ὁ and οἱ are proclitic
@@ -76,7 +76,7 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 
 (b) Greek has no indefinite article. Many nouns having no definite article require a or an in translation:
 
-[6.] **Vocabulary**
+[§ 6](#para6). **Vocabulary**
 <list type="vocab">
 <span style="color:green">ἀδελφός</span>, ἀδελφοῦ, ὁ:<note>The definite article accompanies nouns in vocabularies to show gender.</note> brother.  PHILADELPHIA.<note>In the vocabularies derivatives and cognates are printed in small capitals.</note>
 
@@ -101,7 +101,7 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 <pb n="3"/>
 
 
-[7.] Exercises
+[§ 7](#para7). Exercises
 
 ### (a) What use of the noun do the <span style="color:blue">emphasized type</span> endings suggest?
 

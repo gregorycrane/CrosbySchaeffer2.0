@@ -6,7 +6,7 @@
 </quote>>> Euripides, fragment
 
 
-[8.] **Persistent Accent**. The accent of the nominative
+[§ 8](#para8). **Persistent Accent**. The accent of the nominative
 must be learned by observation. It will remain on the
 same syllable in the other cases if possible. An acute on
 the penult of a noun of the o-declension remains on that
@@ -30,7 +30,7 @@ In like manner inflect ὁ πόλεμος.
 
 <pb n="5"/>
 
-[9.] Genitive of Place from Which. The genitive with
+[§ 9](#para9). Genitive of Place from Which. The genitive with
 many prepositions denotes place from which :
 
 τὸν ἄνθρωπον πέμπει ἀπὸ τοῦ ποταμοῦ.
@@ -49,7 +49,7 @@ The walls of Messene still testify to the engineering skill and daring of the
 victor of Leuctra. Note particularly the central doorpost of this great gate.
 It is nearly nineteen feet long.</figure>>
 
-[10.] VOCABULARY
+[§ 10](#para10). VOCABULARY
 
 <span style="color:green">ἄνθρωπος</span>, ἀνθρώπου, ὁ: person, human being. When used with the feminine article, this noun can explicitly designate a female person. Lat. homo. ANTHROPOLOGY
 <span style="color:green">ἄξιος</span>: worthy, worth. AXIOM
@@ -76,7 +76,7 @@ It is nearly nineteen feet long.</figure>>
 <pb n="6"/>
 
 
-[11.] TRANSLATION HINTS
+[§ 11](#para11). TRANSLATION HINTS
 
 . Learn all words given in vocabularies.
 
@@ -86,7 +86,7 @@ It is nearly nineteen feet long.</figure>>
 
 . Translate.
 
-[12.] EXERCISES
+[§ 12](#para12). EXERCISES
 
 
 

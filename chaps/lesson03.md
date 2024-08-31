@@ -7,7 +7,7 @@
 
 
 
-[13.] The Present Tense. This tense denotes action occurring or continuing or repeated in present time:
+[§ 13](#para13). The Present Tense. This tense denotes action occurring or continuing or repeated in present time:
 
 παύω I stop. I am stopping. I keep stopping. I do stop.
 
