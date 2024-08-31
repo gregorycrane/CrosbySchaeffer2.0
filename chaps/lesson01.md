@@ -1,4 +1,6 @@
 # Chapter 1: DECLENSION OF ο-STEMS
+
+
 ![text](https://upload.wikimedia.org/wikipedia/commons/7/74/Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg)
 
 >  ἐν ἀρχῇ ἦν ὁ λόγος.<br/>
