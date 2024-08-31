@@ -1,5 +1,6 @@
 # Chapter 1: DECLENSION OF ο-STEMS
 ![text](https://upload.wikimedia.org/wikipedia/commons/7/74/Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg)
+
 >  ἐν ἀρχῇ ἦν ὁ λόγος.<br/>
 >  In the beginning was the word.<br/>
 >> John, 1.1
@@ -139,14 +140,14 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 
 
 
-![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg)
+<figure>![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg)<head>ὁ ποταμός</head></figure>
 ![text](https://upload.wikimedia.org/wikipedia/commons/b/b2/Pineios_river_%28thessaly%29_map.jpg)
 <figure><head>ὁ ποταμός</head>
 This lovely pass, the Vale of Tempe, between Mt. Ossa and Mt. Olympus,
 might have proven more troublesome to the Persians than Thermopylae, had
 they not found an easier entrance into Greece. The Peneus River, which
 winds through it, is one of the few in Greece that never go dry.</figure>
-<figure>![text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%CE%A0%CE%B7%CE%BD%CE%B5%CE%B9%CF%8C%CF%82-Pinios_river.jpg/640px-%CE%A0%CE%B7%CE%BD%CE%B5%CE%B9%CF%8C%CF%82-Pinios_river.jpg)</figure>
+![text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%CE%A0%CE%B7%CE%BD%CE%B5%CE%B9%CF%8C%CF%82-Pinios_river.jpg/640px-%CE%A0%CE%B7%CE%BD%CE%B5%CE%B9%CF%8C%CF%82-Pinios_river.jpg)
 <pb n="4"/>
 
 
