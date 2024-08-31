@@ -45,15 +45,27 @@ they persuaded me to go to their (own) tent.
 <div type="textpart" subtype="para" n="90">
 VOCABULARY
 
+
+
 **ἑ-αυτοῦ** : of himself, herself; itself.
+
+
 
 **ἐμ-αυτοῦ**: of myself.
 
+
+
 **ἐξελαύνω**,2 ἐξήλασα: drive out, march forth, march on.
+
+
 
 **μένω**:2 remain, wait for.
 
+
+
 **Ξενίας**: Xenias, an Arcadian general serving under Cyrus, the younger.
+
+
 
 **ὁπλίτης**: hoplite, a heavy-armed soldier, Cf.
 
@@ -61,13 +73,21 @@ VOCABULARY
 
 
 
+
+
 **πολίτης**: citizen, POLITICS,
 
+
+
 **σατράπης**: satrap, a Persian viceroy.
+
+
 
 **σεαυτοῦ**: Of yourself.
 
 <rs type="lemma" n="σταθμόν">σταθμός</rs>: halting-place, day’s march,
+
+
 
 **στρατιώτης**: soldier. Cf. στρατιά, στρατηγός.
 

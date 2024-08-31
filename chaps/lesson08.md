@@ -51,6 +51,7 @@ Verbs with an initial vowel or diphthong lengthen the initial vowel.
 οι  - ῳ
 
 Inflect the imperfect indicative active of 
+
 **πέμπω** and ἀθροίζω.
 
 <div type="textpart" subtype="para" n="44">
@@ -88,16 +89,36 @@ belongs, awakens universal admiration.</figure>
 
 <div type="textpart" subtype="para" n="46">
 VOCABULARY
+
+
 **ἀθροίζω**: collect.
 
+
+
 **ἀλλά**, conj.: but, however. Stronger than δέ. Final a is often elided.
+
+
 **ἁρπάζω**: seize,carry off. HARPY.
+
+
 **ἀρχαῖος**, ἀρχαία, ἀρχαῖον: original, ancient. Cf. ἀρχή. = ARCHAIC.
+
+
 **βάρβαρος**, βαρβάρου, ὁ: foreigner, barbarian.
+
+
 **ἔργον**, ἔργου, τό: work, deed, ENERGY.
+
+
 **κραυγή**, κραυγῆς, ἡ: outcry, shout.
+
+
 **λόγος**, λόγου, ὁ: word, speech. PROLOGUE.
+
+
 **μέν**: coord. conj. (§ 45).
+
+
 **σῑγή**, σιγῆς, ἡ: silence.
 
 <div type="textpart" subtype="para" n="47">

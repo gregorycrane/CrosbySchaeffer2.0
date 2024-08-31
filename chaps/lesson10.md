@@ -81,14 +81,30 @@ face, "This is the city of Hadrian, not of Theseus."
 
 <div type="textpart" subtype="para" n="58">
 VOCABULARY
+
+
 **ἐνταῦθα**: adv., there, at that place.
 
+
+
 **λοιπός**, λοιπή, λοιπόν: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.
+
+
 **ἐντεῦθεν**, adv. : from there, thence.
+
+
 **ἐπιστολή**, ἐπιστολῆς, ἡ: letter. EPISTLE.
+
+
 **οἰκία**, οἰκίας, ἡ: house. ECONOMY.
+
+
 **ἔχω**, ἕξω: have; ἔσχον1: got.
+
+
 **πύλη**, πύλης, ἡ: gate; pl., pass. PYLON. THERMOPYLA.
+
+
 **λείπω**, λείψω, ἔλιπον: leave. ECLIPSE.
 
 

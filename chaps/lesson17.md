@@ -70,27 +70,49 @@ a contrary to fact from a past particular condition (§ 85).
 <div type="textpart" subtype="para" n="98">
 VOCABULARY
 
+
+
 **ἄν**, post-pos. particle belonging to certain types of conditional clauses but lacking an exact English eqnivalent.
 
+
+
 **ἄπ-ειμι**: be away, be absent.
+
+
 
 **εἰμί** enclit.: be.
 
 <rs type="lemma" n="ἔξεστι">ἔξ-ἐστι(ν)</rs>,2 impersonal ; it is possible.
 
+
+
 **οὔπω**, neg. adv. : not yet.
+
+
 
 **πάρ-ειμι**: be present.
 
+
+
 **πέντε**, indeclinable : five. PENTAGON.
+
+
 
 **στρατόπεδον**: camp. Cf. στρατιά and πεδίον.
 
+
+
 **τόπος**: place. TOPOGRAPUY.
+
+
 
 **τότε**, adv.: then, at that time.
 
+
+
 **φᾱσί(ν)**,2 enclit.; they say.
+
+
 
 **φησί(ν)**,2 enclit.: he or she says, PROPHET.
 

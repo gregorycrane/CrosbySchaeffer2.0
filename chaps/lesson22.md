@@ -56,14 +56,22 @@ This uncouth deity of mountain and woodland was believed to have inspired the Pe
 <div type="textpart" subtype="para" n="124">
 VOCABULARY
 
+
+
 **εἶτα**, adv.: then, next.
 
 <rs type="lemma" n="οὕτως">οὕτω</rs> (before consonants), οὕτως (before vowels), adv. : thus, so, as afore- said. Cf. οὗτος.
 
+
+
 **πᾶς**, πᾶσα, πᾶν: sing., every, whole ; pl. all. PANDEMONIUM.
 
 
+
+
 **πρῶτος**: first: πρῶτον, adv. at first. PROTOTYPE.
+
+
 
 
 

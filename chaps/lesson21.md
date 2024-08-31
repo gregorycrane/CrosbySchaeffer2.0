@@ -79,20 +79,40 @@ of a real life after death. Cicero was initiated into these Mysteries.</head></f
 
 <div type="textpart" subtype="para" n="118">
 VOCABULARY
+
+
 **ἐλπίς**, ἐλπίδος, ἡ: hope, expectation.
+
+
 **κωλύω**, κωλύσω, ἐκώλῦσα: prevent. KOLYNOS.<note>is this referring to https://en.wikipedia.org/wiki/Kolynos?</note>
+
+
 **πιστεύω**, πιστεύσω, ἐπίστευσα: trust, with D.
 
+
+
 **τρέπω**, τρέψω, ἔτρεψα, erpea: turn.
+
+
 **λαμβάνω**, ἔλαβον: take, receive.  SYLLABLE. (Future, page 187.)
+
+
 **τρόπος**: turn, “bent,” manner, character, TROPIC,
 
+
+
 **ὄνομα**: name. ONOMATOPOETIC.
+
+
 **φυγάς**, φυγάδος, ἡ: exile, fugitive. Cf. φυγή.
 
 
 
+
+
 **παρ-έχω**, παρ-ίξω, παρ-έσχον: furnish, cause.
+
+
 **ὡς**, conj, adv.: as, as if, when.
 
 <figure><head>Eleusis</head></figure>

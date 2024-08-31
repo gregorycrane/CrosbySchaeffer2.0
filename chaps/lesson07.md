@@ -43,24 +43,44 @@ They will be treated later.
 <div type="textpart" subtype="para" n="38">
 VOCABULARY
 
+
+
 **ἀγορά**, ἀγορᾶς, ἡ: market, market-place. AGORAPHOBIA.
+
+
 
 **ἀρχή**, ἀρχῆς, ἡ: beginning, rule, province.
 
+
+
 **δέκα**: ten. DECALOGUE.
+
+
 
 **διά**, prep.: with G., through ; with A., on account of. DIAMETER.
 
+
+
 **ἐπιτήδειος**, ἐπιτηδεία, ἐπιτήδειον: fit, suitable ; τὰ ἐπιτήδεια 1: provisions.
 
+
+
 **ἡμέρᾱ**, ἡμέρας, ἡ: day. EPHEMERAL.
+
+
 
 **στρατιά**, στρατιᾶς, ἡ: army. Cf. στρατηγός.
 
 
+
+
 **φιλία**, φιλίας, ἡ: friendship. Cf. φίλος.
 
+
+
 **φίλιος**, φιλία, φίλιον: friendly.
+
+
 
 **χώρᾱ**, χώρας, ἡ country.
 

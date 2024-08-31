@@ -60,25 +60,47 @@ nominative, it is a personal pronoun of the third person:
 VOCABULARY
 
 
+
+
 **ἀλλήλων**:1 of one another. PARALLEL.
+
+
 
 **ἄλλος**: other, another; if preceded by the article, the other, the rest of. ALLOPATHY.
 
+
+
 **αὐτός**: same, self, he, she, it, they, etc. AUTOMATON.
+
+
 
 **βουλεύω**, βουλεύσω, ἐβούλευσα :  plan,
 
+
+
 **βουλή**: plan, BOULE.
+
+
 
 **ἐπι-βουλεύω**: plot against, with D.
 
+
+
 **ἐπι-βουλή**: plot.
+
+
 
 **ἴσος**: equal, ISOSCELES.
 
+
+
 **κελεύω**, κελεύσω, ἐκέλευσα : order, command,
 
+
+
 **ὅς**, ἥ, ὅ: rel. pron, : who, which, that.
+
+
 
 **ὥρᾱ**: hour, season. HOUR.
 

@@ -52,22 +52,40 @@ shall hasten </quote> <bibl></bibl>
 <div type="textpart" subtype="para" n="129">
 VOCABULARY
 
+
+
 **ἀ-δικέω**, ἀδικήσω, ἠδίκησα: injure, wrong.
+
+
 
 **αἰτέω**, αἰτήσω, ἤτησα: ask for, demand.
 
+
+
 **δή**, post-pos. particle emphasizing preceding word: now, then, accordingly, indeed, etc. Often untranslated.
+
+
 
 **δοκέω**, δόξω, ἔδοξα: seem, seem best, think, Often with inf. as subject. DOGMATIC.
 
 
+
+
 **καλέω**,1 καλῶ, ἐκάλεσα: call, name. CALENDAR.
+
+
 
 **ποιέω**, ποιήσω, ἐποίησα: make, do. POET (ποιητής).
 
+
+
 **πολεμέω**, πολεμήσω, ἐπολέμησα : make war. Cf. πόλεμος.
 
+
+
 **φιλέω**, φιλήσω, ἐφίλησα: love. Cf. φίλος.
+
+
 
 **ὧδε**, adv.; thus, as follows. Cf. ὅδε.
 

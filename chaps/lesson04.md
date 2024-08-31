@@ -62,17 +62,35 @@ into the plain
 
 <div type="textpart" subtype="para" n="25">
 VOCABULARY
+
+
 **δέ**: (δ᾽ before vowels), postpositive conj: but, and.
 
+
+
 **ἐν**: proclitic prep. with D. : in (Lat. in). ENCLITIC.
+
+
 **δένδρον**, δένδρου, τό: tree. RHODODENDRON.
+
+
 
 **παρά**: prep., with G., from the side of; with D., by the side of; with A., to the side of, to, alongside. PARALLEL.
 
+
+
 **δῆλος**, δήλη, δῆλον: plain, evident.
+
+
 **δῶρον**, δώρου, τό: gift. THEODORE,
+
+
 **εἰς**: proclit. prep. with A.: into  (Lat. in).
+
+
 **πεδίον**, πεδίου, τό: plain.
+
+
 
 **στάδιον**, σταδίου, τό: stadium (race course); stade (600 ft.).3 
 

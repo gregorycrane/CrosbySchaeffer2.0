@@ -52,19 +52,41 @@ It is nearly nineteen feet long.</figure>>
 
 <div type="textpart" subtype="para" n="10">VOCABULARY
 
+
+
 **ἄνθρωπος**, ἀνθρώπου, ὁ: person, human being. When used with the feminine article, this noun can explicitly designate a female person. Lat. homo. ANTHROPOLOGY
+
+
 **ἄξιος**: worthy, worth. AXIOM
+
+
 **ἀπό**: prep. with G.: from, away from, Lat. ab. APOSTLE.
+
+
 **δίκαιος** : just.
+
+
 **Ἑλλήσποντος**, Ἑλλησπόντου, ὁ: Hellespont, the Dardanelles.
 
+
+
 **ἐκ**: (before consonants), ἐξ (before vowels), proclit. prep. with G. out of, from. Lat. ex. ECLECTIC.
+
+
 **μακρός**: large. MACRON. MACROECONOMICS.
+
+
 **μῑκρός**: small. MICROSCOPIC. MICROECONOMICS
+
+
 
 **πόλεμος**: war.
 
+
+
 **πολέμιος** : hostile. οἱ πολέμιοι: the enemy. POLEMIC.
+
+
 
 
 **φίλος**: friend. PHILANTHROPIST.

@@ -66,16 +66,34 @@ action (compare with the Latin a or ab and the ablative): 1
 
 <div type="textpart" subtype="para" n="140">
 VOCABULARY
+
+
 **ἄχθομαι**: be burdened, vexed.
 <rs type="lemma" n="μεταπέμπω">μετα-πέμπομαι</rs>: send after, summon.
+
+
 **βούλομαι**: wish, desire.
+
+
 **ἕπομαι**: follow, with D.
+
+
 **πορεία**: journey.
+
+
 **ἔρχομαι**, ἦλθον (aor.): come, go.
 <rs type="lemma" n="πορεύω">πορεύομαι</rs>: journey, march,
+
+
 **ἥδομαι**: be pleased. HEDONIST.
+
+
 **ὑπό**: prep., with G., from under, by (agent); with D., under, beneath (with verbs of rest); with A., under (with verbs of motion). HYPOTHESIS.
+
+
 **μάχομαι**: fight, give battle. Cf. μάχη.
+
+
 **μετά**, prep.: with G., with ; with  A., after; as a prefix, often denotes change. METAPHOR.
 
 1 What uses of the genitive have you now had?

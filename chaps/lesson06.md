@@ -99,15 +99,33 @@ the village had no garrison,
 
 <div type="textpart" subtype="para" n="33">
 VOCABULARY
+
+
 **γάρ**: postpositive conjunction : for.
+
+
 **σπονδή**σπονδῆς, ἡ: libation; pl, σπονδή, σπονδαί, αἱ, treaty, truce. SPONDEE.
+
+
 **κώμη**, κώμης, ἡ: village.
+
+
 **μάχη**, μάχη, ἡ: battle. LOGOMACHY.
+
+
 **φεύγω**: flee. Lat. fugio. FUGITIVE,
+
+
 **οὐ** (before consonants), οὐκ (before smooth breathing), οὐχ (before rough breathing), proclit. adv.: not, UTOPIA. PROPHYLACTIC.
+
+
 **φυγή**, φυγῆς, ἡ: flight, exile. Lat fuga.
 
+
+
 **φυλακή**, φυλακῆς, ἡ: guard, garrison.
+
+
 
 
 **σκηνή**: tent. SCENE.

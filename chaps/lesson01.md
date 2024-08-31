@@ -21,7 +21,6 @@ whose nominatives end in -ος are usually masculine.
 
 
 | | Singular |  | Plural |  | 
-| --- | --- | --- | --- | --- 
 | Nominative | ὁ ποταμός | the river (subject) | οἱ ποταμοί | the rivers (subject) | 
 | Genitive | τοῦ ποταμοῦ | of the river | τῶν ποταμῶν | of the rivers | 
 | Dative | τῷ ποταμῷ | to/for the river | τοῖς ποταμοῖς | to/for the rivers | 
@@ -76,6 +75,7 @@ verb: ἀδελφὸν πέμπει he sends a brother.
 ## [§ 5](#para5). The Article.
 
 (a) 
+
 **ὁ** Like English, and unlike Latin,
 Greek has a definite article. This agrees with its noun
 in gender, number, and case. It often serves as a possessive pronoun, as my, your, his, etc. ὁ and οἱ are proclitic
@@ -86,18 +86,38 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 ## [§ 6](#para6). Vocabulary.
 
 <list type="vocab">
+
+
 **ἀδελφός**, ἀδελφοῦ, ὁ:<note>The definite article accompanies nouns in vocabularies to show gender.</note> brother.  PHILADELPHIA.<note>In the vocabularies derivatives and cognates are printed in small capitals.</note>
 
+
+
 **ἔχει**: he, she, or it has,
+
+
 **ἔχουσι**: they have.
+
+
 **ἦν**: he, she, it was;  there was.
 <rs n="https://atlas-test.fly.dev/morphology/form/245/" type="lemma">ἦσαν</rs>: they or there were.
+
+
 **παύει**: he, she, or it stops (transitive).
 
+
+
 **παύουσι**: they stop (transitive).
+
+
 **πέμπει**: he, she, or it sends (transitive).
+
+
 **πέμπουσι**: they send (transitive).
+
+
 **ποταμός**, ποταμοῦ, ὁ: river, HIPPOPOTAMUS.
+
+
 **στρατηγός**, στρατηγοῦ, ὁ: general. STRATEGY.
 
 
@@ -155,7 +175,9 @@ This lovely pass, the Vale of Tempe, between Mt. Ossa and Mt. Olympus,
 might have proven more troublesome to the Persians than Thermopylae, had
 they not found an easier entrance into Greece. The Peneus River, which
 winds through it, is one of the few in Greece that never go dry.</figure>
+
 ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%CE%A0%CE%B7%CE%BD%CE%B5%CE%B9%CF%8C%CF%82-Pinios_river.jpg/640px-%CE%A0%CE%B7%CE%BD%CE%B5%CE%B9%CF%8C%CF%82-Pinios_river.jpg)
+
 <pb n="4"/>
 
 

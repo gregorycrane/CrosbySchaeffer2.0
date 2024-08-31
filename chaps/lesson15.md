@@ -26,7 +26,10 @@ In like manner inflect θάλαττα and βασίλεια.
 
 <div type="textpart" subtype="para" n="82">
 The Personal Pronouns are 
+
 **ἐγώ**,
+
+
 **σύ** you (sg.), for
 the first and second persons. For the third person, αὐτός
 is used in all cases except the nominative.
@@ -66,13 +69,27 @@ VOCABULARY
 <rs type="lemma" n="ἄμαξα">ἅμαξα</rs>: cart, wagon.
 
 <rs type="lemma" n="βασιλεία">βασίλεια</rs>: queen.
+
+
 **γέφῡρα**: bridge.
+
+
 **ἐγώ**: I. EGOTIST.
+
+
 **ὅπλον**: implement, tool ;
+
+
 **εἰ**, proclit. conj.: if. frequently pl, arms (in war). PANOPLY.
 <rs type="lemma" n="θάλασσα">θάλαττα</rs>: sea.
+
+
 **κακός**: bad, cowardly. CACOPHONY.
+
+
 **οὖν**, post-pos. conj.: therefore, then,  accordingly.
+
+
 
 **μή**, neg. adv.: not, Found instead of οὐ with most uses of the infinitive and in conditional clauses.
 

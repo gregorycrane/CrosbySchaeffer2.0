@@ -56,23 +56,43 @@ he was hostile to the general.
 <div type="textpart" subtype="para" n="17">
 VOCABULARY
 
+
+
 **ἀγαθός**, ἀγαθή, ἀγαθόν: good, brave. AGATHA.
+
+
 
 
 **ἄγγελος**, ἀγγέλου, ὁ: messenger. ANGEL.
 
+
+
 **ἄγω**: lead, Lat. ago.
+
+
 
 **γράφω**: write. TELEGRAPH. LITHOGRAPH.
 
+
+
 **ἐθέλω**: wish, be willing.
+
+
 
 **ἵππος**, ἵππου, ὁ: horse. ANALYSIS. HIPPOPOTAMUS,
 
+
+
 **καί**: conj.: and, also, even.
 
+
+
 **καλός**, καλή, καλόν: beautiful, honorable, fine.
+
+
 **κίνδυνος**, κινδύνου, ὁ: danger.
+
+
 
 
 **λίθος**, λίθος, ὁ: stone.
@@ -81,7 +101,11 @@ VOCABULARY
 
 
 
+
+
 **λύω**: loose, break, destroy.
+
+
 
 
 **παύω**: stop (trans,). PAUSE.
