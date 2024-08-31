@@ -168,7 +168,9 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 
 
 
-<figure>![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg)<head>ὁ ποταμός</head></figure>
+<figure>
+  ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg)
+  <head>ὁ ποταμός</head></figure>
 ![text](https://upload.wikimedia.org/wikipedia/commons/b/b2/Pineios_river_%28thessaly%29_map.jpg)
 <figure><head>ὁ ποταμός</head>
 This lovely pass, the Vale of Tempe, between Mt. Ossa and Mt. Olympus,
