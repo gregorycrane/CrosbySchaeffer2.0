@@ -1,5 +1,5 @@
 # Chapter 1: DECLENSION OF ο-STEMS
-
+![text](https://upload.wikimedia.org/wikipedia/commons/7/74/Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg Eager to Go)
 >  ἐν ἀρχῇ ἦν ὁ λόγος.<br/>
 >  In the beginning was the word.<br/>
 >> John, 1.1
@@ -139,7 +139,7 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 
 
 
-![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg FOOO ὁ ποταμός)
+![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg ὁ ποταμός)
 ![text](https://upload.wikimedia.org/wikipedia/commons/b/b2/Pineios_river_%28thessaly%29_map.jpg)
 <figure><head>ὁ ποταμός</head>
 This lovely pass, the Vale of Tempe, between Mt. Ossa and Mt. Olympus,
