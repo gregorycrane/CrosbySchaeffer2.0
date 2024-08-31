@@ -4,7 +4,10 @@
  >  In the beginning was the word.<br/>
 >> John, 1.1
 
-
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 <figure><head>Eager to Go</head></figure>
 
 [1.] **Declensions**. There are three declensions in Greek,
