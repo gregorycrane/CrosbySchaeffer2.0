@@ -35,9 +35,7 @@ whose nominatives end in -ος are usually masculine.
 In like manner inflect ὁ ἀδελφός.
 
 ## [§ 3](#para3). Accents.
-(a) In nouns of the ο-declension an acute
-
-(´) on the ultima in the nominative is changed to a
+(a) In nouns of the ο-declension an acute (´) on the ultima in the nominative is changed to a
 circumflex (῀) in the genitive and dative of both numbers.
 
 
@@ -47,8 +45,8 @@ circumflex (῀) in the genitive and dative of both numbers.
 <pb n="2"/>
 
 
-(b) An acute on the ultima changes to a grave (`)
-when a word follows without intervening punctuation:
+(b) An acute on the ultima changes to a grave (`) when a word follows without intervening punctuation:
+
 <foreign xml:id="p3.1">ἀδελφὸν ἔχει</foreign>: <gloss target="p3.1">s/he has a brother.</gloss>
 
 
@@ -162,24 +160,20 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 ### (c) Complete these sentences, adding endings and accents :
 
 
-1. ὁ στρατηγ--- ἔχει ἀδελῴ-- (singular). 
+1. ὁ στρατηγ--- ἔχει ἀδελφ-- (singular). 
 2. ἦσαν ποταμ---.
 3. τοῖς στρατηγ--- πέμπουσι τοὺς ἀδελφ--.
 
 
 
-<figure>
-  ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg)
-  <head>ὁ ποταμός</head></figure>
+![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg ὁ ποταμός)
 ![text](https://upload.wikimedia.org/wikipedia/commons/b/b2/Pineios_river_%28thessaly%29_map.jpg)
 <figure><head>ὁ ποταμός</head>
 This lovely pass, the Vale of Tempe, between Mt. Ossa and Mt. Olympus,
 might have proven more troublesome to the Persians than Thermopylae, had
 they not found an easier entrance into Greece. The Peneus River, which
 winds through it, is one of the few in Greece that never go dry.</figure>
-
 ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%CE%A0%CE%B7%CE%BD%CE%B5%CE%B9%CF%8C%CF%82-Pinios_river.jpg/640px-%CE%A0%CE%B7%CE%BD%CE%B5%CE%B9%CF%8C%CF%82-Pinios_river.jpg)
-
 <pb n="4"/>
 
 
