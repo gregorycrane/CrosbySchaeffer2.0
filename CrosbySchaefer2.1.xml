@@ -1,0 +1,3418 @@
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title type="work">Homeric Greek: a book for beginners</title>
+        
+        <author>Clyde Pharr</author>
+        
+        <sponsor>Perseus Project, Tufts University</sponsor>
+        <principal>Gregory Crane</principal>
+        <respStmt>
+          <persName>Gregory Crane</persName>
+          <resp>Editor-in-Chief, Perseus Digital Library</resp>
+        </respStmt>
+        <respStmt>
+          <resp>Prepared under the supervision of</resp>
+          <name>Gregory Crane</name>
+        </respStmt>
+        <funder>GRC as volunteer.</funder>
+      </titleStmt>
+      <extent>About 1MB</extent>
+      <publicationStmt>
+        <publisher>Trustees of Tufts University</publisher>
+        <pubPlace>Medford, MA</pubPlace>
+        <authority>Perseus Project</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Clyde Pharr</author>
+            <title xml:lang="lat">Homeric Greek: a book for beginners</title>
+            <imprint>
+              <pubPlace>Boston</pubPlace>
+              <publisher>D. C. Heath and Co.</publisher>
+              <date>1920</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <refsDecl n="CTS">
+        <cRefPattern n="line" matchPattern="(.+)"
+          replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:sp/tei:l[@n='$1'])">
+          <p>This pointer pattern extracts line</p>
+        </cRefPattern>
+        
+      </refsDecl>
+      
+      <!-- <refsDecl n="CTS">
+                
+                <cRefPattern n="card" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+                <p>This pointer pattern extracts cards</p>
+                </cRefPattern>
+                
+                </refsDecl>-->
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="eng">English</language>
+        <language ident="grc">Greek</language>
+        <language ident="lat">Latin</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      
+      <change when="2020-05-30" who="GRC">An initial rough clean-up of OCR through lesson 45 was done in summer 2019. The first rough XML version was begun on May 30, 2020.</change>
+      
+    </revisionDesc>
+  </teiHeader>
+  
+  
+  <text>
+    <body>
+<pb n="1"/>
+
+
+
+
+<div type="textpart" subtype="lesson" n="1">
+<head>DECLENSION OF ο-STEMS</head>
+
+<cit><quote xml:lang="grc">ἐν ἀρχῇ ἦν ὁ λόγος.</quote>
+<quote xml:lang="eng">In the beginning was the word.</quote>
+<bibl>John, 1.1</bibl>
+
+</cit>
+<figure><head>Eager to Go</head></figure>
+
+<div type="textpart" subtype="para" n="1"><p><title>Declensions</title>. There are three declensions in Greek,
+instead of five as in Latin. To these, because of their general uniformity, the o-stems serve as a good introduction.</p></div>
+
+<div type="textpart" subtype="para" n="2"><p>Ο-Stem Masculines. Nouns of the ο-declension
+whose nominatives end in -ος are usually masculine.
+
+<table>
+  <head>ποταμός, ποταμοῦ, ὁ — a river</head>
+  <row role="label"><cell cols="3">Singular</cell></row>
+    <row><cell role="label">Nominative</cell><cell>ὁ ποταμός</cell><cell>the river [subject]</cell></row>
+    <row><cell role="label">Genitive</cell><cell>τοῦ ποταμοῦ</cell><cell>of the river</cell></row>
+    <row><cell role="label">Dative</cell><cell>τῷ ποταμῷ</cell><cell>to/for the river</cell></row>
+    <row><cell role="label">Accusative</cell><cell>τὸν ποταμόν</cell><cell>the river [object]</cell></row>
+
+    <row role="label"><cell cols="3">Plural</cell></row>
+    <row><cell role="label">Nominative</cell><cell>τὸν ποταμόν</cell><cell>the rivers [subject]</cell></row>
+
+    <row><cell role="label">Genitive</cell><cell>τῶν ποταμῶν</cell><cell>of the rivers</cell></row>
+
+    <row><cell role="label">Dative</cell><cell>τοῖς ποταμοῖς</cell><cell>to/for the rivers</cell></row>
+
+    <row><cell rend="centered" role="label">Accusative</cell><cell>τοὺς ποταμούς</cell><cell>the rivers [object]</cell></row>
+
+</table>
+
+
+
+In like manner inflect ὁ ἀδελφός.</p></div>
+
+<div type="textpart" subtype="para" n="3"><p><title>Accents</title>.
+(a) In nouns of the ο-declension an acute
+
+(´) on the ultima in the nominative is changed to a
+circumflex (῀) in the genitive and dative of both numbers.
+
+
+
+
+
+<pb n="2"/>
+
+</p><p>
+(b) An acute on the ultima changes to a grave (`)
+when a word follows without intervening punctuation:</p>
+<p><foreign xml:id="p3.1">ἀδελφὸν ἔχει</foreign>: <gloss target="p3.1">s/he has a brother.</gloss></p>
+ 
+</div>
+
+<div type="textpart" subtype="para" n="4"><p>Cases. The endings of a noun tell its case and use
+</p><p>
+(a) The nominative is the case of the subject:
+</p><p>
+<foreign>οἱ στρατηγοὶ ἦσαν ἀδελφοί</foreign> <gloss>the generals were brothers.</gloss>
+
+(b) The genitive suggests relations like those expressed
+
+with of in English. It frequently denotes possession :
+<foreign>ὁ τοῦ στρατηγοῦ ἀδελφός:</foreign> <gloss>the brother of the general.</gloss>
+
+(c) The dative suggests relations like those with of or
+for in English. It frequently denotes the indirect object :
+<foreign>τῷ στρατηγῷ πέμπει τὸν ἀδελφόν:</foreign> <gloss>s/he sends his brother to the general.</gloss>
+
+(d) The accusative is the direct object of a transitive
+verb: ἀδελφὸν πέμπει he sends a brother.</p></div>
+
+<div type="textpart" subtype="para" n="5"><p>The Article.
+(a) <rs type="lemma">ὁ</rs> Like English, and unlike Latin,
+Greek has a definite article. This agrees with its noun
+in gender, number, and case. It often serves as a possessive pronoun, as my, your, his, etc. ὁ and οἱ are proclitic
+(page xxvii). 
+
+(b) Greek has no indefinite article. Many nouns having no definite article require a or an in translation:</p></div>
+
+<div type="textpart" subtype="para" n="6"><p><title>Vocabulary</title></p>
+  <list type="vocab">
+<item><rs type="lemma">ἀδελφός</rs>, ἀδελφοῦ, ὁ:<note>The definite article accompanies nouns in vocabularies to show gender.</note> brother.  PHILADELPHIA.<note>In the vocabularies derivatives and cognates are printed in small capitals.</note></item>
+
+<item><rs type="lemma">ἔχει</rs>: he, she, or it has,</item>
+<item><rs type="lemma">ἔχουσι</rs>: they have.</item>
+<item><rs type="lemma">ἦν</rs>: he, she, it was;  there was.</item>
+<item><rs n="https://atlas-test.fly.dev/morphology/form/245/" type="lemma">ἦσαν</rs>: they or there were.</item>
+<item><rs type="lemma">παύει</rs>: he, she, or it stops (transitive).</item>
+
+<item><rs type="lemma">παύουσι</rs>: they stop (transitive).</item>
+<item><rs type="lemma">πέμπει</rs>: he, she, or it sends (transitive).</item>
+<item><rs type="lemma">πέμπουσι</rs>: they send (transitive).</item>
+<item><rs type="lemma">ποταμός</rs>, ποταμοῦ, ὁ: river, HIPPOPOTAMUS.</item>
+<item><rs type="lemma">στρατηγός</rs>, στρατηγοῦ, ὁ: general. STRATEGY.</item>
+
+
+
+
+</list>
+</div>
+
+<pb n="3"/>
+
+
+<div type="textpart" subtype="para" n="7"><p>Exercises 
+
+<list><head>(a) What use of the noun do the <emph>emphasized type</emph> endings suggest?</head>
+<item n='1'>ἀδελφ <emph>οῦ</emph></item>
+<item n='2'>στρατηγ <emph>ούς</emph></item>
+<item n='3'>ποταμ <emph>οῖς</emph></item>
+<item n='4'>ποταμ <emph>όν</emph></item>
+<item n='5'>ἀδελφ <emph>οί</emph></item>
+<item n='6'>ἀδελφ <emph>ός</emph></item>
+<item n='7'>στρατηγ <emph>ῶν</emph></item>
+<item n='8'>στρατηγ <emph>ῷ</emph></item>
+</list>
+
+<list><head>(b) Read aloud in Greek and translate into English :</head>
+
+
+
+
+<item n="1">ἦν στρατηγός.</item>
+<item n="2">ἔχει ἀδελφούς.</item>
+<item n="3">παύουσι τὸν στρατηγόν.</item>
+<item n="4">οἱ στρατηγοὶ ἦσαν ἀδελφοί. </item>
+<item n="5">ἦν ποταμὸς. </item>
+<item n="6">τῷ στρατηγῷ πέμπει τοὺς ἀδελφούς.</item>
+<item n="7">παύει τοὺς στρατηγούς.</item>
+</list>
+
+<list><head>(c) Complete these sentences, adding endings and accents :</head>
+
+<item n="1">ὁ στρατηγ--- ἔχει ἀδελῴ-- (singular). </item>
+<item n="2">ἦσαν ποταμ---.</item>
+<item n="3">τοῖς στρατηγ--- πέμπουσι τοὺς ἀδελφ--.</item>
+</list>
+
+
+<figure><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg"/><head>ὁ ποταμός</head></figure> 
+  <graphic url="https://upload.wikimedia.org/wikipedia/commons/b/b2/Pineios_river_%28thessaly%29_map.jpg"/> 
+<figure><head>ὁ ποταμός</head>
+<p>This lovely pass, the Vale of Tempe, between Mt. Ossa and Mt. Olympus,
+might have proven more troublesome to the Persians than Thermopylae, had
+they not found an easier entrance into Greece. The Peneus River, which
+winds through it, is one of the few in Greece that never go dry.</p></figure>
+<figure><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%CE%A0%CE%B7%CE%BD%CE%B5%CE%B9%CF%8C%CF%82-Pinios_river.jpg/640px-%CE%A0%CE%B7%CE%BD%CE%B5%CE%B9%CF%8C%CF%82-Pinios_river.jpg"/></figure></p>
+<pb n="4"/>
+
+</div>
+
+</div>
+<div type="textpart" subtype="lesson" n="2">
+<head>DECLENSION OF O-STEMS — Continued</head>
+
+<cit><quote>
+πόνος γάρ, ὡς λέγουσιν, εὐκλείας πατήρ.</quote>
+  <quote>Toil, so they say, is the father of fame.
+  </quote><bibl>Euripides, fragment</bibl></cit>
+
+
+<div type="textpart" subtype="para" n="8"><p><title>Persistent Accent</title>. The accent of the nominative
+must be learned by observation. It will remain on the
+same syllable in the other cases if possible. An acute on
+the penult of a noun of the o-declension remains on that
+syllable throughout. An acute ou the antepenult is drawn
+to the penult when the ultima is long (§ V, e). Final -οι
+of the nominative plural is considered short (§ V, a).
+
+<foreign>ὁ φίλος the</foreign> <gloss>friend</gloss>
+
+
+<foreign>ὁ δίκαιος the just</foreign> <gloss>man</gloss>
+
+</p><p>
+
+In like manner inflect ὁ πόλεμος.
+</p><p>
+
+2 In the previous lesson you found singular and plural labeled. From now on you are given no labels, bnt you can readily tell which is which.
+3 As in Latin, adjectives agree with their nouns in gender, number, and case.
+
+
+<pb n="5"/></p></div>
+
+<div type="textpart" subtype="para" n="9"><p>Genitive of Place from Which. The genitive with
+many prepositions denotes place from which :
+
+τὸν ἄνθρωπον πέμπει ἀπὸ τοῦ ποταμοῦ.
+he sends the man from the river.
+τὸν ἄνθρωπον πέμπει ἐκ τοῦ ποταμοῦ
+he sends the man out of the river.
+
+
+
+
+
+
+
+  <figure><head>The ARCADIAN GATE</head>
+<p>The walls of Messene still testify to the engineering skill and daring of the
+victor of Leuctra. Note particularly the central doorpost of this great gate.
+It is nearly nineteen feet long.</p></figure>></p></div>
+
+<div type="textpart" subtype="para" n="10"><p>VOCABULARY
+
+<rs type="lemma">ἄνθρωπος</rs>, ἀνθρώπου, ὁ: person, human being. When used with the feminine article, this noun can explicitly designate a female person. Lat. homo. ANTHROPOLOGY
+<rs type="lemma">ἄξιος</rs>: worthy, worth. AXIOM
+<rs type="lemma">ἀπό</rs>: prep. with G.: from, away from, Lat. ab. APOSTLE. 
+<rs type="lemma">δίκαιος</rs> : just. 
+<rs type="lemma">Ἑλλήσποντος</rs>, Ἑλλησπόντου, ὁ: Hellespont, the Dardanelles.
+
+<rs type="lemma">ἐκ</rs>: (before consonants), ἐξ (before vowels), proclit. prep. with G. out of, from. Lat. ex. ECLECTIC. 
+<rs type="lemma">μακρός</rs>: large. MACRON. MACROECONOMICS.
+<rs type="lemma">μῑκρός</rs>: small. MICROSCOPIC. MICROECONOMICS
+
+<rs type="lemma">πόλεμος</rs>: war.
+
+<rs type="lemma">πολέμιος</rs> : hostile. οἱ πολέμιοι: the enemy. POLEMIC.
+
+
+<rs type="lemma">φίλος</rs>: friend. PHILANTHROPIST.
+
+1 This is our second use of the genitive (§ 4). The use here given is like the Latin ablative in its from relations.
+2 Adjectives in -ρος usually have the acute on the last syllable.
+
+</p></div>
+
+<pb n="6"/>
+
+
+<div type="textpart" subtype="para" n="11"><p>TRANSLATION HINTS
+
+. Learn all words given in vocabularies.
+
+. Learn all forms as they are presented.
+
+. Read the Greek aloud, noting word groups.
+
+. Translate.</p></div>
+
+<div type="textpart" subtype="para" n="12"><p>EXERCISES
+
+
+
+<figure><head>Pericles</head>
+
+<p>The most brilliant period in Athenian history is justly called the Age
+of Pericles. His home was the haunt
+of sculptor and architect, poet and
+philosopher. To him we owe above
+all the planning and construction of
+the matchless Parthenon.</p></figure>
+
+(a) Translate :
+
+1. τοὺς πολεμίους παύουσιν.1 
+2. τὸν ἄνθρωπον πέμπει ἀπὸ τοῦ Ἑλλησπόντου. 
+3. οἱ ἀδελφοὶ ἦσαν μῑκροί. 
+4. τοὺς φίλους πέμπουσιν1 ἐκ τοῦ ποταμοῦ.
+5. ὁ πόλεμος ἦν δίκαιος.
+6. οἱ πολέμιοι ἀξίους στρατηγοὺς ἔχουσιν. 
+7. ὁ στρατηγὸς τοὺς ἀνθρώπους πέμπει τῷ ἀδελφῷ. 
+8. οἱ ἄνθρωποι ἔχουσιν ἀξίους ἀδελφούς.
+
+(b) Complete:
+
+1. οἱ πολεμ--- ἦσαν μακρ---.
+2. τὸν ἀδελφ-- πέμπει ἐκ τ--- ποταμ- (singular). 
+3. οἱ στρατηγοὶ τοὺς φίλους πεμπ-- τῷ ἀνθρωπ--.
+</p>
+<pb n="7"/>
+
+</div>
+
+</div>
+<div type="textpart" subtype="lesson" n="3">
+<head>PRESENT INDICATIVE AND INFINITIVE ACTIVE OF ω-VERBS</head>
+
+
+  <cit><quote>οἱ γὰρ πόνοι τίκτουσι τὴν εὐανδρίᾱν.</quote>
+    <quote>Labor begets manhood. Literally: For toils beget manhood.</quote><bibl>Euripides, fragment.</bibl></cit>
+
+
+
+
+<div type="textpart" subtype="para" n="13"><p>The Present Tense. This tense denotes action occurring or continuing or repeated in present time:
+
+παύω I stop. I am stopping. I keep stopping. I do stop.
+
+Present Indicative Active or παύω I stop
+
+
+
+Present Infintive ACTIVE παύ-ειν
+
+In like manner inflect ἐθέλω.</p></div>
+
+<div type="textpart" subtype="para" n="14">
+<p>Verb Structure.
+(a) In the inflection of a verb
+the stem is of fundamental importance. On it are built
+the various forms. παύ- is the stem of παύω.
+
+(b) Tense is denoted by appropriate suffixes or prefixes.
+The tense suffix of the present is called the variable vowel,
+written ε/ο, ο being used before μ or ν, ε elsewhere.
+
+(c) A personal ending is attached to complete the verb.
+In the present indicative active the personal ending is
+clearly seen only in the first and second persons plural.</p></div>
+
+<div type="textpart" subtype="para" n="15">
+<p>Verb Accent. In § 8 we saw that the accent of
+nouns was persistent. That of verbs is recessive, that is,
+
+
+<pb n="8"/>
+
+it goes back toward the beginning of the word as far as
+the quantity of the ultima will permit. This means that
+the accent stands on the antepenult if the ultima is short;
+on the penult if the ultima is long -
+
+ἐθέλω, ἐθέλομεν.</p></div>
+
+<div type="textpart" subtype="para" n="16">
+<p>Dative with Adjectives. The dative is used with many adjectives expressing friendliness, hostility, association, fitness, and the like: 1
+
+πολέμιος ἦν τῷ στρατηγῷ
+he was hostile to the general.</p></div>
+
+<div type="textpart" subtype="para" n="17">
+<p>VOCABULARY
+
+<rs type="lemma">ἀγαθός</rs>, ἀγαθή, ἀγαθόν: good, brave. AGATHA. 
+
+
+<rs type="lemma">ἄγγελος</rs>, ἀγγέλου, ὁ: messenger. ANGEL.
+
+<rs type="lemma">ἄγω</rs>: lead, Lat. ago. 
+
+<rs type="lemma">γράφω</rs>: write. TELEGRAPH. LITHOGRAPH.
+
+<rs type="lemma">ἐθέλω</rs>: wish, be willing. 
+
+<rs type="lemma">ἵππος</rs>, ἵππου, ὁ: horse. ANALYSIS. HIPPOPOTAMUS, 
+
+<rs type="lemma">καί</rs>: conj.: and, also, even.
+
+<rs type="lemma">καλός</rs>, καλή, καλόν: beautiful, honorable, fine.
+<rs type="lemma">κίνδυνος</rs>, κινδύνου, ὁ: danger.
+
+
+<rs type="lemma">λίθος</rs>, λίθος, ὁ: stone.
+
+
+
+
+
+<rs type="lemma">λύω</rs>: loose, break, destroy.
+
+
+<rs type="lemma">παύω</rs>: stop (trans,). PAUSE.</p></div>
+
+<div type="textpart" subtype="para" n="18">
+<p>EXERCISES
+
+(a) What do the portions in heavy type tell as to the person
+and number of the subject ?
+ἄγ ουσι 
+λύο μεν 
+ἔχετε 
+ἐθέλω 
+γράφ εἰς
+
+(b) Translate:
+
+1. ἔχομεν τοὺς καλοὺς λίθους. 
+
+2. ἐθέλω τῷ ἀγαθῷ ἀνθρώπῳ γράφειν. 
+
+3. καὶ ὁ στρατηγὸς τὸν ἄγγελον ἄγει ἀπὸ τοῦ ᾿Βλλησπόντου. 
+4. οἱ ἀδελφοὶ ἐθέλουσι τοὺς ἵππους παύειν. 
+5. ὁ ἄγγελος ἔχει ἀγαθὸν ἵππον.
+6. τοὺς φίλους ἐθέλομεν ἄγειν ἐκ τοῦ κινδύνου. 
+
+7. οἱ πολέμιοι λύουσι τοὺς τῶν στρατηγῶν ἵππους. 
+<pb n="9"/>
+8. ὁ στρατηγὸς πολέμιος ἦν τοῖς ἀγγέλοις,
+
+(c)
+
+1. οἱ ἀδελφοὶ ἐθέλουσι γραφ--. 
+2. ἐθέλομεν τοὺς ἵππους ἀγ-- ἐκ τοῦ ποταμ--.
+
+3. οἱ ἄγγελοι πολέμιοι ἦσαν τι-- στρατηγ- (singular).</p></div>
+
+<div type="textpart" subtype="para" n="19">
+<p>(a) Translation Hints
+
+1. Read the entire English sentence, noting how the
+words are related.
+
+2, Call to mind Greek words with meanings like those
+in English.
+
+3, Consider the changes in form needed to express the
+relations suggested by the English.
+
+4. Form the Greek sentence mentally and say it aloud
+before starting to write.
+
+5. Write the sentence, with accents and breathings.
+
+(2) Write in Greek :
+
+1. The brothers were small. 
+
+2. They are sending the man to the general. 
+8. The general is sending the enemy away from the river.
+
+4. He sends the man out of the river. 
+5. They were brothers of the general.</p></div>
+
+<div type="textpart" subtype="para" n="20">
+<p>Βρεκεκεκὲξ κοὰξ κοάξ. </p>
+  
+  <p>This is the famous refrain of the frog chorus in Aristophanes’ comedy, The Frogs. In unison with this unceasing chant Dionysus rows Charon’s boat across the Styx. It is the basis of Yale’s well-known yell.</p>
+
+<pb n="10"/>
+
+</div>
+
+</div>
+<div type="textpart" subtype="lesson" n="4">
+<head>DECLENSION OF O-STEM NEUTERS</head>
+
+<cit>
+  <quote>πᾶν δένδρον ἀγαθὸν καρποὺς καλοὺς ποιεῖ.</quote>
+  <quote>
+    Every good tree bringeth forth good fruit. </quote>
+  <bibl>Matthew, VII. 17.</bibl>
+</cit>
+
+
+
+<div type="textpart" subtype="para" n="21">
+<p>Ο-Stem Neuters. These nouns have a nominative
+ending in -ον. They differ from masculines only in the
+nominative singular and the nominative and accusative
+plural.
+
+As in Latin, nominative and accusative of neuters are
+identical in form. In the plural they end in a (Latin a).
+
+τὸ ἄξιον δῶρον 
+the worthy gift
+
+
+In like manner inflect τὸ καλὸν πεδίον.2</p></div>
+
+<div type="textpart" subtype="para" n="22">
+<p>Agreement of Verb. A neuter plural subject regularly has its verb in the singular:
+τὰ δῶρα ἦν ἄξια 
+the gifts were worthy.</p></div>
+
+<div type="textpart" subtype="para" n="23">
+<p>Dative of Place Where. The dative with most
+prepositions denotes place where: 4
+
+ἐν τῷ πεδίῳ in the plain 
+(Latin: in oppido in the town);
+παρὰ τῷ στρατηγῶ at the side of the general.
+
+
+
+2 For accent of δῶρον and πεδίον see § V, d and f.
+
+3 Endings of neuters of the ο-declension in Latin.
+
+4 This is our third use of the dative (§§ 4, 16). The use here given is like
+that of the Latin ablative in its in relations.
+</p></div>
+
+<pb n="11"/>
+
+
+<div type="textpart" subtype="para" n="24">
+<p>Accusative of Place to Which. The accusative
+with many prepositions denotes place to which :1
+
+εἰς τὸ πεδίον 
+into the plain 
+(Latin: in oppidum into the town);
+
+παρὰ τὸν στρατηγόν to the side of the general.</p></div>
+
+<div type="textpart" subtype="para" n="25">
+<p>VOCABULARY
+<rs type="lemma">δέ</rs>: (δ᾽ before vowels), postpositive conj: but, and.
+
+<rs type="lemma">ἐν</rs>: proclitic prep. with D. : in (Lat. in). ENCLITIC.
+<rs type="lemma">δένδρον</rs>, δένδρου, τό: tree. RHODODENDRON. 
+
+<rs type="lemma">παρά</rs>: prep., with G., from the side of; with D., by the side of; with A., to the side of, to, alongside. PARALLEL.
+
+<rs type="lemma">δῆλος</rs>, δήλη, δῆλον: plain, evident. 
+<rs type="lemma">δῶρον</rs>, δώρου, τό: gift. THEODORE, 
+<rs type="lemma">εἰς</rs>: proclit. prep. with A.: into  (Lat. in).
+<rs type="lemma">πεδίον</rs>, πεδίου, τό: plain.
+
+<rs type="lemma">στάδιον</rs>, σταδίου, τό: stadium (race course); stade (600 ft.).3 </p></div>
+
+<div type="textpart" subtype="para" n="26">
+<p>EXERCISES
+
+(a) What probable use  of the word is denoted by the heavy type endings ? 
+
+πεδίου 
+ἄξι ον
+δῆλα 
+δένδρ ῶν
+δώρ οις 
+σταδίῳ
+
+The Delphic stadium (page 12) still retains the row of flat stones whose double grooves, called by the Greeks ἡ γραμμή "the scratch."
+
+
+(b) Translate :
+1. ἐν τῷ πεδίῳ δῆλα ἦν τὰ δένδρα. 
+2. στάδιον ἦν παρὰ τῷ ποταμῷ. 
+3. καὶ εἰς τὸ στάδιον ἄγουσι δῶρα καλά.
+4. οἱ δ' ἀδελφοὶ ἐθέλουσιν ἵππους πέμπειν παρὰ τοὺς 1 φίλους. 
+<pb n="12"/>
+5. παρὰ τοῦ στρατηγοῦ ἦν τὰ δῶρα. 
+6. ἐκ τοῦ πεδίου ἄγομεν τοὺς πολεμίους. 
+7. ὁ δ' ἄνθρωπος ἄξιος ἦν δώρων 2 καλῶν.
+
+(c) Complete :
+
+1. τὰ δὲ δένδρα (linking verb) μῑκρά. 
+2. ἵππους δ᾽ ἄγετε εἰς τ-- ποταμ-- (singular). 
+3. ἐν τ-- σταδι-- (singular) ἦσαν οἱ ἀδελφ--.
+
+(d) Write in Greek :
+
+
+
+1. The stones were beautiful. 
+2. The brave messenger was hostile to the general. 
+3. The friends have fine horses. 
+4. He wishes to lead the men out of danger.
+
+5. The brothers were hostile to the messenger.</p>
+
+<figure><head>τὸ ἐν Δελφοῖς στάδιον</head>
+<p>This ancient Greek stadium, perhaps the best preserved of all, is !ocated on
+the slopes of Parnassus, high above a lovely valley. Here every four years
+were held the famous Pythian Games in honor of Apollo.</p></figure>
+
+<pb n="13"/>
+
+</div>
+
+</div>
+<div type="textpart" subtype="lesson" n="5">
+<head>REVIEW</head>
+
+<cit>
+  <quote>
+    ἀρχὴ δὲ τοι ἥμισυ παντός.
+    
+  </quote>
+  <quote>
+    Well begun is half done.
+    
+    Literally: (The) beginning (is) half of everything.
+  </quote>
+  <bibl>Greek maxim.</bibl>
+</cit>
+
+
+<div type="textpart" subtype="para" n="27">
+<p>Importance of Vocabulary. If you wish to succeed
+in the study of any language, you must have above all else
+a good working vocabulary. The words assigned for study
+in this book have been chosen for their relative frequency
+and general utility. If you learn them, you should be able
+to figure out the meaning of many other words, and as a
+
+result be able to read with greater ease and pleasure.
+
+ASSIGNMENTS
+
+(a) Review all words thus far presented, observing spelling
+(including accent), inflection, meaning, and possible peculiarities 
+of use. Study especially any words that seem unfamiliar.
+Test your knowledge by reference to the list in § 549.
+
+(b) Name and define the Greek words suggested by: apology,
+Francophile, dendrology, Dorothea, eccentric, evangelist, hippodrome, Mesopotamia, microcosm, misanthrope, monolith, paralysis, phonograph. 
+What other English derivatives can you
+add that belong to this group?
+
+(c) What are the possible meanings suggested by the endings ον, ῳ ου, πυς, οι, οις, α?
+
+(d) Give the Greek for: he is writing, you (singular)
+lead, we stop, they have, I am loosing, you (plural) wish,
+he sends.
+</p></div>
+
+<pb n="14"/>
+
+
+<div type="textpart" subtype="para" n="28">
+<p>EXERCISES
+(a) Complete: 
+
+1. ὁ τ-- στρατηγ-- (singular) κίνῡῦνος ἦν μῖκρ--
+2. δωρ-- (plural) πέμπομεν παρὰ τ-- φιλ-- (plura).
+3. οἱ δ᾽ ἀδελφ-- ἦσαν δικαι--. 
+4. ἐθέλετε γραφ--.
+
+5. τὰ δενδρ--  ---- (linking verb) ἐν τ-- πεδι-- (singular),
+
+6. ὁ ἄγγελος πολέμιος ἦν τ ἀνθρωπ-- (singular).
+
+<figure><head>A GREEK BOY‘S TABLET</head>
+
+<p>Here we see half of a school tablet used by some Greek lad more than
+2000 years ago. At the top the master has written two lines of verse, which
+the pupil has tried to reproduce twice in the space below. See if you can
+find mistakes in his work.</p></figure>
+
+(b) Write in Greek:
+
+1. But the messenger is leading the horses out of the Hellespont. 
+2. The trees in the plain were small.
+3. And you (plural) wish to have beautiful gifts. 
+4. We are sending the men into the stadium. 
+5. The fine gifts were from (the side of) friends of the general.
+</p>
+<pb n="15"/>
+
+</div>
+
+</div>
+<div type="textpart" subtype="lesson" n="6">
+<head>DECLENSION OF Α-STEMS</head>
+
+
+<cit>
+  <quote>
+    σκηνὴ πᾶς ὁ βίος.
+  </quote>
+  <quote>
+    "All the world’s a stage.”
+ 
+    Literally: All life is a tent (See § 35).
+  </quote>
+  <bibl>Greek Anthology.</bibl>
+</cit>
+ 
+
+
+<div type="textpart" subtype="para" n="29">
+<p>Α-Stem Feminines. Α-declension nouns whose
+nominatives end in ᾱ or η are feminine. Because the
+feminine article shows η in the singular, nouns and adjectives in η are presented first.<note n="GRC">this makes no sense if you have not learned the next chapter -- it only works for teachers</note> Both types are the same
+in the plural
+
+ἡ καλὴ σκηνή the beautiful tent
+
+
+κώμη village
+
+
+In like manner inflect ἡ φυγή and ἡ μάχη.4
+
+What forms of the α-declension have the same ending as the corresponding form of the ο-declension? What have similar endings?</p></div>
+
+<div type="textpart" subtype="para" n="30">
+<p>Adjectives.
+(a) Adjectives of the ο- and α-declensions have three endings, one for each gender. [Likewise, 
+Latin has three endings, one for masculine, feminine and neuter, e.g., bonus, bona, bonum, "good".]
+
+
+2 For the accent of ἡ, καλή, and σκηνή, see § V, g, h, and i.
+
+3 Endings of feminines of the α-declension in Latin.
+
+4 For the accent of all forms of κώμη and μάχη except the genitive plural.
+see§ V, f. The genitive plural of α-stems originally ended in -α(σ)ων [Latin
+-arum]. Therefore, words of this declension regularly circumflex the ultima
+of the genitive plural because of contraction of vowels.
+
+
+
+<pb n="16"/>
+
+(b) Such adjectives accent the feminine genitive plural
+like the genitive plural of the o-declension.
+
+Inflect in all three genders ἀγαθός and δῆλος. Compare with paradigms, § 510, a.</p></div>
+
+<div type="textpart" subtype="para" n="31">
+<p>Position of Adjectives.
+(a) When an adjective or
+an adjective phrase accompanies a noun with a definite
+article, the adjective usually stands between the article
+and the noun, as in English:
+
+ὁ δίκαιος ἄνθρωπος the just man.
+
+Note that (unlike English) even a prepositional phrase
+may stand in this position:
+οἱ ἐν τῇ κώμῃ ἄνθρωποι or οἱ ἐν τῇ κώμῃ1 the men in the village.
+
+The adjective may also follow the noun and have the article repeated with it:
+ὁ ἄνθρωπος ὁ δίκαιος the Just man.
+
+In the above instances the adjective or phrase is said to
+have the attributive position.
+
+(b) When an adjective precedes the article or follows
+the article and the noun without the article being repeated, it is said to stand in the predicate position:
+
+δίκαιος ὁ ἄνθρωπος or ὁ ἄνθρωπος δίκαιος the man (is) just. </p></div>
+
+<div type="textpart" subtype="para" n="32">
+<p>Dative of Possession. In English we say There is no lid to the box. The Latin says <foreign xml:lang="lat">Puero est gladius</foreign>, <gloss>the boy has a sword</gloss>. So in Greek the dative is used to denote
+the possessor, while the thing possessed is subject of the
+verb to be:
+
+φυλακὴ οὐκ ἦν τῇ κώμῃ 
+the village had no garrison,
+
+
+
+1 With an expression like this ἄνθρωποι is implied.
+2 This is our fourth use of the dative. What were the other three?
+
+</p></div>
+
+<pb n="17"/>
+
+
+<div type="textpart" subtype="para" n="33">
+<p>VOCABULARY
+<rs type="lemma">γάρ</rs>: postpositive conjunction : for. 
+<rs type="lemma">σπονδή</rs>σπονδῆς, ἡ: libation; pl, σπονδή, σπονδαί, αἱ, treaty, truce. SPONDEE.
+<rs type="lemma">κώμη</rs>, κώμης, ἡ: village. 
+<rs type="lemma">μάχη</rs>, μάχη, ἡ: battle. LOGOMACHY. 
+<rs type="lemma">φεύγω</rs>: flee. Lat. fugio. FUGITIVE,
+<rs type="lemma">οὐ</rs> (before consonants), οὐκ (before smooth breathing), οὐχ (before rough breathing), proclit. adv.: not, UTOPIA. PROPHYLACTIC.
+<rs type="lemma">φυγή</rs>, φυγῆς, ἡ: flight, exile. Lat fuga.
+
+<rs type="lemma">φυλακή</rs>, φυλακῆς, ἡ: guard, garrison.
+
+
+<rs type="lemma">σκηνή</rs>: tent. SCENE. 
+<rs type="lemma" n="φυλάσσω">φυλάττω</rs>: guard (verb).</p></div>
+
+<div type="textpart" subtype="para" n="34">
+<p>EXERCISES
+
+(a) What use of the word do portions in heavy type suggest ?
+
+σπονδ-ῶν 
+φυγ-ῇ 
+μάχ-ην 
+κώμ-αις 
+σκην-άς 
+φυλακ-ῆς 
+σπονδ-αί 
+σκην-ή 
+
+(6) Translate:
+
+1. οὐ φεύγομεν ἐν ταῖς μάχαις. 
+2. τῇ γὰρ φυλακῇ ἦν σκηνὴ καλή.
+3. οἱ δ᾽ ἐν τῇ κώμῃ φυλάττουσι τοὺς ἵππους.
+4. οὐκ ἦσαν σπονδαὶ τοῖς ἐν τῷ πεδίῳ. 
+5. τῇ δὲ φυλακῇ πέμπεις δῶρα καλά. 
+6. ἡ τοῦ στρατηγοῦ φυγὴ οὐκ ἦν καλή.
+7. ἐκ τῆς κώμης ἄγει τοὺς πολεμίους. 
+8. αἱ δὲ σκηναὶ δῆλαι ἧσαν.
+
+1. τ-- δὲ κωμ--- ἦν φυλακή
+2. οὐκ ἦσαν σκην-- τ-- φυλακ--- (singular).
+
+<pb n="18"/>
+
+
+
+
+3. (article) ἐν τῷ πεδίῳ ----- (negative adverb) ἐθέλουσι τὰς σπονδὰς λῡ--.
+
+THe THEATER OF Dionysus
+
+This is probably the earliest extant theater in the world. It is built on the
+southern slope of the acropolis at Athens. Here th</p></div>
+
+<div type="textpart" subtype="para" n="35">
+<p>Word-formation. It is interesting to follow the
+changes in meanings of words. Words are living creatures and as such they coristantly acquire new characteristics and new aptitudes as they adjust themselves to new conditions.
+
+Thus σκηνή, tent or booth, was originally used of the tent or
+booth into which an actor withdrew to change his costume.
+When the theater became more elaborate, σκηνή referred to the
+wall that served as support for painted scenery. From this it
+was but a step to σκηνή meaning the scene of an action.</p>
+
+<pb n="19"/>
+
+</div>
+
+</div>
+<div type="textpart" subtype="lesson" n="7">
+<head>Declension of α-stems -- continued.</head>
+
+  <cit>
+    <quote>λύπης ἰᾱτρός ἐστιν ἀνθρώποις λόγος.
+    </quote>
+    <quote>Literally: Reason is for men a physician of grief.
+    </quote>
+    <bibl>Menander, fragment. 
+    </bibl>
+  </cit>
+
+
+
+<div type="textpart" subtype="para" n="36">
+<p>Feminines in ᾱ. If ε, ι, or ρ immediately precedes
+the final vowel of the stem, words of the α-declension have
+ᾱ, not η, throughout the singular.2
+
+ἡ μικρὰ στρατιά the small army</p></div>
+
+<div type="textpart" subtype="para" n="37">
+<p>Accusative of Extent. The accusative denotes extent
+of space or duration of time :
+
+διώξει τοὺς πολεμίους δέκα σταδίους  
+he will pursue the enemy ten stades.
+
+διώξει τοὺς πολεμίους δέκα ἡμέρᾱς  
+he will pursue the enemy ten days.
+
+
+
+
+
+2 A few feminines have short α in the nominative and accusative singular.
+They will be treated later.
+
+3 This is our third use of the accusative. What were the other two ?
+</p></div>
+
+<pb n="20"/>
+
+<div type="textpart" subtype="para" n="38">
+<p>VOCABULARY
+
+<rs type="lemma">ἀγορά</rs>, ἀγορᾶς, ἡ: market, market-place. AGORAPHOBIA.
+
+<rs type="lemma">ἀρχή</rs>, ἀρχῆς, ἡ: beginning, rule, province.
+
+<rs type="lemma">δέκα</rs>: ten. DECALOGUE.
+
+<rs type="lemma">διά</rs>, prep.: with G., through ; with A., on account of. DIAMETER.
+
+<rs type="lemma">ἐπιτήδειος</rs>, ἐπιτηδεία, ἐπιτήδειον: fit, suitable ; τὰ ἐπιτήδεια 1: provisions.
+
+<rs type="lemma">ἡμέρᾱ</rs>, ἡμέρας, ἡ: day. EPHEMERAL.
+
+<rs type="lemma">στρατιά</rs>, στρατιᾶς, ἡ: army. Cf. στρατηγός.
+
+
+<rs type="lemma">φιλία</rs>, φιλίας, ἡ: friendship. Cf. φίλος.
+
+<rs type="lemma">φίλιος</rs>, φιλία, φίλιον: friendly.
+
+<rs type="lemma">χώρᾱ</rs>, χώρας, ἡ country.</p></div>
+
+<div type="textpart" subtype="para" n="39">
+<p>EXERCISES
+
+(a) Translate :
+
+1. ἦν ἡ ἀγορὰ ἐπιτηδεία τῇ στρατιᾷ ;2
+2. φεύγουσι διὰ τοῦ πεδίου.
+3. ἐθέλετε γὰρ τὴν στρατιὰν ἄγειν δέκα σταδίους.
+4. τῇ δὲ κώμῃ οὐκ ἦν τὰ ἐπιτήδεια.
+
+5. καὶ τὴν στρατιὰν ἄγομὲν διὰ τῆς ἀγορᾶς.
+6. διὰ τὴν φιλίαν ἔχουσιν ἀγορὰν καὶ τὰ ἐπιτήδεια. 
+7. ἡ δὲ στρατιὰ φιλία ἦν τῇ ἀρχῇ.
+
+8. τὸν δ᾽ ἀδελφὸν πέμπει εἰς τὴν χώρᾱν.
+
+Gate OF ATHENA ARCHEGETIS
+
+(b) Complete:
+1. ἡ δὲ κώμη ἐπιτηδει-- ἦν τ-- στρατηγ--- (singular). 
+2. δέκα ἡμερ--- ἡ στρατιὰ ἦν ἐν τ--- ἀγορ--- (singular). 
+
+
+
+
+
+
+
+1 Many Greek adjectives when preceded by the article are used as nouns, Compare English, the blind, a word to the wise; and the Greek, οἱ πολέμιοι.
+2 As in English, Greek questions are sometimes introduced by an interrogative pronoun or adverb, but often the mark of interrogation at the end of a printed sentence is the only clue. This mark of interrogation in Greek is the same as the English semicolon (;).
+
+
+<pb n="21"/>
+3. πέμπει δὲ τ--- ἐπιτηδει--- τ--- φιλ--- (plural).
+
+(c) Write in Greek :
+
+1. The messenger had (use ἦν) a horse. 
+2. The truce was long. 
+3. The men in the village are not guarding the tents.
+4. The flight was not evident to the general. 
+5. The garrison did not have (use ἦσαν) tents.
+
+<figure><head>THE ACROPOLIS</head>
+
+<p>Although many Greek cities had a fortified hill, or acropolis, most people
+associate that word with the famous hi!l in the heart of Athens. At first the
+home of the early kings, it came to be devoted to the gods and heroes of the
+state. Its glorious temples were visible from the agora, as indeed for miles
+around in all directions.</p></figure></p></div>
+
+<div type="textpart" subtype="para" n="40">
+<p>Word-formation.
+(a) A very common means of
+forming adjectives is by adding to the stem of a noun
+the suffix -ιος, -ίᾱ, -ιον, which appears frequently in English as -ian. O-stems drop the o before this suffix, α-stems retain the α to form the diphthong αι:
+
+φίλος friend, φίλιος friendly;
+but Ἀθῆναι Athens, Ἀθηναῖος Athenian.
+
+(2) From δίκαιον and πολέμιος construct the corresponding nouns; from ἵππος and ἀγορά construct the corresponding adjectives.</p>
+
+<pb n="22"/>
+
+</div>
+
+</div>
+<div type="textpart" subtype="lesson" n="8">
+<head>Imperfect Indicative Active of ω-verbs</head>
+
+<cit>
+  <quote><l>ἔργον δ᾽ οὐδὲν ὄνειδος, ἀεργίη δέ τ᾽ ὄνειδος.
+  </l></quote>
+  <quote>Work is no disgrace, but idleness is a disgrace.
+  </quote>
+  <bibl>Hesiod, Works and Days, 311.</bibl>
+</cit>
+
+
+<div type="textpart" subtype="para" n="41">
+<p>The Imperfect Tense. This tense denotes action
+continued, repeated, customary, or attempted in past time:
+
+ἔπαυον I was stopping, I kept stopping, I used to stop, I tried to stop.
+
+IMPERFECT INDICATIVE ACTIVE
+
+παύω I stop ἄγω lead</p></div>
+
+<div type="textpart" subtype="para" n="42">
+<p>Formation. The imperfect tense is built on the
+present stem showing the variable vowel (ο or ε). Being
+a secondary3 tense, it differs from the present in having
+(1) augment, (2) secondary endings. It is found only
+in the indicative.</p></div>
+
+<div type="textpart" subtype="para" n="43">
+<p>Augment. All secondary tenses of the indicative
+may be recognized by what is called augment. This is of
+two kinds:
+
+1. Syllabic. Verbs with an initial consonant prefix ἐ
+by way of augment; an initial ῥ is doubled after ἐ.
+
+<pb n="23"/>
+
+2. Temporal.
+
+Verbs with an initial vowel or diphthong lengthen the initial vowel.
+
+
+α - η
+ε - η
+ο - ω
+ι - ῑ
+υ - ῡ
+αι  - ῃ
+αυ  - ηυ
+οι  - ῳ
+
+Inflect the imperfect indicative active of <rs type="lemma">πέμπω</rs> and ἀθροίζω.</p></div>
+
+<div type="textpart" subtype="para" n="44">
+<p>Dative of Manner.
+
+The dative may denote manner :2
+
+φεύγουσι σιγῇ they flee in silence.</p></div>
+
+<div type="textpart" subtype="para" n="45">
+<p>Balanced Structure.
+μέν ... δέ are used with
+two words or phrases or
+clauses that are compared
+or contrasted: 
+
+ὁ (ἡ, τὸ) μέν . . ὁ (ἡ, τὸ) δέ the one . . . the other; 
+
+οἱ (αἱ, τὰ) μέν. .. οἱ (αἱ, τὰ) δέ some . . . others; 
+ὁ δέ, ἡ δέ, κ.τ.λ. but (and) he, she, etc., 
+indicating change of subject. μέν is rarely to be translated but is a valuable warning that a comparison or contrast is coming. It is one of the many little words, often untranslatable, that make Greek so effective for expressing important shades of meaning.
+
+<figure><head>An Ionic Column</head>
+
+<p>The delicate workmanship of the
+Erechtheum, to which this column
+belongs, awakens universal admiration.</p></figure>
+
+1 Certain verbs beginning with ε change ε to ει when augmented : ἔχω, εἶχον.
+
+2 This is our fifth use of the dative. What were the other four?
+3. κ.τ.λ. = καὶ τὰ λοιπά and the rest. Compare etc. = et cetera.</p></div>
+
+<pb n="24"/>
+
+<div type="textpart" subtype="para" n="46">
+<p>VOCABULARY
+<rs type="lemma">ἀθροίζω</rs>: collect. 
+
+<rs type="lemma">ἀλλά</rs>, conj.: but, however. Stronger than δέ. Final a is often elided.
+<rs type="lemma">ἁρπάζω</rs>: seize,carry off. HARPY. 
+<rs type="lemma">ἀρχαῖος</rs>, ἀρχαία, ἀρχαῖον: original, ancient. Cf. ἀρχή. = ARCHAIC. 
+<rs type="lemma">βάρβαρος</rs>, βαρβάρου, ὁ: foreigner, barbarian.
+<rs type="lemma">ἔργον</rs>, ἔργου, τό: work, deed, ENERGY.
+<rs type="lemma">κραυγή</rs>, κραυγῆς, ἡ: outcry, shout.
+<rs type="lemma">λόγος</rs>, λόγου, ὁ: word, speech. PROLOGUE.
+<rs type="lemma">μέν</rs>: coord. conj. (§ 45).
+<rs type="lemma">σῑγή</rs>, σιγῆς, ἡ: silence.</p></div>
+
+<div type="textpart" subtype="para" n="47">
+<p>EXERCISES 
+
+(a) What do the portions in heavy type tell as to person
+and number of the subject?
+
+ἦγ-ον 
+ἔλῡ-ε 
+ἐγράφ-ομεν 
+ἤθροιζ-ες 
+ἠθέλ-ετε
+
+Which personal endings of the imperfect are identical?
+Vhich resemble endings of the present ?
+
+(b) Translate :
+
+1. ἠθροιζες λίθους παρὰ τὸν ποταμόν; 
+2. ἀλλ᾽ ἐπέμπομεν τὴν φυλακὴν παρὰ τὸν ἀδελφον. 
+3. ἡ στρατιὰ ἦν ἐν τῇ κώμῃ καὶ τὰ ἐπιτήδεια ἥρπαζεν. 
+4. οἱ μὲν γὰρ κραυγῇ ἐκ τῆς ἀγορᾶς ἔφευγον. οἱ δὲ σιγῇ τὰς σκηνὰς ἐφύλαττον. 
+5. οἱ δὲ ἀρχαῖοι εἶχον1 κώμας μικρᾶς.
+6. καλὰ μὲν ἦν τὰ δῶρα, μικρὰ δέ. 
+7. τὰ μὲν ἔργα τὰ τοῦ βαρβάρου ἦν καλά, οἱ δὲ λόγοι φίλιοι.
+
+(c) Complete :
+
+1. ἠγ-- (2d plural) τὸν ἔπτπ--- ἐκ τ--- πεδι --- (singular).
+2. καὶ τὸ ἐργ- δηλ-- ἦν τ--- πολεμι--. 
+3. ὁ δὲ κραυγ--- ἐφευγ -- εἰς τ-- κωμ---- (singular).
+
+(d) Write in Greek:
+
+1. The army was friendly to the country. 
+2. They guard the provisions for ten days. 
+3. On account of the treaty we do not wish to destroy the village. 
+4. The garrison flees ten stades.? 
+5. There were provisions in the tent.
+
+1 Page 23, note 1. 
+2 Page 11, note 3.
+</p></div>
+</div>
+
+<pb n="25"/>
+
+
+<div type="textpart" subtype="para" n="48">
+<p>Greek as a World Language.
+
+
+
+(a) The international language of the first century of our era was Greek. To carry its message to the world, therefore, the New Testament was written in Greek. The following passage is from St. Luke,
+6. 45:
+
+
+ὁ μὲν ἀγαθὸς ἄνθρωπος ἐκ
+τοῦ ἀγαθοῦ θησαυροῦ (treasure) τῆς καρδίας (compare
+CARDIAC) προφέρει (brings
+forth) τὸ ἀγαθόν,1 ὁ δὲ πονη- 
+ρὸς 1 (evil) ἐκ τοῦ πονηροῦ 1 τὸ
+πονηρον.1
+
+(b) Word-formation. The Christian religion not only was transmitted through Greek. Its theology was shaped by Greek philosophy and its language and thought by Greek words.
+
+Hundreds of ecclesiastical terms now in use came from Greek : Christ, Bible, Episcopalian, anthem, hierarchy, cathedral, liturgy, Pentatench, atheist, apostate, martyr, menphiyte, hypocrite, laity, CANON.
+and the like,
+
+How many similar derivatives can you supply from the Greek words that you have already had ?
+
+Try these:
+
+λόγος (combine with φίλος, and δέκα), ἀπό, ἐξ (combine with ὁδός road), παρά, ἄγγελος, διά.
+
+
+
+1 Page 20, note 1.
+
+<pb n="26"/>
+</p>
+</div>
+
+<div type="textpart" subtype="lesson" n="9">
+<head>FUTURE INDICATIVE AND INFINITIVE ACTIVE OF ω-VERBS</head>
+
+<cit>
+  <quote>καλὸν ἡσυχία.
+  </quote>
+  <quote>Leisure is a fine thing.
+  </quote>
+  <bibl>Periander</bibl>
+</cit>
+
+
+<div type="textpart" subtype="para" n="49">
+<p>The Future Tense. This tense has the same personal endings as the present. It differs from the present only as to stem, which it forms by adding -σ- to the verb stem. In the case of verbs whose stem ends in a mute, the σ is the occasion of certain changes:
+
+1. A labial (π, β, φ) unites with σ to form -ψ- (πσ) ;
+
+2. A palatal (κ, γ, χ) unites with σ to form -ξ- (κσ);
+
+3. A dental (τ, δ, θ) before σ is dropped:
+
+πέμπω, πέμψω; 
+ἄγω, ἄξω; 
+ἀθροίζω (ἀθροιδ-), ἀθροίσω.
+
+In most instances, the stem is readily recognized in the
+present tense, but verbs with stems in ζ are palatals and most verbs with stems in fare dentals. In case of doubt, consult the general vocabulary at the back of the book.
+
+Future Indicative of παύω I stop
+
+In like manner inflect λύω, γράφω, ἄρχω, πείθω.</p></div>
+
+<div type="textpart" subtype="para" n="50">
+<p>Indirect Discourse.
+(a) Verbs whose meaning implies mental action (saying, thinking, or the like) are used to introduce an indirect quotation : the general sends (sent)
+
+<pb n="27"/>
+
+may be stated indirectly 
+I believe the general to be sending
+(to have sent), or 
+I believe that the general is sending (sent).
+
+(b) In Latin the main verb in the quoted statement
+is always infinitive. The same construction is frequently found in Greek.1
+
+(c) In Latin, the subject of the infinitive in
+indirect discourse is always accusative. The
+same is true for Greek,
+unless the infinitive has
+the same subject as the
+introductory verb, in
+which case the subject
+of the infinitive is omitted and any word in 
+agreement with that unxpressed subject is nominative:
+
+νομίζω τὸν στρατηγὸν διώξειν
+I think the general will pursue ;
+
+νομίζω διώξειν
+I think I shall pursue.
+
+(d) The tense of the
+infinitive in the quoted statement, regardless of the tense of the introductory verb, is the same as that used in the original statement:
+
+οἱ πολέμιοι διώκουσι
+the enemy are pursuing ;
+
+νομίζει τοὺς πολεμίους διώκειν
+he thinks the enemy are pursuing;
+
+ἐνόμιζε τοὺς πολεμίους διώκειν
+he thought that the enemy were pursuing.
+
+1 But in Greek other constructions appear, depending on the introductory verb employed.
+
+THE PROPYLAEA
+
+The gateway to the Acropolis.
+</p></div>
+
+<pb n="28"/>
+
+<div type="textpart" subtype="para" n="51">
+<p>VOCABULARY
+<rs type="lemma">ἄρχω</rs>, ἄρξω:1 begin, rule, command,  with G. ARCHBISHOP.
+
+<rs type="lemma">μέλλω</rs>, μελλήσω: intend, delay, be about to, usually with fut. inf.
+
+<rs type="lemma">διώκω</rs>, διώξω: pursue. 
+
+<rs type="lemma">θύρα</rs>, θύρα, ἡ: door; αἱ θύραι: often used of military head-quarters or of the king's court (compare Sublime Porte). THYROID.
+
+<rs type="lemma">νομίζω</rs>:1 believe, think, with inf.
+
+<rs type="lemma">ὁδός</rs>, ὁδοῦ, ὁ: road, route. EXODUS.
+
+<rs type="lemma">πείθω</rs>, πείσω: persuade.
+
+<rs type="lemma">ὑπ-οπτεύω</rs>, ὑπ-οπτεύσω: suspect (ὑπό, under + ὀπτεύω, look), with inf. HYPODERMIC. OPTIC.
+
+<rs type="lemma">ἰσχυρός</rs>, ἰσχυρά, ἰσχυρόν: strong. </p></div>
+
+<div type="textpart" subtype="para" n="52">
+<p>EXERCISES
+
+(a) Identify the person and number of the following forms and give the corresponding forms of the present:
+
+πέμψουσι, 
+ἄξομεν, 
+γράψει, 
+φυλάξεις, 
+ἀθροίσω, 
+ἄρξετε, 
+λύσεις
+
+(2) Translate :
+
+1. οἱ βάρβαροι ὑπ-οπτεύσουσι τὰ ἔργα. 
+2. ἐνομίζομεν τοὺς βαρβάρους οὐχ ὑπ-οπτεύειν τὰ δῶρα. 
+3. μέλλει τῆς χώρᾶς ἄρξειν. 
+4. τὴν δὲ στρατιὰν πείσεις τὴν μακρὰν ὁδὸν φυλάττειν. 
+5. οἱ δὲ πολέμιοι τὴν ἰσχυρὰν φυλακὴν λύσουσιν. 
+6. διώξομεν τὸν ἄγγελον παρὰ τὰς τοῦ στρατηγοῦ θύρας.
+7. ἀλλ᾽ οἱ μὲν τοὺς πολεμίους παύσουσιν, οἱ δὲ τὰ ἐπιτήδεια ἀθροίσουσιν. 
+8. ὁ δὲ νομίζει καλὴν ὁδὸν ἄγειν διὰ τῆς ἀρχῆς.
+
+(c) Complete:
+
+1. ὑπ-οπτευσ--- οἱ πολέμιοι τὸν στρατηγ--- λῦ-- τὰς σπονδάς. 
+2. μέλλεις λῦ--- - τὴν ὁδ--- ;
+3. οἱ μὲν (will pursue) τοὺς πολεμίους, οἱ δὲ -----  (will seize) τὰ ἐπιτήδεια.
+
+<pb n="29"/>
+
+(d) Write in Greek :
+1, But the barbarians were collecting the horses in silence
+2. With a shout we were seizing the provisions. 
+3. The man used to write to his1 brother. 
+4. The works were ancient, but beautiful. 
+5. They were brave in speech.
+
+
+
+  </p></div>
+
+<div type="textpart" subtype="para" n="53">
+<p>Word-formation. Many verbs with ε in the stem
+have cognate nouns or adjectives with ο instead of ε:
+λείπω leave, λοιπός left;
+λέγω speak, λόγος word or speech ;
+πέμπω send (escort), <rs type="lemma">πομπή</rs> procession ;
+<rs type="lemma">σπένδω</rs> pour a libation, σπονδή Libation.
+
+Compare Latin tego I cover, toga cloak; English I sing, song.
+
+
+
+
+
+<figure><head>ὁδὸς ἀρχαία</head>
+<p>This fine roadway, bordered with elevated sidewalks, led from the agora
+at Corinth to the harbor. The ancient Greeks did most of their travel by sea
+and so had few good roads.</p></figure>
+
+</p>
+
+<pb n="30"/>
+
+</div>
+
+</div>
+<div type="textpart" subtype="lesson" n="10">
+<head>FIRST AND SECOND AORIST INDICATIVE AND INFINITIVE ACTIVE OF Ω-VERBS</head>
+
+
+<cit><quote xml:lang="grc">ὅ τι καλὸν φίλον ἀεί.</quote>
+  <quote xml:lang="eng">A thing of beauty is a joy forever.</quote><quote xml:lang="eng">Literally: Whatever is beautiful is ever dear.</quote><bibl>Euripides, Bacchae, 881.</bibl></cit>
+
+
+<div type="textpart" subtype="para" n="54">
+<p>The Aorist. Aorist is the name of a tense of the
+Greek verb. The name is not used in the inflection of
+Latin or English verbs, but many of its functions are
+entirely familiar.
+
+The aorist indicative in Greek expresses a single act (that
+is, not continued or repeated) in past time. It gives, as
+it were, a snapshot of past action, while the imperfect gives 
+a motion picture: 
+
+ἔπαυον I was stopping; ἔπαυσα I stopped.</p></div>
+
+<div type="textpart" subtype="para" n="55">
+<p>Formation of the Aorist.
+(a) The aorist, in common with other secondary tenses, in the indicative has
+augment and secondary endings (§§ 42, 43).
+
+<pb n="31"/>
+(b) The distinguishing feature of the first aorist is the
+suffix -σα- (-σε in the third singular), which obeys the same
+phonetic laws as the -σ- of the future (§ 49).
+
+(c) The first aorist infinitive active is always accented on the penult:1 ἀθροῖσαι, ἁρπάσαι.
+
+(d) Some verbs lack a first aorist. Such verbs often have a second aorist, a distinguishing feature of which is a
+weakening of the vowel element of thestem, The second aorist indicative is inflected like the imperfect, and the corresponding infinitive has an ending like that of the present infinitive, but it is accented irregularly on the ultima: 
+ἄγω, ἤγαγον, ἀγαγεῖν;
+λείπω, ἔλιπον, λιπεῖν;
+φεύγω, ἔφυγον, φυγεῖν.
+(e) The third form in the principal parts of a normal
+verb shows by the presence of -σα (-α)2 or -ον whether the
+aorist is first or second.
+
+Inflect λύω and φεύγω in the aorist indicative and infinitive.</p></div>
+
+<div type="textpart" subtype="para" n="56">
+<p>There is usually no difference of meaning between
+first and second aorist, the terms signifying merely differ-
+ence in formation:
+
+ἔπαυσοα (first aorist) I stopped ; ἔλιπον (second aorist) I left.</p></div>
+
+<div type="textpart" subtype="para" n="57">
+<p>Tenses of the Infinitive. The infinitive, except in
+
+indirect discourse, has no time value. The present infinitive denotes continuance or repetition (a motion picture),
+while the aorist infinitive denotes a single occurrence (a snap-shot): 
+
+ἐθέλει φεύγειν he wishes to keep on fleeing ;
+ἐθέλει φυγεῖν he wishes to flee.
+
+
+
+1 See § V, f.
+2 The type of verbs that have only -α and not -σα in the first aorist will be presented later. 
+3 50, d
+
+<pb n="32"/>
+
+The Arch of Hadrian
+
+
+
+Hadrian, one of the "good” emperors of Rome, showed his love for
+Athens by beautifying the city. This arch bears on its western face the
+legend, "This is the Athens of Theseus, the former city,” and on the eastern
+face, "This is the city of Hadrian, not of Theseus."
+
+</p></div>
+
+<pb n="33"/>
+
+
+<div type="textpart" subtype="para" n="58">
+<p>VOCABULARY
+<rs type="lemma">ἐνταῦθα</rs>: adv., there, at that place. 
+
+<rs type="lemma">λοιπός</rs>, λοιπή, λοιπόν: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.
+<rs type="lemma">ἐντεῦθεν</rs>, adv. : from there, thence. 
+<rs type="lemma">ἐπιστολή</rs>, ἐπιστολῆς, ἡ: letter. EPISTLE. 
+<rs type="lemma">οἰκία</rs>, οἰκίας, ἡ: house. ECONOMY.
+<rs type="lemma">ἔχω</rs>, ἕξω: have; ἔσχον1: got. 
+<rs type="lemma">πύλη</rs>, πύλης, ἡ: gate; pl., pass. PYLON. THERMOPYLA.
+<rs type="lemma">λείπω</rs>, λείψω, ἔλιπον: leave. ECLIPSE.</p></div>
+
+
+
+<div type="textpart" subtype="para" n="59">
+<p>EXERCISES
+
+(a) Translate:
+
+1. διὰ τὴν φιλίαν ὁ στρατηγὸς ἐθέλει ἐπιστολὴν γράψαι.
+2. οἱ λοιποὶ ἄνθρωποι ὑπ-ώπτευσαν3 τὸν ἄγγελον. 
+3. ἐνόμίσα τοὺς λοιποὺς ὑπ-οπτεῦσαι τοὺς τοῦ ἀγγέλου λόγους.
+4. ἔπεισε τοὺς φίλους τὰς οἰκίας λῦσαι. 
+5. ἐνταῦθα ἐλέπετε τοὺς ἵππους. 
+6. ἐντεῦθεν ἐπέμψαμεν τὸν ἄγγελον παρὰ τὰς τοῦ στρατηγοῦ θύρας. 
+7. ὑπ-οπτεύομεν τὴν φυλακὴν φεύγειν ἐκ τῶν οἰκιῶν. 
+8. διὰ τῶν πυλῶν ἔφευγον οἱ λοιποὶ πολέμιοι.
+
+(b) Complete:
+
+1. ἐνταῦθα ἐσχ--- (1st singular) δωρ--- ἀξι---. 
+2. οὐκ ἐθέλει ὁ στρατηγὸς τὰς πυλ--- λιπ---. 
+3. τ-- στρατι--- (singular) ἐνομίσατε ἐν τ--- μαχ--- (singular) φυγ---.
+
+(c) Write in Greek :
+
+1. We shall seize the horses in the country. 
+2. He thinks that the enemy are guarding the road. 
+3. Do you intend to pursue the guard ? 
+4. I think that the messenger will persuade the general. 
+5. With a shout they will break the strong door.
+
+1 ἔσχον is aorist. Sigma was lost in the present and replaced by breathing in the future. 
+
+2 An example of vowel change (§ 53).
+3 The angment of compounds follows the prefix.
+</p>
+<pb n="34"/>
+
+</div>
+
+</div>
+<div type="textpart" subtype="lesson" n="11">
+<head>REVIEW</head>
+
+<cit>
+  <quote><l part="F">σοφῷ γὰρ αἰσχρὸν ἐξαμαρτάνειν.</l> 
+  </quote>
+  <quote>‘Tis shameful for a wise man to make mistakes.
+  </quote>
+  <bibl>Aeschylus, Prometheus, 1039.</bibl>
+</cit>
+
+
+<div type="textpart" subtype="para" n="60">
+<p>ASSIGNMENTS
+
+(a) Review all words in the vocabularies of Lessons
+VI-X. Follow suggestions given in § 27, a.
+
+(6) Name and define the Greek words suggested by
+scenic, spondaic, prophylaxis, logomachy, archangel, pylon,
+diaphanous, barbaric, archetype, erg, ecliptic, cathode,
+pyloric, energize, thyrectomy.
+
+(c) Add ten other derivatives to this group. 
+
+(d) Inflect παύω, διώκω, ἁρπάξω, and λείπω in all tenses
+of indicative and infinitive thus far studied.2
+
+(e) Give the forms of ἄξιος and ἀγαθός that should be
+used with στρατηγῷ, χώρᾳ, δῶρα, φυγήν, φιλίας (singular),
+φιλίας (plural), ἀγγέλων, κώμαις.
+
+(f) What time facts are indicated by the heavy type ?
+
+ἔπεμπε ἄξομεν ἐλύσαμεν γράψειν ἔλιπες
+
+Of the dative? Of the accusative ?</p></div>
+
+<div type="textpart" subtype="para" n="61">
+<p>EXERCISES
+(a) Complete:
+
+1. τ--- στρατηγ--- (singular) ὑπ-ὠπτευσαν λῡ--- (present) τὰς σπονδάς. 
+2. πείσει τοὺς βαρβάρους τὰ ἐπιτήδεια ἄρπα--- (single act). 
+
+2 Consult the vocabulary at the back of the book to see which of these verbs have first and which second aorist.
+
+<pb n="35"/>
+
+3. τὴν στρατιὰν ἐνόμιζε λειπ--- τ-- ἀγορ--- (singular). 
+4. διὰ τ--- χωρ--- ἔφυγον δέκα σταδι---. 
+4. ἡ δὲ κώμη πολεμι--- ἦν τ--- στρατι--- (singular). 
+5. οἱ μὲν σιγῇ ἐφύλαττον τὰς σκηνάς, --- δὲ κραυγ--- ἔφευγον.
+7. ἀγορὰ οὐκ ἦν τ--- λοιτπ--- στρατι--- (singular).
+
+(b) Write in Greek: 
+
+1. They suspected that the garrison would not guard the pass. 
+2. The men from the country had the letters. 
+3. The village was not friendly to the foreigners. 
+4. On account of our! friendship we shall not break the truce. 
+5. Some were brave in deed, others in speech.
+
+THE Lincoln MEMORIAL
+
+The influence of Greek architecture is visible throughout the world, but rarely
+with more pleasing effect than in this memorial at Washington, D. C.
+
+1 Use article.
+
+<pb n="36"/>
+</p>
+
+</div>
+
+<div type="textpart" subtype="lesson" n="12">
+<head>READING </head>
+
+<cit>
+  <quote><l>ὦ ταὶ λιπαραὶ καὶ ἰοστέφανοι καὶ ἀοίδιμοι,</l>
+    <l>Ἑλλάδος ἔρεισμα, κλειναὶ Ἀθᾶναι.
+    </l>
+  </quote>
+  <quote><l>City of light, with your violet crown, beloved of the poets,
+  </l>
+<l>You are the bulwark of Greece; Athens, your fame is for ever.</l></quote>
+<quote>Literally: 
+  O renowned Athens, brilliant, violet-crowned, and famed in song, stay of Greece.</quote>
+  <bibl>Pindar, fragment.</bibl>
+</cit>
+
+</div>
+ 
+
+<div type="textpart" subtype="para" n="62">
+<p>The Value of Transiation. "There is no better wav
+for the student to train himself in the choice of the very
+word that will fit his thought than by translation from
+Latin and Greek. Thus he develops habits of analysis,
+habits of discriminating choice of words, habits of accurate
+apprehension of the meaning which another has sought to
+convey by written words, which lead to power of expression
+and to power of clear thinking. Such habits are worth
+more to the lawyer than all the information which a modern
+school may hope to impart.” <note>Roscoe Pound, Dean of the Law School, Harvard University, as reported
+in Value of the Classics, page 49.</note></p></div>
+
+<div type="textpart" subtype="para" n="63">
+<p>The Process of Translation. From the very beginning, cultivate right habits, The time thus saved will in
+the end repay you for any time that may seem to be lost
+at the start.
+
+1. Read aloud and distinctly each Greek sentence as Greek,
+without conscious effort at translation.
+
+2. Note familiar words; in unfamiliar words look for familiar
+roots or suggestions as to meaning contained in the context,
+
+
+<pb n="37"/>
+
+3. Note carefully word groups and relations of words as indicated by inflectional changes.
+
+4. Do not jump about in the sentence, but try to grasp the
+thoughts as they follow in logical sequence, observing that
+emphatic words are likely to occur at the beginning or end of
+clauses or sentences, 
+
+5. If the meaning of any words is still unknown, consult the
+vocabulary.
+
+6. If relations of words are still obscure, reread aloud until
+the entire thought is clear.
+
+7. Translate into clear and accurate English.</p></div>
+
+<div type="textpart" subtype="para" n="64">
+<p>VOCABULARY
+<rs type="lemma">Ἀθῆναι</rs>, Ἀθηνῶν, αἱ: Athens. 
+<rs type="lemma">ἀπ-έχω</rs>: be distant, be away. 
+
+<rs type="lemma">ἐπί</rs>: prep. with G., on, upon;1 with D., on, at, by; with A., upon, to, againsi, EPIDERMIS.<note>The difference between the genitive, dative, and accusative may be indicated by these phrases: on horseback, a city on the sea, he marches on the town. Compare παρά (§ 25).</note>
+<rs type="lemma">Ἀθηναῖος</rs>, Ἀθηναά, Ἀθηναῖον: Athenian. 
+<rs type="lemma">ἑπτά</rs>: seven. HEPTAGON.
+<rs type="lemma">δρόμος</rs>, δρόμου, ὁ: a running, run, race, race course. HIPPODROME.
+
+<rs type="lemma">ἥκω</rs>, ἥξω: [No aorist in use] come, have come, arrive.  
+
+<rs type="lemma">ὀκτώ</rs>: eight. octopus.
+
+<rs type="lemma">σπεύδω</rs>, σπεύσω, ἔσπευσα: hasten.</p></div>
+
+<div type="textpart" subtype="para" n="65">
+<p>MARATHON</p>
+
+<p>“That man is little to be envied whose patriotism would not gain force upon the plain of Marathon.” 
+Samuel Johnson
+
+Δαρεῖος βασιλεὺς <note>Predicate nominative in agreement with Δαρεῖος.</note> (king) ἦν τῶν Περσῶν καὶ ἦρχε πάντων
+(all) τῶν ἐν τῇ Ἀσίᾳ ἀνθρώπων. τοὺς δὲ φίλους ἔπεμψε
+στρατηγοὺς σὺν (with) στρατιᾷ πολλῇ (large) καὶ πολλῷ ναυτικῷ (compare NAUTICAL) ἐπὶ Ἀθήνας. οἱ δὲ στρατηγοὶ ἦγον
+τοὺς Πέρσας εἰς τὸν Μαραθῶνα, εἰς ὃ (which) πεδίον καὶ οἱ
+Ἀθηναῖοι ἧκον. ἐνταῦθα οἱ μὲν Ἀθηναῖοι δρόμῳ ἔσπευσαν εἰς
+τοὺς βαρβάρους. ἀπ-εῖχον δὲ σταδίους ὀκτώ. οἱ δὲ Πέρσαι
+
+<pb n="38"/>
+
+ἐνόμιζον μανίᾶν (compare MANIAC) εἶναι<note>Present infinitive in Indirect Discourse (§ 50) = to be.</note> τοῖς Ἀθηναίοις.
+ἡ μὲν μάχη ἡ ἐν τῷ Μαραθῶνι ἦν μακρά, τέλος ( finally) δὲ
+τοὺς βαρβάρους οἱ Ἀθηναῖοι ἐδίωκον εἰς τὴν θάλατταν (sea)
+καὶ τῶν νεῶν (ships) ἥρπασαν ἑπτά.
+
+Adapted from Herodotus, Book VI.
+
+<note>For information regarding Herodotus and other personages referred to in
+this book, consult Dictionary of Proper Names, page 335.</note>
+
+The Funeral Mound at MARATHON
+
+This is an artificial knoll, about forty feet high, erected over the bodies of
+the Athenians slain at Marathon. No simpler memorial could be imagined
+for the most heroic exploit in Athenian history.</p></div>
+
+<div type="textpart" subtype="para" n="66">
+<p>PRONUNCIATION OF ANGLICIZED GREEK PROPER NAMES
+
+(a) Every educated person should know how to pronounce correctly the many Greek proper names that have
+passed into English literature and English speech. Especially is this to be expected of every person who has been
+privileged to study Greek.
+
+(4) Here are a few simple rules which will help:
+
+1. Because most Greek proper names have come into English via Latin, custom demands first that the Greek letters shall
+
+
+<pb n="39"/>
+
+be replaced by their Latin equivalents.
+
+
+
+These can be learned from
+
+§§ I and II, but note especially that 
+αι passes into  or e, 
+ει into î or ê, 
+οι into oe or ê 
+(when final, οι becomes î), 
+ου into û, 
+υ into y (except in diphthongs), 
+ος into us:
+
+θησεῖον Theseum, 
+Φοῖβος Phoebus,
+Φίλιπποι Philippi, 
+Ἐπίκουρος Epicurus,
+
+Αἴσχυλος Aischylus, 
+Αἰθιοπία Ethiopia, 
+Ἀριστείδης Aristides,
+Κύκλωψ Cyclops,
+
+Φοῖνιξ Phoenician
+
+2. Use the ordinary English sounds for the letters, remembering that c (for k) and g are “soft” before e or i sounds.
+
+3. Names that have become  very common in English are likely to have lost or changed their inflectional endings:
+
+Ἀθῆναι Athens,  
+Συράκουσαι Syracuse, 
+Ὅμηρος Homer, 
+Πλάτων Plato, 
+Ἀλέξανδρος Alexander.
+
+Bronze Boy FROM MARATHON
+
+This head belongs to a beautiful statue found in almost perfect condition by a fisherman in the Bay of Marathon in 1925.
+
+4. The anglicized form is to
+be accented according to the
+Latin rules: two-syllabled
+words accent the penult; poly-syllables accent the penult, if
+long, otherwise the antepenult:
+A'thens, Ody'sseus, Pene'lope.1
+
+(c) Transliterate into English and pronounce :
+
+Κυθέρεια 
+Ἀγαμέμνων 
+Βορέᾱς 
+Κῦρος
+Ἡρόδοτος 
+Ἀφροδίτη <note>Final η, when transliterated inta é, is regularly sounded.</note>
+θουκυδίδης 
+Ἀπόλλων
+Ζεύς 
+Χάρων 
+Σωκράτης 
+Λυκοῦργος
+
+(a) Words other than proper names have suffered still greater changes as to ending:
+
+φιλοσοφία philosophy
+
+ἄγγελος angel, 
+ὠκεανός ocean,
+
+
+σπασμός spasm,
+
+
+
+φιλόσοφος philosopher.
+
+<pb n="40"/>
+</p>
+</div></div>
+
+<div type="textpart" subtype="lesson" n="13">
+<head>PRONOUNS</head>
+<cit>
+  <quote xml:lang="grc">ἕτερος γὰρ αὐτὸς ὁ φίλος ἐστί.</quote>
+  <quote xml:lang="eng">A friend is another self.</quote>
+  <bibl>Aristotle, Nicomachean Ethics, IX. 9,10, 1170 B</bibl>
+</cit>
+
+
+
+
+<div type="textpart" subtype="para" n="67">
+<p>The relative pronoun, ὅς, ἥ, ὅ, who, which, presents
+nothing new in inflection, It is like ἀγαθός everywhere
+except in the neuter nominative and accusative singular,
+where it has the same endings as the article.
+
+ὅς who, which</p></div>
+
+<div type="textpart" subtype="para" n="68">
+<p>αὐτός self, and ἄλλος other, are inflected similarly
+except that ἄλλος has the accent on the penult. Inflect
+them and compare with paradigms (§§ 519 and 520).</p></div>
+
+<div type="textpart" subtype="para" n="69">
+<p>A relative pronoun, as in English and in Latin,
+agrees with its antecedent in gender, number, and person,
+but its case depends on the construction in its own clause:
+
+ὁ ἄγγελος ὃν ἔπεμψας ἐθέλει φυγεῖν
+the messenger whom you sent wishes to flee.</p></div>
+
+<div type="textpart" subtype="para" n="70">
+<p>Uses of αὐτός. 
+  
+<list>
+  <item>Following the article, αὐτός means
+same : ἡ αὐτὴ κώμη the same village, </item>
+
+<item>modifying a noun or pronoun, but not following
+the article, it means self; Κῦρος αὐτός Cyrus himself; ἡ κώμη αὐτή the village itself ;
+αὐτὸς ἔφυγεν he himself fled ;
+<cit><quote xml:lang="grc">αὐτὸς γὰρ Θρασύμαχος ὁμολογεῖ τοὺς μὲν ἄρχοντας ἐνίοτε ἑαυτοῖς κακὰ προστάττειν, τοῖς δὲ δίκαιον εἶναι ταῦτα ποιεῖν</quote> <bibl>Plat. Rep. 340a</bibl></cit>
+</item>
+
+<item>standing alone, except in the
+  nominative, it is a personal pronoun of the third person:
+  αὐτῷ ἔγραψα I wrote to him,
+
+  αὐτοὺς ἀθροίζει he collects them.</item>
+
+<pb n="41"/>
+
+
+
+
+
+</list></p></div>
+
+<div type="textpart" subtype="para" n="71">
+<p>VOCABULARY
+
+
+<rs type="lemma">ἀλλήλων</rs>:1 of one another. PARALLEL.
+
+<rs type="lemma">ἄλλος</rs>: other, another; if preceded by the article, the other, the rest of. ALLOPATHY.
+
+<rs type="lemma">αὐτός</rs>: same, self, he, she, it, they, etc. AUTOMATON.
+
+<rs type="lemma">βουλεύω</rs>, βουλεύσω, ἐβούλευσα :  plan,
+
+<rs type="lemma">βουλή</rs>: plan, BOULE.
+
+<rs type="lemma">ἐπι-βουλεύω</rs>: plot against, with D.
+
+<rs type="lemma">ἐπι-βουλή</rs>: plot.
+
+<rs type="lemma">ἴσος</rs>: equal, ISOSCELES.
+
+<rs type="lemma">κελεύω</rs>, κελεύσω, ἐκέλευσα : order, command,
+
+<rs type="lemma">ὅς</rs>, ἥ, ὅ: rel. pron, : who, which, that.
+
+<rs type="lemma">ὥρᾱ</rs>: hour, season. HOUR.</p></div>
+
+<div type="textpart" subtype="para" n="72">
+<p>EXERCISES
+
+(a) What does αὐτός mean in these phrases ?
+
+τὰ αὐτὰ δῶρα
+
+αὐτοὺς ἄγει
+
+τὰς θύρᾱς αὐτὰς 
+
+(b) Translate
+
+1. καὶ ἡ αὐτὴ στρατιὰ ἥρπαξε τὰς σκηνάς.
+
+2. ἄλλος στρατηγὸς ἦγε βαρβάρους οἳ αὐτῷ ἦσαν φίλιοι. 
+
+
+
+3. ἀλλ᾽ ἐνόμιζεν αὐτοὺς ὑπ-οπτεύσειν τὴν βουλήν.
+
+
+4. ὁ δρόμος αὐτὸς ἀπ-έχει ἀπὸ τῆς κώμης ὀκτὼ σταδίους.
+
+5. οἱ ἐν Ἀθήναις ἀλλήλοις ἐπ-εβούλευσαν.
+
+6. τῇ δὲ φυλακῇ ὥρα ἦν αὐτὸν ἄγειν εἰς τὴν οἰκίᾷν ἐν ᾗ ἦσαν οἱ ἄλλοι φίλοι.
+
+7. ἡ γὰρ φυγὴ δήλη ἦν αὐτοῖς τοῖς πολεμίοις.
+
+8. ἡ ἄλλη ὁδὸς ἦγε παρὰ τὸν Ἑλλήσποντον.
+
+(c) Complete:
+
+1. τ--- στρατηγ--- ἐπ-εβούλευσαν οἱ βάρβαροι αὐτῷ ἦσαν πολέμιοι.
+
+2. αὐτ--- (them) πέμψομεν ἄλλο δῶρον --- ἔχομεν.
+3. αὐτῇ ἦσαν ἀλλ--- οἰκι---.
+
+<pb n="42"/>
+
+<figure><head>AN ANCIENT TIMEPIECE</head>
+<p>
+This Horologium, or Tower of the Winds, stood in the Agora and served
+as both weather bureau and town clock. It was surmounted by a weather-
+vane. Sundials adorned the exterior, and within was a water clock. The
+figures beneath the cornice represent the eight winds.</p></figure>
+</p></div>
+
+<div type="textpart" subtype="para" n="73">
+<p>SOME AXIOMS OF EUCLID<note>Consult Dictionary of Proper Names for the facts about Euclid.</note>
+
+1. τὰ τοῦ αὐτοῦ ἴσα καὶ ἀλλήλοις ἐστὶν (are) ἴσα.
+2. καὶ ἐὰν (if) ἴσοις ἴσα προσ-τεθῇ (be added), τὰ ὅλα (wholes, compare Holocaust) ἐστὶν ἴσα.
+
+3. καὶ ἐὰν ἀπ᾽ ἴσων ἴσα ἀφ-αιρεθῇ (be taken), τὰ λοιπὰ
+ἐστιν ἴσα.
+
+4. καὶ ἐὰν ἀν-ίσοις (ἀν- = un) ἴσα προσ-τεθῇ, τὰ ὅλα
+ἐστὶν ἄν-ισα.
+
+
+<pb n="43"/>
+
+</p>
+</div>
+</div>
+
+<div type="textpart" subtype="lesson" n="14">
+<head>DEMONSTRATIVE PRONOUNS</head>
+
+<cit>
+  <quote xml:lang="grc">
+    σπεῦδε βραδέως. 
+
+  </quote>
+  <quote xml:lang="eng">
+    Make haste slowly.
+
+  </quote>
+  <bibl>Suetonius, Augustus, 25. A favorite expression of Augustus.</bibl>
+</cit>
+
+
+<div type="textpart" subtype="para" n="74">
+<p>The principal demonstrative pronouns are οὗτος this
+(Latin hic), ὅδε this, and ἐκεῖνος that (Latin <foreign xml:lang="lat">ille</foreign>).
+
+οὗτος this
+ὅδε this
+
+
+Note that οὗτος has the same endings as αὐτός (§ 68), that it has
+initial τ- only where the article ὁ, ἡ, τό has τ-, and that it has ου in
+the penult only when an ο-sound occurs in the ultima, having αυ in
+the other forms.
+
+Contrast οὗτος and αὐτός as to breathing, accent, and stem.
+
+Note that the forms of ὅδε are the forms of the article with -δέ
+added.</p></div>
+
+<div type="textpart" subtype="para" n="75">
+<p>ἐκεῖνος has the same endings and accents as οῧτος,
+Inflect it, and compare with paradigm (§ 523).
+</p></div>
+
+
+<pb n="44"/>
+
+<div type="textpart" subtype="para" n="76">
+<p>Uses of the Demonstratives. 
+
+(a) οὗτος and ὅδε both
+mean this, this book, ete.; but οὗτος usually refers to something already mentioned, and ὅδε to something yet to
+follow:
+
+ταῦτα ἔγραψε 
+this (just mentioned) is what he wrote ;
+ἔγραψε τάδε 
+he wrote as follows.
+
+(b) ἐκεῖνος refers to something more remote than do
+οὗτος and ὅδε and is translated <gloss>that</gloss>.
+(c) All three may be used as emphatic personal pronouns,
+he, she, it, they.
+(d) When used as demonstrative adjectives all three
+have the predicate position (§ 31, 2):
+αὕτη ἡ κώμη this village ;
+ἐκείνη ἡ κώμη that village.</p></div>
+
+<div type="textpart" subtype="para" n="77">
+<p>Dative of Means. The dative indicates the means whereby an act is done: <note>The dative has three distinct divisions as to use, corresponding to English phrases with to or for, with, and in.</note>
+τὸν ποταμὸν διαβαίνει πλοίῳ  
+he crosses the river in (by means of) a boat.</p></div>
+
+<div type="textpart" subtype="para" n="78">
+<p>VOCABULARY
+<rs type="lemma">ἀ-διά-βατος</rs>:2 uncrossable. 
+<rs type="lemma">δια-βαίνω</rs>:<note>Future and aorist will be given later.</note> cross. 
+<rs type="lemma">δια-βατός</rs>:2 crossable.
+<rs type="lemma">ἐκεῖνος</rs>: that. 
+<rs type="lemma">συμ-βουλεύω</rs> :<note>σύν- changes to σύμ- before β for the sake of euphony.</note> advise, with D. of
+<rs type="lemma">μεστός</rs>: full, full of, the person. with G. 
+<rs type="lemma">ὅδε</rs>, ἤδε, τόδε: this (as follows). 
+<rs type="lemma">οὗτος</rs>, αὕτη, τοῦτο: this (as aforesaid).
+<rs type="lemma">πλοῖον</rs>, πλοίου, τό: boat.
+<rs type="lemma">σῖτος</rs>, του, ὁ : grain, food.  PARASITE.
+<rs type="lemma">σύν</rs>, prep. with D.: with. SYNOD.
+
+2 Masculine and feminine are alike in form. See paradigm (§510, 6). Compare Latin omnis.
+
+
+</p></div>
+
+<pb n="45"/>
+
+
+<div type="textpart" subtype="para" n="79">
+<p>EXERCISES 
+(a) Translate :
+
+1. ἐκεῖνο τὸ πλοῖον μεστὸν ἣν σίτου. 
+2. αἱ πύλαι αὐταὶ ἦσαν ἰσχῦραί. 
+3. ὑπώπτευσε δὲ ταύτᾱς τὰς φυλακὰς δια-βαίνειν τὸ πεδίον. 
+4. αὕτη μὲν ἡ χώρα αὐτοῖς ἣν φιλία, ὁ δὲ σῖτος οὐκ ἀγαθός. 
+5. οἱ σὺν αὐτῷ ταῦτα τὰ ἐπιτήδεια ἥρπασαν. 
+6. οἵδε οἱ ποταμοὶ δια-βατοὶ ἦσαν.
+7. συμ-βουλεύομεν ἐκείνοις ἄγειν ταῦτα ταὐτά.<note>τὰ αὐτά usually blend into ταὐτά.</note>
+
+(b) Complete:
+
+1. οὗτοι τὸν πόλεμον παύσουσι τ-  σπονδ--. 
+2. ἔπεμψαν τ΄ (description follows). 
+3. ἐκεῖναι ἦσαν ἀ-δια-βατ--.
+
+(c) Write in Greek:
+1. The door itself was ancient. 
+2. The others will persuade him. 
+3. The messengers whom he sent are plotting  against one another. 
+4. They had (ἦν) the same plan.
+5. We ourselves shall leave Athens.</p></div>
+
+<div type="textpart" subtype="para" n="80">
+<p>Dean Inge, of St. Paul’s Cathedral, London, writes:
+“The Christian Church was the last great creative achievement of classical culture.”<note>Legacy of Greece, page 30.
+</note> The λόγος of St. John’s
+Gospel is one of many evidences of this.
+
+<cit>
+  <quote>ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς <note>in the presence of</note> ὃ τὸν θεόν
+    (compare THEOLOGY), καὶ θεὸς ἦν ὁ λόγος. οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.</quote>
+    <bibl>St. John, 1. 1-2.</bibl>
+</cit>
+
+
+</p>
+</div>
+</div>
+
+
+<pb n="46"/>
+
+
+<div type="textpart" subtype="lesson" n="15">
+<head>FEMININE NOUNS OF THE A-DECLENSION. PERSONAL PRONOUNS</head>
+<cit>
+  <quote>
+    θάλαττα, θάλαττα.
+  </quote>
+  <quote>
+    The sea, the sea!
+  </quote>
+  <bibl>Xenophon, Anabasis, IV. 7, 24. 2 </bibl>
+</cit>
+ 
+
+
+<div type="textpart" subtype="para" n="81">
+<p>Feminines in -ᾰ. Most nouns of the a-declension
+have -ᾱ or -η in the nominative and carry the same throughout the singular. A few nouns have -ᾰ in the nominative.
+These have ᾱ in the genitive and dative singular, if the
+preceding letter is ι or ρ; otherwise they have η.</p>
+
+
+<p>Note that in the singular, nominative and accusative agree as to
+final vowel, quantity of final vowel, and accent; and that the genitive
+and dative show the same agreement.</p>
+
+<p>In like manner inflect θάλαττα and βασίλεια.</p></div>
+
+<div type="textpart" subtype="para" n="82">
+<p>The Personal Pronouns are <rs type="lemma">ἐγώ</rs>, 
+  <rs type="lemma">σύ</rs> you (sg.), for
+the first and second persons. For the third person, αὐτός
+is used in all cases except the nominative.
+
+2 For accent, see § V, e, f, g.
+
+3 The unaccented forms are enclitic (§ V,j). When used, they show that
+no emphasis is intended. The accented forms are emphatic or are used with
+prepositions. The nominative is not used except when emphasis is desired.
+
+</p></div>
+
+<pb n="47"/>
+
+
+<div type="textpart" subtype="para" n="83">
+<p>Particular Conditions.
+(a) εἰ with a present or past
+tense of the indicative in the protasis1 and the same tense
+of the indicative or its equivalent in the apodosis1 states a
+particular condition without implying anything as to its
+fulfillment or non-fulfillment. This is called a particular
+condition in present or past time:
+
+εἰ τὴν γέφυραν φυλάττει, τὰς σπονδὰς λύει 
+if he is guarding the bridge, he is breaking the treaty ;
+
+εἰ ... ἐφύλαξε, ... ἔλυσε 
+if he guarded ..., he broke... .
+
+(b) The regular negative of the protasis is μή, of the
+apodosis οὐ.
+  </p></div>
+
+<div type="textpart" subtype="para" n="84">
+<p>VOCABULARY
+<rs type="lemma" n="ἄμαξα">ἅμαξα</rs>: cart, wagon. 
+
+<rs type="lemma" n="βασιλεία">βασίλεια</rs>: queen. 
+<rs type="lemma">γέφῡρα</rs>: bridge. 
+<rs type="lemma">ἐγώ</rs>: I. EGOTIST. 
+<rs type="lemma">ὅπλον</rs>: implement, tool ;
+<rs type="lemma">εἰ</rs>, proclit. conj.: if. frequently pl, arms (in war). PANOPLY.
+<rs type="lemma" n="θάλασσα">θάλαττα</rs>: sea. 
+<rs type="lemma">κακός</rs>: bad, cowardly. CACOPHONY.
+<rs type="lemma">οὖν</rs>, post-pos. conj.: therefore, then,  accordingly.
+
+<rs type="lemma">μή</rs>, neg. adv.: not, Found instead of οὐ with most uses of the infinitive and in conditional clauses.
+
+σύ: thou, you (sg.).</p></div>
+
+<div type="textpart" subtype="para" n="85">
+<p>EXERCISES
+
+(a) Translate :
+
+1. ἡμῖν μὲν ἦσαν ἅμαξαι, ὑμῖν δ᾽ οὔ.
+2. οἱ σὺν τῇ βασιλείᾳ τὴν γέφυραν δι-ἔβαινον. 
+3. ἐγὼ δ᾽ οὖν ἐνόμιζον σὲ τὴν οἰκίαν φυλάττειν. 
+4. ἐκείνη γὰρ οὐχ ὑπ-ώπτευσεν ὑμᾶς ἀλλήλοις ἐπι-βουλεύσειν. 
+5. τὰ αὐτὰ ὅπλα ἣν ἐμοὶ καὶ σοί, 
+6. εἰ μὴ ἐπὶ τὴν θάλατταν ἄγεις τὴν φυλακήν, οὐ λύεις τὰς σπονδάς.
+
+1 The terms “protasis” and "apodosis" denote respectively the “if clause” and the "conclusion ” of conditional sentences.
+2 Proclitic οὐ takes an accent at the end of a sentence, because no word follows with which it may be pronounced.
+
+<pb n="48"/>
+7. οἱ μὲν κακοὶ ἐπὶ τῶν ἁμαξῶν ἔφυγον, ἡ δὲ βασίλεια οὐκ ἔλιπε τὴν γέφῡραν. 
+8. εἰ ὁ ποταμὸς ἦν δια-βατός, ἤθελον αὐτὸν δια-βαίνειν.
+
+(b) Complete :
+
+1. ὑμ--- μὲν τῇ βασιλει--- ἐπ-εβουλεύετε, ἡμ--- δ᾽ οὔ. 
+2. εἰ οὗτοι (linking verb) ἐπὶ τῇ γεφύρ--, ἐφυλαξ-- αὖτ--- (that is, the bridge_
+
+
+
+
+
+
+3. ὁ κακὸς ἄγγελος ἐμ--- ἐγραψ-- ταύτην ἐπιστολήν.
+(c) Write in Greek; 
+
+1. That (man) plans as follows.
+2. We shall advise him to seize the food. 
+3. This river was crossable in a boat. 
+4. These (things) were evident. 
+5. The grain was not in the beat itself.
+
+
+<figure><head>THE SEA GOD’S SHRINΕ</head>
+<p>These columns of whitest marble, belonging to the temple of Poseidon, still welcome the
+seafarer to Attica as in the proud
+days of Pericles.</p></figure>
+
+86. 
+
+Menander, the Athenian
+comic poet, by reason of his thorough acquaintance with
+human nature and his consummate literary art, has been
+almost as often quoted in later ages as Shakespeare. Even
+St. Paul (1 Corinthians, XV. 33) repeats one of his lines:
+
+φθείρουσιν ἤθη χρηστὰ ὁμῑλίαι κακαί 
+evil communications corrupt good manners.</p></div>
+
+<div type="textpart" subtype="para" n="86">
+<p>
+
+
+Translate the following characteristic utterance:
+<cit>
+  <quote><l>ἀρχὴ μεγίστη (greatest) τῶν ἐν ἀνθρώποις κακῶν</l>
+
+    <l>ἀγαθά, τὰ λίαν (excessive) ἀγαθά.</l></quote>
+  <bibl>Menander, fragment.</bibl>
+</cit>
+
+</p>
+</div>
+</div>
+
+<pb n="49"/>
+
+
+
+<div type="textpart" subtype="lesson" n="16">
+<head>MASCULINE NOUNS OF THE A-DECLENSION. REFLEXIVE PRONOUNS</head>
+
+<cit><quote xml:lang="grc">ἀγαπήσεις τὸν πλησίον σου ὡς σαυτόν.</quote>
+  <quote xml:lang="eng">You will love your neighbor as yourself</quote>
+<bibl>St. Matthew, XIX. 19.</bibl></cit>
+
+
+
+
+<div type="textpart" subtype="para" n="87">
+<p>Masculine Nouns of the α-declension. Most nouns
+of the α-declension are feminine. Masculines may be
+recognized not merely as referring to males but also as showing -ης or -ας instead of -η or -α in the nominative singular.
+Their genitive singular ends in -ου. Otherwise the inflection parallels that of the feminines.
+
+Note the two indications of masculine gender in -ς of the nominative singular and -ου of the genitive singular, both of which occur in the ο-declension.
+
+In like manner inflect ὁπλίτης.</p></div>
+
+<div type="textpart" subtype="para" n="88">
+<p>Reflexive Pronouns are formed from the stems of the
+personal pronouns and the proper case forms of αὐτός. In
+the plural of the first and second persons both parts of the
+word are fully inflected. The pronoun of the third person,
+however, has the compounded form in the plural.
+
+For obvious reasons the reflexive pronouns of the first and second persons have no neuter.
+</p></div>
+
+<pb n="50"/>
+
+<div type="textpart" subtype="para" n="89">
+<p>Reflexive Pronouns appear in the predicate and refer
+to the subject of the sentence or clause in which they stand.
+As such they are direct refleaives. Sometimes they appear
+in a dependent clause and refer to the subject of the main
+clause. They then are indirect reflexives:
+
+ἧκον ἐπὶ τὴν ἐμαυτοῦ σκηνὴν
+I went to my own tent;
+
+ἔπεισαν ἐμὲ ἥκειν ἐπὶ τὴν ἑαυτῶν σκηνήν
+they persuaded me to go to their (own) tent.</p></div>
+
+<div type="textpart" subtype="para" n="90">
+<p>VOCABULARY
+
+<rs type="lemma">ἑ-αυτοῦ</rs> : of himself, herself; itself.
+
+<rs type="lemma">ἐμ-αυτοῦ</rs>: of myself.
+
+<rs type="lemma">ἐξελαύνω</rs>,2 ἐξήλασα: drive out, march forth, march on.
+
+<rs type="lemma">μένω</rs>:2 remain, wait for.
+
+<rs type="lemma">Ξενίας</rs>: Xenias, an Arcadian general serving under Cyrus, the younger.
+
+<rs type="lemma">ὁπλίτης</rs>: hoplite, a heavy-armed soldier, Cf. 
+
+
+
+
+
+<rs type="lemma">πολίτης</rs>: citizen, POLITICS,
+
+<rs type="lemma">σατράπης</rs>: satrap, a Persian viceroy.
+
+<rs type="lemma">σεαυτοῦ</rs>: Of yourself.
+
+<rs type="lemma" n="σταθμόν">σταθμός</rs>: halting-place, day’s march,
+
+<rs type="lemma">στρατιώτης</rs>: soldier. Cf. στρατιά, στρατηγός.
+
+1 Contracted forms gavrod and abroé are often used in place of ceavrod and ἑαυτοῦ.
+
+2 The future of this verb is irregular.
+
+</p></div>
+
+<pb n="51"/>
+
+
+<div type="textpart" subtype="para" n="91">
+<p>EXERCISES
+
+(a) Translate:
+
+1. εἰ οὖν οἱ στρατιῶται μένουσιν ἐπὶ τῇ γεφύρᾳ, νομίζει αὐτοὺς τὰς σπονδὰς λύειν. 
+2. Ξενίας καὶ οἱ σὺν αὐτῷ ὁπλῖται ἐξ-ελαύνουσι δέκα σταθμούς. 
+3. ἐγὼ μὲν ἔχω τὴν ἐμαυτοῦ ἀρχήν, σὺ δὲ τὴν σεαυτοῦ. 
+4. κελεύσουσι τούτους τοὺς στρατιώτας φυλάττειν τὴν οἰκίαν. 
+5. ἐνόμισε δ᾽ οὖν τὸν σατράπην οὐ γράψειν ἑαυτῷ τὰς ἐπιστολάς. 
+6. ὥρα ἦν τῷ ἐκείνης τῆς χώρας σατράπῃ τὰς πύλας φυλάττειν τοῖς ἑαυτοῦ. 
+7. αὐτοὶ μὲν οὐκ ἐθέλουσι τὰς σκηνὰς ἁρπάσαι, σοὶ δὲ συμ-βουλεύουσι ταῦτα.
+
+(b) Complete : 
+
+1. ἡμῖν οἱ πτολῖτ--- ἦσαν φίλιοι, ὑμ--- δὲ πολέμιοι.
+2. Ξενίᾱς γὰρ οὐχ ὑπ-οπτεύσει τοὺς στρατιωτ--- ἑαυτ--- ἐπι-βουλεύειν. 
+3. ἐπὶ τὴν ἐμαυτ--- σκηνὴν ἦγον τὸν σῖτον καὶ τὰ ἄλλα ἃ ἣν ἐμ--.
+
+(c) Write in Greek:
+1. Accordingly the cowardly queen fled to the sea. 
+2. For you (singular) had (ἦν) a wagon, I did (omit) not. 
+3. They cross the river by means of a bridge. 
+4. If they are not guarding the arms, they are breaking the treaty. 
+5. Those arms were not on the wagon.</p></div>
+
+<div type="textpart" subtype="para" n="92">
+<p>Review axioms given in § 73; then translate:
+
+
+1. καὶ ἐὰν ἀπ᾽ ἀν-ίσων ἴσα ἀφ-αιρεθῇ, τὰ λοιπά ἐστιν ἄν-ισα.
+
+2. καὶ τὰ τοῦ αὐτοῦ διπλάσια (doubles) ἴσα ἀλλήλοις ἐστίν.
+
+3. καὶ τὰ τοῦ αὐτοῦ ἡμίση (halves, compare hemisphere) ἴσα ἀλλήλοις ἐστίν.
+Euclid.
+
+<pb n="52"/>
+
+</p>
+</div>
+</div>
+<div type="textpart" subtype="lesson" n="17">
+<head>PRESENT AND IMPERFECT INDICATIVE AND PRESENT INFINITIVE OF εἰμί. ENCLITICS</head>
+
+<cit><bibl></bibl>
+  <quote xml:lang="grc">ἄγροικός εἶμι· τὴν σκάφην σκάφην λέγω.</quote>
+  <quote xml:lang="eng">I am from the country; I call a spade a spade.</quote>
+  <quote xml:lang="eng">Literally : I am a countryman; I call the tub a tub.</quote>
+  
+  <bibl>Comic Attic fragment.</bibl>
+  </cit>
+
+
+ 
+
+
+<div type="textpart" subtype="para" n="93">
+<p>The verb εἰμί to be is irregular, as are the corresponding verbs in English and Latin.</p></div>
+
+<div type="textpart" subtype="para" n="94">
+<p>All forms of the present indicative of εἰμί except
+εἶ are enclitic. ἔστι when thus accented means exists or is
+possible, except that it is regularly so accented after ἀλλά,
+καί, μή, οὐκ, τοῦτο, ὡς and εἰ (if), whether it has this spe-
+cial meaning or not.</p></div>
+
+<div type="textpart" subtype="para" n="95">
+<p>Enclitics. (a) If the preeeding word has an ac-
+cent on the ultima, the enclitic has no accent : 
+
+καλοί εἰσιν they are beautiful.
+
+(b) If the preceding word has an acute on the antepenult or a circumflex on the penult, it receives an additional acute on the ultima and the enclitic has no accent :
+
+ἄνθρωποί εἰσιν they are men;
+στρατιῶταί εἰσιν they are soldiers.
+
+<pb n="53"/>
+
+(c) If the preceding word has an acute on the penult,
+an enclitic of one syllable has no accent but an enclitic of
+two syllables is accented on the final syllable:
+
+ὁπλίτης τις a certain hoplite ;
+ὁπλίτης ἐστίν he is a hoplite.</p></div>
+
+<div type="textpart" subtype="para" n="96">
+<p>Accent of Augmented Verbs. The accent cannot
+precede the augment. Therefore compound verbs are ac-
+cented after the prefix :
+
+ἐξάγω, ἐξῆγον ; ἄπ-ειμι, ἀπ-ῆν.</p></div>
+
+<div type="textpart" subtype="para" n="97">
+<p>Contrary to Fact Conditions. εἰ with a past tense
+of the indicative in the protasis and a past tense of the indicative with ἄν in the apodosis implies that the condition
+is not or was not fulfilled. This is called a contrary to
+fact condition. The imperfect tense indicates present time ;
+the aorist indicates past time :
+
+εἰ τὴν γέφυραν ἐφύλαττε, τας σπονδὰς ἂν ἔλυεν 
+if he were guarding the bridge, he would be breaking the treaty ;
+
+εἰ... ἐφύλαξε, . .. ἂν ἔλῡσεν 
+if he had guarded ..., he would have broken... .
+
+
+
+Note carefully that the presence of ἄν in the apodosis distinguishes
+a contrary to fact from a past particular condition (§ 85).</p></div>
+
+<div type="textpart" subtype="para" n="98">
+<p>VOCABULARY
+
+<rs type="lemma">ἄν</rs>, post-pos. particle belonging to certain types of conditional clauses but lacking an exact English eqnivalent.
+
+<rs type="lemma">ἄπ-ειμι</rs>: be away, be absent.
+
+<rs type="lemma">εἰμί</rs> enclit.: be.
+
+<rs type="lemma" n="ἔξεστι">ἔξ-ἐστι(ν)</rs>,2 impersonal ; it is possible.
+
+<rs type="lemma">οὔπω</rs>, neg. adv. : not yet.
+
+<rs type="lemma">πάρ-ειμι</rs>: be present.
+
+<rs type="lemma">πέντε</rs>, indeclinable : five. PENTAGON.
+
+<rs type="lemma">στρατόπεδον</rs>: camp. Cf. στρατιά and πεδίον.
+
+<rs type="lemma">τόπος</rs>: place. TOPOGRAPUY.
+
+<rs type="lemma">τότε</rs>, adv.: then, at that time.
+
+<rs type="lemma">φᾱσί(ν)</rs>,2 enclit.; they say.
+
+<rs type="lemma">φησί(ν)</rs>,2 enclit.: he or she says, PROPHET.
+
+</p></div>
+
+<pb n="54"/>
+
+
+<div type="textpart" subtype="para" n="99">
+<p>EXERCISES
+
+(a) Translate:
+
+1. τότε δὲ οὐκ ἐξ-ῆν ἡμῖν παρ-εῖναι. 
+2. καὶ διὰ φιλίαν τοῦτον φᾶσιν οὐκ ἀπ-εῖναι. 
+3. ἔστιν οὖν τῇ στρατιᾷ τοὺς ἵππους ἁρπάσαι; 
+4. ἀλλ᾽ ἐκ τῆς αὐτῆς χώρας εἰσίν.
+5. εἰ μὴ συν-εβουλεύσατε ἐμοί, οὐκ ἂν ἔγραψα τὴν ἐπιστολήν.
+6. οὔπω γάρ φησι τὴν ἐπιβουλὴν δήλην εἶναι. 
+7. ἐντεῦθεν ἐξηλαύνομεν πέντε σταθμοὺς ἐπὶ τὴν θάλατταν. 
+8. ἀλλ᾽ οὔπω ἂν παρ-ῆμεν, εἰ μὴ ὁ ποταμὸς δια-βατὸς ἣν πλοίῳ.
+
+(b) Complete :
+1. καὶ αὐτοῖς οὐκ ἂν ἦ ἐπιτηδει---,  εἰ μὴ ἐν καλῷ
+τόπῳ ---- (linking verb) τὸ στρατόπεδον. 
+2. ἐκείνους τοὺς στρατιώτας φησὶ παρ--- ἐπὶ τ-- γεφύρ---. 
+3. εἰ ἐκέλευσεν ἡμᾶς, ἐξ-ηλασ-- ἂν ὀκτὼ σταθμούς.
+
+(c) Write in Greek :
+
+1. The soldiers gathered their own provisions. 
+2. The citizens think that we will bring them the food. 
+3. We shall guard the bridge with our own men (§ 91, a, 6). 
+4. The satrap has his own province. 
+5. The hoplites made (marched) a ten days’ march.</p></div>
+
+<div type="textpart" subtype="para" n="100">
+<p>IN HOSTILE TERRITORY
+    <cit><quote xml:lang="grc">ἐντεῦθεν ἐξ-ελαύνει διὰ τῆς Λυκαονίας. ταύτην τὴν χώραν
+        δι-ήρπασεν: ὡς (45) πολεμίαν. ἐντεῦθεν Κῦρος τὴν Κίλισσαν
+        (the Cilician queen) εἰς τὴν Κιλικίαν ἀπο-πέμπει τὴν ταχίστην
+        (quickest) ὁδόν·2 καὶ συν-έπεμψεν αὐτῇ στρατιώτας οὓς
+        Μένων εἶχε καὶ αὐτόν.</quote> <quote xml:lang="eng"></quote> <bibl>Adapted from Xenophon, Anabasis, I. 2. 19-20.</bibl></cit>
+
+
+
+
+<pb n="55"/>
+<figure><head>THE STADIUM AT ATHENS</head>
+<p>Here the Olympic games were revived in 1896 after the lapse of centuries
+    In the lower picture you can see its marble seats beyond the grove.</p></figure>
+
+
+<figure><head>View of ATHENS FROM THE ACROPOLIS</head>
+<p>Above the housetops rises the Arch of Hadrian (page 32). To the right
+    are the surviving columns of the lofty Olympieum (page 118). Beyond the
+    Stadium looms Hymettus, famed for its honey. The glory of Hymettus’
+    slopes at sunset won for Athens the title. “violet crowned.”</p></figure>
+
+
+
+
+
+
+
+<pb n="56"/>
+
+</p>
+</div>
+</div>
+<div type="textpart" subtype="lesson" n="18">
+<head>CONSONANT DECLENSION (K-STEMS)</head>
+<cit>
+  <quote xml:lang="grc">δέσποινα γὰρ γέροντι νυμφίῳ γυνή.</quote>
+  <quote xml:lang="eng">An old man’s bride, an old man’s boss.</quote>
+  <quote xml:lang="eng">Literally: For to an aged bridegroom a wife is a female master.</quote>
+ <bibl>Euripides, fragment.</bibl> </cit>
+
+
+
+<div type="textpart" subtype="para" n="101">
+<p>The Consonant Declension includes nouns whose
+stems end in a consonant.
+
+The stem appears when the ending -ος is dropped from
+the genitive singular. To this stem the endings for the
+other cases are added.
+
+The ending for the nominative singular should be learned
+from the vocabulary. Sometimes it ends in -s. The dative
+plural ends in -σι. The σ in each of these instances unites
+with κ, γ, or χ to form ξ.</p></div>
+
+<div type="textpart" subtype="para" n="102">
+<p>Monosyllables of the consonant declension are
+accented on the ultima in the genitive and dative of all
+numbers, the circumflex occurring on long vowels or diph-
+thongs, otherwise the acute.
+
+Inflect @paé. Compare with paradigm (§ 509, a).
+
+</p></div>
+
+<pb n="57"/>
+
+
+<div type="textpart" subtype="para" n="103">
+<p>Genitive of Time. The genitive denotes the time
+within which an action occurs:1
+
+ypayw mevre quepwy | shall write within five days.</p></div>
+
+<div type="textpart" subtype="para" n="104">
+<p>VOCABULARY
+<rs type="lemma">γυνή</rs>, γυναικός, ἡ: woman, wife.  MISOGYNIST. 
+<rs type="lemma">δι-αρπάζω</rs>, δι-αρπάσω, δι-ήρπασα:  plunder, pillage, sack. 
+<rs type="lemma">Θρᾷξ</rs>, θρᾳκός, ὁ: Thracian. 
+<rs type="lemma">σάλπιγξ</rs>, -γγος, ἡ: trumpet.
+<rs type="lemma">κατά</rs>, prep.: with G., down from; with A., down along, along, according to. CATALOGUE. 
+<rs type="lemma">φάλαγξ</rs>, -γγος, ἡ: phalanx, battle-line.
+
+<rs type="lemma">φύλαξ</rs>. φύλακος, ὁ: guard. Cf. φυλακή, φυλάττω.
+<rs type="lemma">κῆρυξ</rs>, κήρῡκος, ὁ: herald.
+
+<rs type="lemma">πρός</rs>, prep.: with G., from the side of, in the sight of; with D., near, beside, besides ; with A., to the side of, toward. PROSELYTE.</p></div>
+
+<div type="textpart" subtype="para" n="105">
+<p>EXERCISES 
+
+(a) What do the portions in heavy type tell as to the
+probable use of 
+φυλάκ ων. 
+θρᾳκ ός, 
+φάλαγγ ες,
+σάλπιγ ξι, 
+κήρῡκ α? 
+Distinguish between φυλακῶν and 
+φυλάκων, φύλακας and φυλακάς.
+
+(b) Translate :
+
+1. οἱ δὲ φύλακες ἔφευγον κατὰ τὴν ὁδόν. 
+2. καὶ δέκα ἡμερῶν κήρυκα πέμψει ἡμῖν. 
+3. τὴν δὲ γυναῖκα πρὸς τὸ στρατόπεδον ἄξει. 
+4. εἰ μὴ παρ-ἣν ἡ ἰσχυρὰ φάλαγξ, οἱ πολέμιοι δι-ήρπασαν ἂν τὰ ἐν τῷ στρατοπέδῳ. 
+5. ἀλλὰ ταύτης τῆς ἡμέρας οἱ φύλακες ὑπ-ώπτευσαν αὐτὸν διώκειν τὴν τῶν πολεμίων φάλαγγα. 
+6. τῇ δὲ σάλπιγγι ἐκελεύομεν τοὺς στρατιώτας ἀθροῖσαι τοὺς ἵπτπτους. 
+7. πρὸς δὲ τούτοις κατὰ τῶν πυλῶν ἦγον αὐτούς. 
+8. ὁ δὲ κῆρυξ καὶ οἱ σὺν αὐτῷ φυλάξουσι καὶ τὰς γυναῖκας καὶ τὰ ἐπιτήδεια.
+
+1 What relation of time is denoted by the accusative?
+
+2 γυνή, like monosyllables of the consonant declensian, accents the ultima in the genitive and dative of all numbers. In the other forms it accents the last syllable of the stem.
+
+
+
+<pb n="58"/>
+
+(c) Complete :
+
+1. πρὸς ἡμ--- ἄξει τὰ ἐπιτήδεια πέντε ἡμερ--. 
+3. ὑπ-οπτεύω τοὺς φύλακ--- φυγεῖν κατὰ ταυτ--- τ-- ὁδ--- 
+3. ἡ δὲ τοῦ θρᾳκ--- γυνὴ αὐτῷ ἔπεμψε τ--- σαλπιγγ--- (singular).
+
+(d) Write in Greek : 
+
+1. It was impossible to stop the plot. 
+2. If they had suspected the satrap, they would have guarded the bridge.
+3. If he were not absent, the hoplites would not be remaining in the same place for five days. 
+4. These men are not yet in the camp.</p></div>
+
+<div type="textpart" subtype="para" n="106">
+<p>THE PHALANX
+
+By means of the phalanx, invented and developed by
+Greeks, Alexander the Great imposed his will upon most
+of the civilized world. In the hands of the Romans, who
+were quick to grasp its possibilities, it grew into the famous
+legion.
+
+
+“The average depth of the phalanx was eight men,
+although it occasionally reached sixteen, even before the
+time of the Macedonians. Epaminondas made his left
+wing about fifty ranks deep. The spear might be twenty-one feet long, or even twenty-four in Hellenistic times.
+Five or six rows of spear points would project beyond the
+front rank making an impenetrable barrier. The spears
+of the rear ranks rested upon the shoulders of men in front
+with their points directed upward. The formation looked
+like a huge porcupine with the quills pointing in one
+direction. The Roman consul, Lucius Aemilius, a seasoned
+veteran, confessed to friends at Rome that he had never
+seen anything more terrible and alarming than the Macedonian phalanx of Perseus.”
+
+E.S. McCartney, Warfare by Land and Sea, pages 25-27.
+
+<pb n="59"/>
+
+</p>
+</div>
+</div>
+
+<div type="textpart" subtype="lesson" n="19">
+<head>CONSONANT DECLENSION (Δ- OR Τ-STEMS)</head>
+<cit><quote xml:lang="grc">ἄριστον μὲν ὕδωρ.</quote> <quote xml:lang="eng">Water is best</quote> <bibl>Pindar, Olympian, 1. 1.</bibl></cit>
+
+
+
+<div type="textpart" subtype="para" n="107">
+<p>Stems in τ or δ with unaccented ι before the final
+consonant have ιν in the accusative singular. Other
+nouns with τ or δ stems are normal.
+</p><p>
+In the dative plural τ and δ drop out before σι. When
+the stem ends in ντ, both letters drop out and the π of the
+stem lengthens to ου. 
+
+</p></div>
+
+<pb n="60"/>
+
+
+<div type="textpart" subtype="para" n="108">
+<p>Result Clauses. <rs type="lemma">ὥστε</rs> followed by the indicative
+tlenotes an actual result ; followed by the znfinitive it denotes
+a natural or probable result :
+
+εἶχον χρήματα ὥστε ἠγόρασα τὰ ἐπιτήδεια 
+I had money and (so that I) bought provisions ; 
+
+εἶχον χρήματα ὥστε ἀγοράσαι τὰ ἐπιτήδεια 
+I had money (so as) to buy provisions.</p></div>
+
+<div type="textpart" subtype="para" n="109">
+<p>VOCABULARY
+<rs type="lemma">ἅρμα</rs>, ἅρματος, τό: chariot. 
+<rs type="lemma">πρᾶγμα</rs>, πράγματος, τό: fact, business ; pl. trouble. PRAGMATIC.
+<rs type="lemma">ἄρχων</rs>, ἄρχοντος, ὁ: archon, ruler,  commander. Cf. ἄρχω, ἀρχή. 
+
+<rs type="lemma">ὕδωρ</rs>, ὕδατος, τό: water. HYDRANT.2
+<rs type="lemma">ἀσπίς</rs>, ἀσπίδος, ἡ: shield. 
+<rs type="lemma">δόρυ</rs>, δόρατος, τό : spear. DORYPHOROS.
+<rs type="lemma">χάρις</rs>, χάριτος, ἡ: fuvor, gratiiude. χάριν ἔχω: feel grateful, with D. EUCHARIST.
+<rs type="lemma">ἐλαύνω</rs>, ἤλασα: drive. Cf. ἐξελαύνω.
+<rs type="lemma">Ἑλλάς</rs>, Ἑλλάδος, ἡ: Ηellas, Greece. 
+<rs type="lemma">χρῆμα</rs>, χρήματος, τό: thing; pl., things, ie., property, wealth, money.
+<rs type="lemma">νύξ</rs>, νυκτός, ἡ: night. Lat. nox. 
+<rs type="lemma">παῖς</rs>, παιδός, ὁ or ἡ: boy, girl, child. PEDAGOGUE.
+ὥστε, conj.: with ind., so that; , with inf., so as to.</p></div>
+
+<div type="textpart" subtype="para" n="110">
+<p>EXERCISES
+
+(a) Translate : 
+
+1. ἀλλὰ οὐκ ἣν αὐτῷ χρήματα, ὥστε πέμπειν ἡμῖν καὶ ἀσπίδας καὶ δόδατα. 
+2. τῆς δὲ νυκτὸς ὁ ἄρχων ἐκ τῆς κώμης ἔπεμψε τοὺς παῖδας. 
+3. χάριν δ᾽ ἕξετέ μοι, ὑμᾶς γὰρ ἄξω εἰς τὴν Ἑλλάδα.  
+4. ἐνταῦθα δ᾽ οὐκ ἔστιν ὕδωρ τοῖς ἵπποις, ὥστε κελεύει σε ἄγειν αὐτοὺς πρὸς τὸν ποταμόν. 
+5. οὗτος οὖν ἐπὶ τοῦ ἅρματος ἤλαυνε παρὰ τὴν φάλαγγα. 
+6. οἱ δὲ στρατιῶται πράγματα οὐκ ἂν ἔσχον, εἰ μὴ τὴν σάλπιγγα ἔλῦσεν ὁ κῆρυξ. 
+7. ἀλλ᾽ εἰ ἔξ-εστι τὸν κἠρῡκα χρήμασι πεῖσαι, συμ-βουλεύω ὑμῖν ἐνταῦθα μένειν. 
+
+<pb n="61"/>
+
+8. ἡ δὲ γυνὴ καὶ οἱ παῖδες οἱ τοῦ ἄρχοντος ἐλαύνουσιν ἐπὶ τῆς ἁμάξης.
+
+(b) Complete:
+
+1. τῷ γὰρ παι---- ἐστι πλοῖον, ὥστε δια-βαιν--- τὸν ποταμόν.
+
+2. χαρ--- ἔχουσιν ὑμ---, ἄγετε γὰρ αὐτοὺς ἐκ κακοῦ τόπου.
+3. τὰ δὲ χρημ--- ἔπεμψεν, ὥστε οἱ ὁπλῖται ἠθελ----- ἐλαύνειν.
+
+(c) Write in Greek:
+
+1. With the trumpet he will order the guards to march (on). 
+2. Within five days the heralds were present. 
+3. In addition to this they plundered the wagons of the queen.
+4. The woman fled down that read. 
+5. If the phalanx were present, the enemy would not be pillaging the houses.
+
+A Hockey March
+
+“There is nothing new under the sun." The stone on which this scene
+is carved was built into the city wall of Athens after the departure of the
+Persians in 480 s.c.
+
+<pb n="62"/>
+
+
+
+</p>
+</div>
+
+<div type="textpart" subtype="lesson" n="20">
+<head>REVIEW</head>
+<cit><quote xml:lang="grc">αἱ δεύτεραί πως φροντίδες σοφώτεραι.</quote> <quote xml:lang="eng">The sober second thought.</quote> <quote xml:lang="eng">Literally: Second thoughts somehow [are] wiser.</quote> <bibl>Euripides, Hippolytus, 436.</bibl></cit>
+ 
+ <figure><head>καλὸν τὸ ὕδωρ
+  The sacred isle of Delos now lies
+  in ruins, but "Cleopatra’s Well” still 
+  cheers the thirsty.</head></figure>
+</div>
+
+
+<div type="textpart" subtype="para" n="111">
+<p>ASSIGNMENTS
+
+(a) Review Vocabulary III, page 330, following the 
+method indicated in § 27, a.
+
+(b) Name and define the
+Greek words suggested by:
+sympathy, isothermal, egoist,
+autonomy, epitaph, pedagogy,
+polity, topic, pentathlon, cacophony, anhydrous, horo-
+scope, epigram, thalassic,
+heptad, cataract, prophylaxis, orthopedic, pediatrist.
+
+
+(c) What other derivatives can you add to this
+group?
+
+(d) Inflect the singular of
+θάλαττα, βασίλεια, ὁπλίτης,
+χάρις, ὕδωρ, νύξ.
+
+(e) Give the dative plural of φύλαξ, δόρυ, ἄρχων.
+
+<pb n="63"/>
+
+(f) Write the forms of adds, obros, and 68 that would
+be used with πολίτῃ, ἀσπίδες, ἅρματα, νυκτῶν, φύλακα,
+ὁπλίτας.
+
+(g) Inflect εἰμί the present and imperfect indicative.</p></div>
+
+<div type="textpart" subtype="para" n="112">
+<p>EXERCISES
+
+(a) Complete:
+
+
+1. κατὰ ταὺυτ--- τ--- ὁδὸν ἔφυγον οἱ κήρῦκες πρὸς τ--- στρατοπεδ---. 
+
+2. οἱ μὲν ἄλλοι ἄρχοντες ἤθροιζον τοὺς ἑαυτ. - στρατιωτ--- ἐγὼ δὲ τοὺς ἐμαυτ--. 
+3. καὶ ὅδε --- ποταμὸς δια-βατός ἐστι πλοι--. 
+4. πλοῖα (linking verb) ὑμῖν, ὥστε τὸν ποταμὸν δια-βαιν---. 
+5. ἀλλὰ οἱ σὺν ἡμ--- ἤθελον μένειν πέντε ἡμερ---. 
+6. ἐπὶ τοῦ ὁρμα--- ----- (linking verb) αἱ ἀσπίδες ---- (relative pronoun) ἡρπάσαμεν ἐκ τῆς σκηνῆς. 
+7. εἰ ἔμελλε τὰ δορα--- ἄξειν, παρ--- ἄν.
+
+(b) Write in Greek :
+
+1. The satrap himself wrote as follows. 
+2. Within seven days the ruler will bring the arms and the chariots. 
+3. If the queen had not brought a guard with her, the men from the village would have pursued her. 
+4, He says that the other men are at that bridge. 
+5. The guards destroyed eight boats, so that it was not possible to cross the river.
+
+πένταθλον
+
+<pb n="64"/>
+
+</p>
+</div>
+</div>
+<div type="textpart" subtype="lesson" n="21">
+<head>PARTICIPLES</head>
+
+<cit><quote xml:lang="grc">ἐλπὶς ἐν ἀνθρώποις μούνη θεὸς ἐσθλὴ ἔνεστιν.</quote> <quote xml:lang="eng">Hope is man’s one good deity.</quote> <bibl>Theognis, 1135.</bibl></cit>
+
+
+
+<div type="textpart" subtype="para" n="113">
+<p>Present Participle. The masculine of the present
+participle is inflected like ἄρχων (§ 107). The neuter has
+the same endings except in the nominative and accusative
+singular, where it uses the mere stem with τ dropped (beause τ cannot end a Greek word), and in the same cases
+in the plural, where it adds -α to the stem. The feminine
+is inflected like ἅμαξα (§ 81).</p></div>
+
+<div type="textpart" subtype="para" n="114">
+<p>The present and future active participles of παύω
+are inflected like ὤν with the accent on παυ- or παυσ-,
+wherever the rules of accent permit. The second aorist
+active participle is also inflected like ὤν and has the same
+accents.
+</p><p>
+Write out entire the inflection of παύων, παύσων, λιπών.
+Compare with paradigms (§ 514, a).
+
+</p></div>
+
+<pb n="65"/>
+
+
+<div type="textpart" subtype="para" n="115">
+<p>First Aorist Active Particirte or παύω <gloss>I stop</gloss>
+
+ravoas navodoa. matey
+mavoavTos Tavaaoys TavcavTos
+qaioayTt ravoaon maveavTt
+qatoavTa Tavoacay matoay
+ravcayres ravaarat mavoayra. 
+TavodyTwy Tavoaciy mavadvTov
+ratcaat(v) ravoicats raioaar(y)
+TavgavTas Tavoacas matoavTa
+
+Note that the stem here used is that of the first aorist active. The
+endings are the same as those of the present participle, except in the
+nominative singular, where -ς has been added to the stem, causing wr
+to drop out and lengthening α. In like manner inflect ceAaioas.</p></div>
+
+<div type="textpart" subtype="para" n="116">
+<p>Uses of Participles.
+(a) A participle, when used in
+the attributive position ($ 31, a), has the force of an attributive adjective. his is called the attributive participle :
+
+ὁ διαρπάζων στρατιώτης the plundering soldier, 
+
+The attributive participle often has its noun implied
+and may be translated by a noun or a relative clause. This
+is the regular equivalent of the English he who, those who:
+
+οἱ φεύγοντες the fugitives or those who are fleeing.
+
+(4) A participle, when used without an article and in
+agreement with a noun or pronoun expressed or implied,
+is called the circumstantial participle. It may denote time,
+manner, means, cause, condition, concession, or any attendant
+circumstances of an action.
+
+φεύγοντες δια-βαίνομεν τὸν ποταμόν in flight<note>in fleeing: GRC</note> we cross the river ;
+ἔχων χρήματα εἶχες ἂν φίλους if you had money, you would have friends.</p></div>
+
+<div type="textpart" subtype="para" n="117">
+<p>Tenses of the Participle usually indicate time as
+related to that of the main verb:
+
+φεύγων δια-βαίνει while fleeing he crosses ;
+φυγὼν δια-βαίνει having fled he crosses.
+
+<pb n="66"/>
+<figure><head>The Eleusinian Mysteries, unlike the ordinary Greek religion, gave hope
+  of a real life after death. Cicero was initiated into these Mysteries.</head></figure></p>
+</div>
+<div type="textpart" subtype="para" n="118">
+<p>VOCABULARY
+<rs type="lemma">ἐλπίς</rs>, ἐλπίδος, ἡ: hope, expectation. 
+<rs type="lemma">κωλύω</rs>, κωλύσω, ἐκώλῦσα: prevent. KOLYNOS.<note>is this referring to https://en.wikipedia.org/wiki/Kolynos?</note>
+<rs type="lemma">πιστεύω</rs>, πιστεύσω, ἐπίστευσα: trust, with D.
+
+<rs type="lemma">τρέπω</rs>, τρέψω, ἔτρεψα, erpea: turn.
+<rs type="lemma">λαμβάνω</rs>, ἔλαβον: take, receive.  SYLLABLE. (Future, page 187.)
+<rs type="lemma">τρόπος</rs>: turn, “bent,” manner, character, TROPIC,
+
+<rs type="lemma">ὄνομα</rs>: name. ONOMATOPOETIC. 
+<rs type="lemma">φυγάς</rs>, φυγάδος, ἡ: exile, fugitive. Cf. φυγή.
+
+
+
+<rs type="lemma">παρ-έχω</rs>, παρ-ίξω, παρ-έσχον: furnish, cause. 
+<rs type="lemma">ὡς</rs>, conj, adv.: as, as if, when.
+
+<figure><head>Eleusis</head></figure>
+
+</p></div>
+
+<div type="textpart" subtype="para" n="119">
+<p>EXERCISES
+
+(a) Translate :
+
+1. λύσαντες δὲ τὴν γέφῦραν πράγματα παρ-έξομεν ἐκείνῃ τῇ στρατιᾷ. 
+2. τοὺς δὲ παρ-όντας ἀπ-έπεμπεν ὡς φίλους ὄντας
+<pb n="67"/>
+3. ἔχοντας οὖν χρήματα ἐκώλυεν αὐτοὺς διαρπάζειν τὴν χωρᾶν. 
+4. ἡ δὲ βασίλεια χρήματα παρ-εῖχε τῷ Κύρῳ πιστεύουσα τοῖς τούτου τρόποις. 
+5. καὶ τοῖς φυγάσιν ἐλπίς ἐστιν. 
+6. τοὺς δὲ στρατιώτας ἐκέλευε τὰ ὅπλα λαβόντας παρ-εῖναι. 
+7. τῷ φεύγοντι ὄνομά ἐστι φυγάς.
+
+8. ἀγορὰν δὲ παρ-έχων ἡμᾶς ἂν φίλους εἶχες.
+
+(b) Complete :
+
+1. οἱ διωκ--- ἀπὸ τῶν φευγ--- ἀπ-εῖχον ὀκτὼ σταδι---.
+2. τρεψα--- οὖν τοὺς πολεμίους σπεύσετε πρὸς τ--- θαλαττ---.
+3. τοῖς μὲν μεν--- πιστεύσομεν, τοῖς δὲ ἐξιελαυν-- οὔ.
+4. οὗτος γὰρ λαβ- τὰ χρημα--- ἤθροισε στρατιᾶν.
+
+<figure><head>Torches from ELeusis</head>
+<p>Much of the ritual was performed by torchlight</p></figure>
+
+</p>
+</div>
+
+
+<div type="textpart" subtype="para" n="120">
+<p>A TRAITOR CAUGHT 
+    <cit><quote xml:lang="grc">Ὀρόντας ἐπι-βουλεύει Κύρῳ.
+        οὗτος Κύρῳ εἶπεν (told) ὅτι (that)
+        εἰ αὐτῷ δοίη (should give) στρατιώτας κατα-κάνοι ἂν (would slay)
+        τοὺς πολεμίους τοὺς τὴν χώραν κάοντας (burning). τῷ δὲ Κύρῳ
+        ἀκούσαντι (compare acoustic)
+        
+        ταῦτα ἐδόκει (seemed) καλὰ εἶναι,
+        καὶ ἐκέλευσεν αὐτὸν λαμβάνειν ΤΟΝΟΗΕ5 ΕΠῸΜ Εκεῦβι5
+        στρατιώτας. ὁ δ᾽ Ὀρόντας νομίσᾱς αὑτῷ εἶναι τοὺς στρατιώτας γράφει ἐπιστολὴν παρὰ βασιλέᾳ (king) ὅτι ἥξοι (he would
+        come) ἔχων στρατιώτας. ταύτην τὴν ἐπιστολὴν δίδωσι
+        (he gives) πιστῷ (compare πιστεύω) ἀνθρώπῳ, ὡς ᾧετο
+        (he thought). ὁ δὲ λαβὼν Κύρῳ δίδωσιν.</quote> <quote xml:lang="eng"></quote> <bibl>Adapted from Xenophon, Anabasis 1.6.2-3.</bibl></cit>
+
+
+<pb n="68"/>
+
+</p>
+</div>
+</div>
+<div type="textpart" subtype="lesson" n="22">
+<head>πᾶς. READING</head>
+<cit><quote xml:lang="grc">πάντων χρημάτων μέτρον ἄνθρωπος.</quote> <quote xml:lang="eng">Man is the measure of all things</quote> <bibl>Protagoras</bibl></cit>
+
+
+<div type="textpart" subtype="para" n="121">
+<p>Inflection of πᾶς. πᾶς has the same endings as
+παύσᾱς. The genitive and dative plural of the masculine
+and neuter violate the rule for accent of monosyllables of
+the consonant declension (§ 102). The accent of the
+feminine is regular.</p></div>
+
+<div type="textpart" subtype="para" n="122">
+<p>Uses of πᾶς.
+(a) πᾶς, when modifying a noun,
+usually has the predicate qgosition (§ 31, 6) and means
+all: 
+
+πᾶσαι αἱ ὅδοί all the roads ;
+πᾶσα ἡ ὁδός all the road.
+
+(b) πᾶς in the attributive position (§ 31, a) means
+the whole (the entire number or amount) :
+
+ἡ πᾶσα ὁδός the whole road, the entire road.
+
+(c) was without an article means all (conceivable) or
+every:
+πᾶσαι ὁδοί all roads ;
+πᾶσα ὁδός every road.
+
+</p></div>
+
+<pb n="69"/>
+
+
+<div type="textpart" subtype="para" n="123">
+<p>EXERCISES
+
+(a) Write in Greek:
+
+Every bridge, 
+the entire night,
+all the rulers, 
+all spears, 
+all the water.
+
+(b) Write in Greek:
+
+1. The hoplites will rout (turn into flight) the pursuers. 
+2. By destroying the seven boats they caused us trouble. 
+3. The exiles do not trust those who are remaining here. 
+4. Since we are hopeful (having hope) we intend to hasten to the camp.</p></div>
+<figure><head>The Great God Pan</head>
+
+<p>This uncouth deity of mountain and woodland was believed to have inspired the Persians with "panic" at Marathon and Salamis.</p></figure>
+<div type="textpart" subtype="para" n="124">
+<p>VOCABULARY
+
+<rs type="lemma">εἶτα</rs>, adv.: then, next.
+
+<rs type="lemma" n="οὕτως">οὕτω</rs> (before consonants), οὕτως (before vowels), adv. : thus, so, as afore- said. Cf. οὗτος.
+
+<rs type="lemma">πᾶς</rs>, πᾶσα, πᾶν: sing., every, whole ; pl. all. PANDEMONIUM.
+
+
+<rs type="lemma">πρῶτος</rs>: first: πρῶτον, adv. at first. PROTOTYPE. 
+
+
+
+<rs type="lemma">φόβος</rs>: fear. HYDROPHOBIA. 
+
+
+</p></div>
+
+<div type="textpart" subtype="para" n="125">
+<p>Precision of Thought. “The practice of translation, by making us deliberate in the choice of the best
+equivalent of a foreign word in our own language, has
+likewise the advantage of continually schooling us in one
+of the main elements of a good style, — precision ; and
+precision of thought is not only exemplified by precision
+of language, but is largely dependent on the habit of it.”
+James Russell Lowell, Address on Books and Libraries.</p></div>
+
+<pb n="70"/>
+
+<div type="textpart" subtype="para" n="126">
+<head>THE REVIEW OF AN ARMY</head>
+
+<cit><quote xml:lang="grc">ἐνταῦθα οὖν θεωρία (review) ἦν τῆς Κύρου στρατιᾶς.<note>Objective genitive, being the object of the action involved in θεωρία.</note>
+  καὶ πρῶτον μὲν παρ-ήλαυνον οἱ βάρβαροι. εἶτα δὲ τοὺς
+  Ἕλληνας (compare Ἑλλάς) παρήλαυνον ὁ Κῦρος ἐφ᾽<note>ἐπί. A word that suffers elision ronghens its mute before a rough breathing.</note>
+  ἅρματος καὶ ἡ Κίλισσα ἐφ᾽ ἁρμαμάξης (carriage). εἶχον
+  δὲ πάντες ὅπλα καλά, παριελάσας δὲ τούτους κήρῡκα
+  ἔπεμψε παρὰ τοὺς στρατηγοὺς τῶν ᾿Ελλήνων, ὃς ἐκέλευσεν
+  αὐτοὺς ἐπι-χωρῆσαι (advance, trans.) πᾶσαν τὴν φάλαγγα.
+  ἐκ δὲ τούτον οἱ στρατιῶται ἐλαύνοντες σὺν κραυγῇ ἀπὸ τοῦ
+  αὐτομάτου (compare AUTOMATIC) ἔσπευσαν ἐπὶ τὴς σκηνάς,
+  τοῖς δὲ βαρβάροις ἦν φόβος, ὥστε ἔφυγον καὶ ἡ Κίλισσα ἐπὶ
+  τῆς ἁρμαμάξης καὶ οἱ ἐκ τῆς ἀγορᾶς τὰ χρήματα κατα-λιπόντες.<note>κατά in compound words often means behind.</note> οὕτως οὖν οἱ Ἑλληνες σὺν γέλωτι (laughter) ἐπὶ τὰς σκηνὰς ἧκον.</quote>  <bibl>Adapted from Xenophon, Anabasis, I, 2. 16-18.</bibl></cit>
+
+
+
+
+
+
+
+
+
+
+ <figure><head>A Panathenaic Amphora</head></figure>
+
+
+<pb n="71"/>
+
+
+</div>
+
+</div>
+<div type="textpart" subtype="lesson" n="23">
+<head>CONTRACT VERBS IN -έω </head>
+<cit><quote xml:lang="grc">φιλεῖ δὲ τῷ κάμνοντι συσπεύδειν θεός.</quote> <quote xml:lang="eng">God helps him who helps himself</quote> <quote xml:lang="eng">Literally: God loves to assist zealously the man
+  who works.</quote> <bibl>Aeschylus, fragment.</bibl></cit>
+ 
+
+
+
+<div type="textpart" subtype="para" n="127">
+<p>Contract Verbs.
+(a) Two successive vowels are
+regularly contracted into one long vowel or diphthong :
+
+ε+ω=ω; 
+ε+ο ου =—0v; 
+ε+ε= ει.
+
+ε is always absorbed by a long vowel or diphthong.
+
+(b) If the first of the contracting syllables is accented,
+the resultant syllable receives a circumflex ;
+
+φιλέω, φιλῶ.
+
+In other tenses than the present (and imperfect) the
+final ε of the stem is regularly lengthened to η:
+
+φιλέω, φιλήσω, ἐφίλησα.
+
+</p></div>
+
+<pb n="72"/>
+
+
+<div type="textpart" subtype="para" n="128">
+<p>Genitive Absolute. A noun or pronoun in the
+genitive case with a circumstantial participle in agreement may stand grammatically independent of the rest of
+the sentence. This is called the genitive absolute and corresponds to the ablative absolute in Latin and the nominative independent (absolute) in English.
+</p><p>
+Like any other use of the circumstantial participle, the
+genitive absolute may express time, cause, and the like.
+It is usually best translated as a clause : 
+
+<cit><quote xml:lang="grc">Κύρου κελεύσαντος ταῦτα ἐποίησαν</quote> <quote xml:lang="eng">when Cyrus ordered, they did
+  this </quote> </cit>
+ ;
+ <cit><quote xml:lang="grc">τούτων πράγματα παρ-εχόντων σπεύσομεν</quote> <quote xml:lang="eng">if they cause trouble, we
+  shall hasten </quote> <bibl></bibl></cit>
+ ;
+
+τῶν φυλάκων διωκόντων ἔφυγεν with the guards pursuing, he fled.</p></div>
+
+<div type="textpart" subtype="para" n="129">
+<p>VOCABULARY
+
+<rs type="lemma">ἀ-δικέω</rs>, ἀδικήσω, ἠδίκησα: injure, wrong.
+
+<rs type="lemma">αἰτέω</rs>, αἰτήσω, ἤτησα: ask for, demand.
+
+<rs type="lemma">δή</rs>, post-pos. particle emphasizing preceding word: now, then, accordingly, indeed, etc. Often untranslated.
+
+<rs type="lemma">δοκέω</rs>, δόξω, ἔδοξα: seem, seem best, think, Often with inf. as subject. DOGMATIC.
+
+
+<rs type="lemma">καλέω</rs>,1 καλῶ, ἐκάλεσα: call, name. CALENDAR.
+
+<rs type="lemma">ποιέω</rs>, ποιήσω, ἐποίησα: make, do. POET (ποιητής).
+
+<rs type="lemma">πολεμέω</rs>, πολεμήσω, ἐπολέμησα : make war. Cf. πόλεμος.
+
+<rs type="lemma">φιλέω</rs>, φιλήσω, ἐφίλησα: love. Cf. φίλος.
+
+<rs type="lemma">ὧδε</rs>, adv.; thus, as follows. Cf. ὅδε.</p></div>
+
+<div type="textpart" subtype="para" n="130">
+<p>EXERCISES
+
+(a) Translate:
+
+1. καὶ δὴ ταῦτα αἰτοῦντες ἀ-δικεῖτέ με. 
+2. οὐ γὰρ ἂν ἐπολέμουν αὐτῳ,2 εἰ τὰ δίκαια ἐποίει.
+3. πᾶσι τοῖς πολίταις ἐδόκει ὧδε πολεμεῖν. 
+
+<pb n="73"/>
+
+4. πάντων τὰ αὐτὰ ποιούντων εἰς τὴν σκηνὴν τὸν ἄρχοντα ἐκάλει. 
+5. ἡμῖν δὴ ἔδοξε δόρατα αἰτεῖν.
+6. ταύτης δὲ ἐπι-βουλὴν ὑπ-οπτευούσης οὐκ ἔστι φυγεῖν. 
+7. ἀγαθὸς γὰρ ὢν τοὺς ἀγαθοὺς φιλεῖς.
+8. εἰ δὲ τὴν Ἑλλάδα ἐφιλεῖτε, τοῖς βαρβάροις<note>Dative of Association (§ 236).</note>  ἂν ἐπολεμεῖτε.
+
+
+(b) Complete:
+
+1. φιλ--σα αὐτὸν ἡ βασίλεια οὐκ ἤθελεν ἀ-δικ---. 
+2. τούτον καλεσαντ--- οἱ ὁπλῖται ἠκ--- ἐπὶ τὴν οἰκίαν.
+3. καὶ δὴ ταῦτα αἶτ-- ἡμᾶς ἂν ἠ-δικ--ς.
+
+(c) Write in Greek : 
+1. These (men) pillaged every house. 
+2. All the children wanted (wished) to ride to their friends’ tents.
+3. Along the entire Hellespont there is not a bridge.
+4. First (of all) the foreigners marched by, then the others.
+
+Orpheus AND EuRYDIcE
+Love led Orpheus to seek Eurydice in Hades. On the way out, he turned to look ατ her too soon, and Hermes conducted her away.</p></div>
+
+<div type="textpart" subtype="para" n="131">
+<p>HUMAN FRAILTY
+  <cit><quote xml:lang="grc">Πόθεν (whence) πόλεμοι καὶ πόθεν μάχαι ἐν ὑμῖν; οὐκ
+    ἐντεῦθεν, ἐκ τῶν ἡδονῶν (pleasures) ὑμῶν... ; ἐπιθυμεῖτε
+    (desire), καὶ οὐκ ἔχετε· . . . μάχεσθε (you fight) καὶ πολεμεῖτε. . .. αἰτεῖτε καὶ οὐ λαμβάνετε, διότι (because) κακῶς <note>Adverb.</note> αἰτεῖσθε (= αἰτεῖτε)</quote> <quote xml:lang="eng"></quote> <bibl>St. James, IV. 1-3.</bibl></cit>
+
+
+
+
+
+
+<pb n="74"/>
+<figure><head>THE ERECHTHEUM</head>
+<p>On the spot where Athena contended with Poseidon for the guardianship
+  of Athens, stands the most elegant of all Greek temples. Near one end
+  grew the sacred olive of the goddess. Within the shrine was her ancient
+  wooden image. Beneath the north porch are still shown the marks of
+  Poseidon's trident. (See the pictures on page 334 and facing page 180.)</p></figure>
+
+</p></div>
+
+<div type="textpart" subtype="para" n="132">
+<p>Word-formation. Verbs formed by adding -έω to
+noun (or adjective) stems denote action of a nature similar to that expressed by the noun (or adjective). They 
+usually denote a condition or an activity:
+
+φίλος friend, φιλέω be a friend, love ;
+πόλεμος war, πολεμέω make war;
+ἄδικος unjust, ἀδικέω he unjust, do wrong.
+
+This type of verb is to be found chiefly in connection
+with words of the ο-declension.
+
+<figure><head>A DETAIL FROM THE ERECHTHEUM</head>
+<p>This honeysuckle pattern, justly famous for its exquisite workmanship, is an
+  ever-recurring theme in the decoration of the temple.</p></figure>
+
+
+
+
+<pb n="75"/>
+
+</p>
+</div>
+</div>
+<div type="textpart" subtype="lesson" n="24">
+<head>PRESENT AND IMPERFECT INDICATIVE, PRESENT INFINITIVE, AND PARTICIPLE OF παύω IN MIDDLE AND PASSIVE VOICE</head>
+<cit><quote xml:lang="grc">ἀνάγκᾳ δ᾽ οὐδὲ θεοὶ μάχονται.</quote> <quote xml:lang="eng">Not even gods fight against necessity</quote> <bibl>Simonides.</bibl></cit>
+
+
+<div type="textpart" subtype="para" n="133">
+<p>Passive Voice. Like English and Latin, Greek
+has a passive voice, which shows the subject as acted
+upon: 
+
+παύομαι. I am being stopped.</p></div>
+
+<div type="textpart" subtype="para" n="134">
+<p>Middle Voice. Greek also has a middle voice,
+which shows that the subject so acts as somehow to affect
+himself.
+
+(a) The subject may act on himself:
+
+παύομαι I am stopping myself, I am stopping (intransitive).
+
+(6) The subject may act on or with something that be-
+longs to him, ov in such a way as to benefit, injure, or other-
+wise affect himself or his interests +
+
+παρέχομαι I supply for myself;
+λύομαι τοὺς ἵππους I loose my (own) horses. <note>GRC: If memory serves, there is a nice alternation of luw/luomai with Circe or Calypso and Od</note></p></div>
+
+<div type="textpart" subtype="para" n="135">
+<p>Present Indicative Middle and Passive of παύω</p></div>
+
+<div type="textpart" subtype="para" n="136">
+<p>Imperfect Indicative Middle and Passive of παύω
+
+</p></div>
+
+<pb n="76"/>
+
+
+<div type="textpart" subtype="para" n="137">
+<p>There is no difference in appearance between the
+middle and the passive in the present and imperfect. As
+in the active voice, the vowel ο appears before μ or ν of
+the ending, while ε appears before other endings. The ε
+of the second person singular drops out between two
+vowels, which are then contracted.
+
+The present and imperfect middle and passive have the
+same stem as the present active.</p></div>
+
+<div type="textpart" subtype="para" n="138">
+<p>Deponent Verbs. Some verbs have forms only in
+the middle or passive voice but with active meanings.
+They are called deponents :
+
+ἕπομαι I follow.
+
+Inflect the present and imperfect indicative, and give
+the present infinitive and participle of wopevopac,</p></div>
+
+<div type="textpart" subtype="para" n="139">
+<p>Genitive of Agent. ὑπό and the genitive when
+modifying a passive verb indicate the agent or doer of an
+action (compare with the Latin a or ab and the ablative): 1
+
+ἀθροίζεται ὑπὸ αὐτοῦ it ts being gathered by him.</p></div>
+
+<div type="textpart" subtype="para" n="140">
+<p>VOCABULARY
+<rs type="lemma">ἄχθομαι</rs>: be burdened, vexed. 
+<rs type="lemma" n="μεταπέμπω">μετα-πέμπομαι</rs>: send after, summon.
+<rs type="lemma">βούλομαι</rs>: wish, desire. 
+<rs type="lemma">ἕπομαι</rs>: follow, with D. 
+<rs type="lemma">πορεία</rs>: journey.
+<rs type="lemma">ἔρχομαι</rs>, ἦλθον (aor.): come, go. 
+<rs type="lemma" n="πορεύω">πορεύομαι</rs>: journey, march,
+<rs type="lemma">ἥδομαι</rs>: be pleased. HEDONIST. 
+<rs type="lemma">ὑπό</rs>: prep., with G., from under, by (agent); with D., under, beneath (with verbs of rest); with A., under (with verbs of motion). HYPOTHESIS.
+<rs type="lemma">μάχομαι</rs>: fight, give battle. Cf. μάχη. 
+<rs type="lemma">μετά</rs>, prep.: with G., with ; with  A., after; as a prefix, often denotes change. METAPHOR.
+
+1 What uses of the genitive have you now had?
+
+</p></div>
+
+<pb n="77"/>
+
+
+<div type="textpart" subtype="para" n="141">
+<p>EXERCISES
+
+(a) What do the portions in heavy type tell as to person,
+number, and voice ?
+
+βούλ ει 
+πέμπο μεν 
+ἕπε σθε 
+πορευό μεθα
+φυλάττ ουσι 
+μεταπέμπεται 
+ἔρχο νται 
+διώκ ω
+συμβουλεύ εἰς 
+ἄχθο μαι 
+ἐμάχο ντο 
+ἔχε τε
+ὑποπτεύ ει 
+ἡδό μην 
+ἤχθ ου 
+εἵπε το
+
+(b) What is the probable meaning of the middle of the following verbs ?
+
+βουλεύω 
+φυλάττω 
+παρ-ἔχω 
+συμ-βουλεύω 
+τρέπω
+
+(c) Translate :
+
+1. τότε δὴ ἤχθοντο τῇ πορείᾳ. 
+2. τὰ δ᾽ ἐπιτήδεια ὑπὸ τῶν πορευομένων ἀθροίζεται. 
+3. χρήματα οὖν ἔχοντες τὸν σῖτον πταρ-εἰχόμεθα. 
+4. οὐ γὰρ τῷ ἀγγέλῳ ἐπείθεσθε ;
+5. ἐβούλετο μετὰ τῶν ἄλλων ἔρχεσθαι. 
+6. μετὰ ταῦτα οἱ φίλοι αὐτῷ εἴποντο3 τῷ δώρῳ ἡδόμενοι. 
+7. πάντες μετα-πέμπονται ὑπὸ τοῦ σατράπου. 
+8. ἀλλ᾽ οὐ βούλομαι τοῖς ἐμαυτοῦ φίλοις 3 μάχεσθαι. 
+9. τοῖς μὲν οὖν πειθομένοις ἥδεται, τοὺς δὲ μὴ 4 μετα-πέμπεται.
+
+(d) Complete:
+
+1. οἱ μὲν ἐπορευ--- μετὰ τ--- ἀρχοντ--- (singular), οἱ δὲ ἐμεν--- ἐν τῷ στρατοπέδῳ. 
+2. τῷ βουλο--- ἔξεστιν Ἀθήνᾶς ἐκ-λιπεῖν. 
+3. οἱ πολῖται τοῖς μαχομεν--- ἤχθοντο.
+
+(e) Write in Greek :
+
+1. If it did not seeim best to have it, we should not be asking for it. 
+2. Since there was hope (there being hope), the general was making war on the Thracians. 
+3. The enemy seized him as he was hastening to this place. 
+
+
+
+1 πείθω in the middle and passive means <gloss>obey</gloss> and governs the dative (as in Latin).
+
+2 For augment, see page 23, note 1. 
+3 Page 72, note 2.
+
+4 § 84. πειθομένους is to be supplied and is conditional.
+
+<pb n="78"/>
+
+4. All being present, Cyrus himself called the messenger into the tent.</p></div>
+</div>
+</body></text></TEI>
