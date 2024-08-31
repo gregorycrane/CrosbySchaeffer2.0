@@ -4,7 +4,7 @@
  >  In the beginning was the word.<br/>
 >> John, 1.1
 
-| Syntax      | Description |
+| Syntax       Description |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
