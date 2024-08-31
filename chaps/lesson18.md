@@ -1,14 +1,14 @@
 # Chapter 18: CONSONANT DECLENSION (K-STEMS)
 
-   >  δέσποινα γὰρ γέροντι νυμφίῳ γυνή.<br/>
-   >  An old man’s bride, an old man’s boss.<br/>
-   >  Literally: For to an aged bridegroom a wife is a female master.<br/>
- >> Euripides, fragment. 
+>  δέσποινα γὰρ γέροντι νυμφίῳ γυνή.<br/>
+>  An old man’s bride, an old man’s boss.<br/>
+>  Literally: For to an aged bridegroom a wife is a female master.<br/>
+>> Euripides, fragment. 
 
 
 
 <div type="textpart" subtype="para" n="101">
-<p>The Consonant Declension includes nouns whose
+The Consonant Declension includes nouns whose
 stems end in a consonant.
 
 The stem appears when the ending -ος is dropped from
@@ -21,7 +21,7 @@ plural ends in -σι. The σ in each of these instances unites
 with κ, γ, or χ to form ξ.
 
 <div type="textpart" subtype="para" n="102">
-<p>Monosyllables of the consonant declension are
+Monosyllables of the consonant declension are
 accented on the ultima in the genitive and dative of all
 numbers, the circumflex occurring on long vowels or diph-
 thongs, otherwise the acute.
@@ -34,13 +34,13 @@ Inflect @paé. Compare with paradigm (§ 509, a).
 
 
 <div type="textpart" subtype="para" n="103">
-<p>Genitive of Time. The genitive denotes the time
+Genitive of Time. The genitive denotes the time
 within which an action occurs:1
 
 ypayw mevre quepwy | shall write within five days.
 
 <div type="textpart" subtype="para" n="104">
-<p>VOCABULARY
+VOCABULARY
 <span style="color:green">γυνή</span>, γυναικός, ἡ: woman, wife.  MISOGYNIST.
 <span style="color:green">δι-αρπάζω</span>, δι-αρπάσω, δι-ήρπασα:  plunder, pillage, sack.
 <span style="color:green">Θρᾷξ</span>, θρᾳκός, ὁ: Thracian.
@@ -54,7 +54,7 @@ ypayw mevre quepwy | shall write within five days.
 <span style="color:green">πρός</span>, prep.: with G., from the side of, in the sight of; with D., near, beside, besides ; with A., to the side of, toward. PROSELYTE.
 
 <div type="textpart" subtype="para" n="105">
-<p>EXERCISES
+EXERCISES
 
 (a) What do the portions in heavy type tell as to the
 probable use of
@@ -99,7 +99,7 @@ Distinguish between φυλακῶν and
 4. These men are not yet in the camp.
 
 <div type="textpart" subtype="para" n="106">
-<p>THE PHALANX
+THE PHALANX
 
 By means of the phalanx, invented and developed by
 Greeks, Alexander the Great imposed his will upon most
@@ -125,7 +125,7 @@ E.S. McCartney, Warfare by Land and Sea, pages 25-27.
 
 <pb n="59"/>
 
-</p>
-</div>
-</div>
+
+
+
 

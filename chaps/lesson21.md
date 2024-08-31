@@ -1,11 +1,11 @@
 # Chapter 21: PARTICIPLES
 
- >  ἐλπὶς ἐν ἀνθρώποις μούνη θεὸς ἐσθλὴ ἔνεστιν.</quote> <quote xml:lang="eng">Hope is man’s one good deity.<br/> >> Theognis, 1135.
+>  ἐλπὶς ἐν ἀνθρώποις μούνη θεὸς ἐσθλὴ ἔνεστιν.</quote> <quote xml:lang="eng">Hope is man’s one good deity.<br/> >> Theognis, 1135.
 
 
 
 <div type="textpart" subtype="para" n="113">
-<p>Present Participle. The masculine of the present
+Present Participle. The masculine of the present
 participle is inflected like ἄρχων (§ 107). The neuter has
 the same endings except in the nominative and accusative
 singular, where it uses the mere stem with τ dropped (beause τ cannot end a Greek word), and in the same cases
@@ -13,12 +13,12 @@ in the plural, where it adds -α to the stem. The feminine
 is inflected like ἅμαξα (§ 81).
 
 <div type="textpart" subtype="para" n="114">
-<p>The present and future active participles of παύω
+The present and future active participles of παύω
 are inflected like ὤν with the accent on παυ- or παυσ-,
 wherever the rules of accent permit. The second aorist
 active participle is also inflected like ὤν and has the same
 accents.
-</p><p>
+
 Write out entire the inflection of παύων, παύσων, λιπών.
 Compare with paradigms (§ 514, a).
 
@@ -28,7 +28,7 @@ Compare with paradigms (§ 514, a).
 
 
 <div type="textpart" subtype="para" n="115">
-<p>First Aorist Active Particirte or παύω <gloss>I stop</gloss>
+First Aorist Active Particirte or παύω <gloss>I stop</gloss>
 
 ravoas navodoa. matey
 mavoavTos Tavaaoys TavcavTos
@@ -45,7 +45,7 @@ nominative singular, where -ς has been added to the stem, causing wr
 to drop out and lengthening α. In like manner inflect ceAaioas.
 
 <div type="textpart" subtype="para" n="116">
-<p>Uses of Participles.
+Uses of Participles.
 (a) A participle, when used in
 the attributive position ($ 31, a), has the force of an attributive adjective. his is called the attributive participle :
 
@@ -67,7 +67,7 @@ circumstances of an action.
 ἔχων χρήματα εἶχες ἂν φίλους if you had money, you would have friends.
 
 <div type="textpart" subtype="para" n="117">
-<p>Tenses of the Participle usually indicate time as
+Tenses of the Participle usually indicate time as
 related to that of the main verb:
 
 φεύγων δια-βαίνει while fleeing he crosses ;
@@ -75,10 +75,10 @@ related to that of the main verb:
 
 <pb n="66"/>
 <figure><head>The Eleusinian Mysteries, unlike the ordinary Greek religion, gave hope
-  of a real life after death. Cicero was initiated into these Mysteries.</head></figure></p>
-</div>
+of a real life after death. Cicero was initiated into these Mysteries.</head></figure>
+
 <div type="textpart" subtype="para" n="118">
-<p>VOCABULARY
+VOCABULARY
 <span style="color:green">ἐλπίς</span>, ἐλπίδος, ἡ: hope, expectation.
 <span style="color:green">κωλύω</span>, κωλύσω, ἐκώλῦσα: prevent. KOLYNOS.<note>is this referring to https://en.wikipedia.org/wiki/Kolynos?</note>
 <span style="color:green">πιστεύω</span>, πιστεύσω, ἐπίστευσα: trust, with D.
@@ -100,7 +100,7 @@ related to that of the main verb:
 
 
 <div type="textpart" subtype="para" n="119">
-<p>EXERCISES
+EXERCISES
 
 (a) Translate :
 
@@ -123,30 +123,30 @@ related to that of the main verb:
 4. οὗτος γὰρ λαβ- τὰ χρημα--- ἤθροισε στρατιᾶν.
 
 <figure><head>Torches from ELeusis</head>
-<p>Much of the ritual was performed by torchlight</p></figure>
+Much of the ritual was performed by torchlight</figure>
 
-</p>
-</div>
+
+
 
 
 <div type="textpart" subtype="para" n="120">
-<p>A TRAITOR CAUGHT
-    <quote xml:lang="grc">Ὀρόντας ἐπι-βουλεύει Κύρῳ.
-        οὗτος Κύρῳ εἶπεν (told) ὅτι (that)
-        εἰ αὐτῷ δοίη (should give) στρατιώτας κατα-κάνοι ἂν (would slay)
-        τοὺς πολεμίους τοὺς τὴν χώραν κάοντας (burning). τῷ δὲ Κύρῳ
-        ἀκούσαντι (compare acoustic)
+A TRAITOR CAUGHT
+<quote xml:lang="grc">Ὀρόντας ἐπι-βουλεύει Κύρῳ.
+οὗτος Κύρῳ εἶπεν (told) ὅτι (that)
+εἰ αὐτῷ δοίη (should give) στρατιώτας κατα-κάνοι ἂν (would slay)
+τοὺς πολεμίους τοὺς τὴν χώραν κάοντας (burning). τῷ δὲ Κύρῳ
+ἀκούσαντι (compare acoustic)
 
-        ταῦτα ἐδόκει (seemed) καλὰ εἶναι,
-        καὶ ἐκέλευσεν αὐτὸν λαμβάνειν ΤΟΝΟΗΕ5 ΕΠῸΜ Εκεῦβι5
-        στρατιώτας. ὁ δ᾽ Ὀρόντας νομίσᾱς αὑτῷ εἶναι τοὺς στρατιώτας γράφει ἐπιστολὴν παρὰ βασιλέᾳ (king) ὅτι ἥξοι (he would
-        come) ἔχων στρατιώτας. ταύτην τὴν ἐπιστολὴν δίδωσι
-        (he gives) πιστῷ (compare πιστεύω) ἀνθρώπῳ, ὡς ᾧετο
-        (he thought). ὁ δὲ λαβὼν Κύρῳ δίδωσιν.</quote> <quote xml:lang="eng"></quote> >> Adapted from Xenophon, Anabasis 1.6.2-3.
+ταῦτα ἐδόκει (seemed) καλὰ εἶναι,
+καὶ ἐκέλευσεν αὐτὸν λαμβάνειν ΤΟΝΟΗΕ5 ΕΠῸΜ Εκεῦβι5
+στρατιώτας. ὁ δ᾽ Ὀρόντας νομίσᾱς αὑτῷ εἶναι τοὺς στρατιώτας γράφει ἐπιστολὴν παρὰ βασιλέᾳ (king) ὅτι ἥξοι (he would
+come) ἔχων στρατιώτας. ταύτην τὴν ἐπιστολὴν δίδωσι
+(he gives) πιστῷ (compare πιστεύω) ἀνθρώπῳ, ὡς ᾧετο
+(he thought). ὁ δὲ λαβὼν Κύρῳ δίδωσιν.</quote> <quote xml:lang="eng"></quote> >> Adapted from Xenophon, Anabasis 1.6.2-3.
 
 
 <pb n="68"/>
 
-</p>
-</div>
-</div>
+
+
+

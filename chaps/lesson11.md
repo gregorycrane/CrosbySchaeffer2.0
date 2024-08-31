@@ -1,16 +1,16 @@
 # Chapter 11: REVIEW
 
 
-  <quote><l part="F">σοφῷ γὰρ αἰσχρὸν ἐξαμαρτάνειν.</l>
-  </quote>
-  <quote>‘Tis shameful for a wise man to make mistakes.
-  </quote>
-  >> Aeschylus, Prometheus, 1039.
+<quote><l part="F">σοφῷ γὰρ αἰσχρὸν ἐξαμαρτάνειν.</l>
+</quote>
+<quote>‘Tis shameful for a wise man to make mistakes.
+</quote>
+>> Aeschylus, Prometheus, 1039.
 
 
 
 <div type="textpart" subtype="para" n="60">
-<p>ASSIGNMENTS
+ASSIGNMENTS
 
 (a) Review all words in the vocabularies of Lessons
 VI-X. Follow suggestions given in § 27, a.
@@ -36,7 +36,7 @@ used with στρατηγῷ, χώρᾳ, δῶρα, φυγήν, φιλίας (sin
 Of the dative? Of the accusative ?
 
 <div type="textpart" subtype="para" n="61">
-<p>EXERCISES
+EXERCISES
 (a) Complete:
 
 1. τ--- στρατηγ--- (singular) ὑπ-ὠπτευσαν λῡ--- (present) τὰς σπονδάς.
@@ -68,7 +68,7 @@ with more pleasing effect than in this memorial at Washington, D. C.
 1 Use article.
 
 <pb n="36"/>
-</p>
 
-</div>
+
+
 

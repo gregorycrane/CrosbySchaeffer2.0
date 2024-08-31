@@ -1,39 +1,31 @@
 # Chapter 1: DECLENSION OF ο-STEMS
 
- >  ἐν ἀρχῇ ἦν ὁ λόγος.<br/>
- >  In the beginning was the word.<br/>
+>  ἐν ἀρχῇ ἦν ὁ λόγος.<br/>
+>  In the beginning was the word.<br/>
 >> John, 1.1
 
-| Syntax       Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+
 <figure><head>Eager to Go</head></figure>
 
 [1.] **Declensions**. There are three declensions in Greek,
 instead of five as in Latin. To these, because of their general uniformity, the o-stems serve as a good introduction.
 
-[2.] Ο-Stem Masculines. Nouns of the ο-declension
+[2.] **Ο-Stem Masculines**. Nouns of the ο-declension
 whose nominatives end in -ος are usually masculine.
-<code style="color : name_color">foo</code>
-<table>
-  <head>ποταμός, ποταμοῦ, ὁ — a river</head>
-  <row role="label"><cell cols="3">Singular</cell></row>
-    <row><cell role="label">Nominative</cell><cell>ὁ ποταμός</cell><cell>the river [subject]</cell></row>
-    <row><cell role="label">Genitive</cell><cell>τοῦ ποταμοῦ</cell><cell>of the river</cell></row>
-    <row><cell role="label">Dative</cell><cell>τῷ ποταμῷ</cell><cell>to/for the river</cell></row>
-    <row><cell role="label">Accusative</cell><cell>τὸν ποταμόν</cell><cell>the river [object]</cell></row>
 
-    <row role="label"><cell cols="3">Plural</cell></row>
-    <row><cell role="label">Nominative</cell><cell>τὸν ποταμόν</cell><cell>the rivers [subject]</cell></row>
+**ποταμός, ποταμοῦ, ὁ — a river**
 
-    <row><cell role="label">Genitive</cell><cell>τῶν ποταμῶν</cell><cell>of the rivers</cell></row>
 
-    <row><cell role="label">Dative</cell><cell>τοῖς ποταμοῖς</cell><cell>to/for the rivers</cell></row>
+| Singular | Greek | English | Greek | English | 
+| --- | --- | --- | --- | --- 
+| Nominative | ὁ ποταμός | the river (subject) | οἱ ποταμοί | the rivers (subject) | 
+| Genitive | τοῦ ποταμοῦ | of the river | τῶν ποταμῶν | of the rivers | 
+| Dative | τῷ ποταμῷ | to/for the river | τοῖς ποταμοῖς | to/for the rivers | 
+| Accusative | τὸν ποταμόν | the river (object) | τοὺς ποταμούς | the rivers (object) | 
 
-    <row><cell rend="centered" role="label">Accusative</cell><cell>τοὺς ποταμούς</cell><cell>the rivers [object]</cell></row>
 
-</table>
+
+
 
 
 
@@ -51,17 +43,17 @@ circumflex (῀) in the genitive and dative of both numbers.
 
 <pb n="2"/>
 
-</p><p>
-(b) An acute on the ultima changes to a grave (`)
-when a word follows without intervening punctuation:</p>
-<p><foreign xml:id="p3.1">ἀδελφὸν ἔχει</foreign>: <gloss target="p3.1">s/he has a brother.</gloss></p>
 
-</div>
+(b) An acute on the ultima changes to a grave (`)
+when a word follows without intervening punctuation:
+<foreign xml:id="p3.1">ἀδελφὸν ἔχει</foreign>: <gloss target="p3.1">s/he has a brother.</gloss>
+
+
 
 [4.] Cases. The endings of a noun tell its case and use
-</p><p>
+
 (a) The nominative is the case of the subject:
-</p><p>
+
 <foreign>οἱ στρατηγοὶ ἦσαν ἀδελφοί</foreign> <gloss>the generals were brothers.</gloss>
 
 (b) The genitive suggests relations like those expressed
@@ -84,49 +76,27 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 
 (b) Greek has no indefinite article. Many nouns having no definite article require a or an in translation:
 
-[6.] **Vocabulary**</p>
-  <list type="vocab">
-
-
+[6.] **Vocabulary**
+<list type="vocab">
 <span style="color:green">ἀδελφός</span>, ἀδελφοῦ, ὁ:<note>The definite article accompanies nouns in vocabularies to show gender.</note> brother.  PHILADELPHIA.<note>In the vocabularies derivatives and cognates are printed in small capitals.</note>
 
-
-
 <span style="color:green">ἔχει</span>: he, she, or it has,
-
-
 <span style="color:green">ἔχουσι</span>: they have.
-
-
 <span style="color:green">ἦν</span>: he, she, it was;  there was.
-
-
 <rs n="https://atlas-test.fly.dev/morphology/form/245/" type="lemma">ἦσαν</rs>: they or there were.
-
-
 <span style="color:green">παύει</span>: he, she, or it stops (transitive).
 
-
-
 <span style="color:green">παύουσι</span>: they stop (transitive).
-
-
 <span style="color:green">πέμπει</span>: he, she, or it sends (transitive).
-
-
 <span style="color:green">πέμπουσι</span>: they send (transitive).
-
-
 <span style="color:green">ποταμός</span>, ποταμοῦ, ὁ: river, HIPPOPOTAMUS.
-
-
 <span style="color:green">στρατηγός</span>, στρατηγοῦ, ὁ: general. STRATEGY.
 
 
 
 
 
-</div>
+
 
 <pb n="3"/>
 
@@ -170,15 +140,15 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 
 
 ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg FOOO ὁ ποταμός)
-  ![text](https://upload.wikimedia.org/wikipedia/commons/b/b2/Pineios_river_%28thessaly%29_map.jpg)
+![text](https://upload.wikimedia.org/wikipedia/commons/b/b2/Pineios_river_%28thessaly%29_map.jpg)
 <figure><head>ὁ ποταμός</head>
-<p>This lovely pass, the Vale of Tempe, between Mt. Ossa and Mt. Olympus,
+This lovely pass, the Vale of Tempe, between Mt. Ossa and Mt. Olympus,
 might have proven more troublesome to the Persians than Thermopylae, had
 they not found an easier entrance into Greece. The Peneus River, which
-winds through it, is one of the few in Greece that never go dry.</p></figure>
-<figure>![text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%CE%A0%CE%B7%CE%BD%CE%B5%CE%B9%CF%8C%CF%82-Pinios_river.jpg/640px-%CE%A0%CE%B7%CE%BD%CE%B5%CE%B9%CF%8C%CF%82-Pinios_river.jpg)</figure></p>
+winds through it, is one of the few in Greece that never go dry.</figure>
+<figure>![text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%CE%A0%CE%B7%CE%BD%CE%B5%CE%B9%CF%8C%CF%82-Pinios_river.jpg/640px-%CE%A0%CE%B7%CE%BD%CE%B5%CE%B9%CF%8C%CF%82-Pinios_river.jpg)</figure>
 <pb n="4"/>
 
-</div>
 
-</div>
+
+

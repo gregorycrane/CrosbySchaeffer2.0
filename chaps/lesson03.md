@@ -1,8 +1,8 @@
 # Chapter 3: PRESENT INDICATIVE AND INFINITIVE ACTIVE OF ω-VERBS
 
 
-   >  οἱ γὰρ πόνοι τίκτουσι τὴν εὐανδρίᾱν.<br/>
-     >  Labor begets manhood. Literally: For toils beget manhood.<br/>>> Euripides, fragment.
+>  οἱ γὰρ πόνοι τίκτουσι τὴν εὐανδρίᾱν.<br/>
+>  Labor begets manhood. Literally: For toils beget manhood.<br/>>> Euripides, fragment.
 
 
 
@@ -20,7 +20,7 @@ Present Infintive ACTIVE παύ-ειν
 In like manner inflect ἐθέλω.
 
 <div type="textpart" subtype="para" n="14">
-<p>Verb Structure.
+Verb Structure.
 (a) In the inflection of a verb
 the stem is of fundamental importance. On it are built
 the various forms. παύ- is the stem of παύω.
@@ -34,7 +34,7 @@ In the present indicative active the personal ending is
 clearly seen only in the first and second persons plural.
 
 <div type="textpart" subtype="para" n="15">
-<p>Verb Accent. In § 8 we saw that the accent of
+Verb Accent. In § 8 we saw that the accent of
 nouns was persistent. That of verbs is recessive, that is,
 
 
@@ -48,13 +48,13 @@ on the penult if the ultima is long -
 ἐθέλω, ἐθέλομεν.
 
 <div type="textpart" subtype="para" n="16">
-<p>Dative with Adjectives. The dative is used with many adjectives expressing friendliness, hostility, association, fitness, and the like: 1
+Dative with Adjectives. The dative is used with many adjectives expressing friendliness, hostility, association, fitness, and the like: 1
 
 πολέμιος ἦν τῷ στρατηγῷ
 he was hostile to the general.
 
 <div type="textpart" subtype="para" n="17">
-<p>VOCABULARY
+VOCABULARY
 
 <span style="color:green">ἀγαθός</span>, ἀγαθή, ἀγαθόν: good, brave. AGATHA.
 
@@ -87,7 +87,7 @@ he was hostile to the general.
 <span style="color:green">παύω</span>: stop (trans,). PAUSE.
 
 <div type="textpart" subtype="para" n="18">
-<p>EXERCISES
+EXERCISES
 
 (a) What do the portions in heavy type tell as to the person
 and number of the subject ?
@@ -120,7 +120,7 @@ and number of the subject ?
 3. οἱ ἄγγελοι πολέμιοι ἦσαν τι-- στρατηγ- (singular).
 
 <div type="textpart" subtype="para" n="19">
-<p>(a) Translation Hints
+(a) Translation Hints
 
 1. Read the entire English sentence, noting how the
 words are related.
@@ -147,12 +147,12 @@ before starting to write.
 5. They were brothers of the general.
 
 <div type="textpart" subtype="para" n="20">
-<p>Βρεκεκεκὲξ κοὰξ κοάξ. </p>
+Βρεκεκεκὲξ κοὰξ κοάξ. 
 
-  <p>This is the famous refrain of the frog chorus in Aristophanes’ comedy, The Frogs. In unison with this unceasing chant Dionysus rows Charon’s boat across the Styx. It is the basis of Yale’s well-known yell.</p>
+This is the famous refrain of the frog chorus in Aristophanes’ comedy, The Frogs. In unison with this unceasing chant Dionysus rows Charon’s boat across the Styx. It is the basis of Yale’s well-known yell.
 
 <pb n="10"/>
 
-</div>
 
-</div>
+
+

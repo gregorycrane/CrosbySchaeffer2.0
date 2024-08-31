@@ -1,15 +1,15 @@
 # Chapter 13: PRONOUNS
 
-   >  ἕτερος γὰρ αὐτὸς ὁ φίλος ἐστί.<br/>
-   >  A friend is another self.<br/>
-  >> Aristotle, Nicomachean Ethics, IX. 9,10, 1170 B
+>  ἕτερος γὰρ αὐτὸς ὁ φίλος ἐστί.<br/>
+>  A friend is another self.<br/>
+>> Aristotle, Nicomachean Ethics, IX. 9,10, 1170 B
 
 
 
 
 
 <div type="textpart" subtype="para" n="67">
-<p>The relative pronoun, ὅς, ἥ, ὅ, who, which, presents
+The relative pronoun, ὅς, ἥ, ὅ, who, which, presents
 nothing new in inflection, It is like ἀγαθός everywhere
 except in the neuter nominative and accusative singular,
 where it has the same endings as the article.
@@ -17,12 +17,12 @@ where it has the same endings as the article.
 ὅς who, which
 
 <div type="textpart" subtype="para" n="68">
-<p>αὐτός self, and ἄλλος other, are inflected similarly
+αὐτός self, and ἄλλος other, are inflected similarly
 except that ἄλλος has the accent on the penult. Inflect
 them and compare with paradigms (§§ 519 and 520).
 
 <div type="textpart" subtype="para" n="69">
-<p>A relative pronoun, as in English and in Latin,
+A relative pronoun, as in English and in Latin,
 agrees with its antecedent in gender, number, and person,
 but its case depends on the construction in its own clause:
 
@@ -30,23 +30,23 @@ but its case depends on the construction in its own clause:
 the messenger whom you sent wishes to flee.
 
 <div type="textpart" subtype="para" n="70">
-<p>Uses of αὐτός.
+Uses of αὐτός.
 
 <list>
-  <item>Following the article, αὐτός means
+<item>Following the article, αὐτός means
 same : ἡ αὐτὴ κώμη the same village, 
 
 <item>modifying a noun or pronoun, but not following
 the article, it means self; Κῦρος αὐτός Cyrus himself; ἡ κώμη αὐτή the village itself ;
 αὐτὸς ἔφυγεν he himself fled ;
- >  αὐτὸς γὰρ Θρασύμαχος ὁμολογεῖ τοὺς μὲν ἄρχοντας ἐνίοτε ἑαυτοῖς κακὰ προστάττειν, τοῖς δὲ δίκαιον εἶναι ταῦτα ποιεῖν<br/> >> Plat. Rep. 340a
+>  αὐτὸς γὰρ Θρασύμαχος ὁμολογεῖ τοὺς μὲν ἄρχοντας ἐνίοτε ἑαυτοῖς κακὰ προστάττειν, τοῖς δὲ δίκαιον εἶναι ταῦτα ποιεῖν<br/> >> Plat. Rep. 340a
 
 
 <item>standing alone, except in the
-  nominative, it is a personal pronoun of the third person:
-  αὐτῷ ἔγραψα I wrote to him,
+nominative, it is a personal pronoun of the third person:
+αὐτῷ ἔγραψα I wrote to him,
 
-  αὐτοὺς ἀθροίζει he collects them.
+αὐτοὺς ἀθροίζει he collects them.
 
 <pb n="41"/>
 
@@ -57,7 +57,7 @@ the article, it means self; Κῦρος αὐτός Cyrus himself; ἡ κώμη 
 
 
 <div type="textpart" subtype="para" n="71">
-<p>VOCABULARY
+VOCABULARY
 
 
 <span style="color:green">ἀλλήλων</span>:1 of one another. PARALLEL.
@@ -83,7 +83,7 @@ the article, it means self; Κῦρος αὐτός Cyrus himself; ἡ κώμη 
 <span style="color:green">ὥρᾱ</span>: hour, season. HOUR.
 
 <div type="textpart" subtype="para" n="72">
-<p>EXERCISES
+EXERCISES
 
 (a) What does αὐτός mean in these phrases ?
 
@@ -124,15 +124,15 @@ the article, it means self; Κῦρος αὐτός Cyrus himself; ἡ κώμη 
 <pb n="42"/>
 
 <figure><head>AN ANCIENT TIMEPIECE</head>
-<p>
+
 This Horologium, or Tower of the Winds, stood in the Agora and served
 as both weather bureau and town clock. It was surmounted by a weather-
 vane. Sundials adorned the exterior, and within was a water clock. The
-figures beneath the cornice represent the eight winds.</p></figure>
+figures beneath the cornice represent the eight winds.</figure>
 
 
 <div type="textpart" subtype="para" n="73">
-<p>SOME AXIOMS OF EUCLID<note>Consult Dictionary of Proper Names for the facts about Euclid.</note>
+SOME AXIOMS OF EUCLID<note>Consult Dictionary of Proper Names for the facts about Euclid.</note>
 
 1. τὰ τοῦ αὐτοῦ ἴσα καὶ ἀλλήλοις ἐστὶν (are) ἴσα.
 2. καὶ ἐὰν (if) ἴσοις ἴσα προσ-τεθῇ (be added), τὰ ὅλα (wholes, compare Holocaust) ἐστὶν ἴσα.
@@ -146,7 +146,7 @@ figures beneath the cornice represent the eight winds.</p></figure>
 
 <pb n="43"/>
 
-</p>
-</div>
-</div>
+
+
+
 

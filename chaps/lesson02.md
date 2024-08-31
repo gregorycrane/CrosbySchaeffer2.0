@@ -2,8 +2,8 @@
 
 <quote>
 πόνος γάρ, ὡς λέγουσιν, εὐκλείας πατήρ.</quote>
-  <quote>Toil, so they say, is the father of fame.
-  </quote>>> Euripides, fragment
+<quote>Toil, so they say, is the father of fame.
+</quote>>> Euripides, fragment
 
 
 [8.] **Persistent Accent**. The accent of the nominative
@@ -19,10 +19,10 @@ of the nominative plural is considered short (§ V, a).
 
 <foreign>ὁ δίκαιος the just</foreign> <gloss>man</gloss>
 
-</p><p>
+
 
 In like manner inflect ὁ πόλεμος.
-</p><p>
+
 
 2 In the previous lesson you found singular and plural labeled. From now on you are given no labels, bnt you can readily tell which is which.
 3 As in Latin, adjectives agree with their nouns in gender, number, and case.
@@ -44,10 +44,10 @@ he sends the man out of the river.
 
 
 
-  <figure><head>The ARCADIAN GATE</head>
-<p>The walls of Messene still testify to the engineering skill and daring of the
+<figure><head>The ARCADIAN GATE</head>
+The walls of Messene still testify to the engineering skill and daring of the
 victor of Leuctra. Note particularly the central doorpost of this great gate.
-It is nearly nineteen feet long.</p></figure>>
+It is nearly nineteen feet long.</figure>>
 
 [10.] VOCABULARY
 
@@ -92,12 +92,12 @@ It is nearly nineteen feet long.</p></figure>>
 
 <figure><head>Pericles</head>
 
-<p>The most brilliant period in Athenian history is justly called the Age
+The most brilliant period in Athenian history is justly called the Age
 of Pericles. His home was the haunt
 of sculptor and architect, poet and
 philosopher. To him we owe above
 all the planning and construction of
-the matchless Parthenon.</p></figure>
+the matchless Parthenon.</figure>
 
 (a) Translate :
 
@@ -115,9 +115,9 @@ the matchless Parthenon.</p></figure>
 1. οἱ πολεμ--- ἦσαν μακρ---.
 2. τὸν ἀδελφ-- πέμπει ἐκ τ--- ποταμ- (singular).
 3. οἱ στρατηγοὶ τοὺς φίλους πεμπ-- τῷ ἀνθρωπ--.
-</p>
+
 <pb n="7"/>
 
-</div>
 
-</div>
+
+

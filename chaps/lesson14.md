@@ -1,20 +1,20 @@
 # Chapter 14: DEMONSTRATIVE PRONOUNS
 
 
-  <quote xml:lang="grc">
-    σπεῦδε βραδέως.
+<quote xml:lang="grc">
+σπεῦδε βραδέως.
 
-  </quote>
-  <quote xml:lang="eng">
-    Make haste slowly.
+</quote>
+<quote xml:lang="eng">
+Make haste slowly.
 
-  </quote>
-  >> Suetonius, Augustus, 25. A favorite expression of Augustus.
+</quote>
+>> Suetonius, Augustus, 25. A favorite expression of Augustus.
 
 
 
 <div type="textpart" subtype="para" n="74">
-<p>The principal demonstrative pronouns are οὗτος this
+The principal demonstrative pronouns are οὗτος this
 (Latin hic), ὅδε this, and ἐκεῖνος that (Latin <foreign xml:lang="lat">ille</foreign>).
 
 οὗτος this
@@ -32,7 +32,7 @@ Note that the forms of ὅδε are the forms of the article with -δέ
 added.
 
 <div type="textpart" subtype="para" n="75">
-<p>ἐκεῖνος has the same endings and accents as οῧτος,
+ἐκεῖνος has the same endings and accents as οῧτος,
 Inflect it, and compare with paradigm (§ 523).
 
 
@@ -40,7 +40,7 @@ Inflect it, and compare with paradigm (§ 523).
 <pb n="44"/>
 
 <div type="textpart" subtype="para" n="76">
-<p>Uses of the Demonstratives.
+Uses of the Demonstratives.
 
 (a) οὗτος and ὅδε both
 mean this, this book, ete.; but οὗτος usually refers to something already mentioned, and ὅδε to something yet to
@@ -61,12 +61,12 @@ have the predicate position (§ 31, 2):
 ἐκείνη ἡ κώμη that village.
 
 <div type="textpart" subtype="para" n="77">
-<p>Dative of Means. The dative indicates the means whereby an act is done: <note>The dative has three distinct divisions as to use, corresponding to English phrases with to or for, with, and in.</note>
+Dative of Means. The dative indicates the means whereby an act is done: <note>The dative has three distinct divisions as to use, corresponding to English phrases with to or for, with, and in.</note>
 τὸν ποταμὸν διαβαίνει πλοίῳ
 he crosses the river in (by means of) a boat.
 
 <div type="textpart" subtype="para" n="78">
-<p>VOCABULARY
+VOCABULARY
 <span style="color:green">ἀ-διά-βατος</span>:2 uncrossable.
 <span style="color:green">δια-βαίνω</span>:<note>Future and aorist will be given later.</note> cross.
 <span style="color:green">δια-βατός</span>:2 crossable.
@@ -88,7 +88,7 @@ he crosses the river in (by means of) a boat.
 
 
 <div type="textpart" subtype="para" n="79">
-<p>EXERCISES
+EXERCISES
 (a) Translate :
 
 1. ἐκεῖνο τὸ πλοῖον μεστὸν ἣν σίτου.
@@ -113,21 +113,21 @@ he crosses the river in (by means of) a boat.
 5. We ourselves shall leave Athens.
 
 <div type="textpart" subtype="para" n="80">
-<p>Dean Inge, of St. Paul’s Cathedral, London, writes:
+Dean Inge, of St. Paul’s Cathedral, London, writes:
 “The Christian Church was the last great creative achievement of classical culture.”<note>Legacy of Greece, page 30.
 </note> The λόγος of St. John’s
 Gospel is one of many evidences of this.
 
 
-  <quote>ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς <note>in the presence of</note> ὃ τὸν θεόν
-    (compare THEOLOGY), καὶ θεὸς ἦν ὁ λόγος. οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.</quote>
-    >> St. John, 1. 1-2.
+<quote>ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς <note>in the presence of</note> ὃ τὸν θεόν
+(compare THEOLOGY), καὶ θεὸς ἦν ὁ λόγος. οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.</quote>
+>> St. John, 1. 1-2.
 
 
 
-</p>
-</div>
-</div>
+
+
+
 
 
 <pb n="46"/>

@@ -2,21 +2,21 @@
 
 
 
-  <quote>
-    σκηνὴ πᾶς ὁ βίος.
-  </quote>
-  <quote>
-    "All the world’s a stage.”
+<quote>
+σκηνὴ πᾶς ὁ βίος.
+</quote>
+<quote>
+"All the world’s a stage.”
 
-    Literally: All life is a tent (See § 35).
-  </quote>
-  >> Greek Anthology.
+Literally: All life is a tent (See § 35).
+</quote>
+>> Greek Anthology.
 
 
 
 
 <div type="textpart" subtype="para" n="29">
-<p>Α-Stem Feminines. Α-declension nouns whose
+Α-Stem Feminines. Α-declension nouns whose
 nominatives end in ᾱ or η are feminine. Because the
 feminine article shows η in the singular, nouns and adjectives in η are presented first.<note n="GRC">this makes no sense if you have not learned the next chapter -- it only works for teachers</note> Both types are the same
 in the plural
@@ -32,7 +32,7 @@ In like manner inflect ἡ φυγή and ἡ μάχη.4
 What forms of the α-declension have the same ending as the corresponding form of the ο-declension? What have similar endings?
 
 <div type="textpart" subtype="para" n="30">
-<p>Adjectives.
+Adjectives.
 (a) Adjectives of the ο- and α-declensions have three endings, one for each gender. [Likewise,
 Latin has three endings, one for masculine, feminine and neuter, e.g., bonus, bona, bonum, "good".]
 
@@ -56,7 +56,7 @@ like the genitive plural of the o-declension.
 Inflect in all three genders ἀγαθός and δῆλος. Compare with paradigms, § 510, a.
 
 <div type="textpart" subtype="para" n="31">
-<p>Position of Adjectives.
+Position of Adjectives.
 (a) When an adjective or
 an adjective phrase accompanies a noun with a definite
 article, the adjective usually stands between the article
@@ -80,7 +80,7 @@ the article and the noun without the article being repeated, it is said to stand
 δίκαιος ὁ ἄνθρωπος or ὁ ἄνθρωπος δίκαιος the man (is) just. 
 
 <div type="textpart" subtype="para" n="32">
-<p>Dative of Possession. In English we say There is no lid to the box. The Latin says <foreign xml:lang="lat">Puero est gladius</foreign>, <gloss>the boy has a sword</gloss>. So in Greek the dative is used to denote
+Dative of Possession. In English we say There is no lid to the box. The Latin says <foreign xml:lang="lat">Puero est gladius</foreign>, <gloss>the boy has a sword</gloss>. So in Greek the dative is used to denote
 the possessor, while the thing possessed is subject of the
 verb to be:
 
@@ -98,7 +98,7 @@ the village had no garrison,
 
 
 <div type="textpart" subtype="para" n="33">
-<p>VOCABULARY
+VOCABULARY
 <span style="color:green">γάρ</span>: postpositive conjunction : for.
 <span style="color:green">σπονδή</span>σπονδῆς, ἡ: libation; pl, σπονδή, σπονδαί, αἱ, treaty, truce. SPONDEE.
 <span style="color:green">κώμη</span>, κώμης, ἡ: village.
@@ -114,7 +114,7 @@ the village had no garrison,
 <rs type="lemma" n="φυλάσσω">φυλάττω</rs>: guard (verb).
 
 <div type="textpart" subtype="para" n="34">
-<p>EXERCISES
+EXERCISES
 
 (a) What use of the word do portions in heavy type suggest ?
 
@@ -154,17 +154,17 @@ This is probably the earliest extant theater in the world. It is built on the
 southern slope of the acropolis at Athens. Here th
 
 <div type="textpart" subtype="para" n="35">
-<p>Word-formation. It is interesting to follow the
+Word-formation. It is interesting to follow the
 changes in meanings of words. Words are living creatures and as such they coristantly acquire new characteristics and new aptitudes as they adjust themselves to new conditions.
 
 Thus σκηνή, tent or booth, was originally used of the tent or
 booth into which an actor withdrew to change his costume.
 When the theater became more elaborate, σκηνή referred to the
 wall that served as support for painted scenery. From this it
-was but a step to σκηνή meaning the scene of an action.</p>
+was but a step to σκηνή meaning the scene of an action.
 
 <pb n="19"/>
 
-</div>
 
-</div>
+
+

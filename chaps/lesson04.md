@@ -1,16 +1,16 @@
 # Chapter 4: DECLENSION OF O-STEM NEUTERS
 
 
-   >  πᾶν δένδρον ἀγαθὸν καρποὺς καλοὺς ποιεῖ.<br/>
-  <quote>
-    Every good tree bringeth forth good fruit. </quote>
-  >> Matthew, VII. 17.
+>  πᾶν δένδρον ἀγαθὸν καρποὺς καλοὺς ποιεῖ.<br/>
+<quote>
+Every good tree bringeth forth good fruit. </quote>
+>> Matthew, VII. 17.
 
 
 
 
 <div type="textpart" subtype="para" n="21">
-<p>Ο-Stem Neuters. These nouns have a nominative
+Ο-Stem Neuters. These nouns have a nominative
 ending in -ον. They differ from masculines only in the
 nominative singular and the nominative and accusative
 plural.
@@ -25,12 +25,12 @@ the worthy gift
 In like manner inflect τὸ καλὸν πεδίον.2
 
 <div type="textpart" subtype="para" n="22">
-<p>Agreement of Verb. A neuter plural subject regularly has its verb in the singular:
+Agreement of Verb. A neuter plural subject regularly has its verb in the singular:
 τὰ δῶρα ἦν ἄξια
 the gifts were worthy.
 
 <div type="textpart" subtype="para" n="23">
-<p>Dative of Place Where. The dative with most
+Dative of Place Where. The dative with most
 prepositions denotes place where: 4
 
 ἐν τῷ πεδίῳ in the plain
@@ -51,7 +51,7 @@ that of the Latin ablative in its in relations.
 
 
 <div type="textpart" subtype="para" n="24">
-<p>Accusative of Place to Which. The accusative
+Accusative of Place to Which. The accusative
 with many prepositions denotes place to which :1
 
 εἰς τὸ πεδίον
@@ -61,7 +61,7 @@ into the plain
 παρὰ τὸν στρατηγόν to the side of the general.
 
 <div type="textpart" subtype="para" n="25">
-<p>VOCABULARY
+VOCABULARY
 <span style="color:green">δέ</span>: (δ᾽ before vowels), postpositive conj: but, and.
 
 <span style="color:green">ἐν</span>: proclitic prep. with D. : in (Lat. in). ENCLITIC.
@@ -77,7 +77,7 @@ into the plain
 <span style="color:green">στάδιον</span>, σταδίου, τό: stadium (race course); stade (600 ft.).3 
 
 <div type="textpart" subtype="para" n="26">
-<p>EXERCISES
+EXERCISES
 
 (a) What probable use  of the word is denoted by the heavy type endings ?
 
@@ -116,15 +116,15 @@ The Delphic stadium (page 12) still retains the row of flat stones whose double 
 3. The friends have fine horses.
 4. He wishes to lead the men out of danger.
 
-5. The brothers were hostile to the messenger.</p>
+5. The brothers were hostile to the messenger.
 
 <figure><head>τὸ ἐν Δελφοῖς στάδιον</head>
-<p>This ancient Greek stadium, perhaps the best preserved of all, is !ocated on
+This ancient Greek stadium, perhaps the best preserved of all, is !ocated on
 the slopes of Parnassus, high above a lovely valley. Here every four years
-were held the famous Pythian Games in honor of Apollo.</p></figure>
+were held the famous Pythian Games in honor of Apollo.</figure>
 
 <pb n="13"/>
 
-</div>
 
-</div>
+
+

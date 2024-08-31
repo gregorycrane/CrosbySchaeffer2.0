@@ -1,16 +1,16 @@
 # Chapter 9: FUTURE INDICATIVE AND INFINITIVE ACTIVE OF ω-VERBS
 
 
-  <quote>καλὸν ἡσυχία.
-  </quote>
-  <quote>Leisure is a fine thing.
-  </quote>
-  >> Periander
+<quote>καλὸν ἡσυχία.
+</quote>
+<quote>Leisure is a fine thing.
+</quote>
+>> Periander
 
 
 
 <div type="textpart" subtype="para" n="49">
-<p>The Future Tense. This tense has the same personal endings as the present. It differs from the present only as to stem, which it forms by adding -σ- to the verb stem. In the case of verbs whose stem ends in a mute, the σ is the occasion of certain changes:
+The Future Tense. This tense has the same personal endings as the present. It differs from the present only as to stem, which it forms by adding -σ- to the verb stem. In the case of verbs whose stem ends in a mute, the σ is the occasion of certain changes:
 
 1. A labial (π, β, φ) unites with σ to form -ψ- (πσ) ;
 
@@ -30,7 +30,7 @@ Future Indicative of παύω I stop
 In like manner inflect λύω, γράφω, ἄρχω, πείθω.
 
 <div type="textpart" subtype="para" n="50">
-<p>Indirect Discourse.
+Indirect Discourse.
 (a) Verbs whose meaning implies mental action (saying, thinking, or the like) are used to introduce an indirect quotation : the general sends (sent)
 
 <pb n="27"/>
@@ -81,7 +81,7 @@ The gateway to the Acropolis.
 <pb n="28"/>
 
 <div type="textpart" subtype="para" n="51">
-<p>VOCABULARY
+VOCABULARY
 <span style="color:green">ἄρχω</span>, ἄρξω:1 begin, rule, command,  with G. ARCHBISHOP.
 
 <span style="color:green">μέλλω</span>, μελλήσω: intend, delay, be about to, usually with fut. inf.
@@ -101,7 +101,7 @@ The gateway to the Acropolis.
 <span style="color:green">ἰσχυρός</span>, ἰσχυρά, ἰσχυρόν: strong. 
 
 <div type="textpart" subtype="para" n="52">
-<p>EXERCISES
+EXERCISES
 
 (a) Identify the person and number of the following forms and give the corresponding forms of the present:
 
@@ -141,10 +141,10 @@ The gateway to the Acropolis.
 
 
 
-  
+
 
 <div type="textpart" subtype="para" n="53">
-<p>Word-formation. Many verbs with ε in the stem
+Word-formation. Many verbs with ε in the stem
 have cognate nouns or adjectives with ο instead of ε:
 λείπω leave, λοιπός left;
 λέγω speak, λόγος word or speech ;
@@ -158,14 +158,14 @@ Compare Latin tego I cover, toga cloak; English I sing, song.
 
 
 <figure><head>ὁδὸς ἀρχαία</head>
-<p>This fine roadway, bordered with elevated sidewalks, led from the agora
+This fine roadway, bordered with elevated sidewalks, led from the agora
 at Corinth to the harbor. The ancient Greeks did most of their travel by sea
-and so had few good roads.</p></figure>
+and so had few good roads.</figure>
 
-</p>
+
 
 <pb n="30"/>
 
-</div>
 
-</div>
+
+

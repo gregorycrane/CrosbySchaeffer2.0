@@ -1,13 +1,13 @@
 # Chapter 19: CONSONANT DECLENSION (Δ- OR Τ-STEMS)
- >  ἄριστον μὲν ὕδωρ.</quote> <quote xml:lang="eng">Water is best<br/> >> Pindar, Olympian, 1. 1.
+>  ἄριστον μὲν ὕδωρ.</quote> <quote xml:lang="eng">Water is best<br/> >> Pindar, Olympian, 1. 1.
 
 
 
 <div type="textpart" subtype="para" n="107">
-<p>Stems in τ or δ with unaccented ι before the final
+Stems in τ or δ with unaccented ι before the final
 consonant have ιν in the accusative singular. Other
 nouns with τ or δ stems are normal.
-</p><p>
+
 In the dative plural τ and δ drop out before σι. When
 the stem ends in ντ, both letters drop out and the π of the
 stem lengthens to ου.
@@ -18,7 +18,7 @@ stem lengthens to ου.
 
 
 <div type="textpart" subtype="para" n="108">
-<p>Result Clauses. <span style="color:green">ὥστε</span> followed by the indicative
+Result Clauses. <span style="color:green">ὥστε</span> followed by the indicative
 tlenotes an actual result ; followed by the znfinitive it denotes
 a natural or probable result :
 
@@ -29,7 +29,7 @@ I had money and (so that I) bought provisions ;
 I had money (so as) to buy provisions.
 
 <div type="textpart" subtype="para" n="109">
-<p>VOCABULARY
+VOCABULARY
 <span style="color:green">ἅρμα</span>, ἅρματος, τό: chariot.
 <span style="color:green">πρᾶγμα</span>, πράγματος, τό: fact, business ; pl. trouble. PRAGMATIC.
 <span style="color:green">ἄρχων</span>, ἄρχοντος, ὁ: archon, ruler,  commander. Cf. ἄρχω, ἀρχή.
@@ -46,7 +46,7 @@ I had money (so as) to buy provisions.
 ὥστε, conj.: with ind., so that; , with inf., so as to.
 
 <div type="textpart" subtype="para" n="110">
-<p>EXERCISES
+EXERCISES
 
 (a) Translate :
 
@@ -87,6 +87,6 @@ Persians in 480 s.c.
 
 
 
-</p>
-</div>
+
+
 

@@ -1,16 +1,16 @@
 # Chapter 8: Imperfect Indicative Active of ω-verbs
 
 
-  <quote><l>ἔργον δ᾽ οὐδὲν ὄνειδος, ἀεργίη δέ τ᾽ ὄνειδος.
-  </l></quote>
-  <quote>Work is no disgrace, but idleness is a disgrace.
-  </quote>
-  >> Hesiod, Works and Days, 311.
+<quote><l>ἔργον δ᾽ οὐδὲν ὄνειδος, ἀεργίη δέ τ᾽ ὄνειδος.
+</l></quote>
+<quote>Work is no disgrace, but idleness is a disgrace.
+</quote>
+>> Hesiod, Works and Days, 311.
 
 
 
 <div type="textpart" subtype="para" n="41">
-<p>The Imperfect Tense. This tense denotes action
+The Imperfect Tense. This tense denotes action
 continued, repeated, customary, or attempted in past time:
 
 ἔπαυον I was stopping, I kept stopping, I used to stop, I tried to stop.
@@ -20,14 +20,14 @@ IMPERFECT INDICATIVE ACTIVE
 παύω I stop ἄγω lead
 
 <div type="textpart" subtype="para" n="42">
-<p>Formation. The imperfect tense is built on the
+Formation. The imperfect tense is built on the
 present stem showing the variable vowel (ο or ε). Being
 a secondary3 tense, it differs from the present in having
 (1) augment, (2) secondary endings. It is found only
 in the indicative.
 
 <div type="textpart" subtype="para" n="43">
-<p>Augment. All secondary tenses of the indicative
+Augment. All secondary tenses of the indicative
 may be recognized by what is called augment. This is of
 two kinds:
 
@@ -53,14 +53,14 @@ Verbs with an initial vowel or diphthong lengthen the initial vowel.
 Inflect the imperfect indicative active of <span style="color:green">πέμπω</span> and ἀθροίζω.
 
 <div type="textpart" subtype="para" n="44">
-<p>Dative of Manner.
+Dative of Manner.
 
 The dative may denote manner :2
 
 φεύγουσι σιγῇ they flee in silence.
 
 <div type="textpart" subtype="para" n="45">
-<p>Balanced Structure.
+Balanced Structure.
 μέν ... δέ are used with
 two words or phrases or
 clauses that are compared
@@ -74,9 +74,9 @@ indicating change of subject. μέν is rarely to be translated but is a valuabl
 
 <figure><head>An Ionic Column</head>
 
-<p>The delicate workmanship of the
+The delicate workmanship of the
 Erechtheum, to which this column
-belongs, awakens universal admiration.</p></figure>
+belongs, awakens universal admiration.</figure>
 
 1 Certain verbs beginning with ε change ε to ει when augmented : ἔχω, εἶχον.
 
@@ -86,7 +86,7 @@ belongs, awakens universal admiration.</p></figure>
 <pb n="24"/>
 
 <div type="textpart" subtype="para" n="46">
-<p>VOCABULARY
+VOCABULARY
 <span style="color:green">ἀθροίζω</span>: collect.
 
 <span style="color:green">ἀλλά</span>, conj.: but, however. Stronger than δέ. Final a is often elided.
@@ -100,7 +100,7 @@ belongs, awakens universal admiration.</p></figure>
 <span style="color:green">σῑγή</span>, σιγῆς, ἡ: silence.
 
 <div type="textpart" subtype="para" n="47">
-<p>EXERCISES
+EXERCISES
 
 (a) What do the portions in heavy type tell as to person
 and number of the subject?
@@ -141,13 +141,13 @@ Vhich resemble endings of the present ?
 1 Page 23, note 1.
 2 Page 11, note 3.
 
-</div>
+
 
 <pb n="25"/>
 
 
 <div type="textpart" subtype="para" n="48">
-<p>Greek as a World Language.
+Greek as a World Language.
 
 
 
@@ -178,6 +178,6 @@ Try these:
 1 Page 20, note 1.
 
 <pb n="26"/>
-</p>
-</div>
+
+
 

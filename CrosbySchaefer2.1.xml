@@ -91,25 +91,19 @@
 <div type="textpart" subtype="para" n="1"><p><title>Declensions</title>. There are three declensions in Greek,
 instead of five as in Latin. To these, because of their general uniformity, the o-stems serve as a good introduction.</p></div>
 
-<div type="textpart" subtype="para" n="2"><p>Ο-Stem Masculines. Nouns of the ο-declension
-whose nominatives end in -ος are usually masculine.
+<div type="textpart" subtype="para" n="2"><p><title>Ο-Stem Masculines</title>. Nouns of the ο-declension
+whose nominatives end in -ος are usually masculine.</p>
 
+<p><title>ποταμός, ποταμοῦ, ὁ — a river</title>
 <table>
-  <head>ποταμός, ποταμοῦ, ὁ — a river</head>
-  <row role="label"><cell cols="3">Singular</cell></row>
-    <row><cell role="label">Nominative</cell><cell>ὁ ποταμός</cell><cell>the river [subject]</cell></row>
-    <row><cell role="label">Genitive</cell><cell>τοῦ ποταμοῦ</cell><cell>of the river</cell></row>
-    <row><cell role="label">Dative</cell><cell>τῷ ποταμῷ</cell><cell>to/for the river</cell></row>
-    <row><cell role="label">Accusative</cell><cell>τὸν ποταμόν</cell><cell>the river [object]</cell></row>
+  
+  <row role="label"><cell>Singular</cell><cell>Greek</cell><cell>English</cell><cell>Greek</cell><cell>English</cell></row>
+    <row><cell>Nominative</cell><cell>ὁ ποταμός</cell><cell>the river (subject)</cell><cell>οἱ ποταμοί</cell><cell>the rivers (subject)</cell></row>
+    <row><cell>Genitive</cell><cell>τοῦ ποταμοῦ</cell><cell>of the river</cell><cell>τῶν ποταμῶν</cell><cell>of the rivers</cell></row>
+    <row><cell>Dative</cell><cell>τῷ ποταμῷ</cell><cell>to/for the river</cell><cell>τοῖς ποταμοῖς</cell><cell>to/for the rivers</cell></row>
+    <row><cell>Accusative</cell><cell>τὸν ποταμόν</cell><cell>the river (object)</cell><cell>τοὺς ποταμούς</cell><cell>the rivers (object)</cell></row>
 
-    <row role="label"><cell cols="3">Plural</cell></row>
-    <row><cell role="label">Nominative</cell><cell>τὸν ποταμόν</cell><cell>the rivers [subject]</cell></row>
 
-    <row><cell role="label">Genitive</cell><cell>τῶν ποταμῶν</cell><cell>of the rivers</cell></row>
-
-    <row><cell role="label">Dative</cell><cell>τοῖς ποταμοῖς</cell><cell>to/for the rivers</cell></row>
-
-    <row><cell rend="centered" role="label">Accusative</cell><cell>τοὺς ποταμούς</cell><cell>the rivers [object]</cell></row>
 
 </table>
 

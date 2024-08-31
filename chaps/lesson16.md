@@ -1,14 +1,14 @@
 # Chapter 16: MASCULINE NOUNS OF THE A-DECLENSION. REFLEXIVE PRONOUNS
 
- >  ἀγαπήσεις τὸν πλησίον σου ὡς σαυτόν.<br/>
-   >  You will love your neighbor as yourself<br/>
+>  ἀγαπήσεις τὸν πλησίον σου ὡς σαυτόν.<br/>
+>  You will love your neighbor as yourself<br/>
 >> St. Matthew, XIX. 19.
 
 
 
 
 <div type="textpart" subtype="para" n="87">
-<p>Masculine Nouns of the α-declension. Most nouns
+Masculine Nouns of the α-declension. Most nouns
 of the α-declension are feminine. Masculines may be
 recognized not merely as referring to males but also as showing -ης or -ας instead of -η or -α in the nominative singular.
 Their genitive singular ends in -ου. Otherwise the inflection parallels that of the feminines.
@@ -18,7 +18,7 @@ Note the two indications of masculine gender in -ς of the nominative singular a
 In like manner inflect ὁπλίτης.
 
 <div type="textpart" subtype="para" n="88">
-<p>Reflexive Pronouns are formed from the stems of the
+Reflexive Pronouns are formed from the stems of the
 personal pronouns and the proper case forms of αὐτός. In
 the plural of the first and second persons both parts of the
 word are fully inflected. The pronoun of the third person,
@@ -30,7 +30,7 @@ For obvious reasons the reflexive pronouns of the first and second persons have 
 <pb n="50"/>
 
 <div type="textpart" subtype="para" n="89">
-<p>Reflexive Pronouns appear in the predicate and refer
+Reflexive Pronouns appear in the predicate and refer
 to the subject of the sentence or clause in which they stand.
 As such they are direct refleaives. Sometimes they appear
 in a dependent clause and refer to the subject of the main
@@ -43,7 +43,7 @@ I went to my own tent;
 they persuaded me to go to their (own) tent.
 
 <div type="textpart" subtype="para" n="90">
-<p>VOCABULARY
+VOCABULARY
 
 <span style="color:green">ἑ-αυτοῦ</span> : of himself, herself; itself.
 
@@ -81,7 +81,7 @@ they persuaded me to go to their (own) tent.
 
 
 <div type="textpart" subtype="para" n="91">
-<p>EXERCISES
+EXERCISES
 
 (a) Translate:
 
@@ -107,7 +107,7 @@ they persuaded me to go to their (own) tent.
 5. Those arms were not on the wagon.
 
 <div type="textpart" subtype="para" n="92">
-<p>Review axioms given in § 73; then translate:
+Review axioms given in § 73; then translate:
 
 
 1. καὶ ἐὰν ἀπ᾽ ἀν-ίσων ἴσα ἀφ-αιρεθῇ, τὰ λοιπά ἐστιν ἄν-ισα.
@@ -119,6 +119,6 @@ Euclid.
 
 <pb n="52"/>
 
-</p>
-</div>
-</div>
+
+
+

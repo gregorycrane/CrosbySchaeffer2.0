@@ -1,25 +1,25 @@
 # Chapter 7: Declension of α-stems -- continued.
 
-  
-    <quote>λύπης ἰᾱτρός ἐστιν ἀνθρώποις λόγος.
-    </quote>
-    <quote>Literally: Reason is for men a physician of grief.
-    </quote>
-    <bibl>Menander, fragment.
-    </bibl>
-  
+
+<quote>λύπης ἰᾱτρός ἐστιν ἀνθρώποις λόγος.
+</quote>
+<quote>Literally: Reason is for men a physician of grief.
+</quote>
+<bibl>Menander, fragment.
+</bibl>
+
 
 
 
 <div type="textpart" subtype="para" n="36">
-<p>Feminines in ᾱ. If ε, ι, or ρ immediately precedes
+Feminines in ᾱ. If ε, ι, or ρ immediately precedes
 the final vowel of the stem, words of the α-declension have
 ᾱ, not η, throughout the singular.2
 
 ἡ μικρὰ στρατιά the small army
 
 <div type="textpart" subtype="para" n="37">
-<p>Accusative of Extent. The accusative denotes extent
+Accusative of Extent. The accusative denotes extent
 of space or duration of time :
 
 διώξει τοὺς πολεμίους δέκα σταδίους
@@ -41,7 +41,7 @@ They will be treated later.
 <pb n="20"/>
 
 <div type="textpart" subtype="para" n="38">
-<p>VOCABULARY
+VOCABULARY
 
 <span style="color:green">ἀγορά</span>, ἀγορᾶς, ἡ: market, market-place. AGORAPHOBIA.
 
@@ -65,7 +65,7 @@ They will be treated later.
 <span style="color:green">χώρᾱ</span>, χώρας, ἡ country.
 
 <div type="textpart" subtype="para" n="39">
-<p>EXERCISES
+EXERCISES
 
 (a) Translate :
 
@@ -109,14 +109,14 @@ Gate OF ATHENA ARCHEGETIS
 
 <figure><head>THE ACROPOLIS</head>
 
-<p>Although many Greek cities had a fortified hill, or acropolis, most people
+Although many Greek cities had a fortified hill, or acropolis, most people
 associate that word with the famous hi!l in the heart of Athens. At first the
 home of the early kings, it came to be devoted to the gods and heroes of the
 state. Its glorious temples were visible from the agora, as indeed for miles
-around in all directions.</p></figure>
+around in all directions.</figure>
 
 <div type="textpart" subtype="para" n="40">
-<p>Word-formation.
+Word-formation.
 (a) A very common means of
 forming adjectives is by adding to the stem of a noun
 the suffix -ιος, -ίᾱ, -ιον, which appears frequently in English as -ian. O-stems drop the o before this suffix, α-stems retain the α to form the diphthong αι:
@@ -124,10 +124,10 @@ the suffix -ιος, -ίᾱ, -ιον, which appears frequently in English as -ian
 φίλος friend, φίλιος friendly;
 but Ἀθῆναι Athens, Ἀθηναῖος Athenian.
 
-(2) From δίκαιον and πολέμιος construct the corresponding nouns; from ἵππος and ἀγορά construct the corresponding adjectives.</p>
+(2) From δίκαιον and πολέμιος construct the corresponding nouns; from ἵππος and ἀγορά construct the corresponding adjectives.
 
 <pb n="22"/>
 
-</div>
 
-</div>
+
+

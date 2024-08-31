@@ -1,15 +1,15 @@
 # Chapter 20: REVIEW
- >  αἱ δεύτεραί πως φροντίδες σοφώτεραι.</quote> <quote xml:lang="eng">The sober second thought.</quote> <quote xml:lang="eng">Literally: Second thoughts somehow [are] wiser.<br/> >> Euripides, Hippolytus, 436.
+>  αἱ δεύτεραί πως φροντίδες σοφώτεραι.</quote> <quote xml:lang="eng">The sober second thought.</quote> <quote xml:lang="eng">Literally: Second thoughts somehow [are] wiser.<br/> >> Euripides, Hippolytus, 436.
 
- <figure><head>καλὸν τὸ ὕδωρ
-  The sacred isle of Delos now lies
-  in ruins, but "Cleopatra’s Well” still
-  cheers the thirsty.</head></figure>
-</div>
+<figure><head>καλὸν τὸ ὕδωρ
+The sacred isle of Delos now lies
+in ruins, but "Cleopatra’s Well” still
+cheers the thirsty.</head></figure>
+
 
 
 <div type="textpart" subtype="para" n="111">
-<p>ASSIGNMENTS
+ASSIGNMENTS
 
 (a) Review Vocabulary III, page 330, following the
 method indicated in § 27, a.
@@ -41,7 +41,7 @@ be used with πολίτῃ, ἀσπίδες, ἅρματα, νυκτῶν, φύ�
 (g) Inflect εἰμί the present and imperfect indicative.
 
 <div type="textpart" subtype="para" n="112">
-<p>EXERCISES
+EXERCISES
 
 (a) Complete:
 
@@ -67,6 +67,6 @@ be used with πολίτῃ, ἀσπίδες, ἅρματα, νυκτῶν, φύ�
 
 <pb n="64"/>
 
-</p>
-</div>
-</div>
+
+
+

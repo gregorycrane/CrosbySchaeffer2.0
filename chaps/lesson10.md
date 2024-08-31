@@ -1,12 +1,12 @@
 # Chapter 10: FIRST AND SECOND AORIST INDICATIVE AND INFINITIVE ACTIVE OF Ω-VERBS
 
 
- >  ὅ τι καλὸν φίλον ἀεί.<br/>
-   >  A thing of beauty is a joy forever.</quote><quote xml:lang="eng">Literally: Whatever is beautiful is ever dear.<br/>>> Euripides, Bacchae, 881.
+>  ὅ τι καλὸν φίλον ἀεί.<br/>
+>  A thing of beauty is a joy forever.</quote><quote xml:lang="eng">Literally: Whatever is beautiful is ever dear.<br/>>> Euripides, Bacchae, 881.
 
 
 <div type="textpart" subtype="para" n="54">
-<p>The Aorist. Aorist is the name of a tense of the
+The Aorist. Aorist is the name of a tense of the
 Greek verb. The name is not used in the inflection of
 Latin or English verbs, but many of its functions are
 entirely familiar.
@@ -19,7 +19,7 @@ a motion picture:
 ἔπαυον I was stopping; ἔπαυσα I stopped.
 
 <div type="textpart" subtype="para" n="55">
-<p>Formation of the Aorist.
+Formation of the Aorist.
 (a) The aorist, in common with other secondary tenses, in the indicative has
 augment and secondary endings (§§ 42, 43).
 
@@ -42,14 +42,14 @@ aorist is first or second.
 Inflect λύω and φεύγω in the aorist indicative and infinitive.
 
 <div type="textpart" subtype="para" n="56">
-<p>There is usually no difference of meaning between
+There is usually no difference of meaning between
 first and second aorist, the terms signifying merely differ-
 ence in formation:
 
 ἔπαυσοα (first aorist) I stopped ; ἔλιπον (second aorist) I left.
 
 <div type="textpart" subtype="para" n="57">
-<p>Tenses of the Infinitive. The infinitive, except in
+Tenses of the Infinitive. The infinitive, except in
 
 indirect discourse, has no time value. The present infinitive denotes continuance or repetition (a motion picture),
 while the aorist infinitive denotes a single occurrence (a snap-shot):
@@ -80,7 +80,7 @@ face, "This is the city of Hadrian, not of Theseus."
 
 
 <div type="textpart" subtype="para" n="58">
-<p>VOCABULARY
+VOCABULARY
 <span style="color:green">ἐνταῦθα</span>: adv., there, at that place.
 
 <span style="color:green">λοιπός</span>, λοιπή, λοιπόν: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.
@@ -94,7 +94,7 @@ face, "This is the city of Hadrian, not of Theseus."
 
 
 <div type="textpart" subtype="para" n="59">
-<p>EXERCISES
+EXERCISES
 
 (a) Translate:
 
@@ -125,9 +125,9 @@ face, "This is the city of Hadrian, not of Theseus."
 
 2 An example of vowel change (§ 53).
 3 The angment of compounds follows the prefix.
-</p>
+
 <pb n="34"/>
 
-</div>
 
-</div>
+
+

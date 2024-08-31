@@ -1,21 +1,21 @@
 # Chapter 5: REVIEW
 
 
-  <quote>
-    ἀρχὴ δὲ τοι ἥμισυ παντός.
+<quote>
+ἀρχὴ δὲ τοι ἥμισυ παντός.
 
-  </quote>
-  <quote>
-    Well begun is half done.
+</quote>
+<quote>
+Well begun is half done.
 
-    Literally: (The) beginning (is) half of everything.
-  </quote>
-  >> Greek maxim.
+Literally: (The) beginning (is) half of everything.
+</quote>
+>> Greek maxim.
 
 
 
 <div type="textpart" subtype="para" n="27">
-<p>Importance of Vocabulary. If you wish to succeed
+Importance of Vocabulary. If you wish to succeed
 in the study of any language, you must have above all else
 a good working vocabulary. The words assigned for study
 in this book have been chosen for their relative frequency
@@ -47,7 +47,7 @@ he sends.
 
 
 <div type="textpart" subtype="para" n="28">
-<p>EXERCISES
+EXERCISES
 (a) Complete:
 
 1. ὁ τ-- στρατηγ-- (singular) κίνῡῦνος ἦν μῖκρ--
@@ -61,10 +61,10 @@ he sends.
 
 <figure><head>A GREEK BOY‘S TABLET</head>
 
-<p>Here we see half of a school tablet used by some Greek lad more than
+Here we see half of a school tablet used by some Greek lad more than
 2000 years ago. At the top the master has written two lines of verse, which
 the pupil has tried to reproduce twice in the space below. See if you can
-find mistakes in his work.</p></figure>
+find mistakes in his work.</figure>
 
 (b) Write in Greek:
 
@@ -73,9 +73,9 @@ find mistakes in his work.</p></figure>
 3. And you (plural) wish to have beautiful gifts.
 4. We are sending the men into the stadium.
 5. The fine gifts were from (the side of) friends of the general.
-</p>
+
 <pb n="15"/>
 
-</div>
 
-</div>
+
+

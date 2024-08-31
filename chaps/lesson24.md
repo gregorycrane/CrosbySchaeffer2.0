@@ -1,16 +1,16 @@
 # Chapter 24: PRESENT AND IMPERFECT INDICATIVE, PRESENT INFINITIVE, AND PARTICIPLE OF παύω IN MIDDLE AND PASSIVE VOICE
- >  ἀνάγκᾳ δ᾽ οὐδὲ θεοὶ μάχονται.</quote> <quote xml:lang="eng">Not even gods fight against necessity<br/> >> Simonides.
+>  ἀνάγκᾳ δ᾽ οὐδὲ θεοὶ μάχονται.</quote> <quote xml:lang="eng">Not even gods fight against necessity<br/> >> Simonides.
 
 
 <div type="textpart" subtype="para" n="133">
-<p>Passive Voice. Like English and Latin, Greek
+Passive Voice. Like English and Latin, Greek
 has a passive voice, which shows the subject as acted
 upon:
 
 παύομαι. I am being stopped.
 
 <div type="textpart" subtype="para" n="134">
-<p>Middle Voice. Greek also has a middle voice,
+Middle Voice. Greek also has a middle voice,
 which shows that the subject so acts as somehow to affect
 himself.
 
@@ -26,10 +26,10 @@ wise affect himself or his interests +
 λύομαι τοὺς ἵππους I loose my (own) horses. <note>GRC: If memory serves, there is a nice alternation of luw/luomai with Circe or Calypso and Od</note>
 
 <div type="textpart" subtype="para" n="135">
-<p>Present Indicative Middle and Passive of παύω
+Present Indicative Middle and Passive of παύω
 
 <div type="textpart" subtype="para" n="136">
-<p>Imperfect Indicative Middle and Passive of παύω
+Imperfect Indicative Middle and Passive of παύω
 
 
 
@@ -37,7 +37,7 @@ wise affect himself or his interests +
 
 
 <div type="textpart" subtype="para" n="137">
-<p>There is no difference in appearance between the
+There is no difference in appearance between the
 middle and the passive in the present and imperfect. As
 in the active voice, the vowel ο appears before μ or ν of
 the ending, while ε appears before other endings. The ε
@@ -48,7 +48,7 @@ The present and imperfect middle and passive have the
 same stem as the present active.
 
 <div type="textpart" subtype="para" n="138">
-<p>Deponent Verbs. Some verbs have forms only in
+Deponent Verbs. Some verbs have forms only in
 the middle or passive voice but with active meanings.
 They are called deponents :
 
@@ -58,14 +58,14 @@ Inflect the present and imperfect indicative, and give
 the present infinitive and participle of wopevopac,
 
 <div type="textpart" subtype="para" n="139">
-<p>Genitive of Agent. ὑπό and the genitive when
+Genitive of Agent. ὑπό and the genitive when
 modifying a passive verb indicate the agent or doer of an
 action (compare with the Latin a or ab and the ablative): 1
 
 ἀθροίζεται ὑπὸ αὐτοῦ it ts being gathered by him.
 
 <div type="textpart" subtype="para" n="140">
-<p>VOCABULARY
+VOCABULARY
 <span style="color:green">ἄχθομαι</span>: be burdened, vexed.
 <rs type="lemma" n="μεταπέμπω">μετα-πέμπομαι</rs>: send after, summon.
 <span style="color:green">βούλομαι</span>: wish, desire.
@@ -86,7 +86,7 @@ action (compare with the Latin a or ab and the ablative): 1
 
 
 <div type="textpart" subtype="para" n="141">
-<p>EXERCISES
+EXERCISES
 
 (a) What do the portions in heavy type tell as to person,
 number, and voice ?
@@ -152,5 +152,5 @@ number, and voice ?
 <pb n="78"/>
 
 4. All being present, Cyrus himself called the messenger into the tent.
-</div>
+
 </body></text></TEI>

@@ -1,29 +1,29 @@
 # Chapter 17: PRESENT AND IMPERFECT INDICATIVE AND PRESENT INFINITIVE OF εἰμί. ENCLITICS
 
 <bibl></bibl>
-   >  ἄγροικός εἶμι· τὴν σκάφην σκάφην λέγω.<br/>
-   >  I am from the country; I call a spade a spade.<br/>
-   >  Literally : I am a countryman; I call the tub a tub.<br/>
+>  ἄγροικός εἶμι· τὴν σκάφην σκάφην λέγω.<br/>
+>  I am from the country; I call a spade a spade.<br/>
+>  Literally : I am a countryman; I call the tub a tub.<br/>
 
-  >> Comic Attic fragment.
-  
+>> Comic Attic fragment.
+
 
 
 
 
 
 <div type="textpart" subtype="para" n="93">
-<p>The verb εἰμί to be is irregular, as are the corresponding verbs in English and Latin.
+The verb εἰμί to be is irregular, as are the corresponding verbs in English and Latin.
 
 <div type="textpart" subtype="para" n="94">
-<p>All forms of the present indicative of εἰμί except
+All forms of the present indicative of εἰμί except
 εἶ are enclitic. ἔστι when thus accented means exists or is
 possible, except that it is regularly so accented after ἀλλά,
 καί, μή, οὐκ, τοῦτο, ὡς and εἰ (if), whether it has this spe-
 cial meaning or not.
 
 <div type="textpart" subtype="para" n="95">
-<p>Enclitics. (a) If the preeeding word has an ac-
+Enclitics. (a) If the preeeding word has an ac-
 cent on the ultima, the enclitic has no accent :
 
 καλοί εἰσιν they are beautiful.
@@ -43,14 +43,14 @@ two syllables is accented on the final syllable:
 ὁπλίτης ἐστίν he is a hoplite.
 
 <div type="textpart" subtype="para" n="96">
-<p>Accent of Augmented Verbs. The accent cannot
+Accent of Augmented Verbs. The accent cannot
 precede the augment. Therefore compound verbs are ac-
 cented after the prefix :
 
 ἐξάγω, ἐξῆγον ; ἄπ-ειμι, ἀπ-ῆν.
 
 <div type="textpart" subtype="para" n="97">
-<p>Contrary to Fact Conditions. εἰ with a past tense
+Contrary to Fact Conditions. εἰ with a past tense
 of the indicative in the protasis and a past tense of the indicative with ἄν in the apodosis implies that the condition
 is not or was not fulfilled. This is called a contrary to
 fact condition. The imperfect tense indicates present time ;
@@ -68,7 +68,7 @@ Note carefully that the presence of ἄν in the apodosis distinguishes
 a contrary to fact from a past particular condition (§ 85).
 
 <div type="textpart" subtype="para" n="98">
-<p>VOCABULARY
+VOCABULARY
 
 <span style="color:green">ἄν</span>, post-pos. particle belonging to certain types of conditional clauses but lacking an exact English eqnivalent.
 
@@ -100,7 +100,7 @@ a contrary to fact from a past particular condition (§ 85).
 
 
 <div type="textpart" subtype="para" n="99">
-<p>EXERCISES
+EXERCISES
 
 (a) Translate:
 
@@ -128,27 +128,27 @@ a contrary to fact from a past particular condition (§ 85).
 5. The hoplites made (marched) a ten days’ march.
 
 <div type="textpart" subtype="para" n="100">
-<p>IN HOSTILE TERRITORY
-    <quote xml:lang="grc">ἐντεῦθεν ἐξ-ελαύνει διὰ τῆς Λυκαονίας. ταύτην τὴν χώραν
-        δι-ήρπασεν: ὡς (45) πολεμίαν. ἐντεῦθεν Κῦρος τὴν Κίλισσαν
-        (the Cilician queen) εἰς τὴν Κιλικίαν ἀπο-πέμπει τὴν ταχίστην
-        (quickest) ὁδόν·2 καὶ συν-έπεμψεν αὐτῇ στρατιώτας οὓς
-        Μένων εἶχε καὶ αὐτόν.</quote> <quote xml:lang="eng"></quote> >> Adapted from Xenophon, Anabasis, I. 2. 19-20.
+IN HOSTILE TERRITORY
+<quote xml:lang="grc">ἐντεῦθεν ἐξ-ελαύνει διὰ τῆς Λυκαονίας. ταύτην τὴν χώραν
+δι-ήρπασεν: ὡς (45) πολεμίαν. ἐντεῦθεν Κῦρος τὴν Κίλισσαν
+(the Cilician queen) εἰς τὴν Κιλικίαν ἀπο-πέμπει τὴν ταχίστην
+(quickest) ὁδόν·2 καὶ συν-έπεμψεν αὐτῇ στρατιώτας οὓς
+Μένων εἶχε καὶ αὐτόν.</quote> <quote xml:lang="eng"></quote> >> Adapted from Xenophon, Anabasis, I. 2. 19-20.
 
 
 
 
 <pb n="55"/>
 <figure><head>THE STADIUM AT ATHENS</head>
-<p>Here the Olympic games were revived in 1896 after the lapse of centuries
-    In the lower picture you can see its marble seats beyond the grove.</p></figure>
+Here the Olympic games were revived in 1896 after the lapse of centuries
+In the lower picture you can see its marble seats beyond the grove.</figure>
 
 
 <figure><head>View of ATHENS FROM THE ACROPOLIS</head>
-<p>Above the housetops rises the Arch of Hadrian (page 32). To the right
-    are the surviving columns of the lofty Olympieum (page 118). Beyond the
-    Stadium looms Hymettus, famed for its honey. The glory of Hymettus’
-    slopes at sunset won for Athens the title. “violet crowned.”</p></figure>
+Above the housetops rises the Arch of Hadrian (page 32). To the right
+are the surviving columns of the lofty Olympieum (page 118). Beyond the
+Stadium looms Hymettus, famed for its honey. The glory of Hymettus’
+slopes at sunset won for Athens the title. “violet crowned.”</figure>
 
 
 
@@ -158,6 +158,6 @@ a contrary to fact from a past particular condition (§ 85).
 
 <pb n="56"/>
 
-</p>
-</div>
-</div>
+
+
+

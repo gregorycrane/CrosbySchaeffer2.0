@@ -1,32 +1,32 @@
 # Chapter 15: FEMININE NOUNS OF THE A-DECLENSION. PERSONAL PRONOUNS
 
-  <quote>
-    θάλαττα, θάλαττα.
-  </quote>
-  <quote>
-    The sea, the sea!
-  </quote>
-  >> Xenophon, Anabasis, IV. 7, 24. 2 
+<quote>
+θάλαττα, θάλαττα.
+</quote>
+<quote>
+The sea, the sea!
+</quote>
+>> Xenophon, Anabasis, IV. 7, 24. 2 
 
 
 
 
 <div type="textpart" subtype="para" n="81">
-<p>Feminines in -ᾰ. Most nouns of the a-declension
+Feminines in -ᾰ. Most nouns of the a-declension
 have -ᾱ or -η in the nominative and carry the same throughout the singular. A few nouns have -ᾰ in the nominative.
 These have ᾱ in the genitive and dative singular, if the
-preceding letter is ι or ρ; otherwise they have η.</p>
+preceding letter is ι or ρ; otherwise they have η.
 
 
-<p>Note that in the singular, nominative and accusative agree as to
+Note that in the singular, nominative and accusative agree as to
 final vowel, quantity of final vowel, and accent; and that the genitive
-and dative show the same agreement.</p>
+and dative show the same agreement.
 
-<p>In like manner inflect θάλαττα and βασίλεια.
+In like manner inflect θάλαττα and βασίλεια.
 
 <div type="textpart" subtype="para" n="82">
-<p>The Personal Pronouns are <span style="color:green">ἐγώ</span>,
-  <span style="color:green">σύ</span> you (sg.), for
+The Personal Pronouns are <span style="color:green">ἐγώ</span>,
+<span style="color:green">σύ</span> you (sg.), for
 the first and second persons. For the third person, αὐτός
 is used in all cases except the nominative.
 
@@ -42,7 +42,7 @@ prepositions. The nominative is not used except when emphasis is desired.
 
 
 <div type="textpart" subtype="para" n="83">
-<p>Particular Conditions.
+Particular Conditions.
 (a) εἰ with a present or past
 tense of the indicative in the protasis1 and the same tense
 of the indicative or its equivalent in the apodosis1 states a
@@ -58,10 +58,10 @@ if he guarded ..., he broke... .
 
 (b) The regular negative of the protasis is μή, of the
 apodosis οὐ.
-  
+
 
 <div type="textpart" subtype="para" n="84">
-<p>VOCABULARY
+VOCABULARY
 <rs type="lemma" n="ἄμαξα">ἅμαξα</rs>: cart, wagon.
 
 <rs type="lemma" n="βασιλεία">βασίλεια</rs>: queen.
@@ -78,7 +78,7 @@ apodosis οὐ.
 σύ: thou, you (sg.).
 
 <div type="textpart" subtype="para" n="85">
-<p>EXERCISES
+EXERCISES
 
 (a) Translate :
 
@@ -117,9 +117,9 @@ apodosis οὐ.
 
 
 <figure><head>THE SEA GOD’S SHRINΕ</head>
-<p>These columns of whitest marble, belonging to the temple of Poseidon, still welcome the
+These columns of whitest marble, belonging to the temple of Poseidon, still welcome the
 seafarer to Attica as in the proud
-days of Pericles.</p></figure>
+days of Pericles.</figure>
 
 86.
 
@@ -133,20 +133,20 @@ St. Paul (1 Corinthians, XV. 33) repeats one of his lines:
 evil communications corrupt good manners.
 
 <div type="textpart" subtype="para" n="86">
-<p>
+
 
 
 Translate the following characteristic utterance:
 
-  <quote><l>ἀρχὴ μεγίστη (greatest) τῶν ἐν ἀνθρώποις κακῶν</l>
+<quote><l>ἀρχὴ μεγίστη (greatest) τῶν ἐν ἀνθρώποις κακῶν</l>
 
-    <l>ἀγαθά, τὰ λίαν (excessive) ἀγαθά.</l></quote>
-  >> Menander, fragment.
+<l>ἀγαθά, τὰ λίαν (excessive) ἀγαθά.</l></quote>
+>> Menander, fragment.
 
 
-</p>
-</div>
-</div>
+
+
+
 
 <pb n="49"/>
 
