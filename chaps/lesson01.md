@@ -1,13 +1,18 @@
 # Chapter 1: Declension ο-stem Nouns
 
-![text](https://upload.wikimedia.org/wikipedia/commons/7/74/Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg)
+
 
 >  ἐν ἀρχῇ ἦν ὁ λόγος.<br/>
 >  In the beginning was the word.<br/>
 >> John, 1.1
 
 
-<figure><head>Eager to Go</head></figure>
+
+![text](https://live.staticflickr.com/528/32099864256_b8ff444792_6k.jpg)
+*Eager to Go*: Pedestal of the monument dedicated to the victory of Krates in the apovatis race at the Panathenaic Games. A fully armed soldier jumps on and off a moving chariot. Relief. Marble. 4th c. BCE.Athens, Greece. Image and more information available from  [Egisto Sani on Flickr](https://www.flickr.com/photos/69716881@N02/32099864256)  
+
+
+
 
 ## [§ 1](#para1). Declensions.
 There are three declensions in Greek,
@@ -21,6 +26,7 @@ whose nominatives end in -ος are usually masculine.
 
 
 | | Singular |  | Plural |  | 
+| --- | --- | --- | --- | --- 
 | Nominative | ὁ ποταμός | the river (subject) | οἱ ποταμοί | the rivers (subject) | 
 | Genitive | τοῦ ποταμοῦ | of the river | τῶν ποταμῶν | of the rivers | 
 | Dative | τῷ ποταμῷ | to/for the river | τοῖς ποταμοῖς | to/for the rivers | 
@@ -52,11 +58,32 @@ circumflex (῀) in the genitive and dative of both numbers.
 
 
 ## [§ 4](#para4). Cases.
-The endings of a noun tell its case and use
+The different endings give you information about how a noun is used in a sentence. English retains traces of such a system in its pronouns. Thus we can say:
 
-(a) The nominative is the case of the subject:
+>  She saw him.<br/>
+
+But a statement such as the following is simply not grammatical:
+
+>  *Him saw she.<br/>
+
+We can, however, within limits violate standard word order for emphasis. Thus, the following sentence is grammatical and emphatic:
+
+>  Him she saw!<br/>
+
+Because Greek words have different endings that help you understand the role of a word, Greek word order is more flexible that than of English (or of other languages with little or not inflection, such as French, Mandarin, and Spanish). Thus the Star Wars character Yoda would sound quite idiomatic if translated directly into Ancient Greek -- thus losing some of his charm.
+
+
+>  Much to learn you still have.<br/>
+>> [Yoda, Attack of the Clones.](https://www.youtube.com/watch?v=0Bu8GcLK6vY)
+
+
+
+
+(a) A noun appears in the nominative when that noun is the subject of a verb or when the noun is the predicate of a verb.
 
 <foreign>οἱ στρατηγοὶ ἦσαν ἀδελφοί</foreign> <gloss>the generals were brothers.</gloss>
+
+"The generals" are the subject of the verb "were" and thus they are in the nominative. We learn that the generals are also brothers. There is no action involved. We simply learn that A is equivalent to B. We say, in this case, that "brothers" is the **predicate** of "the generals."
 
 (b) The genitive suggests relations like those expressed
 

@@ -81,14 +81,18 @@
 <div type="textpart" subtype="lesson" n="1">
 <head>Declension ο-stem Nouns</head>
 
-<figure><graphic url="https://upload.wikimedia.org/wikipedia/commons/7/74/Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg"/></figure>
+
 
 <cit><quote xml:lang="grc">ἐν ἀρχῇ ἦν ὁ λόγος.</quote>
 <quote xml:lang="eng">In the beginning was the word.</quote>
 <bibl>John, 1.1</bibl>
 
 </cit>
-<figure><head>Eager to Go</head></figure>
+
+<figure><graphic url="https://live.staticflickr.com/528/32099864256_b8ff444792_6k.jpg"/></figure>
+<figure><head>Eager to Go</head><p>Pedestal of the monument dedicated to the victory of Krates in the apovatis race at the Panathenaic Games. A fully armed soldier jumps on and off a moving chariot. Relief. Marble. 4th c. BCE.Athens, Greece. Image and more information available from  <ref n="https://www.flickr.com/photos/69716881@N02/32099864256">Egisto Sani on Flickr</ref>  </p></figure>
+
+
 
 <div type="textpart" subtype="para" n="1"><head>Declensions.</head>
   <p>There are three declensions in Greek,
@@ -133,11 +137,32 @@ circumflex (῀) in the genitive and dative of both numbers.
 </div>
 
 <div type="textpart" subtype="para" n="4"><head>Cases.</head> 
-  <p>The endings of a noun tell its case and use
+  <p>The different endings give you information about how a noun is used in a sentence. English retains traces of such a system in its pronouns. Thus we can say:
+
+    <quote>She saw him.</quote>
+  
+    But a statement such as the following is simply not grammatical:
+
+    <quote>*Him saw she.</quote>
+
+    We can, however, within limits violate standard word order for emphasis. Thus, the following sentence is grammatical and emphatic:
+
+    <quote>Him she saw!</quote>
+
+  Because Greek words have different endings that help you understand the role of a word, Greek word order is more flexible that than of English (or of other languages with little or not inflection, such as French, Mandarin, and Spanish). Thus the Star Wars character Yoda would sound quite idiomatic if translated directly into Ancient Greek -- thus losing some of his charm.
+
+  <cit>
+  <quote>Much to learn you still have.</quote>
+  <bibl><ref n="https://www.youtube.com/watch?v=0Bu8GcLK6vY">Yoda, Attack of the Clones.</ref></bibl>
+</cit>
+
+    
 </p><p>
-(a) The nominative is the case of the subject:
+(a) A noun appears in the nominative when that noun is the subject of a verb or when the noun is the predicate of a verb.
 </p><p>
 <foreign>οἱ στρατηγοὶ ἦσαν ἀδελφοί</foreign> <gloss>the generals were brothers.</gloss>
+
+"The generals" are the subject of the verb "were" and thus they are in the nominative. We learn that the generals are also brothers. There is no action involved. We simply learn that A is equivalent to B. We say, in this case, that "brothers" is the <term>predicate</term> of "the generals."
 
 (b) The genitive suggests relations like those expressed
 
