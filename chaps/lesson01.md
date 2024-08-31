@@ -16,7 +16,7 @@ whose nominatives end in -ος are usually masculine.
 **ποταμός, ποταμοῦ, ὁ — a river**
 
 
-| Singular | Greek | English | Greek | English | 
+| | Singular |  | Plural |  | 
 | --- | --- | --- | --- | --- 
 | Nominative | ὁ ποταμός | the river (subject) | οἱ ποταμοί | the rivers (subject) | 
 | Genitive | τοῦ ποταμοῦ | of the river | τῶν ποταμῶν | of the rivers | 
