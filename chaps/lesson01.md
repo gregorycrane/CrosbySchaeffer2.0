@@ -1,5 +1,4 @@
-# Chapter 1: DECLENSION OF ο-STEMS
-
+# Chapter 1: Declension ο-stem Nouns
 
 ![text](https://upload.wikimedia.org/wikipedia/commons/7/74/Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg)
 
@@ -74,7 +73,7 @@ for in English. It frequently denotes the indirect object :
 (d) The accusative is the direct object of a transitive
 verb: ἀδελφὸν πέμπει he sends a brother.
 
-## [§ 5](#para5). The Article..
+## [§ 5](#para5). The Article.
 
 (a) 
 **ὁ** Like English, and unlike Latin,
