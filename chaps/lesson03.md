@@ -7,7 +7,7 @@
 
 
 
-[§ 13](#para13). The Present Tense. This tense denotes action occurring or continuing or repeated in present time:
+<div type="textpart" subtype="para" n="13">The Present Tense. This tense denotes action occurring or continuing or repeated in present time:
 
 παύω I stop. I am stopping. I keep stopping. I do stop.
 
@@ -56,35 +56,35 @@ he was hostile to the general.
 <div type="textpart" subtype="para" n="17">
 VOCABULARY
 
-<span style="color:green">ἀγαθός</span>, ἀγαθή, ἀγαθόν: good, brave. AGATHA.
+**ἀγαθός**, ἀγαθή, ἀγαθόν: good, brave. AGATHA.
 
 
-<span style="color:green">ἄγγελος</span>, ἀγγέλου, ὁ: messenger. ANGEL.
+**ἄγγελος**, ἀγγέλου, ὁ: messenger. ANGEL.
 
-<span style="color:green">ἄγω</span>: lead, Lat. ago.
+**ἄγω**: lead, Lat. ago.
 
-<span style="color:green">γράφω</span>: write. TELEGRAPH. LITHOGRAPH.
+**γράφω**: write. TELEGRAPH. LITHOGRAPH.
 
-<span style="color:green">ἐθέλω</span>: wish, be willing.
+**ἐθέλω**: wish, be willing.
 
-<span style="color:green">ἵππος</span>, ἵππου, ὁ: horse. ANALYSIS. HIPPOPOTAMUS,
+**ἵππος**, ἵππου, ὁ: horse. ANALYSIS. HIPPOPOTAMUS,
 
-<span style="color:green">καί</span>: conj.: and, also, even.
+**καί**: conj.: and, also, even.
 
-<span style="color:green">καλός</span>, καλή, καλόν: beautiful, honorable, fine.
-<span style="color:green">κίνδυνος</span>, κινδύνου, ὁ: danger.
-
-
-<span style="color:green">λίθος</span>, λίθος, ὁ: stone.
+**καλός**, καλή, καλόν: beautiful, honorable, fine.
+**κίνδυνος**, κινδύνου, ὁ: danger.
 
 
+**λίθος**, λίθος, ὁ: stone.
 
 
 
-<span style="color:green">λύω</span>: loose, break, destroy.
 
 
-<span style="color:green">παύω</span>: stop (trans,). PAUSE.
+**λύω**: loose, break, destroy.
+
+
+**παύω**: stop (trans,). PAUSE.
 
 <div type="textpart" subtype="para" n="18">
 EXERCISES

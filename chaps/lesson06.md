@@ -99,18 +99,18 @@ the village had no garrison,
 
 <div type="textpart" subtype="para" n="33">
 VOCABULARY
-<span style="color:green">γάρ</span>: postpositive conjunction : for.
-<span style="color:green">σπονδή</span>σπονδῆς, ἡ: libation; pl, σπονδή, σπονδαί, αἱ, treaty, truce. SPONDEE.
-<span style="color:green">κώμη</span>, κώμης, ἡ: village.
-<span style="color:green">μάχη</span>, μάχη, ἡ: battle. LOGOMACHY.
-<span style="color:green">φεύγω</span>: flee. Lat. fugio. FUGITIVE,
-<span style="color:green">οὐ</span> (before consonants), οὐκ (before smooth breathing), οὐχ (before rough breathing), proclit. adv.: not, UTOPIA. PROPHYLACTIC.
-<span style="color:green">φυγή</span>, φυγῆς, ἡ: flight, exile. Lat fuga.
+**γάρ**: postpositive conjunction : for.
+**σπονδή**σπονδῆς, ἡ: libation; pl, σπονδή, σπονδαί, αἱ, treaty, truce. SPONDEE.
+**κώμη**, κώμης, ἡ: village.
+**μάχη**, μάχη, ἡ: battle. LOGOMACHY.
+**φεύγω**: flee. Lat. fugio. FUGITIVE,
+**οὐ** (before consonants), οὐκ (before smooth breathing), οὐχ (before rough breathing), proclit. adv.: not, UTOPIA. PROPHYLACTIC.
+**φυγή**, φυγῆς, ἡ: flight, exile. Lat fuga.
 
-<span style="color:green">φυλακή</span>, φυλακῆς, ἡ: guard, garrison.
+**φυλακή**, φυλακῆς, ἡ: guard, garrison.
 
 
-<span style="color:green">σκηνή</span>: tent. SCENE.
+**σκηνή**: tent. SCENE.
 <rs type="lemma" n="φυλάσσω">φυλάττω</rs>: guard (verb).
 
 <div type="textpart" subtype="para" n="34">

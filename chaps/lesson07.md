@@ -43,26 +43,26 @@ They will be treated later.
 <div type="textpart" subtype="para" n="38">
 VOCABULARY
 
-<span style="color:green">ἀγορά</span>, ἀγορᾶς, ἡ: market, market-place. AGORAPHOBIA.
+**ἀγορά**, ἀγορᾶς, ἡ: market, market-place. AGORAPHOBIA.
 
-<span style="color:green">ἀρχή</span>, ἀρχῆς, ἡ: beginning, rule, province.
+**ἀρχή**, ἀρχῆς, ἡ: beginning, rule, province.
 
-<span style="color:green">δέκα</span>: ten. DECALOGUE.
+**δέκα**: ten. DECALOGUE.
 
-<span style="color:green">διά</span>, prep.: with G., through ; with A., on account of. DIAMETER.
+**διά**, prep.: with G., through ; with A., on account of. DIAMETER.
 
-<span style="color:green">ἐπιτήδειος</span>, ἐπιτηδεία, ἐπιτήδειον: fit, suitable ; τὰ ἐπιτήδεια 1: provisions.
+**ἐπιτήδειος**, ἐπιτηδεία, ἐπιτήδειον: fit, suitable ; τὰ ἐπιτήδεια 1: provisions.
 
-<span style="color:green">ἡμέρᾱ</span>, ἡμέρας, ἡ: day. EPHEMERAL.
+**ἡμέρᾱ**, ἡμέρας, ἡ: day. EPHEMERAL.
 
-<span style="color:green">στρατιά</span>, στρατιᾶς, ἡ: army. Cf. στρατηγός.
+**στρατιά**, στρατιᾶς, ἡ: army. Cf. στρατηγός.
 
 
-<span style="color:green">φιλία</span>, φιλίας, ἡ: friendship. Cf. φίλος.
+**φιλία**, φιλίας, ἡ: friendship. Cf. φίλος.
 
-<span style="color:green">φίλιος</span>, φιλία, φίλιον: friendly.
+**φίλιος**, φιλία, φίλιον: friendly.
 
-<span style="color:green">χώρᾱ</span>, χώρας, ἡ country.
+**χώρᾱ**, χώρας, ἡ country.
 
 <div type="textpart" subtype="para" n="39">
 EXERCISES

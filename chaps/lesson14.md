@@ -67,17 +67,17 @@ he crosses the river in (by means of) a boat.
 
 <div type="textpart" subtype="para" n="78">
 VOCABULARY
-<span style="color:green">ἀ-διά-βατος</span>:2 uncrossable.
-<span style="color:green">δια-βαίνω</span>:<note>Future and aorist will be given later.</note> cross.
-<span style="color:green">δια-βατός</span>:2 crossable.
-<span style="color:green">ἐκεῖνος</span>: that.
-<span style="color:green">συμ-βουλεύω</span> :<note>σύν- changes to σύμ- before β for the sake of euphony.</note> advise, with D. of
-<span style="color:green">μεστός</span>: full, full of, the person. with G.
-<span style="color:green">ὅδε</span>, ἤδε, τόδε: this (as follows).
-<span style="color:green">οὗτος</span>, αὕτη, τοῦτο: this (as aforesaid).
-<span style="color:green">πλοῖον</span>, πλοίου, τό: boat.
-<span style="color:green">σῖτος</span>, του, ὁ : grain, food.  PARASITE.
-<span style="color:green">σύν</span>, prep. with D.: with. SYNOD.
+**ἀ-διά-βατος**:2 uncrossable.
+**δια-βαίνω**:<note>Future and aorist will be given later.</note> cross.
+**δια-βατός**:2 crossable.
+**ἐκεῖνος**: that.
+**συμ-βουλεύω** :<note>σύν- changes to σύμ- before β for the sake of euphony.</note> advise, with D. of
+**μεστός**: full, full of, the person. with G.
+**ὅδε**, ἤδε, τόδε: this (as follows).
+**οὗτος**, αὕτη, τοῦτο: this (as aforesaid).
+**πλοῖον**, πλοίου, τό: boat.
+**σῖτος**, του, ὁ : grain, food.  PARASITE.
+**σύν**, prep. with D.: with. SYNOD.
 
 2 Masculine and feminine are alike in form. See paradigm (§510, 6). Compare Latin omnis.
 

@@ -70,29 +70,29 @@ a contrary to fact from a past particular condition (§ 85).
 <div type="textpart" subtype="para" n="98">
 VOCABULARY
 
-<span style="color:green">ἄν</span>, post-pos. particle belonging to certain types of conditional clauses but lacking an exact English eqnivalent.
+**ἄν**, post-pos. particle belonging to certain types of conditional clauses but lacking an exact English eqnivalent.
 
-<span style="color:green">ἄπ-ειμι</span>: be away, be absent.
+**ἄπ-ειμι**: be away, be absent.
 
-<span style="color:green">εἰμί</span> enclit.: be.
+**εἰμί** enclit.: be.
 
 <rs type="lemma" n="ἔξεστι">ἔξ-ἐστι(ν)</rs>,2 impersonal ; it is possible.
 
-<span style="color:green">οὔπω</span>, neg. adv. : not yet.
+**οὔπω**, neg. adv. : not yet.
 
-<span style="color:green">πάρ-ειμι</span>: be present.
+**πάρ-ειμι**: be present.
 
-<span style="color:green">πέντε</span>, indeclinable : five. PENTAGON.
+**πέντε**, indeclinable : five. PENTAGON.
 
-<span style="color:green">στρατόπεδον</span>: camp. Cf. στρατιά and πεδίον.
+**στρατόπεδον**: camp. Cf. στρατιά and πεδίον.
 
-<span style="color:green">τόπος</span>: place. TOPOGRAPUY.
+**τόπος**: place. TOPOGRAPUY.
 
-<span style="color:green">τότε</span>, adv.: then, at that time.
+**τότε**, adv.: then, at that time.
 
-<span style="color:green">φᾱσί(ν)</span>,2 enclit.; they say.
+**φᾱσί(ν)**,2 enclit.; they say.
 
-<span style="color:green">φησί(ν)</span>,2 enclit.: he or she says, PROPHET.
+**φησί(ν)**,2 enclit.: he or she says, PROPHET.
 
 
 

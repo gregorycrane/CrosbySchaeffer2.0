@@ -60,27 +60,27 @@ nominative, it is a personal pronoun of the third person:
 VOCABULARY
 
 
-<span style="color:green">ἀλλήλων</span>:1 of one another. PARALLEL.
+**ἀλλήλων**:1 of one another. PARALLEL.
 
-<span style="color:green">ἄλλος</span>: other, another; if preceded by the article, the other, the rest of. ALLOPATHY.
+**ἄλλος**: other, another; if preceded by the article, the other, the rest of. ALLOPATHY.
 
-<span style="color:green">αὐτός</span>: same, self, he, she, it, they, etc. AUTOMATON.
+**αὐτός**: same, self, he, she, it, they, etc. AUTOMATON.
 
-<span style="color:green">βουλεύω</span>, βουλεύσω, ἐβούλευσα :  plan,
+**βουλεύω**, βουλεύσω, ἐβούλευσα :  plan,
 
-<span style="color:green">βουλή</span>: plan, BOULE.
+**βουλή**: plan, BOULE.
 
-<span style="color:green">ἐπι-βουλεύω</span>: plot against, with D.
+**ἐπι-βουλεύω**: plot against, with D.
 
-<span style="color:green">ἐπι-βουλή</span>: plot.
+**ἐπι-βουλή**: plot.
 
-<span style="color:green">ἴσος</span>: equal, ISOSCELES.
+**ἴσος**: equal, ISOSCELES.
 
-<span style="color:green">κελεύω</span>, κελεύσω, ἐκέλευσα : order, command,
+**κελεύω**, κελεύσω, ἐκέλευσα : order, command,
 
-<span style="color:green">ὅς</span>, ἥ, ὅ: rel. pron, : who, which, that.
+**ὅς**, ἥ, ὅ: rel. pron, : who, which, that.
 
-<span style="color:green">ὥρᾱ</span>: hour, season. HOUR.
+**ὥρᾱ**: hour, season. HOUR.
 
 <div type="textpart" subtype="para" n="72">
 EXERCISES

@@ -41,17 +41,17 @@ ypayw mevre quepwy | shall write within five days.
 
 <div type="textpart" subtype="para" n="104">
 VOCABULARY
-<span style="color:green">γυνή</span>, γυναικός, ἡ: woman, wife.  MISOGYNIST.
-<span style="color:green">δι-αρπάζω</span>, δι-αρπάσω, δι-ήρπασα:  plunder, pillage, sack.
-<span style="color:green">Θρᾷξ</span>, θρᾳκός, ὁ: Thracian.
-<span style="color:green">σάλπιγξ</span>, -γγος, ἡ: trumpet.
-<span style="color:green">κατά</span>, prep.: with G., down from; with A., down along, along, according to. CATALOGUE.
-<span style="color:green">φάλαγξ</span>, -γγος, ἡ: phalanx, battle-line.
+**γυνή**, γυναικός, ἡ: woman, wife.  MISOGYNIST.
+**δι-αρπάζω**, δι-αρπάσω, δι-ήρπασα:  plunder, pillage, sack.
+**Θρᾷξ**, θρᾳκός, ὁ: Thracian.
+**σάλπιγξ**, -γγος, ἡ: trumpet.
+**κατά**, prep.: with G., down from; with A., down along, along, according to. CATALOGUE.
+**φάλαγξ**, -γγος, ἡ: phalanx, battle-line.
 
-<span style="color:green">φύλαξ</span>. φύλακος, ὁ: guard. Cf. φυλακή, φυλάττω.
-<span style="color:green">κῆρυξ</span>, κήρῡκος, ὁ: herald.
+**φύλαξ**. φύλακος, ὁ: guard. Cf. φυλακή, φυλάττω.
+**κῆρυξ**, κήρῡκος, ὁ: herald.
 
-<span style="color:green">πρός</span>, prep.: with G., from the side of, in the sight of; with D., near, beside, besides ; with A., to the side of, toward. PROSELYTE.
+**πρός**, prep.: with G., from the side of, in the sight of; with D., near, beside, besides ; with A., to the side of, toward. PROSELYTE.
 
 <div type="textpart" subtype="para" n="105">
 EXERCISES

@@ -18,7 +18,8 @@ stem lengthens to ου.
 
 
 <div type="textpart" subtype="para" n="108">
-Result Clauses. <span style="color:green">ὥστε</span> followed by the indicative
+Result Clauses. 
+**ὥστε** followed by the indicative
 tlenotes an actual result ; followed by the znfinitive it denotes
 a natural or probable result :
 
@@ -30,19 +31,19 @@ I had money (so as) to buy provisions.
 
 <div type="textpart" subtype="para" n="109">
 VOCABULARY
-<span style="color:green">ἅρμα</span>, ἅρματος, τό: chariot.
-<span style="color:green">πρᾶγμα</span>, πράγματος, τό: fact, business ; pl. trouble. PRAGMATIC.
-<span style="color:green">ἄρχων</span>, ἄρχοντος, ὁ: archon, ruler,  commander. Cf. ἄρχω, ἀρχή.
+**ἅρμα**, ἅρματος, τό: chariot.
+**πρᾶγμα**, πράγματος, τό: fact, business ; pl. trouble. PRAGMATIC.
+**ἄρχων**, ἄρχοντος, ὁ: archon, ruler,  commander. Cf. ἄρχω, ἀρχή.
 
-<span style="color:green">ὕδωρ</span>, ὕδατος, τό: water. HYDRANT.2
-<span style="color:green">ἀσπίς</span>, ἀσπίδος, ἡ: shield.
-<span style="color:green">δόρυ</span>, δόρατος, τό : spear. DORYPHOROS.
-<span style="color:green">χάρις</span>, χάριτος, ἡ: fuvor, gratiiude. χάριν ἔχω: feel grateful, with D. EUCHARIST.
-<span style="color:green">ἐλαύνω</span>, ἤλασα: drive. Cf. ἐξελαύνω.
-<span style="color:green">Ἑλλάς</span>, Ἑλλάδος, ἡ: Ηellas, Greece.
-<span style="color:green">χρῆμα</span>, χρήματος, τό: thing; pl., things, ie., property, wealth, money.
-<span style="color:green">νύξ</span>, νυκτός, ἡ: night. Lat. nox.
-<span style="color:green">παῖς</span>, παιδός, ὁ or ἡ: boy, girl, child. PEDAGOGUE.
+**ὕδωρ**, ὕδατος, τό: water. HYDRANT.2
+**ἀσπίς**, ἀσπίδος, ἡ: shield.
+**δόρυ**, δόρατος, τό : spear. DORYPHOROS.
+**χάρις**, χάριτος, ἡ: fuvor, gratiiude. χάριν ἔχω: feel grateful, with D. EUCHARIST.
+**ἐλαύνω**, ἤλασα: drive. Cf. ἐξελαύνω.
+**Ἑλλάς**, Ἑλλάδος, ἡ: Ηellas, Greece.
+**χρῆμα**, χρήματος, τό: thing; pl., things, ie., property, wealth, money.
+**νύξ**, νυκτός, ἡ: night. Lat. nox.
+**παῖς**, παιδός, ὁ or ἡ: boy, girl, child. PEDAGOGUE.
 ὥστε, conj.: with ind., so that; , with inf., so as to.
 
 <div type="textpart" subtype="para" n="110">

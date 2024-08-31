@@ -81,15 +81,15 @@ face, "This is the city of Hadrian, not of Theseus."
 
 <div type="textpart" subtype="para" n="58">
 VOCABULARY
-<span style="color:green">ἐνταῦθα</span>: adv., there, at that place.
+**ἐνταῦθα**: adv., there, at that place.
 
-<span style="color:green">λοιπός</span>, λοιπή, λοιπόν: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.
-<span style="color:green">ἐντεῦθεν</span>, adv. : from there, thence.
-<span style="color:green">ἐπιστολή</span>, ἐπιστολῆς, ἡ: letter. EPISTLE.
-<span style="color:green">οἰκία</span>, οἰκίας, ἡ: house. ECONOMY.
-<span style="color:green">ἔχω</span>, ἕξω: have; ἔσχον1: got.
-<span style="color:green">πύλη</span>, πύλης, ἡ: gate; pl., pass. PYLON. THERMOPYLA.
-<span style="color:green">λείπω</span>, λείψω, ἔλιπον: leave. ECLIPSE.
+**λοιπός**, λοιπή, λοιπόν: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.
+**ἐντεῦθεν**, adv. : from there, thence.
+**ἐπιστολή**, ἐπιστολῆς, ἡ: letter. EPISTLE.
+**οἰκία**, οἰκίας, ἡ: house. ECONOMY.
+**ἔχω**, ἕξω: have; ἔσχον1: got.
+**πύλη**, πύλης, ἡ: gate; pl., pass. PYLON. THERMOPYLA.
+**λείπω**, λείψω, ἔλιπον: leave. ECLIPSE.
 
 
 

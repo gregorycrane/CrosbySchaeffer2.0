@@ -82,23 +82,23 @@ The gateway to the Acropolis.
 
 <div type="textpart" subtype="para" n="51">
 VOCABULARY
-<span style="color:green">ἄρχω</span>, ἄρξω:1 begin, rule, command,  with G. ARCHBISHOP.
+**ἄρχω**, ἄρξω:1 begin, rule, command,  with G. ARCHBISHOP.
 
-<span style="color:green">μέλλω</span>, μελλήσω: intend, delay, be about to, usually with fut. inf.
+**μέλλω**, μελλήσω: intend, delay, be about to, usually with fut. inf.
 
-<span style="color:green">διώκω</span>, διώξω: pursue.
+**διώκω**, διώξω: pursue.
 
-<span style="color:green">θύρα</span>, θύρα, ἡ: door; αἱ θύραι: often used of military head-quarters or of the king's court (compare Sublime Porte). THYROID.
+**θύρα**, θύρα, ἡ: door; αἱ θύραι: often used of military head-quarters or of the king's court (compare Sublime Porte). THYROID.
 
-<span style="color:green">νομίζω</span>:1 believe, think, with inf.
+**νομίζω**:1 believe, think, with inf.
 
-<span style="color:green">ὁδός</span>, ὁδοῦ, ὁ: road, route. EXODUS.
+**ὁδός**, ὁδοῦ, ὁ: road, route. EXODUS.
 
-<span style="color:green">πείθω</span>, πείσω: persuade.
+**πείθω**, πείσω: persuade.
 
-<span style="color:green">ὑπ-οπτεύω</span>, ὑπ-οπτεύσω: suspect (ὑπό, under + ὀπτεύω, look), with inf. HYPODERMIC. OPTIC.
+**ὑπ-οπτεύω**, ὑπ-οπτεύσω: suspect (ὑπό, under + ὀπτεύω, look), with inf. HYPODERMIC. OPTIC.
 
-<span style="color:green">ἰσχυρός</span>, ἰσχυρά, ἰσχυρόν: strong. 
+**ἰσχυρός**, ἰσχυρά, ἰσχυρόν: strong. 
 
 <div type="textpart" subtype="para" n="52">
 EXERCISES
@@ -148,8 +148,9 @@ Word-formation. Many verbs with ε in the stem
 have cognate nouns or adjectives with ο instead of ε:
 λείπω leave, λοιπός left;
 λέγω speak, λόγος word or speech ;
-πέμπω send (escort), <span style="color:green">πομπή</span> procession ;
-<span style="color:green">σπένδω</span> pour a libation, σπονδή Libation.
+πέμπω send (escort), 
+**πομπή** procession ;
+**σπένδω** pour a libation, σπονδή Libation.
 
 Compare Latin tego I cover, toga cloak; English I sing, song.
 

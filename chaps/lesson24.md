@@ -66,17 +66,17 @@ action (compare with the Latin a or ab and the ablative): 1
 
 <div type="textpart" subtype="para" n="140">
 VOCABULARY
-<span style="color:green">ἄχθομαι</span>: be burdened, vexed.
+**ἄχθομαι**: be burdened, vexed.
 <rs type="lemma" n="μεταπέμπω">μετα-πέμπομαι</rs>: send after, summon.
-<span style="color:green">βούλομαι</span>: wish, desire.
-<span style="color:green">ἕπομαι</span>: follow, with D.
-<span style="color:green">πορεία</span>: journey.
-<span style="color:green">ἔρχομαι</span>, ἦλθον (aor.): come, go.
+**βούλομαι**: wish, desire.
+**ἕπομαι**: follow, with D.
+**πορεία**: journey.
+**ἔρχομαι**, ἦλθον (aor.): come, go.
 <rs type="lemma" n="πορεύω">πορεύομαι</rs>: journey, march,
-<span style="color:green">ἥδομαι</span>: be pleased. HEDONIST.
-<span style="color:green">ὑπό</span>: prep., with G., from under, by (agent); with D., under, beneath (with verbs of rest); with A., under (with verbs of motion). HYPOTHESIS.
-<span style="color:green">μάχομαι</span>: fight, give battle. Cf. μάχη.
-<span style="color:green">μετά</span>, prep.: with G., with ; with  A., after; as a prefix, often denotes change. METAPHOR.
+**ἥδομαι**: be pleased. HEDONIST.
+**ὑπό**: prep., with G., from under, by (agent); with D., under, beneath (with verbs of rest); with A., under (with verbs of motion). HYPOTHESIS.
+**μάχομαι**: fight, give battle. Cf. μάχη.
+**μετά**, prep.: with G., with ; with  A., after; as a prefix, often denotes change. METAPHOR.
 
 1 What uses of the genitive have you now had?
 

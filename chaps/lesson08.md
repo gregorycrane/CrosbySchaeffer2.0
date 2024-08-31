@@ -50,7 +50,8 @@ Verbs with an initial vowel or diphthong lengthen the initial vowel.
 αυ  - ηυ
 οι  - ῳ
 
-Inflect the imperfect indicative active of <span style="color:green">πέμπω</span> and ἀθροίζω.
+Inflect the imperfect indicative active of 
+**πέμπω** and ἀθροίζω.
 
 <div type="textpart" subtype="para" n="44">
 Dative of Manner.
@@ -87,17 +88,17 @@ belongs, awakens universal admiration.</figure>
 
 <div type="textpart" subtype="para" n="46">
 VOCABULARY
-<span style="color:green">ἀθροίζω</span>: collect.
+**ἀθροίζω**: collect.
 
-<span style="color:green">ἀλλά</span>, conj.: but, however. Stronger than δέ. Final a is often elided.
-<span style="color:green">ἁρπάζω</span>: seize,carry off. HARPY.
-<span style="color:green">ἀρχαῖος</span>, ἀρχαία, ἀρχαῖον: original, ancient. Cf. ἀρχή. = ARCHAIC.
-<span style="color:green">βάρβαρος</span>, βαρβάρου, ὁ: foreigner, barbarian.
-<span style="color:green">ἔργον</span>, ἔργου, τό: work, deed, ENERGY.
-<span style="color:green">κραυγή</span>, κραυγῆς, ἡ: outcry, shout.
-<span style="color:green">λόγος</span>, λόγου, ὁ: word, speech. PROLOGUE.
-<span style="color:green">μέν</span>: coord. conj. (§ 45).
-<span style="color:green">σῑγή</span>, σιγῆς, ἡ: silence.
+**ἀλλά**, conj.: but, however. Stronger than δέ. Final a is often elided.
+**ἁρπάζω**: seize,carry off. HARPY.
+**ἀρχαῖος**, ἀρχαία, ἀρχαῖον: original, ancient. Cf. ἀρχή. = ARCHAIC.
+**βάρβαρος**, βαρβάρου, ὁ: foreigner, barbarian.
+**ἔργον**, ἔργου, τό: work, deed, ENERGY.
+**κραυγή**, κραυγῆς, ἡ: outcry, shout.
+**λόγος**, λόγου, ὁ: word, speech. PROLOGUE.
+**μέν**: coord. conj. (§ 45).
+**σῑγή**, σιγῆς, ἡ: silence.
 
 <div type="textpart" subtype="para" n="47">
 EXERCISES

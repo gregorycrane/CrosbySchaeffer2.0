@@ -79,21 +79,21 @@ of a real life after death. Cicero was initiated into these Mysteries.</head></f
 
 <div type="textpart" subtype="para" n="118">
 VOCABULARY
-<span style="color:green">ἐλπίς</span>, ἐλπίδος, ἡ: hope, expectation.
-<span style="color:green">κωλύω</span>, κωλύσω, ἐκώλῦσα: prevent. KOLYNOS.<note>is this referring to https://en.wikipedia.org/wiki/Kolynos?</note>
-<span style="color:green">πιστεύω</span>, πιστεύσω, ἐπίστευσα: trust, with D.
+**ἐλπίς**, ἐλπίδος, ἡ: hope, expectation.
+**κωλύω**, κωλύσω, ἐκώλῦσα: prevent. KOLYNOS.<note>is this referring to https://en.wikipedia.org/wiki/Kolynos?</note>
+**πιστεύω**, πιστεύσω, ἐπίστευσα: trust, with D.
 
-<span style="color:green">τρέπω</span>, τρέψω, ἔτρεψα, erpea: turn.
-<span style="color:green">λαμβάνω</span>, ἔλαβον: take, receive.  SYLLABLE. (Future, page 187.)
-<span style="color:green">τρόπος</span>: turn, “bent,” manner, character, TROPIC,
+**τρέπω**, τρέψω, ἔτρεψα, erpea: turn.
+**λαμβάνω**, ἔλαβον: take, receive.  SYLLABLE. (Future, page 187.)
+**τρόπος**: turn, “bent,” manner, character, TROPIC,
 
-<span style="color:green">ὄνομα</span>: name. ONOMATOPOETIC.
-<span style="color:green">φυγάς</span>, φυγάδος, ἡ: exile, fugitive. Cf. φυγή.
+**ὄνομα**: name. ONOMATOPOETIC.
+**φυγάς**, φυγάδος, ἡ: exile, fugitive. Cf. φυγή.
 
 
 
-<span style="color:green">παρ-έχω</span>, παρ-ίξω, παρ-έσχον: furnish, cause.
-<span style="color:green">ὡς</span>, conj, adv.: as, as if, when.
+**παρ-έχω**, παρ-ίξω, παρ-έσχον: furnish, cause.
+**ὡς**, conj, adv.: as, as if, when.
 
 <figure><head>Eleusis</head></figure>
 

@@ -60,19 +60,19 @@ the entire thought is clear.
 
 <div type="textpart" subtype="para" n="64">
 VOCABULARY
-<span style="color:green">Ἀθῆναι</span>, Ἀθηνῶν, αἱ: Athens.
-<span style="color:green">ἀπ-έχω</span>: be distant, be away.
+**Ἀθῆναι**, Ἀθηνῶν, αἱ: Athens.
+**ἀπ-έχω**: be distant, be away.
 
-<span style="color:green">ἐπί</span>: prep. with G., on, upon;1 with D., on, at, by; with A., upon, to, againsi, EPIDERMIS.<note>The difference between the genitive, dative, and accusative may be indicated by these phrases: on horseback, a city on the sea, he marches on the town. Compare παρά (§ 25).</note>
-<span style="color:green">Ἀθηναῖος</span>, Ἀθηναά, Ἀθηναῖον: Athenian.
-<span style="color:green">ἑπτά</span>: seven. HEPTAGON.
-<span style="color:green">δρόμος</span>, δρόμου, ὁ: a running, run, race, race course. HIPPODROME.
+**ἐπί**: prep. with G., on, upon;1 with D., on, at, by; with A., upon, to, againsi, EPIDERMIS.<note>The difference between the genitive, dative, and accusative may be indicated by these phrases: on horseback, a city on the sea, he marches on the town. Compare παρά (§ 25).</note>
+**Ἀθηναῖος**, Ἀθηναά, Ἀθηναῖον: Athenian.
+**ἑπτά**: seven. HEPTAGON.
+**δρόμος**, δρόμου, ὁ: a running, run, race, race course. HIPPODROME.
 
-<span style="color:green">ἥκω</span>, ἥξω: [No aorist in use] come, have come, arrive.
+**ἥκω**, ἥξω: [No aorist in use] come, have come, arrive.
 
-<span style="color:green">ὀκτώ</span>: eight. octopus.
+**ὀκτώ**: eight. octopus.
 
-<span style="color:green">σπεύδω</span>, σπεύσω, ἔσπευσα: hasten.
+**σπεύδω**, σπεύσω, ἔσπευσα: hasten.
 
 <div type="textpart" subtype="para" n="65">
 MARATHON

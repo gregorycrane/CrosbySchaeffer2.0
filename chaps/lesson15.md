@@ -25,8 +25,9 @@ and dative show the same agreement.
 In like manner inflect θάλαττα and βασίλεια.
 
 <div type="textpart" subtype="para" n="82">
-The Personal Pronouns are <span style="color:green">ἐγώ</span>,
-<span style="color:green">σύ</span> you (sg.), for
+The Personal Pronouns are 
+**ἐγώ**,
+**σύ** you (sg.), for
 the first and second persons. For the third person, αὐτός
 is used in all cases except the nominative.
 
@@ -65,15 +66,15 @@ VOCABULARY
 <rs type="lemma" n="ἄμαξα">ἅμαξα</rs>: cart, wagon.
 
 <rs type="lemma" n="βασιλεία">βασίλεια</rs>: queen.
-<span style="color:green">γέφῡρα</span>: bridge.
-<span style="color:green">ἐγώ</span>: I. EGOTIST.
-<span style="color:green">ὅπλον</span>: implement, tool ;
-<span style="color:green">εἰ</span>, proclit. conj.: if. frequently pl, arms (in war). PANOPLY.
+**γέφῡρα**: bridge.
+**ἐγώ**: I. EGOTIST.
+**ὅπλον**: implement, tool ;
+**εἰ**, proclit. conj.: if. frequently pl, arms (in war). PANOPLY.
 <rs type="lemma" n="θάλασσα">θάλαττα</rs>: sea.
-<span style="color:green">κακός</span>: bad, cowardly. CACOPHONY.
-<span style="color:green">οὖν</span>, post-pos. conj.: therefore, then,  accordingly.
+**κακός**: bad, cowardly. CACOPHONY.
+**οὖν**, post-pos. conj.: therefore, then,  accordingly.
 
-<span style="color:green">μή</span>, neg. adv.: not, Found instead of οὐ with most uses of the infinitive and in conditional clauses.
+**μή**, neg. adv.: not, Found instead of οὐ with most uses of the infinitive and in conditional clauses.
 
 σύ: thou, you (sg.).
 

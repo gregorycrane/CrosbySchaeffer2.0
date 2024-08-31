@@ -52,24 +52,24 @@ shall hasten </quote> <bibl></bibl>
 <div type="textpart" subtype="para" n="129">
 VOCABULARY
 
-<span style="color:green">ἀ-δικέω</span>, ἀδικήσω, ἠδίκησα: injure, wrong.
+**ἀ-δικέω**, ἀδικήσω, ἠδίκησα: injure, wrong.
 
-<span style="color:green">αἰτέω</span>, αἰτήσω, ἤτησα: ask for, demand.
+**αἰτέω**, αἰτήσω, ἤτησα: ask for, demand.
 
-<span style="color:green">δή</span>, post-pos. particle emphasizing preceding word: now, then, accordingly, indeed, etc. Often untranslated.
+**δή**, post-pos. particle emphasizing preceding word: now, then, accordingly, indeed, etc. Often untranslated.
 
-<span style="color:green">δοκέω</span>, δόξω, ἔδοξα: seem, seem best, think, Often with inf. as subject. DOGMATIC.
+**δοκέω**, δόξω, ἔδοξα: seem, seem best, think, Often with inf. as subject. DOGMATIC.
 
 
-<span style="color:green">καλέω</span>,1 καλῶ, ἐκάλεσα: call, name. CALENDAR.
+**καλέω**,1 καλῶ, ἐκάλεσα: call, name. CALENDAR.
 
-<span style="color:green">ποιέω</span>, ποιήσω, ἐποίησα: make, do. POET (ποιητής).
+**ποιέω**, ποιήσω, ἐποίησα: make, do. POET (ποιητής).
 
-<span style="color:green">πολεμέω</span>, πολεμήσω, ἐπολέμησα : make war. Cf. πόλεμος.
+**πολεμέω**, πολεμήσω, ἐπολέμησα : make war. Cf. πόλεμος.
 
-<span style="color:green">φιλέω</span>, φιλήσω, ἐφίλησα: love. Cf. φίλος.
+**φιλέω**, φιλήσω, ἐφίλησα: love. Cf. φίλος.
 
-<span style="color:green">ὧδε</span>, adv.; thus, as follows. Cf. ὅδε.
+**ὧδε**, adv.; thus, as follows. Cf. ὅδε.
 
 <div type="textpart" subtype="para" n="130">
 EXERCISES

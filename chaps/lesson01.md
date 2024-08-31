@@ -8,10 +8,12 @@
 
 <figure><head>Eager to Go</head></figure>
 
-[§ 1](#para1). **Declensions**. There are three declensions in Greek,
+## [§ 1](#para1). Declensions.
+There are three declensions in Greek,
 instead of five as in Latin. To these, because of their general uniformity, the o-stems serve as a good introduction.
 
-[§ 2](#para2). **Ο-Stem Masculines**. Nouns of the ο-declension
+## [§ 2](#para2). Ο-Stem Masculines.
+Nouns of the ο-declension
 whose nominatives end in -ος are usually masculine.
 
 **ποταμός, ποταμοῦ, ὁ — a river**
@@ -32,7 +34,7 @@ whose nominatives end in -ος are usually masculine.
 
 In like manner inflect ὁ ἀδελφός.
 
-[§ 3](#para3). **Accents**.
+## [§ 3](#para3). Accents.
 (a) In nouns of the ο-declension an acute
 
 (´) on the ultima in the nominative is changed to a
@@ -51,7 +53,8 @@ when a word follows without intervening punctuation:
 
 
 
-[§ 4](#para4). **Cases.** The endings of a noun tell its case and use
+## [§ 4](#para4). Cases.
+The endings of a noun tell its case and use
 
 (a) The nominative is the case of the subject:
 
@@ -69,29 +72,32 @@ for in English. It frequently denotes the indirect object :
 (d) The accusative is the direct object of a transitive
 verb: ἀδελφὸν πέμπει he sends a brother.
 
-[§ 5](#para5). The Article.
-(a) <span style="color:green">ὁ</span> Like English, and unlike Latin,
+## [§ 5](#para5). The Article..
+
+(a) 
+**ὁ** Like English, and unlike Latin,
 Greek has a definite article. This agrees with its noun
 in gender, number, and case. It often serves as a possessive pronoun, as my, your, his, etc. ὁ and οἱ are proclitic
 (page xxvii).
 
-(b) Greek has no indefinite article. Many nouns having no definite article require a or an in translation:
+(b) Greek has no indefinite article. Many Greek nouns having no definite article require the addition of "a" or "an" when translated into English:
 
-[§ 6](#para6). **Vocabulary**
+## [§ 6](#para6). Vocabulary.
+
 <list type="vocab">
-<span style="color:green">ἀδελφός</span>, ἀδελφοῦ, ὁ:<note>The definite article accompanies nouns in vocabularies to show gender.</note> brother.  PHILADELPHIA.<note>In the vocabularies derivatives and cognates are printed in small capitals.</note>
+**ἀδελφός**, ἀδελφοῦ, ὁ:<note>The definite article accompanies nouns in vocabularies to show gender.</note> brother.  PHILADELPHIA.<note>In the vocabularies derivatives and cognates are printed in small capitals.</note>
 
-<span style="color:green">ἔχει</span>: he, she, or it has,
-<span style="color:green">ἔχουσι</span>: they have.
-<span style="color:green">ἦν</span>: he, she, it was;  there was.
+**ἔχει**: he, she, or it has,
+**ἔχουσι**: they have.
+**ἦν**: he, she, it was;  there was.
 <rs n="https://atlas-test.fly.dev/morphology/form/245/" type="lemma">ἦσαν</rs>: they or there were.
-<span style="color:green">παύει</span>: he, she, or it stops (transitive).
+**παύει**: he, she, or it stops (transitive).
 
-<span style="color:green">παύουσι</span>: they stop (transitive).
-<span style="color:green">πέμπει</span>: he, she, or it sends (transitive).
-<span style="color:green">πέμπουσι</span>: they send (transitive).
-<span style="color:green">ποταμός</span>, ποταμοῦ, ὁ: river, HIPPOPOTAMUS.
-<span style="color:green">στρατηγός</span>, στρατηγοῦ, ὁ: general. STRATEGY.
+**παύουσι**: they stop (transitive).
+**πέμπει**: he, she, or it sends (transitive).
+**πέμπουσι**: they send (transitive).
+**ποταμός**, ποταμοῦ, ὁ: river, HIPPOPOTAMUS.
+**στρατηγός**, στρατηγοῦ, ὁ: general. STRATEGY.
 
 
 
@@ -102,18 +108,19 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 <pb n="3"/>
 
 
-[§ 7](#para7). Exercises
+## [§ 7](#para7). Exercises..
 
-### (a) What use of the noun do the <span style="color:blue">emphasized type</span> endings suggest?
 
-1. ἀδελφ <span style="color:blue">οῦ</span>
-2. στρατηγ <span style="color:blue">ούς</span>
-3. ποταμ <span style="color:blue">οῖς</span>
-4. ποταμ <span style="color:blue">όν</span>
-5. ἀδελφ <span style="color:blue">οί</span>
-6. ἀδελφ <span style="color:blue">ός</span>
-7. στρατηγ <span style="color:blue">ῶν</span>
-8. στρατηγ <span style="color:blue">ῷ</span>
+### (a) What use of the noun do the **emphasized type** endings suggest?
+
+1. ἀδελφ **οῦ**
+2. στρατηγ **ούς**
+3. ποταμ **οῖς**
+4. ποταμ **όν**
+5. ἀδελφ **οί**
+6. ἀδελφ **ός**
+7. στρατηγ **ῶν**
+8. στρατηγ **ῷ**
 
 
 ### (b) Read aloud in Greek and translate into English :

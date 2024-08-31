@@ -62,19 +62,19 @@ into the plain
 
 <div type="textpart" subtype="para" n="25">
 VOCABULARY
-<span style="color:green">δέ</span>: (δ᾽ before vowels), postpositive conj: but, and.
+**δέ**: (δ᾽ before vowels), postpositive conj: but, and.
 
-<span style="color:green">ἐν</span>: proclitic prep. with D. : in (Lat. in). ENCLITIC.
-<span style="color:green">δένδρον</span>, δένδρου, τό: tree. RHODODENDRON.
+**ἐν**: proclitic prep. with D. : in (Lat. in). ENCLITIC.
+**δένδρον**, δένδρου, τό: tree. RHODODENDRON.
 
-<span style="color:green">παρά</span>: prep., with G., from the side of; with D., by the side of; with A., to the side of, to, alongside. PARALLEL.
+**παρά**: prep., with G., from the side of; with D., by the side of; with A., to the side of, to, alongside. PARALLEL.
 
-<span style="color:green">δῆλος</span>, δήλη, δῆλον: plain, evident.
-<span style="color:green">δῶρον</span>, δώρου, τό: gift. THEODORE,
-<span style="color:green">εἰς</span>: proclit. prep. with A.: into  (Lat. in).
-<span style="color:green">πεδίον</span>, πεδίου, τό: plain.
+**δῆλος**, δήλη, δῆλον: plain, evident.
+**δῶρον**, δώρου, τό: gift. THEODORE,
+**εἰς**: proclit. prep. with A.: into  (Lat. in).
+**πεδίον**, πεδίου, τό: plain.
 
-<span style="color:green">στάδιον</span>, σταδίου, τό: stadium (race course); stade (600 ft.).3 
+**στάδιον**, σταδίου, τό: stadium (race course); stade (600 ft.).3 
 
 <div type="textpart" subtype="para" n="26">
 EXERCISES

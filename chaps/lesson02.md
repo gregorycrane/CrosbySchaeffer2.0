@@ -6,7 +6,8 @@
 </quote>>> Euripides, fragment
 
 
-[§ 8](#para8). **Persistent Accent**. The accent of the nominative
+## [§ 8](#para8). Persistent Accent.
+The accent of the nominative
 must be learned by observation. It will remain on the
 same syllable in the other cases if possible. An acute on
 the penult of a noun of the o-declension remains on that
@@ -30,7 +31,7 @@ In like manner inflect ὁ πόλεμος.
 
 <pb n="5"/>
 
-[§ 9](#para9). Genitive of Place from Which. The genitive with
+<div type="textpart" subtype="para" n="9">Genitive of Place from Which. The genitive with
 many prepositions denotes place from which :
 
 τὸν ἄνθρωπον πέμπει ἀπὸ τοῦ ποταμοῦ.
@@ -49,24 +50,24 @@ The walls of Messene still testify to the engineering skill and daring of the
 victor of Leuctra. Note particularly the central doorpost of this great gate.
 It is nearly nineteen feet long.</figure>>
 
-[§ 10](#para10). VOCABULARY
+<div type="textpart" subtype="para" n="10">VOCABULARY
 
-<span style="color:green">ἄνθρωπος</span>, ἀνθρώπου, ὁ: person, human being. When used with the feminine article, this noun can explicitly designate a female person. Lat. homo. ANTHROPOLOGY
-<span style="color:green">ἄξιος</span>: worthy, worth. AXIOM
-<span style="color:green">ἀπό</span>: prep. with G.: from, away from, Lat. ab. APOSTLE.
-<span style="color:green">δίκαιος</span> : just.
-<span style="color:green">Ἑλλήσποντος</span>, Ἑλλησπόντου, ὁ: Hellespont, the Dardanelles.
+**ἄνθρωπος**, ἀνθρώπου, ὁ: person, human being. When used with the feminine article, this noun can explicitly designate a female person. Lat. homo. ANTHROPOLOGY
+**ἄξιος**: worthy, worth. AXIOM
+**ἀπό**: prep. with G.: from, away from, Lat. ab. APOSTLE.
+**δίκαιος** : just.
+**Ἑλλήσποντος**, Ἑλλησπόντου, ὁ: Hellespont, the Dardanelles.
 
-<span style="color:green">ἐκ</span>: (before consonants), ἐξ (before vowels), proclit. prep. with G. out of, from. Lat. ex. ECLECTIC.
-<span style="color:green">μακρός</span>: large. MACRON. MACROECONOMICS.
-<span style="color:green">μῑκρός</span>: small. MICROSCOPIC. MICROECONOMICS
+**ἐκ**: (before consonants), ἐξ (before vowels), proclit. prep. with G. out of, from. Lat. ex. ECLECTIC.
+**μακρός**: large. MACRON. MACROECONOMICS.
+**μῑκρός**: small. MICROSCOPIC. MICROECONOMICS
 
-<span style="color:green">πόλεμος</span>: war.
+**πόλεμος**: war.
 
-<span style="color:green">πολέμιος</span> : hostile. οἱ πολέμιοι: the enemy. POLEMIC.
+**πολέμιος** : hostile. οἱ πολέμιοι: the enemy. POLEMIC.
 
 
-<span style="color:green">φίλος</span>: friend. PHILANTHROPIST.
+**φίλος**: friend. PHILANTHROPIST.
 
 1 This is our second use of the genitive (§ 4). The use here given is like the Latin ablative in its from relations.
 2 Adjectives in -ρος usually have the acute on the last syllable.
@@ -76,7 +77,7 @@ It is nearly nineteen feet long.</figure>>
 <pb n="6"/>
 
 
-[§ 11](#para11). TRANSLATION HINTS
+<div type="textpart" subtype="para" n="11">TRANSLATION HINTS
 
 . Learn all words given in vocabularies.
 
@@ -86,7 +87,7 @@ It is nearly nineteen feet long.</figure>>
 
 . Translate.
 
-[§ 12](#para12). EXERCISES
+<div type="textpart" subtype="para" n="12">EXERCISES
 
 
 

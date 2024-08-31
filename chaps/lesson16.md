@@ -45,31 +45,31 @@ they persuaded me to go to their (own) tent.
 <div type="textpart" subtype="para" n="90">
 VOCABULARY
 
-<span style="color:green">ἑ-αυτοῦ</span> : of himself, herself; itself.
+**ἑ-αυτοῦ** : of himself, herself; itself.
 
-<span style="color:green">ἐμ-αυτοῦ</span>: of myself.
+**ἐμ-αυτοῦ**: of myself.
 
-<span style="color:green">ἐξελαύνω</span>,2 ἐξήλασα: drive out, march forth, march on.
+**ἐξελαύνω**,2 ἐξήλασα: drive out, march forth, march on.
 
-<span style="color:green">μένω</span>:2 remain, wait for.
+**μένω**:2 remain, wait for.
 
-<span style="color:green">Ξενίας</span>: Xenias, an Arcadian general serving under Cyrus, the younger.
+**Ξενίας**: Xenias, an Arcadian general serving under Cyrus, the younger.
 
-<span style="color:green">ὁπλίτης</span>: hoplite, a heavy-armed soldier, Cf.
-
-
+**ὁπλίτης**: hoplite, a heavy-armed soldier, Cf.
 
 
 
-<span style="color:green">πολίτης</span>: citizen, POLITICS,
 
-<span style="color:green">σατράπης</span>: satrap, a Persian viceroy.
 
-<span style="color:green">σεαυτοῦ</span>: Of yourself.
+**πολίτης**: citizen, POLITICS,
+
+**σατράπης**: satrap, a Persian viceroy.
+
+**σεαυτοῦ**: Of yourself.
 
 <rs type="lemma" n="σταθμόν">σταθμός</rs>: halting-place, day’s march,
 
-<span style="color:green">στρατιώτης</span>: soldier. Cf. στρατιά, στρατηγός.
+**στρατιώτης**: soldier. Cf. στρατιά, στρατηγός.
 
 1 Contracted forms gavrod and abroé are often used in place of ceavrod and ἑαυτοῦ.
 
