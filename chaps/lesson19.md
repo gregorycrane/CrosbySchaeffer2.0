@@ -4,9 +4,13 @@
 
 
 <div type="textpart" subtype="para" n="107">
+
+
 Stems in τ or δ with unaccented ι before the final
 consonant have ιν in the accusative singular. Other
 nouns with τ or δ stems are normal.
+
+
 
 In the dative plural τ and δ drop out before σι. When
 the stem ends in ντ, both letters drop out and the π of the
@@ -18,6 +22,8 @@ stem lengthens to ου.
 
 
 <div type="textpart" subtype="para" n="108">
+
+
 Result Clauses. 
 
 **ὥστε** followed by the indicative
@@ -31,6 +37,8 @@ I had money and (so that I) bought provisions ;
 I had money (so as) to buy provisions.
 
 <div type="textpart" subtype="para" n="109">
+
+
 VOCABULARY
 
 
@@ -72,6 +80,8 @@ VOCABULARY
 ὥστε, conj.: with ind., so that; , with inf., so as to.
 
 <div type="textpart" subtype="para" n="110">
+
+
 EXERCISES
 
 (a) Translate :

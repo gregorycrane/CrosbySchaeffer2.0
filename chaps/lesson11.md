@@ -10,6 +10,8 @@
 
 
 <div type="textpart" subtype="para" n="60">
+
+
 ASSIGNMENTS
 
 (a) Review all words in the vocabularies of Lessons
@@ -36,6 +38,8 @@ used with στρατηγῷ, χώρᾳ, δῶρα, φυγήν, φιλίας (sin
 Of the dative? Of the accusative ?
 
 <div type="textpart" subtype="para" n="61">
+
+
 EXERCISES
 (a) Complete:
 

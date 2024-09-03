@@ -6,25 +6,33 @@
 <quote>
 The sea, the sea!
 </quote>
->> Xenophon, Anabasis, IV. 7, 24. 2 
+>> Xenophon, *Anabasis*, IV. 7, 24. 2 
 
 
 
 
 <div type="textpart" subtype="para" n="81">
+
+
 Feminines in -ᾰ. Most nouns of the a-declension
 have -ᾱ or -η in the nominative and carry the same throughout the singular. A few nouns have -ᾰ in the nominative.
 These have ᾱ in the genitive and dative singular, if the
 preceding letter is ι or ρ; otherwise they have η.
 
 
+
+
 Note that in the singular, nominative and accusative agree as to
 final vowel, quantity of final vowel, and accent; and that the genitive
 and dative show the same agreement.
 
+
+
 In like manner inflect θάλαττα and βασίλεια.
 
 <div type="textpart" subtype="para" n="82">
+
+
 The Personal Pronouns are 
 
 **ἐγώ**,
@@ -46,6 +54,8 @@ prepositions. The nominative is not used except when emphasis is desired.
 
 
 <div type="textpart" subtype="para" n="83">
+
+
 Particular Conditions.
 (a) εἰ with a present or past
 tense of the indicative in the protasis1 and the same tense
@@ -65,6 +75,8 @@ apodosis οὐ.
 
 
 <div type="textpart" subtype="para" n="84">
+
+
 VOCABULARY
 <rs type="lemma" n="ἄμαξα">ἅμαξα</rs>: cart, wagon.
 
@@ -96,6 +108,8 @@ VOCABULARY
 σύ: thou, you (sg.).
 
 <div type="textpart" subtype="para" n="85">
+
+
 EXERCISES
 
 (a) Translate :
@@ -135,6 +149,8 @@ EXERCISES
 
 
 <figure><head>THE SEA GOD’S SHRINΕ</head>
+
+
 These columns of whitest marble, belonging to the temple of Poseidon, still welcome the
 seafarer to Attica as in the proud
 days of Pericles.</figure>
@@ -151,6 +167,8 @@ St. Paul (1 Corinthians, XV. 33) repeats one of his lines:
 evil communications corrupt good manners.
 
 <div type="textpart" subtype="para" n="86">
+
+
 
 
 

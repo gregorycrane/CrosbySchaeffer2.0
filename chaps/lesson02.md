@@ -1,12 +1,14 @@
 # Chapter 2: DECLENSION OF O-STEMS — Continued
 
-<quote>
-πόνος γάρ, ὡς λέγουσιν, εὐκλείας πατήρ.</quote>
-<quote>Toil, so they say, is the father of fame.
-</quote>>> Euripides, fragment
+
+>  πόνος γάρ, ὡς λέγουσιν, εὐκλείας πατήρ.<br/>
+>  Toil, so they say, is the father of fame.<br/>
+>> Euripides, fragment
 
 
 ## [§ 8](#para8). Persistent Accent.
+
+
 The accent of the nominative
 must be learned by observation. It will remain on the
 same syllable in the other cases if possible. An acute on
@@ -15,14 +17,22 @@ syllable throughout. An acute ou the antepenult is drawn
 to the penult when the ultima is long (§ V, e). Final -οι
 of the nominative plural is considered short (§ V, a).
 
-<foreign>ὁ φίλος the</foreign> <gloss>friend</gloss>
+| Greek | English | 
+| --- | -- | 
+|  ὁ φίλος  |  the friend  |
 
 
-<foreign>ὁ δίκαιος the just</foreign> <gloss>man</gloss>
+| Greek | English | 
+| --- | -- | 
+|  ὁ δίκαιος   |  the just man  |
+
+
 
 
 
 In like manner inflect ὁ πόλεμος.
+
+
 
 
 2 In the previous lesson you found singular and plural labeled. From now on you are given no labels, bnt you can readily tell which is which.
@@ -31,26 +41,34 @@ In like manner inflect ὁ πόλεμος.
 
 <pb n="5"/>
 
-<div type="textpart" subtype="para" n="9">Genitive of Place from Which. The genitive with
-many prepositions denotes place from which :
+## [§ 9](#para9). Genitive of Place from Which.
 
-τὸν ἄνθρωπον πέμπει ἀπὸ τοῦ ποταμοῦ.
-he sends the man from the river.
-τὸν ἄνθρωπον πέμπει ἐκ τοῦ ποταμοῦ
-he sends the man out of the river.
+ The genitive with
+many prepositions denotes place from which :<note>This is our second use of the genitive (§ 4). The use here given is like the Latin ablative in its from relations.</note>
 
 
+| Greek | English | 
+| --- | -- | 
+|  τὸν ἄνθρωπον πέμπει ἀπὸ τοῦ ποταμοῦ.  |  he sends the man from the river.  |
+|  τὸν ἄνθρωπον πέμπει ἐκ τοῦ ποταμοῦ.  |  he sends the man out of the river.  |
+
+
+
+| ![text](images/megalop.jpg) | ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Arcadian_Gate.jpg/2560px-Arcadian_Gate.jpg) | 
 
 
 
 
 
 <figure><head>The ARCADIAN GATE</head>
+
 The walls of Messene still testify to the engineering skill and daring of the
 victor of Leuctra. Note particularly the central doorpost of this great gate.
-It is nearly nineteen feet long.</figure>>
+It is nearly nineteen feet long.</figure>
 
-<div type="textpart" subtype="para" n="10">VOCABULARY
+## [§ 10](#para10). Vocabulary
+
+
 
 
 
@@ -91,7 +109,7 @@ It is nearly nineteen feet long.</figure>>
 
 **φίλος**: friend. PHILANTHROPIST.
 
-1 This is our second use of the genitive (§ 4). The use here given is like the Latin ablative in its from relations.
+
 2 Adjectives in -ρος usually have the acute on the last syllable.
 
 
@@ -99,7 +117,9 @@ It is nearly nineteen feet long.</figure>>
 <pb n="6"/>
 
 
-<div type="textpart" subtype="para" n="11">TRANSLATION HINTS
+<div type="textpart" subtype="para" n="11">
+
+TRANSLATION HINTS
 
 . Learn all words given in vocabularies.
 
@@ -109,11 +129,15 @@ It is nearly nineteen feet long.</figure>>
 
 . Translate.
 
-<div type="textpart" subtype="para" n="12">EXERCISES
+<div type="textpart" subtype="para" n="12">
+
+EXERCISES
 
 
 
 <figure><head>Pericles</head>
+
+
 
 The most brilliant period in Athenian history is justly called the Age
 of Pericles. His home was the haunt

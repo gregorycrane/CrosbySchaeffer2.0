@@ -7,7 +7,9 @@
 
 
 
-<div type="textpart" subtype="para" n="13">The Present Tense. This tense denotes action occurring or continuing or repeated in present time:
+<div type="textpart" subtype="para" n="13">
+
+The Present Tense. This tense denotes action occurring or continuing or repeated in present time:
 
 παύω I stop. I am stopping. I keep stopping. I do stop.
 
@@ -20,6 +22,8 @@ Present Infintive ACTIVE παύ-ειν
 In like manner inflect ἐθέλω.
 
 <div type="textpart" subtype="para" n="14">
+
+
 Verb Structure.
 (a) In the inflection of a verb
 the stem is of fundamental importance. On it are built
@@ -34,6 +38,8 @@ In the present indicative active the personal ending is
 clearly seen only in the first and second persons plural.
 
 <div type="textpart" subtype="para" n="15">
+
+
 Verb Accent. In § 8 we saw that the accent of
 nouns was persistent. That of verbs is recessive, that is,
 
@@ -48,12 +54,16 @@ on the penult if the ultima is long -
 ἐθέλω, ἐθέλομεν.
 
 <div type="textpart" subtype="para" n="16">
+
+
 Dative with Adjectives. The dative is used with many adjectives expressing friendliness, hostility, association, fitness, and the like: 1
 
 πολέμιος ἦν τῷ στρατηγῷ
 he was hostile to the general.
 
 <div type="textpart" subtype="para" n="17">
+
+
 VOCABULARY
 
 
@@ -111,6 +121,8 @@ VOCABULARY
 **παύω**: stop (trans,). PAUSE.
 
 <div type="textpart" subtype="para" n="18">
+
+
 EXERCISES
 
 (a) What do the portions in heavy type tell as to the person
@@ -144,6 +156,8 @@ and number of the subject ?
 3. οἱ ἄγγελοι πολέμιοι ἦσαν τι-- στρατηγ- (singular).
 
 <div type="textpart" subtype="para" n="19">
+
+
 (a) Translation Hints
 
 1. Read the entire English sentence, noting how the
@@ -171,7 +185,11 @@ before starting to write.
 5. They were brothers of the general.
 
 <div type="textpart" subtype="para" n="20">
+
+
 Βρεκεκεκὲξ κοὰξ κοάξ. 
+
+
 
 This is the famous refrain of the frog chorus in Aristophanes’ comedy, The Frogs. In unison with this unceasing chant Dionysus rows Charon’s boat across the Styx. It is the basis of Yale’s well-known yell.
 

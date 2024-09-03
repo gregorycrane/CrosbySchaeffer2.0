@@ -8,21 +8,68 @@
 
 
 
-![text](https://live.staticflickr.com/528/32099864256_b8ff444792_6k.jpg)
-*Eager to Go*: Pedestal of the monument dedicated to the victory of Krates in the apovatis race at the Panathenaic Games. A fully armed soldier jumps on and off a moving chariot. Relief. Marble. 4th c. BCE.Athens, Greece. Image and more information available from  [Egisto Sani on Flickr](https://www.flickr.com/photos/69716881@N02/32099864256)  
 
 
 
 
 ## [§ 1](#para1). Declensions.
-There are three declensions in Greek,
+
+
+Greek uses word endings (and to a lesser degree prefixes) far more than languages such as English or Mandarin. English still uses some endings -- English speakers recogngize that "endings" is plural and "ending" is singular. Likewise, English speakers know that the added -s with verbs indicates a singular subject: "she travel*s*" vs. "they travel." Greek has three basic classes of endings for nouns. We will talk about the meanings that these endings convey below. This section introduces the forms.
+
+
+
+reek uses word endings (and to a lesser degree prefixes) far more than languages such as English or Mandarin. English still uses some endings -- English speakers recogngize that "endings" is plural and "ending" is singular. Likewise, English speakers know that the added -s with verbs indicates a singular subject: "she travel*s*" vs. "they travel." Greek has three basic classes of endings for nouns. We will talk about the meanings that these endings convey below. This section introduces the forms.
+
+
+
+While there are many (!) small variations, all Greek nouns roughly follow the following three patterns. Each pattern for noun formation is traditionally called a "declension." Core examples of the three declensions of Greek include the following:
+
+
+| | 1st Declension/α-stem | 2nd Declension/ο-stem | 3rd Declension/C-stem | 
+| --- | --- | --- | --- 
+| Nom. | ἀρετή | ποταμός | φύλαξ (φύλακ-ς) | 
+| Gen. | ἀρετῆς | ποταμοῦ | φύλακ-ος (φύλαξ) | 
+| Dat. | ἀρετῇ | ποταμῷ | φύλακ-ι (φύλαξ) | 
+| Acc. | ἀρετήν | ποταμόν | φύλακ-α (φύλακ-ν) | 
+| Tokens | 2662 | 3352 | 3359 | 
+| Lemmmata | 465 | 473 | 412 | 
+
+Crosby and Schaeffer avoid the terms "first/second/third declension" because they chose to start with nouns that have a stem that ends in ο (omicron, "little o"). They begin with the "second declension" because of "their general uniformity," i.e., because there are fewer small variant ways to generate o-stem nouns. (Second declension nouns use two different endings for nominative and accusative: -ον for the singular, -α for the plural.) Furthermore, o-stem endings are reused for pronouns, adjectives and participles. Once you are familiar with the o-stem endings, you can also understand the case endings on an additional c. 6,981 additional words -- in other words, you will be able to understand the case endings for 10,332 of the tokens (18%) in the *Anabasis*.
+
+> **Note**: The caveat reflects the fact that the genitive plural ending is common to all three declensions. While automatic count simply assumes that o-stem nouns account for 1/3 of the ambiguous forms, that ambiguity should not significantly affect the overall total.
+
+
+
+
+In the table shows that the frequency of all three classes of noun is comparable in the *Anabasis*. To understand that, we need to explain two terms: **word tokens**  and **lemmata**. To understand the difference, consider the following sentence:
+
+
+
+>  The term tokens describes the number of words in a text.<br/>
+
+If we count each word in this  sentence, we will find that there are 11 tokens. Our digital editoin of Xenophon's *Anabasis* contains 57,245 tokens, i.e, running words of text. The table above shows that, of these 57,245 tokens, 2,662 (4.65%) are α-stem nouns, 3,352 (5.85%) are ο-stem nouns, and 3,357 (5.87%) are consonantal stem nouns.
+
+
+The term **lemmas**  describes the normalized dictionary form for a word. In the table above, you can see that ποταμός, ποταμοῦ, ποταμῷ, ποταμόν etc. are all forms of the same word. When we look up a noun in a standard Greek dictionary, we look up that first form in the table (the nominative singular). By dividing tokens by lemmas, we can see that each a-stem, o-stem and K-stem lemmas shows up c. 5, 7 and 8 times in the *Anabasis*, i.e., if you learn a vocab word,  you are likely to see it 4, 6 and 7 times again.
+
+O-stem nouns are more frequent than a-stem nouns and roughly as frequent as K-stem nouns. Equally important, o-stem nouns are very simple -- once you have learned the declension in this chapter, you will have only a few variations (for the neuter gender) to learn.
+
+
+
+
+Greek has three basic ways of generating nouns,
 instead of five as in Latin. To these, because of their general uniformity, the o-stems serve as a good introduction.
 
 ## [§ 2](#para2). Ο-Stem Masculines.
+
+
 Nouns of the ο-declension
 whose nominatives end in -ος are usually masculine.
 
-**ποταμός, ποταμοῦ, ὁ — a river**
+
+
+*ποταμός, ποταμοῦ, ὁ — a river*
 
 
 | | Singular |  | Plural |  | 
@@ -40,9 +87,58 @@ whose nominatives end in -ος are usually masculine.
 
 In like manner inflect ὁ ἀδελφός.
 
+
+
+The table above is often called a paradigm, an English word derived from the Greek "paradeigma," "something that you show (deigma) on the side (para)." As noted above, the table from the text book shows the most important forms. If we look at the paradigm illustrating the forms of <foreign>ποταμός</foreign> <gloss>river</gloss> that actually appear in the 20 million word Glaux Trees parsed corpus of Ancient Greek, we can see that there are additional forms that the textbook leaves out but we can also see that the textbook has nicely captured the most important forms.
+
+![text](images/potamos-parad.jpg)
+
+
+
+
+
+
+1. The same ending appears with both acute (ποταμός) and grave (ποταμὸς) accents. The shift from acute to grave (discussed below) happens when another accented word follows. You can see that, in the corpus, the grave accent is used 697 times and that the acute accent (which the textbook shows you) only appears 271 out of 968 times (27%). A word like ποταμός usually has another accented word following it and appears as ποταμὸς. 
+You can see that Greek does have instances where we get forms in thedual ("two rivers"), but there are only 3 instances of the dual number.
+The textbook leaves out one Greek case: the vocative. The vocative is used when a speaker directly addresses someone. The vocative form ποταμὲ means "O River!" but it only occurs 1 time in 20 million tokens. While this low number reflects the fact that people do not typically address an anonymous river, vocative forms are not very common -- and they are easy (in o-stem nows, just shorten the -ος ending to -ε).
+
+
+
+
+
+
+
+
+
+## [§ 2a](#para2a). Number and verbs.
+
+
+
+Ancient Greek has endings not only for the singular (e.g., English river vs. rivers) but also has a dual nuumber used to describe pairs (e.g., two hands, two siblings etc.). Because the dual is much less common, many introductory grammars leave it out so that learners can focus on higher frequency features. We will see duals when we look at real primary sources but the digital part of speech annotations will (usually) identify these. You will learn to recognize them as you read more Greek.
+
+
+
+While this lesson focuses on introducint nouns, it also introduces  singular and plural forms for three different verbs. These forms allow us to begin generating full sentence and thus to see when we apply each case to a noun.
+
+
+| Lemma | Short Def | Singular | Plural | 
+| --- | --- | --- | --- 
+| εἰμί | to be | ἦν, s/he or it was | ἦσαν, they were | 
+| ἔχω | to have, to possess | ἔχει s/he or it has | ἔχύουσι, they have | 
+| παύω | to stop | παύει s/he or it stops | παύουσι, they stop | 
+| πέμπω | to send | πέμπει, s/he or it sends | πέμπουσι, they send | 
+
+
+
+
 ## [§ 3](#para3). Accents.
-(a) In nouns of the ο-declension an acute (´) on the ultima in the nominative is changed to a
+
+
+(a) In nouns of the ο-declension an acute (´) on the ultima in the nominative becomes a
 circumflex (῀) in the genitive and dative of both numbers.
+
+
+The acute accent can only occur on (1) the last or the second to last syllable and only on a long syllable.
 
 
 
@@ -51,13 +147,29 @@ circumflex (῀) in the genitive and dative of both numbers.
 <pb n="2"/>
 
 
+
+
 (b) An acute on the ultima changes to a grave (`) when a word follows without intervening punctuation:
+
+
 
 <foreign xml:id="p3.1">ἀδελφὸν ἔχει</foreign>: <gloss target="p3.1">s/he has a brother.</gloss>
 
 
 
+(c) If the accent on the nominative of an o-stem noun is an acute, the accent is an acute also in the accusative. This makes sense given the statement above, for the accusative singular because that ending is short and cannot bear a circumflex accent. If you remember that a circumflex involves a rising and then a declining tone, it makes sense: the short syllable is not long enough for the up and down tones -- that requires more length. 
+
+
+That said, the accusative plural ending, -ους, is long but it still does not bear a circumflex. The reason is probably that the ending -ους comes from *-ονς and was thus originally short.
+
+
+The bottom line is that an accented long final syllable can take a circumflex but it does not have to. You just have to remember those places where the long final syllable takes an acute.
+
+
+
 ## [§ 4](#para4). Cases.
+
+
 The different endings give you information about how a noun is used in a sentence. English retains traces of such a system in its pronouns. Thus we can say:
 
 >  She saw him.<br/>
@@ -79,27 +191,81 @@ Because Greek words have different endings that help you understand the role of 
 
 
 
+
+
 (a) A noun appears in the nominative when that noun is the subject of a verb or when the noun is the predicate of a verb.
 
-<foreign>οἱ στρατηγοὶ ἦσαν ἀδελφοί</foreign> <gloss>the generals were brothers.</gloss>
 
-"The generals" are the subject of the verb "were" and thus they are in the nominative. We learn that the generals are also brothers. There is no action involved. We simply learn that A is equivalent to B. We say, in this case, that "brothers" is the **predicate** of "the generals."
 
-(b) The genitive suggests relations like those expressed
+| Greek | English | 
+| --- | -- | 
+|  οἱ στρατηγοὶ ἦσαν ἀδελφοί  |  the generals were brothers.  |
 
-with of in English. It frequently denotes possession :
-<foreign>ὁ τοῦ στρατηγοῦ ἀδελφός:</foreign> <gloss>the brother of the general.</gloss>
+"The generals" are the subject of the verb "were" and they are in the nominative. The subject of a typical verb will always be in the nominative. (We will see an exception involving more complicated sentences later but for now subjects are always in the nominative.)
 
-(c) The dative suggests relations like those with of or
-for in English. It frequently denotes the indirect object :
-<foreign>τῷ στρατηγῷ πέμπει τὸν ἀδελφόν:</foreign> <gloss>s/he sends his brother to the general.</gloss>
+
+
+The example above, however, illustrates a second usage of the nominative. We learn that the generals are also brothers. There is no action involved. We simply learn that A is equivalent to B. We say, in this case, that "brothers" is the **predicate** of "the generals." The technical term predicate is derived from the Latin word praedico, "to proclaim, to state publicly." Thus the predicate is simply something proclaimed or stated about the subject. Because the verb does not involve an action that changes "brothers," "brothers" remains in the nominative.
+
+
+(b) The genitive suggests a relationship like that expressed
+
+with "of" in English.
+
+It frequently denotes possession :
+| Greek | English | 
+| --- | -- | 
+|  ὁ τοῦ στρατηγοῦ ἀδελφός:  |  the brother of the general; literally: the of-the-general brother  |
+
+Note that the Greek can use the article to make the relationship unambiguous. Compare a famously ambigous English sentence:
+
+>  I saw the person in the park with a telescope.<br/>
+
+Was I using a telescope to see that person? Was that person in the park that has a telescope? Or was the person using the telescope? Any of these interpretations is possible.
+
+
+
+In Greek we could say:
+>  I saw the with-the-telescope person in the park.<br/>
+or
+>  I saw the person in the with-the-telescope park.<br/>
+
+
+
+
+(c) The dative suggests relations like those with "to" or
+"for" in English. "Dative" is derived from the Latin <foreign xml:lang="lat">dare</foreign>, <gloss>to give</gloss> and the classic use of the dative is in a sentence like "he gives a gift to his brother." The dative frequently denotes the indirect object :
+
+| Greek | English | 
+| --- | -- | 
+|  τῷ στρατηγῷ πέμπει τὸν ἀδελφόν:  |  s/he sends his brother to the general.  |
+
+We could also say:
+
+| Greek | English | 
+| --- | -- | 
+|  τῷ ποταμῷ πέμπει στρατηγόν:  |  s/he sends a general for the river.  |
+
+We could also translate the above as "he sends a general of the river." The point is that the general is dispatched to/for the river, i.e., to be in charge of the river.
 
 (d) The accusative is the direct object of a transitive
-verb: ἀδελφὸν πέμπει he sends a brother.
+verb. (And, converseley a transitive verb is any verb that can take a direct object in the accusative!)
+
+| Greek | English | 
+| --- | -- | 
+|  ἀδελφὸν πέμπει  |  he sends a brother.  |
+
+
 
 ## [§ 5](#para5). The Article.
 
-(a) 
+
+
+(a) Greek does not use an indefinite article in the same way as English. When Greek designates "a river" or "a general" or "a brother," it just uses a form of ποταμός, στρατηγός, or ἀδελφός in the appropriate case.
+
+Greek does have a definite article, i.e., a word that (roughly) corresponds to "the" in English.
+
+
 
 **ὁ** Like English, and unlike Latin,
 Greek has a definite article. This agrees with its noun
@@ -109,6 +275,8 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 (b) Greek has no indefinite article. Many Greek nouns having no definite article require the addition of "a" or "an" when translated into English:
 
 ## [§ 6](#para6). Vocabulary.
+
+
 
 <list type="vocab">
 
@@ -157,6 +325,8 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 ## [§ 7](#para7). Exercises..
 
 
+
+
 ### (a) What use of the noun do the **emphasized type** endings suggest?
 
 1. ἀδελφ **οῦ**
@@ -193,9 +363,13 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 
 
 
+| ![text](images/peneios.jpg) | ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg) | 
+
 ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg ὁ ποταμός)
 ![text](https://upload.wikimedia.org/wikipedia/commons/b/b2/Pineios_river_%28thessaly%29_map.jpg)
 <figure><head>ὁ ποταμός</head>
+
+
 This lovely pass, the Vale of Tempe, between Mt. Ossa and Mt. Olympus,
 might have proven more troublesome to the Persians than Thermopylae, had
 they not found an easier entrance into Greece. The Peneus River, which

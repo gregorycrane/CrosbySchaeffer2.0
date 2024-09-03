@@ -10,6 +10,8 @@ Every good tree bringeth forth good fruit. </quote>
 
 
 <div type="textpart" subtype="para" n="21">
+
+
 Ο-Stem Neuters. These nouns have a nominative
 ending in -ον. They differ from masculines only in the
 nominative singular and the nominative and accusative
@@ -25,11 +27,15 @@ the worthy gift
 In like manner inflect τὸ καλὸν πεδίον.2
 
 <div type="textpart" subtype="para" n="22">
+
+
 Agreement of Verb. A neuter plural subject regularly has its verb in the singular:
 τὰ δῶρα ἦν ἄξια
 the gifts were worthy.
 
 <div type="textpart" subtype="para" n="23">
+
+
 Dative of Place Where. The dative with most
 prepositions denotes place where: 4
 
@@ -51,6 +57,8 @@ that of the Latin ablative in its in relations.
 
 
 <div type="textpart" subtype="para" n="24">
+
+
 Accusative of Place to Which. The accusative
 with many prepositions denotes place to which :1
 
@@ -61,6 +69,8 @@ into the plain
 παρὰ τὸν στρατηγόν to the side of the general.
 
 <div type="textpart" subtype="para" n="25">
+
+
 VOCABULARY
 
 
@@ -95,6 +105,8 @@ VOCABULARY
 **στάδιον**, σταδίου, τό: stadium (race course); stade (600 ft.).3 
 
 <div type="textpart" subtype="para" n="26">
+
+
 EXERCISES
 
 (a) What probable use  of the word is denoted by the heavy type endings ?
@@ -137,6 +149,8 @@ The Delphic stadium (page 12) still retains the row of flat stones whose double 
 5. The brothers were hostile to the messenger.
 
 <figure><head>τὸ ἐν Δελφοῖς στάδιον</head>
+
+
 This ancient Greek stadium, perhaps the best preserved of all, is !ocated on
 the slopes of Parnassus, high above a lovely valley. Here every four years
 were held the famous Pythian Games in honor of Apollo.</figure>

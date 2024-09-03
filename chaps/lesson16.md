@@ -8,6 +8,8 @@
 
 
 <div type="textpart" subtype="para" n="87">
+
+
 Masculine Nouns of the α-declension. Most nouns
 of the α-declension are feminine. Masculines may be
 recognized not merely as referring to males but also as showing -ης or -ας instead of -η or -α in the nominative singular.
@@ -18,6 +20,8 @@ Note the two indications of masculine gender in -ς of the nominative singular a
 In like manner inflect ὁπλίτης.
 
 <div type="textpart" subtype="para" n="88">
+
+
 Reflexive Pronouns are formed from the stems of the
 personal pronouns and the proper case forms of αὐτός. In
 the plural of the first and second persons both parts of the
@@ -30,6 +34,8 @@ For obvious reasons the reflexive pronouns of the first and second persons have 
 <pb n="50"/>
 
 <div type="textpart" subtype="para" n="89">
+
+
 Reflexive Pronouns appear in the predicate and refer
 to the subject of the sentence or clause in which they stand.
 As such they are direct refleaives. Sometimes they appear
@@ -43,6 +49,8 @@ I went to my own tent;
 they persuaded me to go to their (own) tent.
 
 <div type="textpart" subtype="para" n="90">
+
+
 VOCABULARY
 
 
@@ -101,6 +109,8 @@ VOCABULARY
 
 
 <div type="textpart" subtype="para" n="91">
+
+
 EXERCISES
 
 (a) Translate:
@@ -127,6 +137,8 @@ EXERCISES
 5. Those arms were not on the wagon.
 
 <div type="textpart" subtype="para" n="92">
+
+
 Review axioms given in § 73; then translate:
 
 

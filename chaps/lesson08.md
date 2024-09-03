@@ -10,6 +10,8 @@
 
 
 <div type="textpart" subtype="para" n="41">
+
+
 The Imperfect Tense. This tense denotes action
 continued, repeated, customary, or attempted in past time:
 
@@ -20,6 +22,8 @@ IMPERFECT INDICATIVE ACTIVE
 παύω I stop ἄγω lead
 
 <div type="textpart" subtype="para" n="42">
+
+
 Formation. The imperfect tense is built on the
 present stem showing the variable vowel (ο or ε). Being
 a secondary3 tense, it differs from the present in having
@@ -27,6 +31,8 @@ a secondary3 tense, it differs from the present in having
 in the indicative.
 
 <div type="textpart" subtype="para" n="43">
+
+
 Augment. All secondary tenses of the indicative
 may be recognized by what is called augment. This is of
 two kinds:
@@ -55,6 +61,8 @@ Inflect the imperfect indicative active of
 **πέμπω** and ἀθροίζω.
 
 <div type="textpart" subtype="para" n="44">
+
+
 Dative of Manner.
 
 The dative may denote manner :2
@@ -62,6 +70,8 @@ The dative may denote manner :2
 φεύγουσι σιγῇ they flee in silence.
 
 <div type="textpart" subtype="para" n="45">
+
+
 Balanced Structure.
 μέν ... δέ are used with
 two words or phrases or
@@ -76,6 +86,8 @@ indicating change of subject. μέν is rarely to be translated but is a valuabl
 
 <figure><head>An Ionic Column</head>
 
+
+
 The delicate workmanship of the
 Erechtheum, to which this column
 belongs, awakens universal admiration.</figure>
@@ -88,6 +100,8 @@ belongs, awakens universal admiration.</figure>
 <pb n="24"/>
 
 <div type="textpart" subtype="para" n="46">
+
+
 VOCABULARY
 
 
@@ -122,6 +136,8 @@ VOCABULARY
 **σῑγή**, σιγῆς, ἡ: silence.
 
 <div type="textpart" subtype="para" n="47">
+
+
 EXERCISES
 
 (a) What do the portions in heavy type tell as to person
@@ -169,6 +185,8 @@ Vhich resemble endings of the present ?
 
 
 <div type="textpart" subtype="para" n="48">
+
+
 Greek as a World Language.
 
 

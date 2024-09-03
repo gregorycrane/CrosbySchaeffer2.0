@@ -17,6 +17,8 @@ O renowned Athens, brilliant, violet-crowned, and famed in song, stay of Greece.
 
 
 <div type="textpart" subtype="para" n="62">
+
+
 The Value of Transiation. "There is no better wav
 for the student to train himself in the choice of the very
 word that will fit his thought than by translation from
@@ -30,6 +32,8 @@ school may hope to impart.” <note>Roscoe Pound, Dean of the Law School, Harvar
 in Value of the Classics, page 49.</note>
 
 <div type="textpart" subtype="para" n="63">
+
+
 The Process of Translation. From the very beginning, cultivate right habits, The time thus saved will in
 the end repay you for any time that may seem to be lost
 at the start.
@@ -59,6 +63,8 @@ the entire thought is clear.
 7. Translate into clear and accurate English.
 
 <div type="textpart" subtype="para" n="64">
+
+
 VOCABULARY
 
 
@@ -93,7 +99,11 @@ VOCABULARY
 **σπεύδω**, σπεύσω, ἔσπευσα: hasten.
 
 <div type="textpart" subtype="para" n="65">
+
+
 MARATHON
+
+
 
 “That man is little to be envied whose patriotism would not gain force upon the plain of Marathon.”
 Samuel Johnson
@@ -124,6 +134,8 @@ the Athenians slain at Marathon. No simpler memorial could be imagined
 for the most heroic exploit in Athenian history.
 
 <div type="textpart" subtype="para" n="66">
+
+
 PRONUNCIATION OF ANGLICIZED GREEK PROPER NAMES
 
 (a) Every educated person should know how to pronounce correctly the many Greek proper names that have

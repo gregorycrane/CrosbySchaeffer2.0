@@ -10,6 +10,8 @@
 
 
 <div type="textpart" subtype="para" n="49">
+
+
 The Future Tense. This tense has the same personal endings as the present. It differs from the present only as to stem, which it forms by adding -σ- to the verb stem. In the case of verbs whose stem ends in a mute, the σ is the occasion of certain changes:
 
 1. A labial (π, β, φ) unites with σ to form -ψ- (πσ) ;
@@ -30,6 +32,8 @@ Future Indicative of παύω I stop
 In like manner inflect λύω, γράφω, ἄρχω, πείθω.
 
 <div type="textpart" subtype="para" n="50">
+
+
 Indirect Discourse.
 (a) Verbs whose meaning implies mental action (saying, thinking, or the like) are used to introduce an indirect quotation : the general sends (sent)
 
@@ -81,6 +85,8 @@ The gateway to the Acropolis.
 <pb n="28"/>
 
 <div type="textpart" subtype="para" n="51">
+
+
 VOCABULARY
 
 
@@ -119,6 +125,8 @@ VOCABULARY
 **ἰσχυρός**, ἰσχυρά, ἰσχυρόν: strong. 
 
 <div type="textpart" subtype="para" n="52">
+
+
 EXERCISES
 
 (a) Identify the person and number of the following forms and give the corresponding forms of the present:
@@ -162,6 +170,8 @@ EXERCISES
 
 
 <div type="textpart" subtype="para" n="53">
+
+
 Word-formation. Many verbs with ε in the stem
 have cognate nouns or adjectives with ο instead of ε:
 λείπω leave, λοιπός left;
@@ -180,6 +190,8 @@ Compare Latin tego I cover, toga cloak; English I sing, song.
 
 
 <figure><head>ὁδὸς ἀρχαία</head>
+
+
 This fine roadway, bordered with elevated sidewalks, led from the agora
 at Corinth to the harbor. The ancient Greeks did most of their travel by sea
 and so had few good roads.</figure>

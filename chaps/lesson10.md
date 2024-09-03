@@ -6,6 +6,8 @@
 
 
 <div type="textpart" subtype="para" n="54">
+
+
 The Aorist. Aorist is the name of a tense of the
 Greek verb. The name is not used in the inflection of
 Latin or English verbs, but many of its functions are
@@ -19,6 +21,8 @@ a motion picture:
 ἔπαυον I was stopping; ἔπαυσα I stopped.
 
 <div type="textpart" subtype="para" n="55">
+
+
 Formation of the Aorist.
 (a) The aorist, in common with other secondary tenses, in the indicative has
 augment and secondary endings (§§ 42, 43).
@@ -42,6 +46,8 @@ aorist is first or second.
 Inflect λύω and φεύγω in the aorist indicative and infinitive.
 
 <div type="textpart" subtype="para" n="56">
+
+
 There is usually no difference of meaning between
 first and second aorist, the terms signifying merely differ-
 ence in formation:
@@ -49,6 +55,8 @@ ence in formation:
 ἔπαυσοα (first aorist) I stopped ; ἔλιπον (second aorist) I left.
 
 <div type="textpart" subtype="para" n="57">
+
+
 Tenses of the Infinitive. The infinitive, except in
 
 indirect discourse, has no time value. The present infinitive denotes continuance or repetition (a motion picture),
@@ -80,6 +88,8 @@ face, "This is the city of Hadrian, not of Theseus."
 
 
 <div type="textpart" subtype="para" n="58">
+
+
 VOCABULARY
 
 
@@ -110,6 +120,8 @@ VOCABULARY
 
 
 <div type="textpart" subtype="para" n="59">
+
+
 EXERCISES
 
 (a) Translate:

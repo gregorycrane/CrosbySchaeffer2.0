@@ -8,6 +8,8 @@
 
 
 <div type="textpart" subtype="para" n="101">
+
+
 The Consonant Declension includes nouns whose
 stems end in a consonant.
 
@@ -21,6 +23,8 @@ plural ends in -σι. The σ in each of these instances unites
 with κ, γ, or χ to form ξ.
 
 <div type="textpart" subtype="para" n="102">
+
+
 Monosyllables of the consonant declension are
 accented on the ultima in the genitive and dative of all
 numbers, the circumflex occurring on long vowels or diph-
@@ -34,12 +38,16 @@ Inflect @paé. Compare with paradigm (§ 509, a).
 
 
 <div type="textpart" subtype="para" n="103">
+
+
 Genitive of Time. The genitive denotes the time
 within which an action occurs:1
 
-ypayw mevre quepwy | shall write within five days.
+ypayw mevre quepwy I shall write within five days.
 
 <div type="textpart" subtype="para" n="104">
+
+
 VOCABULARY
 
 
@@ -72,6 +80,8 @@ VOCABULARY
 **πρός**, prep.: with G., from the side of, in the sight of; with D., near, beside, besides ; with A., to the side of, toward. PROSELYTE.
 
 <div type="textpart" subtype="para" n="105">
+
+
 EXERCISES
 
 (a) What do the portions in heavy type tell as to the
@@ -117,6 +127,8 @@ Distinguish between φυλακῶν and
 4. These men are not yet in the camp.
 
 <div type="textpart" subtype="para" n="106">
+
+
 THE PHALANX
 
 By means of the phalanx, invented and developed by

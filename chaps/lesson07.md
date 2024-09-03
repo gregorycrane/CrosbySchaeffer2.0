@@ -12,6 +12,8 @@
 
 
 <div type="textpart" subtype="para" n="36">
+
+
 Feminines in ᾱ. If ε, ι, or ρ immediately precedes
 the final vowel of the stem, words of the α-declension have
 ᾱ, not η, throughout the singular.2
@@ -19,6 +21,8 @@ the final vowel of the stem, words of the α-declension have
 ἡ μικρὰ στρατιά the small army
 
 <div type="textpart" subtype="para" n="37">
+
+
 Accusative of Extent. The accusative denotes extent
 of space or duration of time :
 
@@ -41,6 +45,8 @@ They will be treated later.
 <pb n="20"/>
 
 <div type="textpart" subtype="para" n="38">
+
+
 VOCABULARY
 
 
@@ -85,6 +91,8 @@ VOCABULARY
 **χώρᾱ**, χώρας, ἡ country.
 
 <div type="textpart" subtype="para" n="39">
+
+
 EXERCISES
 
 (a) Translate :
@@ -129,6 +137,8 @@ Gate OF ATHENA ARCHEGETIS
 
 <figure><head>THE ACROPOLIS</head>
 
+
+
 Although many Greek cities had a fortified hill, or acropolis, most people
 associate that word with the famous hi!l in the heart of Athens. At first the
 home of the early kings, it came to be devoted to the gods and heroes of the
@@ -136,6 +146,8 @@ state. Its glorious temples were visible from the agora, as indeed for miles
 around in all directions.</figure>
 
 <div type="textpart" subtype="para" n="40">
+
+
 Word-formation.
 (a) A very common means of
 forming adjectives is by adding to the stem of a noun

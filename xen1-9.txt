@@ -1,0 +1,134 @@
+1.9.29-1.9.32; CS through 34
+1	τεκμήριον	n-s---nn-	not in CS	1.9.29	τεκμήριον	not in CS	a sure signs.
+2	δὲ	b--------	oldvoc	1.9.29	δέ	4: (δ᾽ before vowels), postpositive conj: but, and.	but
+3	τούτου	a-s---ng-	oldvoc	1.9.29	οὗτος	14: αὕτη, τοῦτο: this (as aforesaid).	this; that
+4	καὶ	b--------	oldvoc	1.9.29	καί	3: conj.: and, also, even.	and
+5	τόδε	a-s---na-	oldvoc	1.9.29	ὅδε	14: ἤδε, τόδε: this (as follows). 	this
+7	παρὰ	r--------	oldvoc	1.9.29	παρά	4: prep., with G., from the side of; with D., by the side of; with A., to the side of, to, alongside. PARALLEL.	from the side of
+8	μὲν	d--------	oldvoc	1.9.29	μέν	8: coord. conj. (§ 45).	on the one hand
+9	Κύρου	n-s---mg-	not in CS	1.9.29	Κῦρος	not in CS	Cyrus
+10	δούλου	n-s---mg-	not in CS	1.9.29	δοῦλος	not in CS	slave
+11	ὄντος	v-sppamg-	oldvoc	1.9.29	εἰμί	17: enclit.: be.; 26: ἔσομαι: Be.	to be
+12	οὐδεὶς	a-s---mn-	unseenvoc	1.9.29	οὐδείς	56: 	not one
+13	ἀπῄει	v3siia---	not in CS	1.9.29	ἀπέρχομαι	not in CS	to go away
+14	πρὸς	r--------	oldvoc	1.9.29	πρός	18: prep.: with G., from the side of, in the sight of; with D., near, beside, besides ; with A., to the side of, toward. PROSELYTE.</p></div>	(w. gen.) from; (w. dat.) at
+15	βασιλέα	n-s---ma-	unseenvoc	1.9.29	βασιλεύς	44: (ὁ) king; 44: -βασιλέως, ἡ: king. Cf. βασίλεια, Basilea. BASIL.	a king
+17	πλὴν	r--------	unseenvoc	1.9.29	πλήν	40: prep. with G.: except. 	except
+18	Ὀρόντας	n-s---mn-	not in CS	1.9.29	Ὀρόντας	not in CS	nodef
+19	ἐπεχείρησε	v3saia---	not in CS	1.9.29	ἐπιχειρέω	not in CS	to attempt
+20	·	u--------	not in CS	1.9.29	·	not in CS	nodef
+21	καὶ	b--------	oldvoc	1.9.29	καί	3: conj.: and, also, even.	and
+22	οὗτος	a-s---mn-	oldvoc	1.9.29	οὗτος	14: αὕτη, τοῦτο: this (as aforesaid).	this; that
+23	δὴ	d--------	oldvoc	1.9.29	δή	23: post-pos. particle emphasizing preceding word: now, then, accordingly, indeed, etc. Often untranslated.	[interactional particle: S&H on same page]
+24	ὃν	p-s---ma-	oldvoc	1.9.29	ὅς	13: ἥ, ὅ: rel. pron, : who, which, that.	who
+25	ᾤετο	v3siie---	not in CS	1.9.29	οἴομαι	not in CS	to suppose
+26	πιστόν	a-s---nn-	unseenvoc	1.9.29	πιστός	41: πιστή, πιστόν: faithful, trusty.	liquid (medicines)
+27	οἱ	p-s---cd-	not in CS	1.9.29	ἕ	not in CS	nodef
+28	εἶναι	v--pna---	oldvoc	1.9.29	εἰμί	17: enclit.: be.; 26: ἔσομαι: Be.	to be
+29	ταχὺ	d--------	unseenvoc	1.9.29	ταχύς	40: ταχεῖα, ταχύ: swift.	quick
+30	αὐτὸν	a-s---ma-	oldvoc	1.9.29	αὐτός	13: same, self, he, she, it, they, etc. AUTOMATON.	unemph. 3rd pers.pronoun; -self; [the] same 
+31	ηὗρε	v3saia---	unseenvoc	1.9.29	εὑρίσκω	35: εὑρήσω, ηὗρον: find. EUREKA, ; 52: εὑρήσω, ηὗρον, εὕρηκα 1: have found. 	to find
+32	Κύρῳ	n-s---md-	not in CS	1.9.29	Κῦρος	not in CS	Cyrus
+33	φίλτερον	a-s---nac	not in CS	1.9.29	φίλτερος	not in CS	nodef
+34	ἢ	b--------	oldvoc	1.9.29	ἤ	33: conj. : or, than. 	either..or; than
+35	ἑαυτῷ	p-s---md-	oldvoc	1.9.29	ἑαυτοῦ	16: of himself, herself; itself.	himself
+36	·	u--------	not in CS	1.9.29	·	not in CS	nodef
+37	παρὰ	r--------	oldvoc	1.9.29	παρά	4: prep., with G., from the side of; with D., by the side of; with A., to the side of, to, alongside. PARALLEL.	from the side of
+38	δὲ	b--------	oldvoc	1.9.29	δέ	4: (δ᾽ before vowels), postpositive conj: but, and.	but
+39	βασιλέως	n-s---mg-	unseenvoc	1.9.29	βασιλεύς	44: (ὁ) king; 44: -βασιλέως, ἡ: king. Cf. βασίλεια, Basilea. BASIL.	a king
+40	πολλοὶ	a-p---mn-	unseenvoc	1.9.29	πολύς	40: much, many</p></div>; 42: pl, fewer; 42: pl, fewer; 42: pl, fewer	much
+41	πρὸς	r--------	oldvoc	1.9.29	πρός	18: prep.: with G., from the side of, in the sight of; with D., near, beside, besides ; with A., to the side of, toward. PROSELYTE.</p></div>	(w. gen.) from; (w. dat.) at
+42	Κῦρον	n-s---ma-	not in CS	1.9.29	Κῦρος	not in CS	Cyrus
+43	ἀπῆλθον	v3paia---	not in CS	1.9.29	ἀπέρχομαι	not in CS	to go away
+45	ἐπειδὴ	c--------	oldvoc	1.9.29	ἐπειδή	25: conj.; when, because, since.</p></div>	nodef
+46	πολέμιοι	a-p---mn-	oldvoc	1.9.29	πολέμιος	2: hostile. οἱ πολέμιοι: the enemy. POLEMIC.	hostile; enemy
+47	ἀλλήλοις	p-p---md-	oldvoc	1.9.29	ἀλλήλων	13: 1 of one another. PARALLEL.	of one another
+48	ἐγένοντο	v3paim---	oldvoc	1.9.29	γίγνομαι	26: γενήσομαι, ἐγενόμην: become, be born, be, prove to be, ecliptic. GENESIS.	become
+50	καὶ	b--------	oldvoc	1.9.29	καί	3: conj.: and, also, even.	and
+51	οὗτοι	a-p---mn-	oldvoc	1.9.29	οὗτος	14: αὕτη, τοῦτο: this (as aforesaid).	this; that
+52	μέντοι	d--------	unseenvoc	1.9.29	μέντοι	37: postpos. adv.: however.	however
+53	οἱ	l-p---mn-	not in CS	1.9.29	ὁ	not in CS	the
+54	μάλιστα	d-------s	oldvoc	1.9.29	μάλα	31: (=εἰ + ἄν), conj.: if, with subj.; 43: very ; 43: very ; 43: very 	very
+55	ὑπ’	r--------	oldvoc	1.9.29	ὑπό	24: prep., with G., from under, by (agent); with D., under, beneath (with verbs of rest); with A., under (with verbs of motion). HYPOTHESIS.	from under
+56	αὐτοῦ	a-s---mg-	oldvoc	1.9.29	αὐτός	13: same, self, he, she, it, they, etc. AUTOMATON.	unemph. 3rd pers.pronoun; -self; [the] same 
+57	ἀγαπώμενοι	v-pppemn-	not in CS	1.9.29	ἀγαπάω	not in CS	to treat with affection
+59	νομίζοντες	v-pppamn-	oldvoc	1.9.29	νομίζω	9: 1 believe, think, with inf.	to have as a custom; to believe
+60	παρὰ	r--------	oldvoc	1.9.29	παρά	4: prep., with G., from the side of; with D., by the side of; with A., to the side of, to, alongside. PARALLEL.	from the side of
+61	Κύρῳ	n-s---md-	not in CS	1.9.29	Κῦρος	not in CS	Cyrus
+62	ὄντες	v-pppamn-	oldvoc	1.9.29	εἰμί	17: enclit.: be.; 26: ἔσομαι: Be.	to be
+63	ἀγαθοὶ	a-p---mn-	oldvoc	1.9.29	ἀγαθός	3: ἀγαθή, ἀγαθόν: good, brave. AGATHA. ; 42: φοβερά, φοβερόν: fearful, frightful. Cf. φόβος.; 42: φοβερά, φοβερόν: fearful, frightful. Cf. φόβος.; 42: φοβερά, φοβερόν: fearful, frightful. Cf. φόβος.; 42: φοβερά, φοβερόν: fearful, frightful. Cf. φόβος.	good
+64	ἀξιωτέρας	a-s---fgc	oldvoc	1.9.29	ἄξιος	2: worthy, worth. AXIOM	worthy
+65	ἂν	d--------	oldvoc	1.9.29	ἄν	17: post-pos. particle belonging to certain types of conditional clauses but lacking an exact English eqnivalent.	modal particle
+66	τιμῆς	n-s---fg-	not in CS	1.9.29	τιμή	not in CS	that which is paid in token of worth
+67	τυγχάνειν	v--pna---	unseenvoc	1.9.29	τυγχάνω	63: τεύξομαι, ἔτυχον, τετύχηκα :  hit, attain, with G.; happen, with suppl. part.	(with gen.) to hit the mark
+68	ἢ	b--------	oldvoc	1.9.29	ἤ	33: conj. : or, than. 	either..or; than
+69	παρὰ	r--------	oldvoc	1.9.29	παρά	4: prep., with G., from the side of; with D., by the side of; with A., to the side of, to, alongside. PARALLEL.	from the side of
+70	βασιλεῖ	n-s---md-	unseenvoc	1.9.29	βασιλεύς	44: (ὁ) king; 44: -βασιλέως, ἡ: king. Cf. βασίλεια, Basilea. BASIL.	a king
+72	μέγα	a-s---nn-	unseenvoc	1.9.30	μέγας	40: μεγάλη, μέγα: great, large. MEGALOMANIA.; 42: worst; 42: worst	big
+73	δὲ	b--------	oldvoc	1.9.30	δέ	4: (δ᾽ before vowels), postpositive conj: but, and.	but
+74	τεκμήριον	n-s---nn-	not in CS	1.9.30	τεκμήριον	not in CS	a sure signs.
+75	καὶ	b--------	oldvoc	1.9.30	καί	3: conj.: and, also, even.	and
+76	τὸ	l-s---nn-	not in CS	1.9.30	ὁ	not in CS	the
+77	ἐν	r--------	oldvoc	1.9.30	ἐν	4: proclitic prep. with D. : in (Lat. in). ENCLITIC.	in
+78	τῇ	l-s---fd-	not in CS	1.9.30	ὁ	not in CS	the
+79	τελευτῇ	n-s---fd-	not in CS	1.9.30	τελευτή	not in CS	a finishing
+80	τοῦ	l-s---mg-	not in CS	1.9.30	ὁ	not in CS	the
+81	βίου	n-s---mg-	oldvoc	1.9.30	βίος	32: life, living.  BIOLOGY.	life
+82	αὐτῷ	a-s---md-	oldvoc	1.9.30	αὐτός	13: same, self, he, she, it, they, etc. AUTOMATON.	unemph. 3rd pers.pronoun; -self; [the] same 
+83	γενόμενον	v-sapmma-	oldvoc	1.9.30	γίγνομαι	26: γενήσομαι, ἐγενόμην: become, be born, be, prove to be, ecliptic. GENESIS.	become
+84	ὅτι	c--------	unseenvoc	1.9.30	ὅτι	35: conj.: that, because.; 41: adv, with superl. to denote the highest degree possible. Cf. Lat. quam.	adv. + superl.
+85	καὶ	b--------	oldvoc	1.9.30	καί	3: conj.: and, also, even.	and
+86	αὐτὸς	a-s---mn-	oldvoc	1.9.30	αὐτός	13: same, self, he, she, it, they, etc. AUTOMATON.	unemph. 3rd pers.pronoun; -self; [the] same 
+87	ἦν	v3siia---	oldvoc	1.9.30	εἰμί	17: enclit.: be.; 26: ἔσομαι: Be.	to be
+88	ἀγαθὸς	a-s---mn-	oldvoc	1.9.30	ἀγαθός	3: ἀγαθή, ἀγαθόν: good, brave. AGATHA. ; 42: φοβερά, φοβερόν: fearful, frightful. Cf. φόβος.; 42: φοβερά, φοβερόν: fearful, frightful. Cf. φόβος.; 42: φοβερά, φοβερόν: fearful, frightful. Cf. φόβος.; 42: φοβερά, φοβερόν: fearful, frightful. Cf. φόβος.	good
+89	καὶ	b--------	oldvoc	1.9.30	καί	3: conj.: and, also, even.	and
+90	κρίνειν	v--pna---	unseenvoc	1.9.30	κρίνω	50: κρινῶ2: pick out, judge, decide, CRISIS, CRITIC. 	to pick out
+91	ὀρθῶς	d--------	unseenvoc	1.9.30	ὀρθός	70: ὀρθής, ὀρθόν : straight, erect, correct, ORTHOGONAL, ORTHODOX.	straight
+92	ἐδύνατο	v3siie---	unseenvoc	1.9.30	δύναμαι	59: δυνήσομαι, δεδύνημαι, ἐδυνήθηv: be able, DYNAMIC.	to be able
+93	τοὺς	l-p---ma-	not in CS	1.9.30	ὁ	not in CS	the
+94	πιστοὺς	a-p---ma-	unseenvoc	1.9.30	πιστός	41: πιστή, πιστόν: faithful, trusty.	liquid (medicines)
+95	καὶ	b--------	oldvoc	1.9.30	καί	3: conj.: and, also, even.	and
+96	εὔνους	a-p---mn-	unseenvoc	1.9.30	εὔνους	64: εὔ-νουν: well-intentioned, well-disposed. Cf. εὖ and νοῦς.	nodef
+97	καὶ	b--------	oldvoc	1.9.30	καί	3: conj.: and, also, even.	and
+98	βεβαίους	a-p---ma-	not in CS	1.9.30	βέβαιος	not in CS	firm
+100	ἀποθνῄσκοντος	v-sppamg-	newvoc	1.9.31	ἀποθνῄσκω	34: ἀποθανοῦμαι, ἀπέθανον: die. 	to die
+101	γὰρ	d--------	oldvoc	1.9.31	γάρ	6: postpositive conjunction : for. 	for
+102	αὐτοῦ	a-s---mg-	oldvoc	1.9.31	αὐτός	13: same, self, he, she, it, they, etc. AUTOMATON.	unemph. 3rd pers.pronoun; -self; [the] same 
+103	πάντες	a-p---mn-	oldvoc	1.9.31	πᾶς	22: πᾶσα, πᾶν: sing., every, whole ; pl. all. PANDEMONIUM.	all
+104	οἱ	l-p---mn-	not in CS	1.9.31	ὁ	not in CS	the
+105	περὶ	r--------	oldvoc	1.9.31	περί	25: prep.: with G., about, concerning, for; with A., about, around, near. PERISCOPE.	around
+106	αὐτὸν	a-s---ma-	oldvoc	1.9.31	αὐτός	13: same, self, he, she, it, they, etc. AUTOMATON.	unemph. 3rd pers.pronoun; -self; [the] same 
+107	φίλοι	a-p---mn-	oldvoc	1.9.31	φίλος	2: friend. PHILANTHROPIST.	friend; loved
+108	καὶ	b--------	oldvoc	1.9.31	καί	3: conj.: and, also, even.	and
+109	συντράπεζοι	a-p---mn-	not in CS	1.9.31	συντράπεζος	not in CS	a messmate
+110	ἀπέθανον	v3paia---	newvoc	1.9.31	ἀποθνῄσκω	34: ἀποθανοῦμαι, ἀπέθανον: die. 	to die
+111	μαχόμενοι	v-pppemn-	oldvoc	1.9.31	μάχομαι	24: fight, give battle. Cf. μάχη. 	to fight
+112	ὑπὲρ	r--------	unseenvoc	1.9.31	ὑπέρ	40: prep.: with G., above, in behalf of; with A., above, beyond. HYPERBOLA, HYPERTROPHY.	over
+113	Κύρου	n-s---mg-	not in CS	1.9.31	Κῦρος	not in CS	Cyrus
+114	πλὴν	r--------	unseenvoc	1.9.31	πλήν	40: prep. with G.: except. 	except
+115	Ἀριαίου	n-s---mg-	not in CS	1.9.31	Ἀριαῖος	not in CS	Ariaeus
+116	·	u--------	not in CS	1.9.31	·	not in CS	nodef
+117	οὗτος	a-s---mn-	oldvoc	1.9.31	οὗτος	14: αὕτη, τοῦτο: this (as aforesaid).	this; that
+118	δὲ	b--------	oldvoc	1.9.31	δέ	4: (δ᾽ before vowels), postpositive conj: but, and.	but
+119	τεταγμένος	v-srpemn-	oldvoc	1.9.31	τάσσω	33: ἐπιθυμ-ήσω, ἐπ-εθύμησα: desire, with G, Cf. θυμός.  	to arrange
+120	ἐτύγχανεν	v3siia---	unseenvoc	1.9.31	τυγχάνω	63: τεύξομαι, ἔτυχον, τετύχηκα :  hit, attain, with G.; happen, with suppl. part.	(with gen.) to hit the mark
+121	ἐπὶ	r--------	oldvoc	1.9.31	ἐπί	12: prep. with G., on, upon;1 with D., on, at, by; with A., upon, to, againsi, EPIDERMIS.<note>The difference between the genitive, dative, and accusative may be indicated by these phrases: on horseback, a city on the sea, he marches on the town. Compare παρά (§ 25).</note>	on
+122	τῷ	l-s---nd-	not in CS	1.9.31	ὁ	not in CS	the
+123	εὐωνύμῳ	a-s---nd-	not in CS	1.9.31	εὐώνυμος	not in CS	of good name
+124	τοῦ	l-s---ng-	not in CS	1.9.31	ὁ	not in CS	the
+125	ἱππικοῦ	a-s---ng-	not in CS	1.9.31	ἱππικόν	not in CS	nodef
+126	ἄρχων	v-sppamn-	oldvoc	1.9.31	ἄρχω	9: ἄρξω:1 begin, rule, command,  with G. ARCHBISHOP.	(to be first) to rule
+127	·	u--------	not in CS	1.9.31	·	not in CS	nodef
+128	ὡς	c--------	oldvoc	1.9.31	ὡς	21: conj, adv.: as, as if, when.; 30: conj adv.: how, in order that, that, ete.; also as.	as
+129	δ’	b--------	oldvoc	1.9.31	δέ	4: (δ᾽ before vowels), postpositive conj: but, and.	but
+130	ᾔσθετο	v3saim---	unseenvoc	1.9.31	αἰσθάνομαι	35: αἰσθήσομαι, ἠσθόμην :  perceive. ANESTHESIA. 	to perceive
+131	Κῦρον	n-s---ma-	not in CS	1.9.31	Κῦρος	not in CS	Cyrus
+132	πεπτωκότα	v-prpann-	unseenvoc	1.9.31	πίπτω	44: πεσοῦμαι, ἔπεσον: fall.	to fall
+134	ἔφυγεν	v3saia---	oldvoc	1.9.31	φεύγω	6: flee. Lat. fugio. FUGITIVE,	to flee
+135	ἔχων	v-sppamn-	oldvoc	1.9.31	ἔχω	10: ἕξω: have; ἔσχον1: got. 	to have
+136	καὶ	b--------	oldvoc	1.9.31	καί	3: conj.: and, also, even.	and
+137	τὸ	l-s---na-	not in CS	1.9.31	ὁ	not in CS	the
+138	στράτευμα	n-s---na-	unseenvoc	1.9.31	στράτευμα	49: στράτευματος, τό: army. Cf. στρατεύω.	an expedition
+139	πᾶν	a-s---na-	oldvoc	1.9.31	πᾶς	22: πᾶσα, πᾶν: sing., every, whole ; pl. all. PANDEMONIUM.	all
+140	οὗ	p-s---ng-	oldvoc	1.9.31	ὅς	13: ἥ, ὅ: rel. pron, : who, which, that.	who
+141	ἡγεῖτο	v3siie---	oldvoc	1.9.31	ἡγέομαι	25: ἡγήσομαι, ἡγησάμην1: with G., be leader of ; with D., be leader for; also with int., believe. Cf. Lat. duco. HEGEMONY.	to lead; to consider

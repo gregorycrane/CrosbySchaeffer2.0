@@ -6,6 +6,8 @@ who works.</quote> >> Aeschylus, fragment.
 
 
 <div type="textpart" subtype="para" n="127">
+
+
 Contract Verbs.
 (a) Two successive vowels are
 regularly contracted into one long vowel or diphthong :
@@ -32,9 +34,13 @@ final ε of the stem is regularly lengthened to η:
 
 
 <div type="textpart" subtype="para" n="128">
+
+
 Genitive Absolute. A noun or pronoun in the
 genitive case with a circumstantial participle in agreement may stand grammatically independent of the rest of
 the sentence. This is called the genitive absolute and corresponds to the ablative absolute in Latin and the nominative independent (absolute) in English.
+
+
 
 Like any other use of the circumstantial participle, the
 genitive absolute may express time, cause, and the like.
@@ -50,6 +56,8 @@ shall hasten </quote> <bibl></bibl>
 τῶν φυλάκων διωκόντων ἔφυγεν with the guards pursuing, he fled.
 
 <div type="textpart" subtype="para" n="129">
+
+
 VOCABULARY
 
 
@@ -90,6 +98,8 @@ VOCABULARY
 **ὧδε**, adv.; thus, as follows. Cf. ὅδε.
 
 <div type="textpart" subtype="para" n="130">
+
+
 EXERCISES
 
 (a) Translate:
@@ -123,6 +133,8 @@ Orpheus AND EuRYDIcE
 Love led Orpheus to seek Eurydice in Hades. On the way out, he turned to look ατ her too soon, and Hermes conducted her away.
 
 <div type="textpart" subtype="para" n="131">
+
+
 HUMAN FRAILTY
 <quote xml:lang="grc">Πόθεν (whence) πόλεμοι καὶ πόθεν μάχαι ἐν ὑμῖν; οὐκ
 ἐντεῦθεν, ἐκ τῶν ἡδονῶν (pleasures) ὑμῶν... ; ἐπιθυμεῖτε
@@ -135,6 +147,8 @@ HUMAN FRAILTY
 
 <pb n="74"/>
 <figure><head>THE ERECHTHEUM</head>
+
+
 On the spot where Athena contended with Poseidon for the guardianship
 of Athens, stands the most elegant of all Greek temples. Near one end
 grew the sacred olive of the goddess. Within the shrine was her ancient
@@ -144,6 +158,8 @@ Poseidon's trident. (See the pictures on page 334 and facing page 180.)</figure>
 
 
 <div type="textpart" subtype="para" n="132">
+
+
 Word-formation. Verbs formed by adding -έω to
 noun (or adjective) stems denote action of a nature similar to that expressed by the noun (or adjective). They
 usually denote a condition or an activity:
@@ -156,6 +172,8 @@ This type of verb is to be found chiefly in connection
 with words of the ο-declension.
 
 <figure><head>A DETAIL FROM THE ERECHTHEUM</head>
+
+
 This honeysuckle pattern, justly famous for its exquisite workmanship, is an
 ever-recurring theme in the decoration of the temple.</figure>
 

@@ -3,6 +3,8 @@
 
 
 <div type="textpart" subtype="para" n="121">
+
+
 Inflection of πᾶς. πᾶς has the same endings as
 παύσᾱς. The genitive and dative plural of the masculine
 and neuter violate the rule for accent of monosyllables of
@@ -10,6 +12,8 @@ the consonant declension (§ 102). The accent of the
 feminine is regular.
 
 <div type="textpart" subtype="para" n="122">
+
+
 Uses of πᾶς.
 (a) πᾶς, when modifying a noun,
 usually has the predicate qgosition (§ 31, 6) and means
@@ -34,6 +38,8 @@ every:
 
 
 <div type="textpart" subtype="para" n="123">
+
+
 EXERCISES
 
 (a) Write in Greek:
@@ -52,8 +58,12 @@ all the water.
 4. Since we are hopeful (having hope) we intend to hasten to the camp.
 <figure><head>The Great God Pan</head>
 
+
+
 This uncouth deity of mountain and woodland was believed to have inspired the Persians with "panic" at Marathon and Salamis.</figure>
 <div type="textpart" subtype="para" n="124">
+
+
 VOCABULARY
 
 
@@ -81,6 +91,8 @@ VOCABULARY
 
 
 <div type="textpart" subtype="para" n="125">
+
+
 Precision of Thought. “The practice of translation, by making us deliberate in the choice of the best
 equivalent of a foreign word in our own language, has
 likewise the advantage of continually schooling us in one
@@ -104,7 +116,7 @@ James Russell Lowell, Address on Books and Libraries.
 ἐκ δὲ τούτον οἱ στρατιῶται ἐλαύνοντες σὺν κραυγῇ ἀπὸ τοῦ
 αὐτομάτου (compare AUTOMATIC) ἔσπευσαν ἐπὶ τὴς σκηνάς,
 τοῖς δὲ βαρβάροις ἦν φόβος, ὥστε ἔφυγον καὶ ἡ Κίλισσα ἐπὶ
-τῆς ἁρμαμάξης καὶ οἱ ἐκ τῆς ἀγορᾶς τὰ χρήματα κατα-λιπόντες.<note>κατά in compound words often means behind.</note> οὕτως οὖν οἱ Ἑλληνες σὺν γέλωτι (laughter) ἐπὶ τὰς σκηνὰς ἧκον.</quote>  >> Adapted from Xenophon, Anabasis, I, 2. 16-18.
+τῆς ἁρμαμάξης καὶ οἱ ἐκ τῆς ἀγορᾶς τὰ χρήματα κατα-λιπόντες.<note>κατά in compound words often means behind.</note> οὕτως οὖν οἱ Ἑλληνες σὺν γέλωτι (laughter) ἐπὶ τὰς σκηνὰς ἧκον.</quote>  >> Adapted from Xenophon, *Anabasis*, I, 2. 16-18.
 
 
 

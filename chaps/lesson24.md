@@ -3,6 +3,8 @@
 
 
 <div type="textpart" subtype="para" n="133">
+
+
 Passive Voice. Like English and Latin, Greek
 has a passive voice, which shows the subject as acted
 upon:
@@ -10,6 +12,8 @@ upon:
 παύομαι. I am being stopped.
 
 <div type="textpart" subtype="para" n="134">
+
+
 Middle Voice. Greek also has a middle voice,
 which shows that the subject so acts as somehow to affect
 himself.
@@ -26,9 +30,13 @@ wise affect himself or his interests +
 λύομαι τοὺς ἵππους I loose my (own) horses. <note>GRC: If memory serves, there is a nice alternation of luw/luomai with Circe or Calypso and Od</note>
 
 <div type="textpart" subtype="para" n="135">
+
+
 Present Indicative Middle and Passive of παύω
 
 <div type="textpart" subtype="para" n="136">
+
+
 Imperfect Indicative Middle and Passive of παύω
 
 
@@ -37,6 +45,8 @@ Imperfect Indicative Middle and Passive of παύω
 
 
 <div type="textpart" subtype="para" n="137">
+
+
 There is no difference in appearance between the
 middle and the passive in the present and imperfect. As
 in the active voice, the vowel ο appears before μ or ν of
@@ -48,6 +58,8 @@ The present and imperfect middle and passive have the
 same stem as the present active.
 
 <div type="textpart" subtype="para" n="138">
+
+
 Deponent Verbs. Some verbs have forms only in
 the middle or passive voice but with active meanings.
 They are called deponents :
@@ -58,6 +70,8 @@ Inflect the present and imperfect indicative, and give
 the present infinitive and participle of wopevopac,
 
 <div type="textpart" subtype="para" n="139">
+
+
 Genitive of Agent. ὑπό and the genitive when
 modifying a passive verb indicate the agent or doer of an
 action (compare with the Latin a or ab and the ablative): 1
@@ -65,6 +79,8 @@ action (compare with the Latin a or ab and the ablative): 1
 ἀθροίζεται ὑπὸ αὐτοῦ it ts being gathered by him.
 
 <div type="textpart" subtype="para" n="140">
+
+
 VOCABULARY
 
 
@@ -104,6 +120,8 @@ VOCABULARY
 
 
 <div type="textpart" subtype="para" n="141">
+
+
 EXERCISES
 
 (a) What do the portions in heavy type tell as to person,

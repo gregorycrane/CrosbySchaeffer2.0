@@ -1,0 +1,364 @@
+1	ὑπώπτευε	1.1.1	ὑποπτεύω	to be suspicious
+2	ἐτύγχανε	1.1.2	τυγχάνω	(with gen.) to hit the mark
+3	ἀναβαίνει	1.1.2	ἀναβαίνω	to go up
+4	ἀνέβη	1.1.2	ἀναβαίνω	to go up
+5	διαβάλλει	1.1.3	διαβάλλω	to throw over
+6	συλλαμβάνει	1.1.3	συλλαμβάνω	to collect
+7	ἀποπέμπει	1.1.3	ἀποπέμπω	to send off
+8	βασιλεύσει	1.1.4	βασιλεύω	to be king
+9	ὑπῆρχε	1.1.4	ὑπάρχω	to begin; to exist
+10	ἥθροιζεν	1.1.6	ἀθροίζω	to gather together
+11	εἶχε	1.1.6	ἔχω	to have
+12	παρήγγειλε	1.1.6	παραγγέλλω	to transmit as a message; give orders
+13	ἀπέκτεινε	1.1.7	ἀποκτείνω	to kill
+14	ἐξέβαλεν	1.1.7	ἐκβάλλω	to throw
+15	συνέπραττεν	1.1.8	συμπράσσω	to join or help in doing
+16	ἐνόμιζε	1.1.8	νομίζω	to have as a custom; to believe
+17	ἀπέπεμπε	1.1.8	ἀποπέμπω	to send off
+18	ἐτύγχανεν	1.1.8	τυγχάνω	(with gen.) to hit the mark
+19	συνέλεξεν	1.1.9	συλλέγω	to collect
+20	ἐλάνθανεν	1.1.9	λανθάνω	to escape notice
+21	ἐτύγχανεν	1.1.10	τυγχάνω	(with gen.) to hit the mark
+22	ἐλάνθανεν	1.1.10	λανθάνω	to escape notice
+23	ἐκέλευσε	1.1.11	κελεύω	to urge
+24	ἐκέλευσεν	1.1.11	κελεύω	to urge
+25	ἁθροίζει	1.2.1	ἀθροίζω	to gather together
+26	παραγγέλλει	1.2.1	παραγγέλλω	to transmit as a message; give orders
+27	εἶχε	1.2.1	ἔχω	to have
+28	προειστήκει	1.2.1	προειστήκω	nodef
+29	παραγγέλλει	1.2.1	παραγγέλλω	to transmit as a message; give orders
+30	ἐκέλευσε	1.2.2	κελεύω	to urge
+31	ἐπίστευον	1.2.2	πιστεύω	to trust
+32	ἤκουσε	1.2.5	ἀκούω	to hear
+33	ἐξελαύνει	1.2.5	ἐξελαύνω	to drive out from
+34	ἐξελαύνει	1.2.6	ἐξελαύνω	to drive out from
+35	ἔμεινεν	1.2.6	μένω	to stay at home
+36	ἧκε	1.2.6	ἥκω	to have come
+37	ἐξελαύνει	1.2.7	ἐξελαύνω	to drive out from
+38	ἐθήρευεν	1.2.7	θηρεύω	to hunt
+39	ἐμβάλλει	1.2.8	ἐμβάλλω	to throw in
+40	ἔμεινε	1.2.9	μένω	to stay at home
+41	ἧκε	1.2.9	ἥκω	to have come
+42	ἐξελαύνει	1.2.10	ἐξελαύνω	to drive out from
+43	ἔμεινεν	1.2.10	μένω	to stay at home
+44	ἔθυσε	1.2.10	θύω	to sacrifice
+45	ἐξελαύνει	1.2.11	ἐξελαύνω	to drive out from
+46	ἐξελαύνει	1.2.11	ἐξελαύνω	to drive out from
+47	ἔμεινεν	1.2.11	μένω	to stay at home
+48	διῆγε	1.2.11	διάγω	to carry over
+49	εἶχε	1.2.12	ἔχω	to have
+50	ἐλαύνει	1.2.13	ἐλαύνω	to drive
+51	ἐξελαύνει	1.2.14	ἐξελαύνω	to drive out from
+52	ἔμεινεν	1.2.14	μένω	to stay at home
+53	ἐκέλευσε	1.2.15	κελεύω	to urge
+54	εἶχε	1.2.15	ἔχω	to have
+55	παρήλαυνον	1.2.16	παρελαύνω	to drive by
+56	εἶχον	1.2.16	ἔχω	to have
+57	παρήλασε	1.2.17	παρελαύνω	to drive by
+58	ἐκέλευσε	1.2.17	κελεύω	to urge
+59	προεῖπον	1.2.17	προλέγω	pick before; foretell; proclaim
+60	ἐσάλπιγξε	1.2.17	σαλπίζω	to sound the trumpet
+61	ἔφυγεν	1.2.17	φεύγω	to flee
+62	ἔφυγον	1.2.17	φεύγω	to flee
+63	ἐθαύμασε	1.2.18	θαυμάζω	to wonder
+64	ἐξελαύνει	1.2.19	ἐξελαύνω	to drive out from
+65	ἔμεινε	1.2.19	μένω	to stay at home
+66	ἐξελαύνει	1.2.19	ἐξελαύνω	to drive out from
+67	ἐπέτρεψε	1.2.19	ἐπιτρέπω	to turn over to
+68	ἀποπέμπει	1.2.20	ἀποπέμπω	to send off
+69	συνέπεμψεν	1.2.20	συμπέμπω	to send with
+70	εἶχε	1.2.20	ἔχω	to have
+71	ἐξελαύνει	1.2.20	ἐξελαύνω	to drive out from
+72	ἔμειναν	1.2.20	μένω	to stay at home
+73	ἀπέκτεινεν	1.2.20	ἀποκτείνω	to kill
+74	ἐκώλυεν	1.2.21	κωλύω	to let
+75	ἔμεινεν	1.2.21	μένω	to stay at home
+76	ἧκεν	1.2.21	ἥκω	to have come
+77	ἤκουε	1.2.21	ἀκούω	to hear
+78	ἀνέβη	1.2.22	ἀναβαίνω	to go up
+79	ἐφύλαττον	1.2.22	φυλάσσω	to keep watch and ward
+80	κατέβαινεν	1.2.22	καταβαίνω	to step down
+81	φέρει	1.2.22	φέρω	to bear
+82	περιεῖχεν	1.2.22	περιέχω	to encompass
+83	ἤλασε	1.2.23	ἐλαύνω	to drive
+84	ἐξέλιπον	1.2.24	ἐκλείπω	to leave out
+85	ἔμειναν	1.2.24	μένω	to stay at home
+86	ἧκον	1.2.26	ἥκω	to have come
+87	διήρπασαν	1.2.26	διαρπάζω	to tear in pieces
+88	εἰσήλασεν	1.2.26	εἰσελαύνω	to drive in
+89	ἤθελε	1.2.26	ἐθέλω	to will
+90	ἔπεισε	1.2.26	πείθω	to prevail upon
+91	ἔλαβε	1.2.26	λαμβάνω	to take
+92	ἔμεινεν	1.3.1	μένω	to stay at home
+93	ὑπώπτευον	1.3.1	ὑποπτεύω	to be suspicious
+94	ἔβαλλον	1.3.1	βάλλω	to throw
+95	ἐξέφυγε	1.3.2	ἐκφεύγω	to flee out
+96	ἔγνω	1.3.2	γιγνώσκω	to learn to know
+97	συνήγαγεν	1.3.2	συνάγω	to bring together
+98	ἐδάκρυε	1.3.2	δακρύω	to weep
+99	ἐθαύμαζον	1.3.2	θαυμάζω	to wonder
+100	ἔλεξε	1.3.2	λέγω	to pick; to say
+101	θαυμάζετε	1.3.3	θαυμάζω	to wonder
+102	φέρω	1.3.3	φέρω	to bear
+103	ἔπαθον	1.3.4	πάσχω	to experience
+104	ἐρεῖ	1.3.5	λέγω	to pick; to say
+105	θέλετε	1.3.5	ἐθέλω	to will
+106	νομίζω	1.3.6	νομίζω	to have as a custom; to believe
+107	ἔχετε	1.3.6	ἔχω	to have
+108	εἶπεν	1.3.7	λέγω	to pick; to say
+109	ἤθελε	1.3.8	ἐθέλω	to will
+110	ἔλεγε	1.3.8	λέγω	to pick; to say
+111	ἐκέλευεν	1.3.8	κελεύω	to urge
+112	ἔλεξε	1.3.9	λέγω	to pick; to say
+113	ἔχει	1.3.9	ἔχω	to have
+114	νομίζει	1.3.10	νομίζω	to have as a custom; to believe
+115	ἐθέλω	1.3.10	ἐθέλω	to will
+116	μένομεν	1.3.11	μένω	to stay at home
+117	μενοῦμεν	1.3.11	μένω	to stay at home
+118	ἕξομεν	1.3.11	ἔχω	to have
+119	ἔχει	1.3.12	ἔχω	to have
+120	γιγνώσκει	1.3.12	γιγνώσκω	to learn to know
+121	ἐγίγνωσκον	1.3.13	γιγνώσκω	to learn to know
+122	εἶπε	1.3.14	λέγω	to pick; to say
+123	ἀπάξει	1.3.14	ἀπάγω	to lead away
+124	ἔχομεν	1.3.14	ἔχω	to have
+125	εἶπε	1.3.14	λέγω	to pick; to say
+126	εἶπε	1.3.14	λέγω	to pick; to say
+127	πιστεύσομεν	1.3.16	πιστεύω	to trust
+128	κωλύει	1.3.16	κωλύω	to let
+129	πέμπουσιν	1.3.20	πέμπω	to send
+130	ἀκούει	1.3.20	ἀκούω	to hear
+131	ἀγγέλλουσι	1.3.21	ἀγγέλλω	to bear a message
+132	ἄγει	1.3.21	ἄγω	to lead
+133	ἔφερον	1.3.21	φέρω	to bear
+134	ἤκουσεν	1.3.21	ἀκούω	to hear
+135	ἐξελαύνει	1.4.1	ἐξελαύνω	to drive out from
+136	ἐξελαύνει	1.4.1	ἐξελαύνω	to drive out from
+137	ἐξελαύνει	1.4.1	ἐξελαύνω	to drive out from
+138	ἔμειναν	1.4.2	μένω	to stay at home
+139	ἐξελαύνει	1.4.4	ἐξελαύνω	to drive out from
+140	εἶχε	1.4.4	ἔχω	to have
+141	ἤκουσε	1.4.5	ἀκούω	to hear
+142	ἀπήλαυνεν	1.4.5	ἀπελαύνω	to drive away
+143	ἐξελαύνει	1.4.6	ἐξελαύνω	to drive out from
+144	ἔμεινεν	1.4.6	μένω	to stay at home
+145	διώκει	1.4.7	διώκω	to pursue
+146	ᾤκτιρον	1.4.7	οἰκτίρω	to pity
+147	εἶπεν	1.4.8	λέγω	to pick; to say
+148	ἔχω	1.4.8	ἔχω	to have
+149	διώξω	1.4.8	διώκω	to pursue
+150	ἐρεῖ	1.4.8	λέγω	to pick; to say
+151	ἔχω	1.4.8	ἔχω	to have
+152	εἶπεν	1.4.9	λέγω	to pick; to say
+153	ἐξελαύνει	1.4.9	ἐξελαύνω	to drive out from
+154	ἐνόμιζον	1.4.9	νομίζω	to have as a custom; to believe
+155	ἐξελαύνει	1.4.10	ἐξελαύνω	to drive out from
+156	φύουσι	1.4.10	φύω	to bring forth
+157	ἐξέκοψε	1.4.10	ἐκκόπτω	to cut out
+158	κατέκαυσεν	1.4.10	κατακαίω	to burn down
+159	ἐξελαύνει	1.4.11	ἐξελαύνω	to drive out from
+160	ἔμεινεν	1.4.11	μένω	to stay at home
+161	ἔλεγεν	1.4.11	λέγω	to pick; to say
+162	κελεύει	1.4.11	κελεύω	to urge
+163	ἀπήγγελλον	1.4.12	ἀπαγγέλλω	to bring tidings
+164	ἐχαλέπαινον	1.4.12	χαλεπαίνω	to be severe
+165	ἀπήγγελλον	1.4.13	ἀπαγγέλλω	to bring tidings
+166	συνέλεξε	1.4.13	συλλέγω	to collect
+167	ἔλεξε	1.4.13	λέγω	to pick; to say
+168	κελεύω	1.4.14	κελεύω	to urge
+169	διέβησαν	1.4.16	διαβαίνω	to cross (a river
+170	εἶπεν	1.4.16	λέγω	to pick; to say
+171	μελήσει	1.4.16	μέλω	to be an object of care
+172	νομίζετε	1.4.16	νομίζω	to have as a custom; to believe
+173	διέβαινε	1.4.17	διαβαίνω	to cross (a river
+174	ἔλεγον	1.4.18	λέγω	to pick; to say
+175	κατέκαυσεν	1.4.18	κατακαίω	to burn down
+176	ἐξελαύνει	1.4.19	ἐξελαύνω	to drive out from
+177	ἔμειναν	1.4.19	μένω	to stay at home
+178	ἐξελαύνει	1.5.1	ἐξελαύνω	to drive out from
+179	ἐδίωκον	1.5.2	διώκω	to pursue
+180	ἔτρεχον	1.5.2	τρέχω	to run
+181	ἔλαβεν	1.5.3	λαμβάνω	to take
+182	ἀπαγορεύουσι	1.5.3	ἀπαγορεύω	to forbid; to give up
+183	ἔμειναν	1.5.5	μένω	to stay at home
+184	ἐξελαύνει	1.5.5	ἐξελαύνω	to drive out from
+185	ἦγον	1.5.5	ἄγω	to lead
+186	ἐπέλιπε	1.5.6	ἐπιλείπω	to leave behind; to run out
+187	ἤλαυνεν	1.5.7	ἐλαύνω	to drive
+188	ἔταξε	1.5.7	τάσσω	to arrange
+189	ἐκέλευσε	1.5.8	κελεύω	to urge
+190	ἔτυχεν	1.5.8	τυγχάνω	(with gen.) to hit the mark
+191	ἐξεκόμισαν	1.5.8	ἐκκομίζω	to carry out
+192	ἠγόραζον	1.5.10	ἀγοράζω	to be in the ἀγορά
+193	εἶχον	1.5.10	ἔχω	to have
+194	συνῆγον	1.5.10	συνάγω	to bring together
+195	διέβαινον	1.5.10	διαβαίνω	to cross (a river
+196	ἐλάμβανον	1.5.10	λαμβάνω	to take
+197	ἐνέβαλεν	1.5.11	ἐμβάλλω	to throw in
+198	ἔλεγεν	1.5.11	λέγω	to pick; to say
+199	ἐχαλέπαινον	1.5.11	χαλεπαίνω	to be severe
+200	ἀφιππεύει	1.5.12	ἀφιππεύω	to ride off
+201	ἧκεν	1.5.12	ἥκω	to have come
+202	προσήλαυνε	1.5.12	προσελαύνω	to drive
+203	ἥμαρτεν	1.5.12	ἁμαρτάνω	to miss
+204	καταφεύγει	1.5.13	καταφεύγω	to flee for refuge
+205	παραγγέλλει	1.5.13	παραγγέλλω	to transmit as a message; give orders
+206	ἐκέλευσε	1.5.13	κελεύω	to urge
+207	ἤλαυνεν	1.5.13	ἐλαύνω	to drive
+208	ἔτυχε	1.5.14	τυγχάνω	(with gen.) to hit the mark
+209	ἐχαλέπαινεν	1.5.14	χαλεπαίνω	to be severe
+210	ἐκέλευσέ	1.5.14	κελεύω	to urge
+211	ἔλαβε	1.5.15	λαμβάνω	to take
+212	ἧκεν	1.5.15	ἥκω	to have come
+213	λέγει	1.5.15	λέγω	to pick; to say
+214	συνάψετε	1.5.16	συνάπτω	to tie
+215	ἔκαιον	1.6.1	καίω	to light
+216	ἐπιβουλεύει	1.6.1	ἐπιβουλεύω	to plot against
+217	εἶπεν	1.6.2	λέγω	to pick; to say
+218	ἐκέλευεν	1.6.2	κελεύω	to urge
+219	γράφει	1.6.3	γράφω	to scratch
+220	ἐκέλευεν	1.6.3	κελεύω	to urge
+221	συλλαμβάνει	1.6.4	συλλαμβάνω	to collect
+222	ἐκέλευσεν	1.6.4	κελεύω	to urge
+223	ἀπήγγειλε	1.6.5	ἀπαγγέλλω	to bring tidings
+224	ἔλαβον	1.6.6	λαμβάνω	to take
+225	ἔγνως	1.6.7	γιγνώσκω	to learn to know
+226	ἔλαβες	1.6.7	λαμβάνω	to take
+227	εἶπε	1.6.9	λέγω	to pick; to say
+228	λέγει	1.6.9	λέγω	to pick; to say
+229	εἶπε	1.6.9	λέγω	to pick; to say
+230	συμβουλεύω	1.6.9	συμβουλεύω	to advise
+231	ἔλαβον	1.6.10	λαμβάνω	to take
+232	ἐξῆγον	1.6.10	ἐξάγω	to lead out
+233	ἀπέθανεν	1.6.11	ἀποθνῄσκω	to die
+234	ἔλεγεν	1.6.11	λέγω	to pick; to say
+235	εἴκαζον	1.6.11	εἰκάζω	to make like to
+236	ἐξελαύνει	1.7.1	ἐξελαύνω	to drive out from
+237	ἐκέλευε	1.7.1	κελεύω	to urge
+238	διέταξε	1.7.1	διατάσσω	to appoint
+239	ἀπήγγελλον	1.7.2	ἀπαγγέλλω	to bring tidings
+240	ἄγω	1.7.3	ἄγω	to lead
+241	προσέλαβον	1.7.3	προσλαμβάνω	to take or receive in addition
+242	εὐδαιμονίζω	1.7.3	εὐδαιμονίζω	to call or account happy
+243	ἔχω	1.7.3	ἔχω	to have
+244	διδάξω	1.7.4	διδάσκω	to teach
+245	εἶπεν	1.7.5	λέγω	to pick; to say
+246	λέγουσί	1.7.5	λέγω	to pick; to say
+247	ἔλεξεν	1.7.6	λέγω	to pick; to say
+248	σατραπεύουσιν	1.7.6	σατραπεύω	to be a satrap
+249	ἔχω	1.7.7	ἔχω	to have
+250	ἔχω	1.7.7	ἔχω	to have
+251	ἐξήγγελλον	1.7.8	ἐξαγγέλλω	to send out
+252	ἀπέπεμπε	1.7.8	ἀποπέμπω	to send off
+253	ἤγγελλον	1.7.13	ἀγγέλλω	to bear a message
+254	ἤγγελλον	1.7.13	ἀγγέλλω	to bear a message
+255	ἐξελαύνει	1.7.14	ἐξελαύνω	to drive out from
+256	εἰσβάλλουσι	1.7.15	εἰσβάλλω	to throw into
+257	διαλείπουσι	1.7.15	διαλείπω	to leave an interval between
+258	εἶπεν	1.7.18	λέγω	to pick; to say
+259	εἶπεν	1.7.18	λέγω	to pick; to say
+260	ἐκώλυε	1.7.19	κωλύω	to let
+261	ἔμελλε	1.8.1	μέλλω	to think of doing
+262	ἐνετύγχανεν	1.8.1	ἐντυγχάνω	to light upon
+263	ἔλαβε	1.8.3	λαμβάνω	to take
+264	παρήγγελλεν	1.8.3	παραγγέλλω	to transmit as a message; give orders
+265	ἔσχε	1.8.4	ἔχω	to have
+266	εἶχον	1.8.7	ἔχω	to have
+267	εἶχον	1.8.7	ἔχω	to have
+268	ἤστραπτε	1.8.8	ἀστράπτω	to lighten
+269	εἶχον	1.8.10	ἔχω	to have
+270	εἶπεν	1.8.11	λέγω	to pick; to say
+271	ἤθελεν	1.8.13	ἐθέλω	to will
+272	μέλει	1.8.13	μέλω	to be an object of care
+273	εἶπε	1.8.15	λέγω	to pick; to say
+274	ἐκέλευε	1.8.15	κελεύω	to urge
+275	ἤκουσε	1.8.16	ἀκούω	to hear
+276	εἶπεν	1.8.16	λέγω	to pick; to say
+277	ἐθαύμασε	1.8.16	θαυμάζω	to wonder
+278	παραγγέλλει	1.8.16	παραγγέλλω	to transmit as a message; give orders
+279	ἀπήλαυνε	1.8.17	ἀπελαύνω	to drive away
+280	διειχέτην	1.8.17	διέχω	to keep apart
+281	ἐπαιάνιζόν	1.8.17	παιανίζω	nodef
+282	ἐξεκύμαινέ	1.8.18	ἐκκυμαίνω	to wave from the straight line
+283	ἐλελίζουσι	1.8.18	ἐλελίζω	to whirl round
+284	λέγουσι	1.8.18	λέγω	to pick; to say
+285	ἐκκλίνουσιν	1.8.19	ἐκκλίνω	to bend out of the regular line
+286	φεύγουσι	1.8.19	φεύγω	to flee
+287	ἐδίωκον	1.8.19	διώκω	to pursue
+288	ἔπαθεν	1.8.20	πάσχω	to experience
+289	ἐπέκαμπτεν	1.8.23	ἐπικάμπτω	to bend into an angle
+290	ἐλαύνει	1.8.24	ἐλαύνω	to drive
+291	ἔτρεψε	1.8.24	τρέπω	to turn
+292	παίει	1.8.26	παίω	to strike
+293	τιτρώσκει	1.8.26	τιτρώσκω	to wound
+294	ἀκοντίζει	1.8.27	ἀκοντίζω	to hurl a javelin
+295	ἀπέθνῃσκον	1.8.27	ἀποθνῄσκω	to die
+296	λέγει	1.8.27	λέγω	to pick; to say
+297	ἀπέθανε	1.8.27	ἀποθνῄσκω	to die
+298	εἶχε	1.8.29	ἔχω	to have
+299	μανθάνουσιν	1.9.4	μανθάνω	to learn
+300	ἔκρινον	1.9.5	κρίνω	to pick out
+301	ἔπρεπε	1.9.6	πρέπω	to be clearly seen
+302	ἔπαθεν	1.9.6	πάσχω	to experience
+303	εἶχεν	1.9.6	ἔχω	to have
+304	κατέκανε	1.9.6	κατακαίνω	kill
+305	κατεπέμφθη	1.9.7	κατεπεμφθάνω	nodef
+306	καθήκει	1.9.7	καθήκω	to have come; to suit
+307	ἐπίστευον	1.9.8	πιστεύω	to trust
+308	ἐπίστευον	1.9.8	πιστεύω	to trust
+309	ἐπίστευε	1.9.8	πιστεύω	to trust
+310	ἤθελε	1.9.9	ἐθέλω	to will
+311	ἔλεγεν	1.9.10	λέγω	to pick; to say
+312	ἐξέφερον	1.9.11	ἐκφέρω	to carry out of
+313	ἤθελεν	1.9.13	ἐθέλω	to will
+314	ἔγνωσαν	1.9.17	γιγνώσκω	to learn to know
+315	ἔκρυπτεν	1.9.19	κρύπτω	to hide
+316	τυγχάνει	1.9.20	τυγχάνω	(with gen.) to hit the mark
+317	ἐλάμβανε	1.9.22	λαμβάνω	to take
+318	ἔπεμπε	1.9.25	πέμπω	to send
+319	ἔπεμψε	1.9.25	πέμπω	to send
+320	ἔπεμπε	1.9.26	πέμπω	to send
+321	ἐκέλευε	1.9.27	κελεύω	to urge
+322	ἀκούω	1.9.28	ἀκούω	to hear
+323	κρίνω	1.9.28	κρίνω	to pick out
+324	ηὗρε	1.9.29	εὑρίσκω	to find
+325	ἀπέθανον	1.9.31	ἀποθνῄσκω	to die
+326	ἐτύγχανεν	1.9.31	τυγχάνω	(with gen.) to hit the mark
+327	ἔφυγεν	1.9.31	φεύγω	to flee
+328	εἰσπίπτει	1.10.1	εἰσπίπτω	to fall into
+329	φεύγουσι	1.10.1	φεύγω	to flee
+330	διαρπάζουσι	1.10.2	διαρπάζω	to tear in pieces
+331	λαμβάνει	1.10.2	λαμβάνω	to take
+332	ἐκφεύγει	1.10.3	ἐκφεύγω	to flee out
+333	ἔτυχον	1.10.3	τυγχάνω	(with gen.) to hit the mark
+334	ἀπέκτειναν	1.10.3	ἀποκτείνω	to kill
+335	ἀπέθανον	1.10.3	ἀποθνῄσκω	to die
+336	ἔφυγόν	1.10.3	φεύγω	to flee
+337	ἔσωσαν	1.10.3	σῴζω	to save
+338	ἔσωσαν	1.10.3	σῴζω	to save
+339	διέσχον	1.10.4	διέχω	to keep apart
+340	ἤκουσε	1.10.5	ἀκούω	to hear
+341	ἁθροίζει	1.10.5	ἀθροίζω	to gather together
+342	ἦγεν	1.10.6	ἄγω	to lead
+343	ἀπῆγεν	1.10.6	ἀπάγω	to lead away
+344	ἔφυγεν	1.10.7	φεύγω	to flee
+345	διήλασε	1.10.7	διελαύνω	to drive through
+346	κατέκανε	1.10.7	κατακαίνω	kill
+347	ἔπαιον	1.10.7	παίω	to strike
+348	ἠκόντιζον	1.10.7	ἀκοντίζω	to hurl a javelin
+349	ἦρχε	1.10.7	ἄρχω	(to be first) to rule
+350	ἀναστρέφει	1.10.8	ἀναστρέφω	to turn upside down
+351	συντυγχάνει	1.10.8	συντυγχάνω	to meet with
+352	ἔδεισαν	1.10.9	δείδω	to fear
+353	ἔφευγον	1.10.11	φεύγω	to flee
+354	ἐπεδίωκον	1.10.12	ἐπιδιώκω	to pursue after
+355	λείπουσι	1.10.13	λείπω	to leave
+356	ἀνεβίβαζεν	1.10.14	ἀναβιβάζω	to make go up
+357	πέμπει	1.10.14	πέμπω	to send
+358	κελεύει	1.10.14	κελεύω	to urge
+359	ἤλασέ	1.10.15	ἐλαύνω	to drive
+360	ἀπαγγέλλει	1.10.15	ἀπαγγέλλω	to bring tidings
+361	ἐθαύμαζον	1.10.16	θαυμάζω	to wonder
+362	εἴκαζον	1.10.16	εἰκάζω	to make like to
+363	καταλαμβάνουσι	1.10.18	καταλαμβάνω	to seize upon
+364	διήρπασαν	1.10.18	διαρπάζω	to tear in pieces

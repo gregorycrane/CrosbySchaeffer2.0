@@ -5,6 +5,8 @@
 
 
 <div type="textpart" subtype="para" n="113">
+
+
 Present Participle. The masculine of the present
 participle is inflected like ἄρχων (§ 107). The neuter has
 the same endings except in the nominative and accusative
@@ -13,11 +15,15 @@ in the plural, where it adds -α to the stem. The feminine
 is inflected like ἅμαξα (§ 81).
 
 <div type="textpart" subtype="para" n="114">
+
+
 The present and future active participles of παύω
 are inflected like ὤν with the accent on παυ- or παυσ-,
 wherever the rules of accent permit. The second aorist
 active participle is also inflected like ὤν and has the same
 accents.
+
+
 
 Write out entire the inflection of παύων, παύσων, λιπών.
 Compare with paradigms (§ 514, a).
@@ -28,6 +34,8 @@ Compare with paradigms (§ 514, a).
 
 
 <div type="textpart" subtype="para" n="115">
+
+
 First Aorist Active Particirte or παύω <gloss>I stop</gloss>
 
 ravoas navodoa. matey
@@ -45,6 +53,8 @@ nominative singular, where -ς has been added to the stem, causing wr
 to drop out and lengthening α. In like manner inflect ceAaioas.
 
 <div type="textpart" subtype="para" n="116">
+
+
 Uses of Participles.
 (a) A participle, when used in
 the attributive position ($ 31, a), has the force of an attributive adjective. his is called the attributive participle :
@@ -67,6 +77,8 @@ circumstances of an action.
 ἔχων χρήματα εἶχες ἂν φίλους if you had money, you would have friends.
 
 <div type="textpart" subtype="para" n="117">
+
+
 Tenses of the Participle usually indicate time as
 related to that of the main verb:
 
@@ -78,6 +90,8 @@ related to that of the main verb:
 of a real life after death. Cicero was initiated into these Mysteries.</head></figure>
 
 <div type="textpart" subtype="para" n="118">
+
+
 VOCABULARY
 
 
@@ -120,6 +134,8 @@ VOCABULARY
 
 
 <div type="textpart" subtype="para" n="119">
+
+
 EXERCISES
 
 (a) Translate :
@@ -143,6 +159,8 @@ EXERCISES
 4. οὗτος γὰρ λαβ- τὰ χρημα--- ἤθροισε στρατιᾶν.
 
 <figure><head>Torches from ELeusis</head>
+
+
 Much of the ritual was performed by torchlight</figure>
 
 
@@ -150,6 +168,8 @@ Much of the ritual was performed by torchlight</figure>
 
 
 <div type="textpart" subtype="para" n="120">
+
+
 A TRAITOR CAUGHT
 <quote xml:lang="grc">Ὀρόντας ἐπι-βουλεύει Κύρῳ.
 οὗτος Κύρῳ εἶπεν (told) ὅτι (that)
@@ -162,7 +182,7 @@ A TRAITOR CAUGHT
 στρατιώτας. ὁ δ᾽ Ὀρόντας νομίσᾱς αὑτῷ εἶναι τοὺς στρατιώτας γράφει ἐπιστολὴν παρὰ βασιλέᾳ (king) ὅτι ἥξοι (he would
 come) ἔχων στρατιώτας. ταύτην τὴν ἐπιστολὴν δίδωσι
 (he gives) πιστῷ (compare πιστεύω) ἀνθρώπῳ, ὡς ᾧετο
-(he thought). ὁ δὲ λαβὼν Κύρῳ δίδωσιν.</quote> <quote xml:lang="eng"></quote> >> Adapted from Xenophon, Anabasis 1.6.2-3.
+(he thought). ὁ δὲ λαβὼν Κύρῳ δίδωσιν.</quote> <quote xml:lang="eng"></quote> >> Adapted from Xenophon, *Anabasis* 1.6.2-3.
 
 
 <pb n="68"/>

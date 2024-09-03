@@ -16,6 +16,8 @@ Literally: All life is a tent (See § 35).
 
 
 <div type="textpart" subtype="para" n="29">
+
+
 Α-Stem Feminines. Α-declension nouns whose
 nominatives end in ᾱ or η are feminine. Because the
 feminine article shows η in the singular, nouns and adjectives in η are presented first.<note n="GRC">this makes no sense if you have not learned the next chapter -- it only works for teachers</note> Both types are the same
@@ -32,6 +34,8 @@ In like manner inflect ἡ φυγή and ἡ μάχη.4
 What forms of the α-declension have the same ending as the corresponding form of the ο-declension? What have similar endings?
 
 <div type="textpart" subtype="para" n="30">
+
+
 Adjectives.
 (a) Adjectives of the ο- and α-declensions have three endings, one for each gender. [Likewise,
 Latin has three endings, one for masculine, feminine and neuter, e.g., bonus, bona, bonum, "good".]
@@ -56,6 +60,8 @@ like the genitive plural of the o-declension.
 Inflect in all three genders ἀγαθός and δῆλος. Compare with paradigms, § 510, a.
 
 <div type="textpart" subtype="para" n="31">
+
+
 Position of Adjectives.
 (a) When an adjective or
 an adjective phrase accompanies a noun with a definite
@@ -80,6 +86,8 @@ the article and the noun without the article being repeated, it is said to stand
 δίκαιος ὁ ἄνθρωπος or ὁ ἄνθρωπος δίκαιος the man (is) just. 
 
 <div type="textpart" subtype="para" n="32">
+
+
 Dative of Possession. In English we say There is no lid to the box. The Latin says <foreign xml:lang="lat">Puero est gladius</foreign>, <gloss>the boy has a sword</gloss>. So in Greek the dative is used to denote
 the possessor, while the thing possessed is subject of the
 verb to be:
@@ -98,6 +106,8 @@ the village had no garrison,
 
 
 <div type="textpart" subtype="para" n="33">
+
+
 VOCABULARY
 
 
@@ -132,6 +142,8 @@ VOCABULARY
 <rs type="lemma" n="φυλάσσω">φυλάττω</rs>: guard (verb).
 
 <div type="textpart" subtype="para" n="34">
+
+
 EXERCISES
 
 (a) What use of the word do portions in heavy type suggest ?
@@ -172,6 +184,8 @@ This is probably the earliest extant theater in the world. It is built on the
 southern slope of the acropolis at Athens. Here th
 
 <div type="textpart" subtype="para" n="35">
+
+
 Word-formation. It is interesting to follow the
 changes in meanings of words. Words are living creatures and as such they coristantly acquire new characteristics and new aptitudes as they adjust themselves to new conditions.
 

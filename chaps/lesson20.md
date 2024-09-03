@@ -9,6 +9,8 @@ cheers the thirsty.</head></figure>
 
 
 <div type="textpart" subtype="para" n="111">
+
+
 ASSIGNMENTS
 
 (a) Review Vocabulary III, page 330, following the
@@ -41,6 +43,8 @@ be used with πολίτῃ, ἀσπίδες, ἅρματα, νυκτῶν, φύ�
 (g) Inflect εἰμί the present and imperfect indicative.
 
 <div type="textpart" subtype="para" n="112">
+
+
 EXERCISES
 
 (a) Complete:

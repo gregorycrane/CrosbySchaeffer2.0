@@ -15,6 +15,8 @@ Literally: (The) beginning (is) half of everything.
 
 
 <div type="textpart" subtype="para" n="27">
+
+
 Importance of Vocabulary. If you wish to succeed
 in the study of any language, you must have above all else
 a good working vocabulary. The words assigned for study
@@ -47,6 +49,8 @@ he sends.
 
 
 <div type="textpart" subtype="para" n="28">
+
+
 EXERCISES
 (a) Complete:
 
@@ -60,6 +64,8 @@ EXERCISES
 6. ὁ ἄγγελος πολέμιος ἦν τ ἀνθρωπ-- (singular).
 
 <figure><head>A GREEK BOY‘S TABLET</head>
+
+
 
 Here we see half of a school tablet used by some Greek lad more than
 2000 years ago. At the top the master has written two lines of verse, which

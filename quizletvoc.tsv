@@ -1,0 +1,647 @@
+1	ἀδελφός	2	1	0	0	ἀδελφός, ἀδελφοῦ, ὁ	brother.  PHILADELPHIA.
+2	ἔχει	2	1	0	0	ἔχει	he, she, or it has,
+3	ἔχουσι	2	1	0	0	ἔχουσι	they have.
+4	ἦν	2	1	0	0	ἦν	he, she, it, or there was.
+5	ἦσαν	2	1	0	0	ἦσαν	they or there were.
+6	παύει	2	1	0	0	παύει	he, she, or it stops (transitive).
+7	παύουσι	2	1	0	0	παύουσι	they stop.
+8	πέμπει	2	1	0	0	πέμπει	he, she, or it sends (transitive).
+9	πέμπουσι	2	1	0	0	πέμπουσι	they send.
+10	ποταμός	2	1	0	0	ποταμός, ποταμοῦ, ὁ	river, HIPPOPOTAMUS.
+11	στρατηγός	2	1	0	0	στρατηγός, στρατηγοῦ, ὁ	general. STRATEGY.
+12	ἄνθρωπος	5	2	0	0	ἄνθρωπος, ἀνθρώπου, ὁ	person, human being. When used with the feminine article, this noun can explicitly designate a female person. Lat. homo. ANTHROPOLOGY
+13	ἄξιος	5	2	0	0	ἄξιος	worthy, worth. AXIOM
+14	ἀπό	5	2	0	0	ἀπό	prep. with G.	from, away from, Lat. ab. APOSTLE. 
+15	δίκαιος	5	2	0	0	δίκαιος 	just. 
+16	Ἑλλήσποντος	5	2	0	0	Ἑλλήσποντος, Ἑλλησπόντου, ὁ	Hellespont, the Dardanelles.
+17	ἐκ	5	2	0	0	ἐκ	(before consonants), ἐξ (before vowels), proclit. prep. with G. out of, from. Lat. ex. ECLECTIC. 
+18	μακρός	5	2	0	0	μακρός	large. MACRON. MACROECONOMICS.
+19	μικρός	5	2	0	0	μῑκρός	small. MICROSCOPIC. MICROECONOMICS
+20	πόλεμος	5	2	0	0	πόλεμος	war.
+21	πολέμιος	5	2	0	0	πολέμιος 	hostile. οἱ πολέμιοι	the enemy. POLEMIC.
+22	φίλος	5	2	0	0	φίλος	friend. PHILANTHROPIST.
+23	ἀγαθός	8	3	0	0	ἀγαθός, ἀγαθή, ἀγαθόν	good, brave. AGATHA. 
+24	ἄγγελος	8	3	0	0	ἄγγελος, ἀγγέλου, ὁ	messenger. ANGEL.
+25	ἄγω	8	3	0	0	ἄγω	lead, Lat. ago. 
+26	γράφω	8	3	0	0	γράφω	write. TELEGRAPH. LITHOGRAPH.
+27	ἐθέλω	8	3	0	0	ἐθέλω	wish, be willing. 
+28	ἵππος	8	3	0	0	ἵππος, ἵππου, ὁ	horse. ANALYSIS. HIPPOPOTAMUS, 
+29	καί	8	3	0	0	καί	conj.	and, also, even.
+30	καλός	8	3	0	0	καλός, καλή, καλόν	beautiful, honorable, fine.
+31	κίνδυνος	8	3	0	0	κίνδυνος, κινδύνου, ὁ	danger.
+32	λίθος	8	3	0	0	λίθος, λίθος, ὁ	stone.
+33	λύω	8	3	0	0	λύω	loose, break, destroy.
+34	παύω	8	3	0	0	παύω	stop (trans,). PAUSE.
+35	δέ	11	4	0	0	δέ	(δ᾽ before vowels), postpositive conj	but, and.
+36	ἐν	11	4	0	0	ἐν	proclitic prep. with D. 	in (Lat. in). ENCLITIC.
+37	δένδρον	11	4	0	0	δένδρον, δένδρου, τό	tree. RHODODENDRON. 
+38	παρά	11	4	0	0	παρά	prep., with G., from the side of; with D., by the side of; with A., to the side of, to, alongside. PARALLEL.
+39	δῆλος	11	4	0	0	δῆλος, δήλη, δῆλον	plain, evident. 
+40	δῶρον	11	4	0	0	δῶρον, δώρου, τό	gift. THEODORE, 
+41	εἰς	11	4	0	0	εἰς	proclit. prep. with A.	into  (Lat. in).
+42	πεδίον	11	4	0	0	πεδίον, πεδίου, τό	plain.
+43	στάδιον	11	4	0	0	στάδιον, σταδίου, τό	stadium (race course); stade (600 ft.).3 
+44	γάρ	17	6	0	0	γάρ	postpositive conjunction 	for. 
+45	σπονδή	17	6	0	0	σπονδήσπονδῆς, ἡ	libation; pl, σπονδή, σπονδαί, αἱ, treaty, truce. SPONDEE.
+46	κώμη	17	6	0	0	κώμη, κώμης, ἡ	village. 
+47	μάχη	17	6	0	0	μάχη, μάχη, ἡ	battle. LOGOMACHY. 
+48	φεύγω	17	6	0	0	φεύγω	flee. Lat. fugio. FUGITIVE,
+49	οὐ	17	6	0	0	οὐ (before consonants), οὐκ (before smooth breathing), οὐχ (before rough breathing), proclit. adv.	not, UTOPIA. PROPHYLACTIC.
+50	φυγή	17	6	0	0	φυγή, φυγῆς, ἡ	flight, exile. Lat fuga.
+51	φυλακή	17	6	0	0	φυλακή, φυλακῆς, ἡ	guard, garrison.
+52	σκηνή	17	6	0	0	σκηνή	tent. SCENE. 
+53	φυλάσσω	17	6	0	0	φυλάττω	guard (verb).
+54	ἀγορά	20	7	0	0	ἀγορά, ἀγορᾶς, ἡ	market, market-place. AGORAPHOBIA.
+55	ἀρχή	20	7	0	0	ἀρχή, ἀρχῆς, ἡ	beginning, rule, province.
+56	δέκα	20	7	0	0	δέκα	ten. DECALOGUE.
+57	διά	20	7	0	0	διά, prep.	with G., through ; with A., on account of. DIAMETER.
+58	ἐπιτήδειος	20	7	0	0	ἐπιτήδειος, ἐπιτηδεία, ἐπιτήδειον	fit, suitable ; τὰ ἐπιτήδεια 1	provisions.
+59	ἡμέρα	20	7	0	0	ἡμέρᾱ, ἡμέρας, ἡ	day. EPHEMERAL.
+60	στρατιά	20	7	0	0	στρατιά, στρατιᾶς, ἡ	army. Cf. στρατηγός.
+61	φιλία	20	7	0	0	φιλία, φιλίας, ἡ	friendship. Cf. φίλος.
+62	φίλιος	20	7	0	0	φίλιος, φιλία, φίλιον	friendly.
+63	χώρα	20	7	0	0	χώρᾱ, χώρας, ἡ country.
+64	ἀθροίζω	24	8	0	0	ἀθροίζω	collect. 
+65	ἀλλά	24	8	0	0	ἀλλά, conj.	but, however. Stronger than δέ. Final a is often elided.
+66	ἁρπάζω	24	8	0	0	ἁρπάζω	seize,carry off. HARPY. 
+67	ἀρχαῖος	24	8	0	0	ἀρχαῖος, ἀρχαία, ἀρχαῖον	original, ancient. Cf. ἀρχή. = ARCHAIC. 
+68	βάρβαρος	24	8	0	0	βάρβαρος, βαρβάρου, ὁ	foreigner, barbarian.
+69	ἔργον	24	8	0	0	ἔργον, ἔργου, τό	work, deed, ENERGY.
+70	κραυγή	24	8	0	0	κραυγή, κραυγῆς, ἡ	outcry, shout.
+71	λόγος	24	8	0	0	λόγος, λόγου, ὁ	word, speech. PROLOGUE.
+72	μέν	24	8	0	0	μέν	coord. conj. (§ 45).
+73	σιγή	24	8	0	0	σῑγή, σιγῆς, ἡ	silence.
+74	ἄρχω	28	9	0	0	ἄρχω, ἄρξω:1 begin, rule, command,  with G. ARCHBISHOP.
+75	μέλλω	28	9	0	0	μέλλω, μελλήσω	intend, delay, be about to, usually with fut. inf.
+76	διώκω	28	9	0	0	διώκω, διώξω	pursue. 
+77	θύρα	28	9	0	0	θύρα, θύρα, ἡ	door; αἱ θύραι	often used of military head-quarters or of the king's court (compare Sublime Porte). THYROID.
+78	νομίζω	28	9	0	0	νομίζω:1 believe, think, with inf.
+79	ὁδός	28	9	0	0	ὁδός, ὁδοῦ, ὁ	road, route. EXODUS.
+80	πείθω	28	9	0	0	πείθω, πείσω	persuade.
+81	ὑποπτεύω	28	9	0	0	ὑπ-οπτεύω, ὑπ-οπτεύσω	suspect (ὑπό, under + ὀπτεύω, look), with inf. HYPODERMIC. OPTIC.
+82	ἰσχυρός	28	9	0	0	ἰσχυρός, ἰσχυρά, ἰσχυρόν	strong. 
+83	σπένδω	29	9	0	0	σπένδω pour a libation, σπονδή Libation.
+84	ἐνταῦθα	33	10	0	0	ἐνταῦθα	adv., there, at that place. 
+85	λοιπός	33	10	0	0	λοιπός, λοιπή, λοιπόν	left, remaining ; τὸ λοιπόν	the future	κ.τ.λ. (καὶ τὰ λοιπά) 	etc.
+86	ἐντεῦθεν	33	10	0	0	ἐντεῦθεν, adv. 	from there, thence. 
+87	ἐπιστολή	33	10	0	0	ἐπιστολή, ἐπιστολῆς, ἡ	letter. EPISTLE. 
+88	οἰκία	33	10	0	0	οἰκία, οἰκίας, ἡ	house. ECONOMY.
+89	ἔχω	33	10	0	0	ἔχω, ἕξω	have; ἔσχον1	got. 
+90	πύλη	33	10	0	0	πύλη, πύλης, ἡ	gate; pl., pass. PYLON. THERMOPYLA.
+91	λείπω	33	10	0	0	λείπω, λείψω, ἔλιπον	leave. ECLIPSE.
+92	Ἀθῆναι	37	12	0	0	Ἀθῆναι, Ἀθηνῶν, αἱ	Athens. 
+93	ἀπέχω	37	12	0	0	ἀπ-έχω	be distant, be away. 
+94	ἐπί	37	12	0	0	ἐπί	prep. with G., on, upon;1 with D., on, at, by; with A., upon, to, againsi, EPIDERMIS.The difference between the genitive, dative, and accusative may be indicated by these phrases	on horseback, a city on the sea, he marches on the town. Compare παρά (§ 25).
+95	Ἀθηναῖος	37	12	0	0	Ἀθηναῖος, Ἀθηναά, Ἀθηναῖον	Athenian. 
+96	ἑπτά	37	12	0	0	ἑπτά	seven. HEPTAGON.
+97	δρόμος	37	12	0	0	δρόμος, δρόμου, ὁ	a running, run, race, race course. HIPPODROME.
+98	ἥκω	37	12	0	0	ἥκω, ἥξω	[No aorist in use] come, have come, arrive.  
+99	ὀκτώ	37	12	0	0	ὀκτώ	eight. octopus.
+100	σπεύδω	37	12	0	0	σπεύδω, σπεύσω, ἔσπευσα	hasten.
+101	ἀλλήλων	41	13	0	0	ἀλλήλων:1 of one another. PARALLEL.
+102	ἄλλος	41	13	0	0	ἄλλος	other, another; if preceded by the article, the other, the rest of. ALLOPATHY.
+103	αὐτός	41	13	0	0	αὐτός	same, self, he, she, it, they, etc. AUTOMATON.
+104	βουλεύω	41	13	0	0	βουλεύω, βουλεύσω, ἐβούλευσα 	plan,
+105	βουλή	41	13	0	0	βουλή	plan, BOULE.
+106	ἐπιβουλεύω	41	13	0	0	ἐπι-βουλεύω	plot against, with D.
+107	ἐπιβουλή	41	13	0	0	ἐπι-βουλή	plot.
+108	ἴσος	41	13	0	0	ἴσος	equal, ISOSCELES.
+109	κελεύω	41	13	0	0	κελεύω, κελεύσω, ἐκέλευσα 	order, command,
+110	ὅς	41	13	0	0	ὅς, ἥ, ὅ	rel. pron, 	who, which, that.
+111	ὥρα	41	13	0	0	ὥρᾱ	hour, season. HOUR.
+112	ἀδιάβατος	44	14	0	0	ἀ-διά-βατος:2 uncrossable. 
+113	διαβαίνω	44	14	0	0	δια-βαίνω:Future and aorist will be given later. cross. 
+114	διαβατός	44	14	0	0	δια-βατός:2 crossable.
+115	ἐκεῖνος	44	14	0	0	ἐκεῖνος	that. 
+116	συμβουλεύω	44	14	0	0	συμ-βουλεύω :σύν- changes to σύμ- before β for the sake of euphony. advise, with D. of
+117	μεστός	44	14	0	0	μεστός	full, full of, the person. with G. 
+118	ὅδε	44	14	0	0	ὅδε, ἤδε, τόδε	this (as follows). 
+119	οὗτος	44	14	0	0	οὗτος, αὕτη, τοῦτο	this (as aforesaid).
+120	πλοῖον	44	14	0	0	πλοῖον, πλοίου, τό	boat.
+121	σῖτος	44	14	0	0	σῖτος, του, ὁ 	grain, food.  PARASITE.
+122	σύν	44	14	0	0	σύν, prep. with D.	with. SYNOD.
+123	σύ	46	15	0	0	  σύ you (sg.), for
+124	ἄμαξα	47	15	0	0	ἅμαξα	cart, wagon. 
+125	βασιλεία	47	15	0	0	βασίλεια	queen. 
+126	γέφυρα	47	15	0	0	γέφῡρα	bridge. 
+127	ἐγώ	47	15	0	0	ἐγώ	I. EGOTIST. 
+128	ὅπλον	47	15	0	0	ὅπλον	implement, tool ;
+129	εἰ	47	15	0	0	εἰ, proclit. conj.	if. frequently pl, arms (in war). PANOPLY.
+130	θάλασσα	47	15	0	0	θάλαττα	sea. 
+131	κακός	47	15	0	0	κακός	bad, cowardly. CACOPHONY.
+132	οὖν	47	15	0	0	οὖν, post-pos. conj.	therefore, then,  accordingly.
+133	μή	47	15	0	0	μή, neg. adv.	not, Found instead of οὐ with most uses of the infinitive and in conditional clauses.
+134	ἑαυτοῦ	50	16	0	0	ἑ-αυτοῦ 	of himself, herself; itself.
+135	ἐμαυτοῦ	50	16	0	0	ἐμ-αυτοῦ	of myself.
+136	ἐξελαύνω	50	16	0	0	ἐξελαύνω,2 ἐξήλασα	drive out, march forth, march on.
+137	μένω	50	16	0	0	μένω:2 remain, wait for.
+138	Ξενίας	50	16	0	0	Ξενίας	Xenias, an Arcadian general serving under Cyrus, the younger.
+139	ὁπλίτης	50	16	0	0	ὁπλίτης	hoplite, a heavy-armed soldier, Cf. 
+140	πολίτης	50	16	0	0	πολίτης	citizen, POLITICS,
+141	σατράπης	50	16	0	0	σατράπης	satrap, a Persian viceroy.
+142	σεαυτοῦ	50	16	0	0	σεαυτοῦ	Of yourself.
+143	σταθμόν	50	16	0	0	σταθμός	haiting-place, day’s march,
+144	στρατιώτης	50	16	0	0	στρατιώτης	soldier. Cf. στρατιά, στρατηγός.
+145	ἄν	53	17	0	0	ἄν, post-pos. particle belonging to certain types of conditional clauses but lacking an exact English eqnivalent.
+146	ἄπειμι	53	17	0	0	ἄπ-ειμι	be away, be absent.
+147	εἰμί	53	17	0	0	εἰμί enclit.	be.
+148	ἔξεστι	53	17	0	0	ἔξ-ἐστι(ν),2 impersonal ; it is possible.
+149	οὔπω	53	17	0	0	οὔπω, neg. adv. 	not yet.
+150	πάρειμι	53	17	0	0	πάρ-ειμι	be present.
+151	πέντε	53	17	0	0	πέντε, indeclinable 	five. PENTAGON.
+152	στρατόπεδον	53	17	0	0	στρατόπεδον	camp. Cf. στρατιά and πεδίον.
+153	τόπος	53	17	0	0	τόπος	place. TOPOGRAPUY.
+154	τότε	53	17	0	0	τότε, adv.	then, at that time.
+155	φασί(ν)	53	17	0	0	φᾱσί(ν),2 enclit.; they say.
+156	φησί(ν)	53	17	0	0	φησί(ν),2 enclit.	he or she says, PROPHET.
+157	γυνή	57	18	0	0	γυνή, γυναικός, ἡ	woman, wife.  MISOGYNIST. 
+158	διαρπάζω	57	18	0	0	δι-αρπάζω, δι-αρπάσω, δι-ήρπασα	plunder, pillage, sack. 
+159	Θρᾷξ	57	18	0	0	Θρᾷξ, θρᾳκός, ὁ	Thracian. 
+160	σάλπιγξ	57	18	0	0	σάλπιγξ, -γγος, ἡ	trumpet.
+161	κατά	57	18	0	0	κατά, prep.	with G., down from; with A., down along, along, according to. CATALOGUE. 
+162	φάλαγξ	57	18	0	0	φάλαγξ, -γγος, ἡ	phalanx, battle-line.
+163	φύλαξ	57	18	0	0	φύλαξ. φύλακος, ὁ	guard. Cf. φυλακή, φυλάττω.
+164	κῆρυξ	57	18	0	0	κῆρυξ, κήρῡκος, ὁ	herald.
+165	πρός	57	18	0	0	πρός, prep.	with G., from the side of, in the sight of; with D., near, beside, besides ; with A., to the side of, toward. PROSELYTE.
+166	ἅρμα	60	19	0	0	ἅρμα, ἅρματος, τό	chariot. 
+167	πρᾶγμα	60	19	0	0	πρᾶγμα, πράγματος, τό	fact, business ; pl. trouble. PRAGMATIC.
+168	ἄρχων	60	19	0	0	ἄρχων, ἄρχοντος, ὁ	archon, ruler,  commander. Cf. ἄρχω, ἀρχή. 
+169	ὕδωρ	60	19	0	0	ὕδωρ, ὕδατος, τό	water. HYDRANT.2
+170	ἀσπίς	60	19	0	0	ἀσπίς, ἀσπίδος, ἡ	shield. 
+171	δόρυ	60	19	0	0	δόρυ, δόρατος, τό 	spear. DORYPHOROS.
+172	χάρις	60	19	0	0	χάρις, χάριτος, ἡ	fuvor, gratiiude. χάριν ἔχω	feel grateful, with D. EUCHARIST.
+173	ἐλαύνω	60	19	0	0	ἐλαύνω, ἤλασα	drive. Cf. ἐξελαύνω.
+174	Ἑλλάς	60	19	0	0	Ἑλλάς, Ἑλλάδος, ἡ	Ηellas, Greece. 
+175	χρῆμα	60	19	0	0	χρῆμα, χρήματος, τό	thing; pl., things, ie., property, wealth, money.
+176	νύξ	60	19	0	0	νύξ, νυκτός, ἡ	night. Lat. nox. 
+177	παῖς	60	19	0	0	παῖς, παιδός, ὁ or ἡ	boy, girl, child. PEDAGOGUE.
+178	ἐλπίς	66	21	0	0	ἐλπίς, ἐλπίδος, ἡ	hope, expectation. 
+179	κωλύω	66	21	0	0	κωλύω, κωλύσω, ἐκώλῦσα	prevent. KOLYNOS.is this referring to https://en.wikipedia.org/wiki/Kolynos?
+180	πιστεύω	66	21	0	0	πιστεύω, πιστεύσω, ἐπίστευσα	trust, with D.
+181	τρέπω	66	21	0	0	τρέπω, τρέψω, ἔτρεψα, erpea	turn.
+182	λαμβάνω	66	21	0	0	λαμβάνω, ἔλαβον	take, receive.  SYLLABLE. (Future, page 187.)
+183	τρόπος	66	21	0	0	τρόπος	turn, “bent,” manner, character, TROPIC,
+184	ὄνομα	66	21	0	0	ὄνομα	name. ONOMATOPOETIC. 
+185	φυγάς	66	21	0	0	φυγάς, φυγάδος, ἡ	exile, fugitive. Cf. φυγή.
+186	παρέχω	66	21	0	0	παρ-έχω, παρ-ίξω, παρ-έσχον	furnish, cause. 
+187	ὡς	66	21	0	0	ὡς, conj, adv.	as, as if, when.
+188	εἶτα	69	22	0	0	εἶτα, adv.	then, next.
+189	οὕτως	69	22	0	0	οὕτω (before consonants), οὕτως (before vowels), adv. 	thus, so, as afore- said. Cf. οὗτος.
+190	πᾶς	69	22	0	0	πᾶς, πᾶσα, πᾶν	sing., every, whole ; pl. all. PANDEMONIUM.
+191	πρῶτος	69	22	0	0	πρῶτος	first	πρῶτον, adv. at first. PROTOTYPE. 
+192	φόβος	69	22	0	0	φόβος	fear. HYDROPHOBIA. 
+193	ἀδικέω	72	23	0	0	ἀ-δικέω, ἀδικήσω, ἠδίκησα	injure, wrong.
+194	αἰτέω	72	23	0	0	αἰτέω, αἰτήσω, ἤτησα	ask for, demand.
+195	δή	72	23	0	0	δή, post-pos. particle emphasizing preceding word	now, then, accordingly, indeed, etc. Often untranslated.
+196	δοκέω	72	23	0	0	δοκέω, δόξω, ἔδοξα	seem, seem best, think, Often with inf. as subject. DOGMATIC.
+197	καλέω	72	23	0	0	καλέω,1 καλῶ, ἐκάλεσα	call, name. CALENDAR.
+198	ποιέω	72	23	0	0	ποιέω, ποιήσω, ἐποίησα	make, do. POET (ποιητής).
+199	πολεμέω	72	23	0	0	πολεμέω, πολεμήσω, ἐπολέμησα 	make war. Cf. πόλεμος.
+200	φιλέω	72	23	0	0	φιλέω, φιλήσω, ἐφίλησα	love. Cf. φίλος.
+201	ὧδε	72	23	0	0	ὧδε, adv.; thus, as follows. Cf. ὅδε.
+202	ἄχθομαι	76	24	0	0	ἄχθομαι	be burdened, vexed. 
+203	μεταπέμπω	76	24	0	0	μετα-πέμπομαι	send after, summon.
+204	βούλομαι	76	24	0	0	βούλομαι	wish, desire. 
+205	ἕπομαι	76	24	0	0	ἕπομαι	follow, with D. 
+206	πορεία	76	24	0	0	πορεία	journey.
+207	ἔρχομαι	76	24	0	0	ἔρχομαι, ἦλθον (aor.)	come, go. 
+208	πορεύω	76	24	0	0	πορεύομαι	journey, march,
+209	ἥδομαι	76	24	0	0	ἥδομαι	be pleased. HEDONIST. 
+210	ὑπό	76	24	0	0	ὑπό	prep., with G., from under, by (agent); with D., under, beneath (with verbs of rest); with A., under (with verbs of motion). HYPOTHESIS.
+211	μάχομαι	76	24	0	0	μάχομαι	fight, give battle. Cf. μάχη. 
+212	μετά	76	24	0	0	μετά, prep.	with G., with ; with  A., after; as a prefix, often denotes change. METAPHOR.
+213	αἱρέω	80	25	0	0	αἱρέω, αἱνήσω, εἷλον	take, seize, capture; mid. take for yourself, choose. HERESY.
+214	ἁλίσκομαι	80	25	0	0	ἁλίσκομαι, ἁλώσομαι:1 be taken, be captured, Frequently used as passive of αἱρέω
+215	ἀνά	80	25	0	0	ἀνά, prep. with A. only	up, up along, up through; as prefix, sometimes back or according to. ANABASIS, ANALOGY. 
+216	ἀφικνέομαι	80	25	0	0	ἀφ-ικνέομαι, ἀφ-ίξομαι, ἀφ-ικόμην:1 reach, arrive,
+217	δεσπότης	80	25	0	0	δεσπότης, του, ὁ	master. DESPOT. 
+218	ἐπεί	80	25	0	0	ἐπεί, conj.	when, because, since.
+219	ἐπειδή	80	25	0	0	ἐπειδή, conj.; when, because, since.
+220	ἐπιμελέομαι	80	25	0	0	ἐπι-μελέομαι, -μελήσομαι1	take care of, care for; with G. or object clause.
+221	ἡγέομαι	80	25	0	0	ἡγέομαι, ἡγήσομαι, ἡγησάμην1	with G., be leader of ; with D., be leader for; also with int., believe. Cf. Lat. duco. HEGEMONY.
+222	μόνος	80	25	0	0	μόνος, μόνη, μόνον	only, sole. MONOLOGUE.
+223	περί	80	25	0	0	περί, prep.	with G., about, concerning, for; with A., about, around, near. PERISCOPE.
+224	πρίν	80	25	0	0	πρίν, conj.; with ind., unéil ; with inf., before.
+225	δεξιός	84	26	0	0	δεξιός	right, righthand, clever 	
+226	γίγνομαι	84	26	0	0	γίγνομαι, γενήσομαι, ἐγενόμην	become, be born, be, prove to be, ecliptic. GENESIS.
+227	δέχομαι	84	26	0	0	δέχομαι, δέξομαι, ἐδεξάμην	accept, await, receive.
+228	εἰμί	84	26	0	0	εἰμί, ἔσομαι	Be.
+229	ἕπομαι	84	26	0	0	ἕπομαι, ἕψομαι, ἑσπόμην	follow, with D. 
+230	θυμός	84	26	0	0	θυμός	spirit, temper, mind. 
+231	ἱκανός	84	26	0	0	ἱκανός	sufficient, able, capable,
+232	νέος	84	26	0	0	νέος	new, young, fresh. Lat. novus, NEOPHYTE.
+233	ὀλίγος	84	26	0	0	ὀλίγος	little, few. OLIGARCHY.
+234	ὁμολογέω	84	26	0	0	ὁμο-λογέω, ὁμο-λογήσω, ὡμολόγησα	say the same thing, agree. HOMOLOGOUS.
+235	παρασκευάζω	84	26	0	0	παρα-σκευάζω, παρα-σκευάσω, παρ-εσκεύασα 	prepare; mid., prepare oneself or for oneself.
+236	πρόθυμος	84	26	0	0	πρόθυμος 1	eager, ready.
+237	ὑπισχνέομαι	84	26	0	0	ὑπ-ισχνέομαι, ὑπο-σχήσομαι, ὑπ-εσχόμην	undertake, promise-
+238	χαλεπός	84	26	0	0	χαλεπός	hard, severe.
+239	δεύτερος	89	28	0	0	δεύτερος	second. DEUTERONOMY. 
+240	τράπεζα	89	28	0	0	τράπεζα	table.  TRAPEZOID.
+241	ἔτι	89	28	0	0	ἔτι, adv.	still, longer, yet. 
+242	τρίτος	89	28	0	0	τρίτος	third, TRISYLLABIC. 
+243	καλός	89	28	0	0	καλῶς, adv.	well. Cf. καλός. 
+244	κεφαλή	89	28	0	0	κεφαλή	head. CEPHALIC. 
+245	ὦ	89	28	0	0	ὦ, interj. 	O, often preceding the name of the person addressed.
+246	οὐκέτι	89	28	0	0	οὐκ-έτι, adv.	not longer, no longer, never again, 
+247	ἀεί	92	29	0	0	ἀεί, adv. 	always, ever.
+248	νῦν	92	29	0	0	νῦν, adv.	now. . Lat. nune.
+249	πόσος	92	29	0	0	πόσος, inter. adj.	how large; pl., how many?
+250	ὁπόσος	92	29	0	0	ὁπόσος, indef. rel. adj.	as much as; pl, as many as.
+251	πότε	92	29	0	0	πότε, inter. ady.	when?
+252	ποτέ	92	29	0	0	ποτέ,2 indef. adv. 	“somewhen,” once.
+253	ὁπότε	92	29	0	0	ὁπότε, indef.rel.ady.	whenever.
+254	ποῦ	92	29	0	0	ποῦ, inter. adv.	where?
+255	που	92	29	0	0	που, indef. adv. 	somewhere.
+256	ὅπου	92	29	0	0	ὅπου, indet. rel. adv.	where, wherever.
+257	πῶς	92	29	0	0	πῶς, inter. ady.	how ?
+258	πως	92	29	0	0	πως, indef, adv.	somehow, in any way.
+259	ὅπως	92	29	0	0	ὅπως, indef. rel. adv. 	hove, that.
+260	τίς	92	29	0	0	τίς, τί, inter. pron. 	who, what? τί, sometimes = why?
+261	τις	92	29	0	0	τις, τι, indef. pron.	some, any.
+262	ὅστις	92	29	0	0	ὅστις, ἦτις, ὅ τι, indef. rel. pron.	whoever, whichever, whatever.
+263	χρόνος	92	29	0	0	χρόνος	time. CHRONOMETER
+264	ἀναγκάζω	95	30	0	0	ἀναγκάζω, ἀναγκάσω, ἠνάγκασα	compel.
+265	οὔτε	95	30	0	0	οὔτε . . . οὔ-τε, neg. conj.	neither nor.
+266	ἀνάγκη	95	30	0	0	ἀνάγκη, ἀνάγκης, ἡ	necessity. 
+267	πάσχω	95	30	0	0	πάσχω, πείσομαι, ἔπαθον	be treated, experience, suffer. SYMPATHY.
+268	ἵνα	95	30	0	0	ἵνα, conj. adv. 	that, in order that, 
+269	μηκέτι	95	30	0	0	μηκέτι, (from μη(κ)ἔτι),1 2 adv.	no longer, never again.
+270	ὅπως	95	30	0	0	ὅπως, conj. adv.	how, in order that, etc.
+271	μήτε	95	30	0	0	μήτε, neg. conj.	neither...nor.
+272	τε	95	30	0	0	τε, enclit. conj.	and. Usually followed by kai	both .. . and.
+273	φέρω	95	30	0	0	φέρω, οἴσω, ἤνεγκα	bear, carry. CHRISTOPHER.
+274	ὡς	95	30	0	0	ὡς, conj adv.	how, in order that, that, ete.; also as.
+275	δέω	99	31	0	0	δεῖ, δεήσει, ἐδέησε, impers.	be necessary. Usually followed by A. and inf.
+276	διδάσκω	99	31	0	0	διδάσκω, διδάξω, ἐδίδαξα	teach. DIDACTIC.
+277	ἐάν	99	31	0	0	ἐάν (=εἰ + ἄν), conj.	if, with subj.
+278	ἐάν	99	31	0	0	ἤν (=ἐάν), conj.	if, with subjy.
+279	μάλα	99	31	0	0	μᾶλλον, adv.	rather (than), more (than).
+280	πάλαι	99	31	0	0	πάλαι, adv.	long ago. PALAEOZOIC.
+281	σοφός	99	31	0	0	σοφός, σοφός, σοφή, σοφόν	wise. SOPHOMORE.
+282	σοφία	99	31	0	0	σοφία, σοφίας, ἡ	wisdom. SOPHIA.
+283	ὥσπερ	99	31	0	0	ὥσ-περ, intens. form of ὥς ; just as.
+284	ὠφελέω	99	31	0	0	ὠφελέω, ὠφελήσω, ὠφέλησα	aid, help, benefit.
+285	ὠφέλιμος	99	31	0	0	ὠφέλιμος, ὠφελίμη, ὠφέλιμον	beneficial, useful, ANOPHELES, OPHELIA,
+286	ἀργύριον	103	32	0	0	ἀργύριον, ἀργυρίου, τό	silver, money. ARGYROL, French argent (from Latin).
+287	βίος	103	32	0	0	βίος, βίος, βίου, ὁ	life, living.  BIOLOGY.
+288	γε	103	32	0	0	γε, enclil. particle of emphasis, rarely to be translated	indeed, at least,
+289	θεός	103	32	0	0	θεός, θεοῦ, ὁ	god (ἡ θεός	goddess). THEOLOGY. Cf. θεά
+290	μισθός	103	32	0	0	μισθός	pay.
+291	ξένος	103	32	0	0	ξένος, ξένου, ὁ	stranger, guest or host, mercenary, i.e, hired soldier.
+292	πόνος	103	32	0	0	πόνος, πόνου, ὁ	toil, labor, travail.
+293	πράσσω	103	32	0	0	πράττω, πράξω, ἔπραξα	do, fare. PRACTICAL. Cf. πρᾶγμα.
+294	χρυσίον	103	32	0	0	χρῡσίον, χρυσίου, τό	gold, money.
+295	χρυσός	103	32	0	0	χρῡσός, χρυσός, χρυσοῦ, ὁ	gold, gold metal. CHRYSANTHEMUM.
+296	ἄδικος	106	33	0	0	ἄ-δικος, ἄ-δικον	unjust. Cf. δίκαιος. 
+297	πορίζω	106	33	0	0	πορίζω, ποριῶ, ἐπόρισα	bring, supply.
+298	ἀδικέω	106	33	0	0	ἀ-δικέω, See § 205,  Cf. mopeta, wopetopar,
+299	ἀναγκαῖος	106	33	0	0	ἀναγκαῖος, ἀναγκαία, ἀναγκαῖον	necessary. Cf.  ἀνάγκη.
+300	στρατεύω	106	33	0	0	στρατεύω, στρατεύσω, ἐστράτευσα 	make campaign. Usually mid.
+301	δίκη	106	33	0	0	δίκη, δίκης, ἡ	justice. Cf. στρατιά.
+302	ἐπιθυμέω	106	33	0	0	ἐπιθυμέω, ἐπιθυμ-ήσω, ἐπ-εθύμησα	desire, with G, Cf. θυμός.  
+303	τάσσω	106	33	0	0	τάττω, τάξω, ἔταξα	order, arrange, station. TAXIDERMIST, TACTICS.
+304	ἤ	106	33	0	0	ἤ, conj. 	or, than. 
+305	οἶνος	106	33	0	0	οἶνος, οὔνου	wine. 
+306	τρέφω	106	33	0	0	τρέφω, θρέψω, ἔθρεψα	nourish, support, rear, keep (of animals). ATROPHY.
+307	πάλιν	106	33	0	0	πάλιν, adv. 	again, back,  PALINODE. 
+308	ἀποθνῄσκω	109	34	0	0	ἀποθνῄσκω, ἀποθανοῦμαι, ἀπέθανον	die. 
+309	ὅταν	109	34	0	0	ὅταν (ὅτε + ἄν), conj.	when, whenever.
+310	ἐπάν	109	34	0	0	ἐπάν or ἐπήν (ἐπεὶ + ἄν), conj.	when, whenever.
+311	ὅτε	109	34	0	0	ὅτε, conj.	when.
+312	οὐδέ	109	34	0	0	οὐδέ neg. conj. and ady.	and not, nor, not even.
+313	ἐπειδάν	109	34	0	0	ἐπειδάν (ἐπειδὴ + ἄν), conj.	when,  whenever. 
+314	σῴζω	109	34	0	0	σῴζω, σώσω, ἔσωσα	save, bring safety, rescue.  SOZODONT, CREOSOTE.
+315	θάνατος	109	34	0	0	θάνατος	death. THANATOPSIS.
+316	μηδέ	109	34	0	0	μηδέ neg, conj. and ady.	and  not, nar, not even.
+317	σωτηρία	109	34	0	0	σωτηρίᾱ	safety.
+318	ἀγγέλλω	115	35	0	0	ἀγγέλλω	announce. Ci. ἄγγελος. 
+319	θαυμάζω	115	35	0	0	θαυμάζω, θαυμάσομαι, ἐθαυμασα	wonder, marvel at, admire. THAUMATURGY.
+320	αἰσθάνομαι	115	35	0	0	αἰσθάνομαι, αἰσθήσομαι, ἠσθόμην 	perceive. ANESTHESIA. 
+321	ἀκούω	115	35	0	0	ἀκούω, ἀκούσομαι, ἤκουσα	hear. ACOUSTIC. 
+322	κλέπτω	115	35	0	0	κλέπτω, κλέψω, ἔκλεψα; steal. KLEPTOMANIAC.
+323	γιγνώσκω	115	35	0	0	γιγνώσκω,2 γνώσομαι	know, determine, DIAGNOSIS. cf. γνώμη. 
+324	λέγω	115	35	0	0	λέγω, λέξω, ἔλεξα	say, tell, speak, Cf. DIALECT.
+325	ὅτι	115	35	0	0	ὅτι, conj.	that, because.
+326	λέγω	115	35	0	0	εἶπον 3 (2d. aor.); said. EPIC. 
+327	πυνθάνομαι	115	35	0	0	πυνθάνομαι, πεύσομαι, ἐπυθόμην	inquire, learn (by inquiry).
+328	εὑρίσκω	115	35	0	0	εὑρίσκω, εὑρήσω, ηὗρον	find. EUREKA, 
+329	εὔχομαι	119	37	0	0	εὔχομαι, εὔξομαι, ηὐξάμην	pray,  vow.
+330	μέντοι	119	37	0	0	μέν-τοι, postpos. adv.	however.
+331	Ξενοφῶν	119	37	0	0	Ξενοφῶν, ενοφῶντος	Xenophon.
+332	θύω	119	37	0	0	θύω, θύσω, ἔθυσα	sacrifice. 
+333	πότερος	119	37	0	0	πότερος, pron.	which (of two); 
+334	πότερον	119	37	0	0	πότερον, adv.	whether. 
+335	λοχαγός	119	37	0	0	λοχᾱγός	captain. Cf. στρατηγός. 
+336	λόχος	119	37	0	0	λόχος	company.
+337	ἀγών	123	38	0	0	ἀγών	contest, struggle.  AGONY, PROTAGONIST.
+338	δείδω	123	38	0	0	ἔδεισα (aor.)	feared. 
+339	Ἕλλην	123	38	0	0	Ἕλλην, Ἕλληνος, ὁ	Hellene, Greek. 
+340	Ἑλληνικός	123	38	0	0	Ἑλληνικός	Hellenic.  Greek.
+341	εὖ	123	38	0	0	εὖ, adv.	well. EULOGY. 
+342	εὐδαίμων	123	38	0	0	εὐ-δαίμων, εὔ-δαιμον	lucky, prosperous, EUDAMONISM.
+343	ἡγεμών	123	38	0	0	ἡγεμών	leader, guide. Cf. ἡγέομαι. HEGEMONY.
+344	μείς	123	38	0	0	μήν, μηνός, ὁ	month. Cf. Moon,
+345	πατρίς	123	38	0	0	πατρίς, πατρίδος, ἡ	fatherland.
+346	ῥήτωρ	123	38	0	0	ῥήτωρ, ῥήτορος, ὁ	speaker, orator. RHETORIC.
+347	χείρ	123	38	0	0	χείρ, χειρός, ἡ hand, arm. CHIROPRACTOR.
+348	ἀληθής	127	39	0	0	ἀ-ληθής, ἀ-ληθές 	true. LETHE. 
+349	ὄρος	127	39	0	0	ὄρος, ὄρους, τό 	mountain. OREAD.
+350	ἀσφαλής	127	39	0	0	ἀσφαλής, ἀσφαλές	safe, sure.  ASPHALT.
+351	πλῆθος	127	39	0	0	πλῆθος, πλήθους, τό	fullness, quantity. PLETHORIC.
+352	γένος	127	39	0	0	γένος, γένους, τό	birth, family, kind. multitude, hence “ the masses.” Lat. genus. Cf. ἐγενόμην. GENEALOGY.
+353	Σωκράτης	127	39	0	0	Σωκράτης, Σωκράττους, ὁ	Socrates.
+354	εὖρος	127	39	0	0	εὖρος, εὔρους, τό	breadth. 
+355	τεῖχος	127	39	0	0	τεῖχος, τείχους, τό	wall (of fortification).
+356	θεμιστοκλῆς	127	39	0	0	θεμιστοκλῆς, θεμιστοκλέους, ὁ	Themistocles. 
+357	τριήρης	127	39	0	0	τριήρης, τριήρους, ἡ	trireme, war vessel, with three (τρι-) banks of oars.
+358	μέρος	127	39	0	0	μέρος, μέρους, τό	part, share, role. 
+359	πολύς	129	40	0	0	πολύς much, many
+360	εὐθύς	131	40	0	0	εὐθύς, -εὐθεῖα, εὐθύ	straight, direct; 
+361	πρό	131	40	0	0	πρό	prep. with G.	before, in front of. PROLOGUE.
+362	εὐθύς	131	40	0	0	εὐθύς	adv., straightway, immediately. 
+363	ταχύς	131	40	0	0	ταχύς, ταχεῖα, ταχύ	swift.
+364	ἡδύς	131	40	0	0	ἡδέως, adv.	gladly. TACHYMETER.
+365	ἡδύς	131	40	0	0	ἡδύς, ἡδεῖα, ἡδύ	sweet, pleasant, 
+366	τέλος	131	40	0	0	τέλος, τέλους, τό	end; A. used as adv. 	finally. TELEOLOGICAL.
+367	μέγας	131	40	0	0	μέγας, μεγάλη, μέγα	great, large. MEGALOMANIA.
+368	πλήν	131	40	0	0	πλήν, prep. with G.	except. 
+369	ὑπέρ	131	40	0	0	ὑπέρ, prep.	with G., above, in behalf of; with A., above, beyond. HYPERBOLA, HYPERTROPHY.
+370	αἰσχρός	135	41	0	0	αἰσχρός	shameful, ugly. Opposite of καλός.
+371	αἴτιος	135	41	0	0	αἴτιος	responsible, accountable ; with G., responsible for. 
+372	ἀπορέω	135	41	0	0	ἀ-πορέω, ἀ-πορήσω, ἠ-πόρησα	be at a loss, be troubled, he helpless. Cf.
+373	πορεία	135	41	0	0	πορεία, πορεύομαι.
+374	ἀπορία	135	41	0	0	ἀ-πορία	difficulty, helplessness, lack. 
+375	ἄπορος	135	41	0	0	ἄ-πορος, ἄ-πορον 	helpless, needy, impassable.
+376	δεινός	135	41	0	0	δεινός	to be feared, terrible, skilful, clever. Cf. DINOSAURUS
+377	ὅτι	135	41	0	0	ὅτι, adv, with superl. to denote the highest degree possible. Cf. Lat. quam.
+378	πιστός	135	41	0	0	πιστός, πιστή, πιστόν	faithful, trusty.
+379	φοβερός	135	41	0	0	φοβερός, φοβερά, φοβερόν	fearful, frightful. Cf. φόβος.
+380	ἀγαθός	137	42	0	0	ἀμείνων better, braver 
+381	ἀγαθός	137	42	0	0	ἄριστος best, bravest, etc, ARISTOCRAT.
+382	ἀγαθός	137	42	0	0	βελτίων morally better 
+383	ἀγαθός	137	42	0	0	βέλτιστος morally best 
+384	κρατύς	137	42	0	0	κρείττων physically 
+385	κρατύς	137	42	0	0	κράτιστος strongest, stronger, preferable hest
+386	κακός	137	42	0	0	κακίων cowardly
+387	κακός	137	42	0	0	κάκιστος cowardly
+388	χείρων	137	42	0	0	χείρων meaner 
+389	χείριστος	137	42	0	0	χείριστος worst
+390	ἥσσων	137	42	0	0	ἥττων weaker, inferior 
+391	καλός	137	42	0	0	καλλίων more beautiful, more noble
+392	καλός	137	42	0	0	κάλλιστος more beautiful, most noble
+393	μέγας	137	42	0	0	μείζων greater
+394	μέγας	137	42	0	0	μέγιστος greatest
+395	μικρός	137	42	0	0	μικρότερος smaller
+396	μικρός	137	42	0	0	μικρότατος smallest
+397	μείων	137	42	0	0	μείων pl, fewer
+398	ἐλαχύς	137	42	0	0	ἐλάττων Serves also as comparative for ὀλίγος little, few. 
+399	ἐλαχύς	137	42	0	0	ἐλάχιστος least
+400	πολύς	137	42	0	0	πλείων more
+401	πολύς	137	42	0	0	πλέων more
+402	πολύς	137	42	0	0	πλεῖστος PLEONASM. 
+403	πρῶτος	137	42	0	0	πρῶτος first
+404	ὕστερος	137	42	0	0	ὕστερος later, latter 
+405	ὕστερος	137	42	0	0	ὕστατος last
+406	ἐγγύς	141	43	0	0	ἐγγύς, near, nearly 
+407	ἐγγύς	141	43	0	0	ἐγγύτερον,  ἐγγυτέρω  
+408	ἐγγύς	141	43	0	0	ἐγγύτατα ,ἐγγυτάτω
+409	εὖ	141	43	0	0	εὖ well (adv. of ἀγαθός) 
+410	εὖ	141	43	0	0	ἄμεινον, better
+411	εὖ	141	43	0	0	ἄριστα, best
+412	μάλα	141	43	0	0	μάλα, very 
+413	μάλα	141	43	0	0	μᾶλλον, more, rather 
+414	μάλα	141	43	0	0	μάλιστα, most, certainly
+415	ἐπαινέω	142	43	0	0	ἐπ-αινέω, ἐπ-αινέσω, ἐπ-ήνεσα	praise.
+416	πάνυ	142	43	0	0	πάνυ, adv.	wholly, very. Ch. mas.
+417	πρόσθεν	142	43	0	0	πρόσθεν, adv.	from the front, in front, before. Cf. ὄπισθεν.
+418	κρατέω	142	43	0	0	κρατέω, κρατήσω, ἐκράτησα	overpower, conquer. Cf. κράτιστος, DEMOCRATIC.
+419	ῥᾴδιος	142	43	0	0	ῥᾴδιος, ῥᾳδίᾱ, ῥᾴδιον	Easy.
+420	ῥίπτω	142	43	0	0	ῥίπτω, ῥίψω, ἔρριψα	tirow, cast
+421	κράτος	142	43	0	0	κράτος, κράτους, τό	power. aside.
+422	ὄπισθεν	142	43	0	0	ὄπισθεν, adv.	from the rear, in the rear, behind. Cf. ἐντεῦθεν.  
+423	πόλις	145	44	0	0	πόλις (ἡ) city
+424	βασιλεύς	145	44	0	0	βασιλεύς (ὁ) king
+425	ναῦς	145	44	0	0	ναῦς (ἡ) ship 
+426	ἀνάβασις	146	44	0	0	ἀνά-βασις, ἀνα-βάσ-εως, ἡ	a going-up (from the sea), inland march.
+427	θέω	146	44	0	0	θέω, θεύσομαι	run.
+428	ἱππεύς	146	44	0	0	ἱππεύς, ἱππέως, ἡ	horseman, knight. ANABASIS. See § 280. 
+429	ναῦς	146	44	0	0	ναῦς, νεώς, ἡ	ship. NAUSEA.
+430	βασιλεύς	146	44	0	0	βασιλεύς, -βασιλέως, ἡ	king. Cf. βασίλεια, Basilea. BASIL.
+431	πίπτω	146	44	0	0	πίπτω, πεσοῦμαι, ἔπεσον	fall.
+432	πλήσσω	146	44	0	0	πλήττω, πλήξω, ἔπληξα	strike. , APOPLEXY (“stroke”),
+433	βασιλεύω	146	44	0	0	βασιλεύω, -σω, -σα	be king; aor. became king.
+434	ναῦς	146	44	0	0	ναῦς, νεώς, ἡ	city, state, Cf. πολίτης. POLITICAL.
+435	βοηθέω	146	44	0	0	βοηθέω, βοηθήσω, ἐβοήθησα	with D., run to aid (at a shout for help), assist.
+436	στενός	146	44	0	0	στενός, στενή, στενόν	narrow. STENOGRAPHIC.
+437	ἀνήρ	150	45	0	0	ἀνήρ, ἀνδρός, ὁ	man, husband, PHILANDER, ANDREW (Ἀνδρέας).
+438	γέρων	150	45	0	0	γέρων, γέροντος, ὁ	old man.
+439	ἐμός	150	45	0	0	ἐμός, ἐμή, ἐμόν	my, mine. Cf. ἐγώ.
+440	ἡμέτερος	150	45	0	0	ἡμέτερος, ἡμετέρος, ἡμέτερον	our, ours. Cf. ἡμεῖς.
+441	κέρας	150	45	0	0	κέρας, κἐρᾱτος or κέρως,1 τό	horn, wing (milit.). Lat. cornu. RHINOCEROS 
+442	πατήρ	150	45	0	0	πατήρ, πατρός, ὁ	father. Lat. pater.
+443	πῦρ	150	45	0	0	πῦρ, πυρός, τό	(sing. only)	fire. PYROTECHNIC,
+444	σός	150	45	0	0	σός, σή σόν	thy, thine, (sing.). Cf. σύ.
+445	σῶμα	150	45	0	0	σῶμα, σώματος, τό	body. CHROMOSOME.
+446	ὑμέτερος	150	45	0	0	ὑμέτερος, ὑμετέρη, ὑμέτερον	your, yours (pl.), Cf. ὑμεῖς.
+447	ἀντί	154	47	0	0	ἀντί, prep. with G.	instead of, for ; as prefix, against.   ANTITHESIS.
+448	ἐλπίζω	154	47	0	0	ἐλπίζω, ἐλπίσω, ἤλπισα	expect, hope. Cf. ἐλπίς.
+449	ὑστεραῖος	154	47	0	0	ὑστεραῖος	later, following, second, next; τῇ ὑστεραίᾳ
+450	ἀποκτείνω	154	47	0	0	ἀπο-κτείνω	2 3 Kill off. (ἡμέρᾳ)	next day. Cf. ὕστερος.
+451	βαίνω	154	47	0	0	βαίνω, βήσομαι:2 go. ANABASIS
+452	βάλλω	154	47	0	0	βάλλω, ἔβαλον:3 throw, pelt; εἰσβάλλω(milit.)	invade. PROBLEM, BALLISTICS.
+453	χωρίον	154	47	0	0	χωρίον, -ου, τό	place, spot. Dimin. of χώρα.
+454	ἀμφότερος	158	48	0	0	ἀμφότερος (rare in sing.)	both.
+455	Ζεύς	158	48	0	0	Ζεύς, Διός, ὁ	Zeus.
+456	θαρσέω	158	48	0	0	θαρρέω, θαρρήσω, ἐθάρρησα	have courage.
+457	ἐλευθερία	158	48	0	0	ἐλευθερία, -ἄς, ἡ 	freedom.  ELEUTHERISM.
+458	μνῆμα	158	48	0	0	μνῆμα, μνήματος, τό	memorial, monument.
+459	ἐλεύθερος	158	48	0	0	ἐλεύθερος	free. 
+460	τείνω	158	48	0	0	τείνω	stretch, reach. Lat. teneo.
+461	ἕτερος	158	48	0	0	ἕτερος	other (of two); 
+462	χρή	158	48	0	0	χρή, χρῆν, χρῇ 4, χρείη, χρῆναι	be necessary, fitting.
+463	ἕτερος	158	48	0	0	θάτερον = τὸ ἕτερον.  HETERODOX.
+464	ἀλλάσσω	162	49	0	0	ἀλλάττω, ἀλλάξω, ἤλλαξα	change. PARALLAX, HYPALLAGE.
+465	ἤδη	162	49	0	0	ἤδη, adv.	now, already.
+466	μέσος	162	49	0	0	μέσος, μέση, μέσον	middle; τὸ μέσον	the middle. MESOPOTAMIA.
+467	ἄνω	162	49	0	0	ἄνω, adv.	up. Cf. ἀνά. 
+468	αὖ	162	49	0	0	αὖ, adv. 	again, on the other hand. 
+469	στράτευμα	162	49	0	0	στράτευμα, στράτευματος, τό	army. Cf. στρατεύω.
+470	ἐκεῖ	162	49	0	0	ἐκεῖ, adv. 	there.  
+471	ἔνθα	162	49	0	0	ἔνθα, adv.	there, then, where 
+472	ἀποκρίνω	166	50	0	0	ἀπο-κρίνομαι, ἀπο-κρινοῦμαι	reply. 
+473	σκοπέω	166	50	0	0	σκοπέω	look to see, inquire, consider. MICROSCOPE, PERISCOPE.
+474	ἀρετή	166	50	0	0	ἀρετή, ἀρετῆς, ἡ	fitness, excellence, bravery, virtue. Cf. ἄριστος.  Cf. Lat. virtus. 
+475	φαίνω	166	50	0	0	φαίνω, φανῶ2	shed light, show; mid. and pass., appear. PHENOMENON,
+476	γῆ	166	50	0	0	γῆ,3 γῆς, ἡ	land, soil. GEOLOGY. 
+477	κρίνω	166	50	0	0	κρίνω, κρινῶ2	pick out, judge, decide, CRISIS, CRITIC. 
+478	φανερός	166	50	0	0	φανερός	visible, apparent, evident. PHANEROGAM.
+479	σκέπτομαι	166	50	0	0	σκέπτομαι, σκέψομαι, ἐσκεψάμην 4	look to see, inquire, consider. SCEPTIC.
+480	ἄκρος	170	51	0	0	ἄκρος	top of; τὸ ἄκρον	the top. ACROPOLIS, AKRON.
+481	ὀφείλω	170	51	0	0	ὀφείλω, ὀφειλήσω, ὠφείλησα	owe.
+482	εἴθε	170	51	0	0	εἴθε, conj.	O if, would that, if only. 
+483	τέμνω	170	51	0	0	τέμνω, τεμῶ, ἔτεμον or ἔταμον	, cut, ANATOMY.
+484	εἰρήνη	170	51	0	0	εἰρήνη	peace. IRENIC
+485	καιρός	170	51	0	0	καιρός, καιροῦ, ὁ:	fitting moment, opportunity.
+486	τρέχω	170	51	0	0	τρέχω, δραμοῦμαι, ἔδραμον	run, TROCHAIC, Cf. δρόμος.
+487	μανθάνω	170	51	0	0	μανθάνω, μαθήσομαι, ἔμαθον	learn, understand. POLYMATH.
+488	φοβέω	170	51	0	0	φοβέομαι, φοβήσομαι:1 fear. Cf. φόβος.
+489	μέλω	170	51	0	0	μέλει, μελήσει, ἐμέλησε	is a care, concerns. Used impersonally.
+490	δείδω	175	52	0	0	δείδω, δείσομαι, ἔδεισα, δέδοικα  	to fear. 
+491	εὑρίσκω	175	52	0	0	εὑρίσκω, εὑρήσω, ηὗρον, εὕρηκα 1	have found. 
+492	λαμβάνω	175	52	0	0	λαμβάνω, λήψω, ἔλαβον, εἴληφα	to take. 
+493	πάσχω	175	52	0	0	πάσχω, πείσομαι, ἔπαθον, πέπονθα 	to experience, suffer.
+494	πείθω	175	52	0	0	πείθω, πείσω, ἔπεισα, πέπεικα	to persuade.
+495	πέποιθα	175	52	0	0	πέποιθα (πείθω)	have been persuaded, am confident, trust.
+496	πέμπω	175	52	0	0	πέμπω, πέμψω, ἔπεμψα, πέπομφα  	have sent.
+497	αἱρέω	175	52	0	0	αἱρέω, αἱρήσω, εἷλον, ἤρηκα  	have seized, have captured.
+498	ῥίπτω	175	52	0	0	ῥίπτω, ῥίψω, ἔρριψα, ἔρ-ριφα 	to throw. 
+499	στρατεύω	175	52	0	0	στρατεύω, στρατεύσω, ἐστράτευσα, ἐ-στράτευκα	have made a campaign.
+500	θνήσκω	175	52	0	0	θνήσκω, θνήξω, ἔθανον, τέθνηκα 	be dead.
+501	ἁρπάζω	175	52	0	0	ἁρπάζω, ἁρπάξω, ἥρπαξα, ἥρπακα :2 to seiz, to plunder.
+502	ἀτιμάζω	179	53	0	0	ἀτιμάζω, ἀτιμάσω, ἠτίμασα, ἠτίμᾱκα, ἠτίμασμαι	dishonor.
+503	ἕως	179	53	0	0	ἕως, conj.	while, until.
+504	θάπτω	179	53	0	0	θάπτω, θάψω, ἔθαψα, τέθαμμαι	dig, bury. EPITAPH. Cf. @θάπτω.
+505	παρασάγγης	179	53	0	0	παρασάγγης, παρασάγγου, ὁ	parasang. A Persian road measure = about 30 stades.
+506	τάφος	179	53	0	0	τάφος	burial, grave.
+507	μιμνῄσκω	179	53	0	0	μιμνῄσκω, μνήσω, ἔμνησα	remind; μέμνημαι	remember, MNEMONIC.
+508	τάφρος	179	53	0	0	τάφρος, τάφρου, ἡ	ditch, trench. Cf. θάπτω.
+509	οἰκέω	179	53	0	0	οἰκέω, οἰκήσω, ᾧκησα, ᾧκηκα, ᾧκημαι	dwell, inhabit. ECUMENICAL. Cf. οἰκία.
+510	ἀμελέω	183	54	0	0	ἀ-μελέω, ἀμελήσω, ἠμέλησαdyoa, ἠμέληκα, ἠμέλημαι	be careless, neglect, with G. Cf. μέλει.
+511	διατρίβω	183	54	0	0	δια-τρίβω, -τρίψω, -ἐτρῑψα, -τέτριφα, -τέτρίμμαι, -ετρίβην 	rub through or away, spend, waste (time), delay. DIATRIBE.
+512	δέω	183	54	0	0	δέομαι, δεήσομαι, δεδέημαι, ἐδεήθην	lack, need, want, desire, request. Freq with G., or with G. of pers. and inf. Cf. δεῖ
+513	ὁπλίζω	183	54	0	0	ὁπλίζω, ὥπλισα, ὥπλισμαι, ὡπλίσθην 	arm, equip, Cf. ὅπλα.
+514	παλτόν	183	54	0	0	παλτόν, παλτοῦ, τό	javelin.
+515	φύσις	183	54	0	0	φύσις, φύσεως, ἡ 	nature. PHYSICS.
+516	εἷς	191	56	0	0	εἷς one
+517	οὐδείς	191	56	0	0	οὐδείς 
+518	ἐναντίος	196	58	0	0	ἐν-αντίος	facing, confronting, with G. or D.; οἱ ἐν-αντίοι 	the opponents.
+519	ἐρῆμος	196	58	0	0	ἔρημος	desert, deserted, lonely, deprived of. HERMIT. MONOPOLY.
+520	πωλέω	196	58	0	0	πωλέω, πωλήσω, ἐπώλησα	sell.
+521	ἱερός	196	58	0	0	ἱερός	sacred, holy; 
+522	δύναμαι	199	59	0	0	δύναμαι, δυνήσομαι, δεδύνημαι, ἐδυνήθηv	be able, DYNAMIC.
+523	δύναμις	199	59	0	0	δύναμις, δυναμέως, ἡ	power, force (often in military usage). STATIC. 
+524	δυνατός	199	59	0	0	δυνατός, δυνατή, δυνατόν	powerful, able, capable.
+525	ἐπίσταμαι	199	59	0	0	ἐπίσταμαι, ἐπιστήσομαι, ἠπιστήθην	know, understand, know  how, EPISTEMOLOGY. 
+526	ἵστημι	199	59	0	0	ἵστημι, στήσω, ἔστησα or ἔστην, ἕστηκα, ἕσταμαι, ἐστάθην	stand, halt, place. Cf. σταθμός. 
+527	κέρδος	199	59	0	0	κέρδος, κέρδους, τό	gain, profit, pay.
+528	οἷος	199	59	0	0	οἷος, οἵη, οἷον; of which (what) sort; when followed by τε, of the sort that, able to, possible.
+529	υἱός	199	59	0	0	υἱός, υἱοῦ, ὁ	son.
+530	ἔπειτα	201	60	0	0	ἔπ-ειτα, adv.	thereupon, next. Cf. εἶτα.
+531	ἴσως	201	60	0	0	ἴσως, adv.	perhaps.
+532	ὅμως	201	60	0	0	ὅμως, adv.	all the same, however. 
+533	στέλλω	201	60	0	0	στέλλω, στελῶ, ἔστειλα, ἔσταλκα, ἔσταλμαι, ἐστάλην	send. APOSTOLIC, PERISTALTIC.
+534	τοίνυν	201	60	0	0	τοίνυν, post-pos. adv.	then, therefore.
+535	βοῦς	205	61	0	0	βοῦς, βοός, ὁ or ἡ	ox, cow. 
+536	οὐκοῦν	205	61	0	0	οὐκ-οῦν, adv. 	therefore.
+537	ἐννοέω	205	61	0	0	ἐν-νοέω, ἐν-νοήσω, ἐν-ενόησα	have in mind, consider, conceive.
+538	παίω	205	61	0	0	παίω, παίσω, ἔπαισα, πέπαικα	strike. ANAPAEST.
+539	νόος	205	61	0	0	νοῦς, νοῦ, ὁ	mind; ἐν νῷ ἔχω:intend; τὸν νοῦν προσ-έχω	attend, i.e. pay heed.
+540	φημί	205	61	0	0	φημί, φήσω, ἔφησα	say.
+541	ψευδής	205	61	0	0	ψευδής	false. PSEUDONYM, PSEUDOSCIENTIFIC.
+542	ὅλος	205	61	0	0	ὅλος	whole, all
+543	ψεύδω	205	61	0	0	ψεύδω, ψεύσω, ἔψευσα, ἔψευσμαι, ἐψεύσθην	deceive; middle, lie.
+544	ἅμα	209	62	0	0	ἅμα, adv.	together with, at the  same time as. Cf. ἅμ-αξα. HAMADRYAD.
+545	ξύλον	209	62	0	0	ξύλον, ξύλου, τό	wood. XYLOPHONE.
+546	τίθημι	209	62	0	0	τίθημι, θήσω, ἔθηκα, τέθηκα, τέθειμαι, ἐτέθην 	put, place.  Frequently in compounds. ANTITHESIS.
+547	ἅπαξ	209	62	0	0	ἅπαξ, adv.	altogether, once for all, Cf. ἅ-πᾱς.
+548	ὁράω	209	62	0	0	εἶδον,1 2d. aor. 	saw. 
+549	ἕνεκα	209	62	0	0	ἕνεκα, post-pos. prep. with G.	on account of, for the sake af, for.
+550	τοιοῦτος	209	62	0	0	τοιοῦτος, τοιαύτη, τοιοῦτο	of such sort,  such size or quantity.
+551	ἵημι	209	62	0	0	ἵημι, ἧσω, ἧκα, εἶκα, εἶμαι, εἴθην	send, throw ; mid., rush.
+552	ἔτος	213	63	0	0	ἔτος, ἔτους, τό	year. 
+553	σπουδή	213	63	0	0	σπουδή	haste, zeal. Cf. σπεύδω.
+554	ἐχθρός	213	63	0	0	ἐχθρός, ἐχθροῦ, ὁ	personal enemy. 
+555	κεῖμαι	213	63	0	0	κεῖμαι, κείσομαι	lie, he placed. Freq. instead of τέθειμαι.
+556	στέφανος	213	63	0	0	στέφανος, στεφάνου, ὁ	crown, wreath, STEPHEN.
+557	νέμω	213	63	0	0	νέμω, νεμῶ, ἔνειμα, νενέμηκα, νενέμημαι, ἐνεμήθην	distribute, assign.
+558	τυγχάνω	213	63	0	0	τυγχάνω, τεύξομαι, ἔτυχον, τετύχηκα 	hit, attain, with G.; happen, with suppl. part.
+559	ἀποδίδωμι	216	64	0	0	ἀποδίδωμι	give back, pay what is due; mid., sell. APODOSIS.
+560	ἄρα	216	64	0	0	ἄρα, post-pos. partic.	then (inferential).
+561	ἦρα	216	64	0	0	ἦρα, interrog, particle indicating an impatient question	then.
+562	δίδωμι	216	64	0	0	δίδωμι, δώσω, ἔδωκα, δέδωκα, δέδομαι, ἐδόθην	give. Cf. δῶρον. DOSE.
+563	ἕκαστος	216	64	0	0	ἕκαστος	each.
+564	εὔνους	216	64	0	0	εὔ-νους, εὔ-νουν	well-intentioned, well-disposed. Cf. εὖ and νοῦς.
+565	καίπερ	216	64	0	0	καί-περ, concessive particle usually accomp. by a participle	although.
+566	μήποτε	216	64	0	0	μή-ποτε, neg. ady.	not never, never,
+567	οὔποτε	216	64	0	0	οὔ-ποτε, neg. adv. 	not ever, never.
+568	δίς	221	65	0	0	δίς, adv.	twice. Cf. δύο. DISSYLLABIC.
+569	μήν	221	65	0	0	μήν, post-pos. particle	indeed, certainly. Cf. μέν. 
+570	πλέω	221	65	0	0	πλέω, πλεύσομαι, ἔπλευσα, πέπλευκα, πέπλευσμαι	sail.
+571	πλόος	221	65	0	0	πλοῦς, πλοῦ, ὁ 	sailing, voyage. Cf. πλέω, πλοῖον.
+572	ὀφείλω	221	65	0	0	ὥφελον, sec. aor. of ὀφείλω, owe	most common as a device for expressing unattainable wishes in present or past time, with inf.
+573	ἅπτω	227	67	0	0	ἅπτω, ἅψω, ἦψα, ἧμμαι, ἤφθην	lay hold of; mid., touch, with  G. Cf. Lat. aptus. APSE. 
+574	ὁράω	227	67	0	0	ὁράω, ὄψομαι, εἶδον, ἑώρακα or ἑόρᾶκα, ἕωρᾶμαι or ὦμμαιὥφθην	see. PANORAMA, OPTIC.
+575	ἐρωτάω	227	67	0	0	ἐρωτάω, ἐρωτήσω, ἠρώτησα, ἠρώτηκα, ἠρώτημαι, ἠρωτήθην	ask, inquire.
+576	ῥέω	227	67	0	0	ῥέω, ῥυήσομαι, ἐρρύηκα, ἐρρύην	flow, RHEUMATIC. 
+577	μέχρι	227	67	0	0	μέχρι, conj.	until, while. Also  used as a prep. with G.	up to.
+578	τελευτάω	227	67	0	0	τελευτάω, τελευτήσω, ἐτελεύτησα, τετελεύτηκα, τετελεύτημαι, ἐτελευτήθην	end, finish, die.
+579	μηχανάομαι	227	67	0	0	μηχανάομαι, μηχανήσομαι, ἐμηχανησάμην 	contrive. 
+580	τιμάω	227	67	0	0	τῑμάω, τῑμήσω, ἐτίμησα, τετίμηκα, τετίμημαι, ἐτῑμήθην	honor, reward,
+581	βία	230	68	0	0	βίᾱ, βίᾱς, ἡ	force, violence. Cf. δύναμις	force, power. 
+582	δαπανάω	230	68	0	0	δαπανάω, δαπανήσω, ἐδαπάνησα, δεδαπάνηκα, δεδαπάνημαι, ἐδαπανήθην 	spend, waste.
+583	νικάω	230	68	0	0	νῑκάω, νῑκήσω, ἐνίκησα, νενίκηκα,  νενίκημαι, ἐνῑκήθην	conquer,  win.
+584	νίκη	230	68	0	0	νίκη, νίκης, ἡ	victory. EUNICE.
+585	οἶδα	230	68	0	0	οἶδα, εἴσομαι	know.
+586	ἔξω	230	68	0	0	ἔξω, ady.	outside. Cf. ἐκ, ἐξ. EXOTIC.
+587	ὅσος	230	68	0	0	ὅσος, ὅση, ὅσον	sing., as large as, as much as	pl, as many as.
+588	αἰτιάομαι	235	69	0	0	αἰτιάομαι, αἰτιάσομαι, ἠτιάσάμην, ἠτῶμαι, ἠτιάθην 	blame, accuse, find fault.  Cf. αἴτιος. 
+589	ἐάω	235	69	0	0	ἐάω, ἐάσω, εἴᾱσα, εἴᾱκα, εἴᾱμαι, εἰάθην	allow, let be. 
+590	εἶμι	235	69	0	0	εἶμι, only pres., but freq. with fut. significance	go. 
+591	μάντις	235	69	0	0	μάντις, τεως, ὁ	seer, soothsayer, prophet, MANTIC, NECROMANCY. 
+592	πειράω	235	69	0	0	πειράομαι, πειράσομαι, ἐπειρᾱσάμην, πεπείραμαι, ἐπειράθην	try. PIRATE, EMPIRIC.
+593	τάξις	235	69	0	0	τάξις, τάξεως, ἡ 	order, arrangement, position, division. Cf, τάττω. TAXIDERMIST.
+594	χράω	235	69	0	0	χράομαι, χρήσομαι, ἐχρησάμην, κέχρημαι, ἐχρήσθην	use. with D. Cf. χρῆμα.
+595	δουλεύω	238	70	0	0	δουλεύω, δουλεύσω, ἐδούλευσα	be a slave (δοῦλος), serve.
+596	πίνω	238	70	0	0	πίνω, πίομαι, ἔπιον, πέπωκα, -πέπομαι, -επόθην 	drink, Cf. Lat. bibο.
+597	θνητός	238	70	0	0	θνητός, θντητή, θνητόν	mortal, human.  Cf.  ἀπο-θνῄσκω. 
+598	τέχνη	238	70	0	0	τέχνη, τέχνης, ἡ	art, skill, craft. TECHNIQUE.
+599	λιμήν	238	70	0	0	λιμήν, λιμένος, ὁ	haven, harbor. 
+600	ὀρθός	238	70	0	0	ὀρθός, ὀρθής, ὀρθόν 	straight, erect, correct, ORTHOGONAL, ORTHODOX.
+601	ἀποδείκνυμι	241	71	0	0	ἀπο-δείκνυμι	prove, appoint. APODEICTIC,
+602	ἀπόλλυμι	241	71	0	0	ἀπ-όλλῡμι, -ολῶ, -ώλεσα, -ωλόμην, -ολώλεκα, -όλωλα	destroy, lose ; mid., perish, be lost. APOLLYON.
+603	ἀριθμός	241	71	0	0	ἀριθμός, ἀριθμοῦ, ὁ	number. LOGARITHM.
+604	δείκνυμι	241	71	0	0	δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμαι, ἐδείχθην	show, point out, PARADIGM.
+605	ἐπιδείκνυμι	241	71	0	0	ἐπι-δείκνῡμι	show off, display. EPIDEICTIC.
+606	ζεύγνυμι	241	71	0	0	ζεύγνῡμι, ζεύξω, ἔζευξα, ἔζευγμαι, ἐζεύχθην:i yoke, bind, unite.
+607	νεκρός	241	71	0	0	νεκρός, νεκροῦ, ὁ	corpse. NECROSIS.
+608	ὄμνυμι	241	71	0	0	ὄμνυμι, ὀμοῦμαι, ὥμοσα. ὀμώμοκα, ὀμώμοσμαι, ὠμόσθην	swear, take oath.
+609	ὀφθαλμός	241	71	0	0	ὀφθαλμός, ὀφθαλμοῦ, ὁ	eye. Ch. ὄψομαι. OPHTHALMIA,
+610	βλέπω	244	72	0	0	βλέπω, βλέψω, ἔβλεψα	look, face, point.
+611	ζάω	244	72	0	0	ζάω, ζήσω	live; τὸ ζῶον	living thing. ZOOLOGY.
+612	γυμνός	244	72	0	0	γυμνός, γυμνή, γυμνόν	bare, naked, lightly-clad, GYMNAST.  
+613	πονέω	244	72	0	0	πονέω, πονήσω. ἐπόνησα, πεπόνηκα, πεπόνημαι, ἐπονήθην 	toil, struggle. Cf. πόνος.
+614	διαγιγνώσκω	244	72	0	0	δια-γιγνώσκω	distinguish, decide  between. DIAGNOSIS. 
+615	ἀξιόω	248	73	0	0	ἀξιόω, ἀξιώσω, ἠξίωσα, ἠξίωκα, ἠξίωμαι, ἠξιώθην 	deem worthy, demand. Cf. ἄξιος. AXIOM.
+616	ἥλιος	248	73	0	0	ἥλιος	sun. HELIOGRAPH.
+617	ἡσσάομαι	248	73	0	0	ἡττάομαι, ἡττήσομαι, ἥττημαι, ἡττήθην	be worsted, defeated. Cf. ἥττων.
+618	δηλόω	248	73	0	0	δηλόω, δηλώσω, ἐδήλωσα, δεδήλωκα, δεδήλωμαι, ἐδηλώθην	make plain, show. Cf. δῆλος.
+619	κτάομαι	248	73	0	0	κτάομαι, κτήσομαι, ἐκτησάμην, κέκτημαι, ἐκτήθην	gain, get possession of.
+620	ἑκών	248	73	0	0	ἑκών, ἑκοῦσα, ἑκόν 	willing, intentional. 
+621	ὁρμάω	248	73	0	0	ὁρμάω, ὁρμήσω, ὥρμησα, ὥρμηκα, ὥρμημαι, ὡρμήθην	set in motion, start (trans.)
+622	ἐξαπατάω	248	73	0	0	ἐξ-απατάω, ἐξ-απατήσω, ἐξ-ηπάτησα,ἐξ-ηπάτηκα, ἐξ-ηπάτημαι, ἐξ-ηπατήθην	deceive utterly.
+623	ἁμαρτάνω	252	74	0	0	ἁμαρτάνω, ἁμαρτήσομαι, ἥμαρτον, ἡμάρτηκα, ἡμάρτημαι, ἡμαρτήθην 	miss, with G.; err.
+624	τιτρώσκω	252	74	0	0	τιτρώσκω, τρώσω, ἔτρωσα, τέτρωμαι, ἐτρώθην 	wound. TRAUMA.
+625	θώραξ	252	74	0	0	θώρᾱξ, θώρᾱκος, ὁ	breastplate, corselet, cuirass. THORAX, THORACIC.
+626	λανθάνω	252	74	0	0	λανθάνω, λησω, ἔλαθον, λέληθα, λέλησμαι	escape notice, elude; do secretly, with suppl. part. Usually with suppl. part.1 LETHE.
+627	πεζός	252	74	0	0	πεζός	infantryman
+628	φθάνω	252	74	0	0	φθάνω, φθήσομαι, ἔφθασα or ἔφθην	outstrip, beat, anticipate.
+629	βασίλειος	255	75	0	0	βασίλειος	royal; τὰ βασίλεια	palace. BASILICA.
+630	ὄρθιος	255	75	0	0	ὄρθιος	straight up and down, steep. Cf. ὀρθός.
+631	κύκλος	255	75	0	0	κύκλος	circle, CYCLE. 
+632	πελταστής	255	75	0	0	πελταστής	peltast, a light-armed soldier.
+633	λόγχη	255	75	0	0	λόγχη	spear point, spear, 
+634	λόφος	255	75	0	0	λόφος	hill, crest, plume. 
+635	ὠνέομαι	255	75	0	0	ὠνέομαι, ὠνήσομαι, ἐπριάμην	buy.
+636	ἀθρόος	258	76	0	0	ἀθρόος	together, in a body. 
+637	ἀποστερέω	258	76	0	0	ἀπο-στερέω, -στερήσω, -εστέοησα, -εστέρηκα, -εστέρημαι, -ἐστερήθην 	deprive, withhold.
+638	θόρυβος	258	76	0	0	θόρυβος	noise, din, outcry. 
+639	καίω	258	76	0	0	κάω 2 (καίω), καύσω, ἔκαυσα, κέκαυκα, κέκαυμαι, ἐκαύθην 	burn, CAUSTIC.
+640	πολιορκέω	258	76	0	0	πολιορκέω, πολιορκήσω, ἐπολιόρλιόρκημαι, ἐπολιορκήθην 	siege. Cf. πόλις.
+641	τιμωρέω	258	76	0	0	τῑμωρέω, τῑμωρήσω, ἐτῑμώρησα, τετῑμώρηκα, τετῑμώρημαι, ἐτῑμωρήθην 	avenge ; mid., punish. With D. of person avenged, A. of person punished.
+642	βλάπτω	262	77	0	0	βλάπτω, βλάψω, ἔβλαψα, βλαφα, βέβλαμμαι, ἐβλάφθην, ἐβλάβην 	harm, hinder.
+643	ἔμπειρος	262	77	0	0	ἔμπειρος	acquainted with, Cf. πειράομαι, EMPIRICISM.
+644	ἴδιος	262	77	0	0	ἴδιος	private, peculiar. IDIOM, IDIOSYNCRASY.
+645	πλέθρον	262	77	0	0	πλέθρον, -ου. τό 	plethron (100 ft.)
+646	σημαίνω	262	77	0	0	σημαίνω, σημανῶ, ἐσήμηνα, σεσήμασμαι, ἐσημάνθην	give a signal, signify, betoken. SEMANTIC, SEMAPHORE.
+647	ἐνθυμέομαι	262	77	0	0	ἐν-θυμέομαι, ἐν-θυμήσομαι, ἐν-τεθύμημαι, ἐν-εθυμήθην	have in mind, consider, reflect.

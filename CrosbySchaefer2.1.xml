@@ -76,6 +76,37 @@
 <pb n="1"/>
 
 
+<div type="textpart" subtype="lesson" n="0">
+  <head>Introduction</head>
+       
+  <table>
+  <row><cell><graphic url="images/apobates.jpg"/></cell><cell><graphic url="https://live.staticflickr.com/528/32099864256_b8ff444792_6k.jpg"/></cell></row>
+</table>
+<figure><head>Eager to Go</head><p>Pedestal of the monument dedicated to the victory of Krates in the Apobates (literally,"the person who gets off") race at the Panathenaic Games. A fully armed soldier jumps on and off a moving chariot. The image above is a marble relief from the fourth century BCE and is at the Acropolo Athens, Greece. The original image and more information are available from  <ref n="https://www.flickr.com/photos/69716881@N02/32099864256">Egisto Sani on Flickr</ref>. See also the Wikipedia article on this object (<ref n="https://www.perseus.tufts.edu/hopper/artifact?name=Athens,+Acropolis+1326&amp;object=Sculpture">Acropolis 1326</ref>), which is known as the <ref n="https://en.wikipedia.org/wiki/Apobates_Base">Apobates base.</ref>  </p></figure>
+
+<div type="textpart" subtype="para" n="pref01"><head></head><p>
+This book provides a hybrid approach to learning Ancient that integrates traditional methods with the capabilities provided by digital media. In print culture, readers of ancient languages depended upon static texts that coud not explain themselves. Consider a fairly straightforward line from the Iliad.
+
+<cit>
+  <quote xml:lang="grc">ὅσσά μοι ἠνείκαντο ἀέθλια μώνυχες ἵπποι.</quote>
+  <quote>However many prizes my solid-hoofed horses won for me.</quote>
+    <bibl n="https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:9.127?entryUrn=urn%3Acite2%3Ascafife-viewer%3Adictionary-entries.atlas_v1%3Acambridge-greek-lexicon-26769&amp;mode=syntax-trees&amp;collectionUrn=urn%3Acite2%3Abeyond-translation%3Atext_annotation_collection.atlas_v1%3Ail_gregorycrane_gAGDT">9.127</bibl>
+    
+    
+</cit>
+Changes include the following:
+
+<list>
+  <item n="1"><emph>Readers can now go from inflected words to their regularized dictionary forms (which we call "lemmas").</emph> Thus, the Greek form <foreign>ἠνείκαντο</foreign> <gloss>they won for me</gloss> is actually a form of the verb <foreign>φέρω</foreign>, even though the two words bear no resemblance to each other. Forms from different verbs became combined over time and thus it is impossible for any reader to deduce that <foreign>ἠνείκαντο</foreign> is a form of <foreign>φέρω</foreign>. A whole genre of dictionary cross-references and even reference works emerged to help people match irregular forms with their lemmas but, as most of those who depended entirely on print to learn Greek, these were imperfect and often failed to provide the answer.</item>
+  <item n="2"><emph>Readers can now go directly from an inflected form to multiple online dictionaries for Ancient Greek.</emph>. In the case of Homer,
+  
+  </item>
+</list>
+
+If readers could not identify the dictionary form (the lemma) of an inflected form on the page, they had no recourse.
+</p></div>
+</div>
+
 
 
 <div type="textpart" subtype="lesson" n="1">
@@ -89,13 +120,50 @@
 
 </cit>
 
-<figure><graphic url="https://live.staticflickr.com/528/32099864256_b8ff444792_6k.jpg"/></figure>
-<figure><head>Eager to Go</head><p>Pedestal of the monument dedicated to the victory of Krates in the apovatis race at the Panathenaic Games. A fully armed soldier jumps on and off a moving chariot. Relief. Marble. 4th c. BCE.Athens, Greece. Image and more information available from  <ref n="https://www.flickr.com/photos/69716881@N02/32099864256">Egisto Sani on Flickr</ref>  </p></figure>
+
 
 
 
 <div type="textpart" subtype="para" n="1"><head>Declensions.</head>
-  <p>There are three declensions in Greek,
+  <p>Greek uses word endings (and to a lesser degree prefixes) far more than languages such as English or Mandarin. English still uses some endings -- English speakers recogngize that "endings" is plural and "ending" is singular. Likewise, English speakers know that the added -s with verbs indicates a singular subject: "she travel*s*" vs. "they travel." Greek has three basic classes of endings for nouns. We will talk about the meanings that these endings convey below. This section introduces the forms. 
+  </p><p>
+    reek uses word endings (and to a lesser degree prefixes) far more than languages such as English or Mandarin. English still uses some endings -- English speakers recogngize that "endings" is plural and "ending" is singular. Likewise, English speakers know that the added -s with verbs indicates a singular subject: "she travel*s*" vs. "they travel." Greek has three basic classes of endings for nouns. We will talk about the meanings that these endings convey below. This section introduces the forms.
+  </p><p>
+    While there are many (!) small variations, all Greek nouns roughly follow the following three patterns. Each pattern for noun formation is traditionally called a "declension." Core examples of the three declensions of Greek include the following:
+    
+    <table>
+    <row role="label"><cell></cell><cell>1st Declension/α-stem</cell><cell>2nd Declension/ο-stem</cell><cell>3rd Declension/C-stem</cell></row>
+<row><cell>Nom.</cell><cell>ἀρετή</cell><cell>ποταμός</cell><cell>φύλαξ (φύλακ-ς)</cell></row>
+<row><cell>Gen.</cell><cell>ἀρετῆς</cell><cell>ποταμοῦ</cell><cell>φύλακ-ος (φύλαξ)</cell></row>
+<row><cell>Dat.</cell><cell>ἀρετῇ</cell><cell>ποταμῷ</cell><cell>φύλακ-ι (φύλαξ)</cell></row>
+<row><cell>Acc.</cell><cell>ἀρετήν</cell><cell>ποταμόν</cell><cell>φύλακ-α (φύλακ-ν)</cell></row>
+<row><cell>Tokens</cell><cell>2662</cell><cell>3352</cell><cell>3359</cell></row>
+<row><cell>Lemmmata</cell><cell>465</cell><cell>473</cell><cell>412</cell></row>
+  </table>
+    Crosby and Schaeffer avoid the terms "first/second/third declension" because they chose to start with nouns that have a stem that ends in ο (omicron, "little o"). They begin with the "second declension" because of "their general uniformity," i.e., because there are fewer small variant ways to generate o-stem nouns. (Second declension nouns use two different endings for nominative and accusative: -ον for the singular, -α for the plural.) Furthermore, o-stem endings are reused for pronouns, adjectives and participles. Once you are familiar with the o-stem endings, you can also understand the case endings on an additional c. 6,981 additional words -- in other words, you will be able to understand the case endings for 10,332 of the tokens (18%) in the <title>Anabasis</title>.
+    
+    Note: The caveat reflects the fact that the genitive plural ending is common to all three declensions. While automatic count simply assumes that o-stem nouns account for 1/3 of the ambiguous forms, that ambiguity should not significantly affect the overall total.
+
+  
+
+    
+    In the table shows that the frequency of all three classes of noun is comparable in the <title>Anabasis</title>. To understand that, we need to explain two terms: <term>word tokens</term>  and <term>lemmata</term>. To understand the difference, consider the following sentence:
+
+
+        
+      <quote>The term tokens describes the number of words in a text.</quote> 
+        
+        If we count each word in this  sentence, we will find that there are 11 tokens. Our digital editoin of Xenophon's <title>Anabasis</title> contains 57,245 tokens, i.e, running words of text. The table above shows that, of these 57,245 tokens, 2,662 (4.65%) are α-stem nouns, 3,352 (5.85%) are ο-stem nouns, and 3,357 (5.87%) are consonantal stem nouns.
+      
+ 
+        The term <term>lemmas</term>  describes the normalized dictionary form for a word. In the table above, you can see that ποταμός, ποταμοῦ, ποταμῷ, ποταμόν etc. are all forms of the same word. When we look up a noun in a standard Greek dictionary, we look up that first form in the table (the nominative singular). By dividing tokens by lemmas, we can see that each a-stem, o-stem and K-stem lemmas shows up c. 5, 7 and 8 times in the <title>Anabasis</title>, i.e., if you learn a vocab word,  you are likely to see it 4, 6 and 7 times again.
+        
+O-stem nouns are more frequent than a-stem nouns and roughly as frequent as K-stem nouns. Equally important, o-stem nouns are very simple -- once you have learned the declension in this chapter, you will have only a few variations (for the neuter gender) to learn.
+        
+
+
+
+    Greek has three basic ways of generating nouns,
 instead of five as in Latin. To these, because of their general uniformity, the o-stems serve as a good introduction.</p></div>
 
 <div type="textpart" subtype="para" n="2"><head>Ο-Stem Masculines.</head>
@@ -117,11 +185,47 @@ whose nominatives end in -ος are usually masculine.</p>
 
 
 
-In like manner inflect ὁ ἀδελφός.</p></div>
+In like manner inflect ὁ ἀδελφός.</p>
+
+<p>The table above is often called a paradigm, an English word derived from the Greek "paradeigma," "something that you show (deigma) on the side (para)." As noted above, the table from the text book shows the most important forms. If we look at the paradigm illustrating the forms of <foreign>ποταμός</foreign> <gloss>river</gloss> that actually appear in the 20 million word Glaux Trees parsed corpus of Ancient Greek, we can see that there are additional forms that the textbook leaves out but we can also see that the textbook has nicely captured the most important forms.
+
+  <graphic url="images/potamos-parad.jpg"/>
+
+</p>
+<p>
+  <list>
+    <item n="1">The same ending appears with both acute (ποταμός) and grave (ποταμὸς) accents. The shift from acute to grave (discussed below) happens when another accented word follows. You can see that, in the corpus, the grave accent is used 697 times and that the acute accent (which the textbook shows you) only appears 271 out of 968 times (27%). A word like ποταμός usually has another accented word following it and appears as ποταμὸς. </item>
+    <item>You can see that Greek does have instances where we get forms in thedual ("two rivers"), but there are only 3 instances of the dual number.</item>
+    <item>The textbook leaves out one Greek case: the vocative. The vocative is used when a speaker directly addresses someone. The vocative form ποταμὲ means "O River!" but it only occurs 1 time in 20 million tokens. While this low number reflects the fact that people do not typically address an anonymous river, vocative forms are not very common -- and they are easy (in o-stem nows, just shorten the -ος ending to -ε).</item>
+  </list>
+
+
+
+
+</p>
+
+</div>
+
+<div type="textpart" subtype="para" n="2a"><head>Number and verbs.</head>
+  <p>
+    Ancient Greek has endings not only for the singular (e.g., English river vs. rivers) but also has a dual nuumber used to describe pairs (e.g., two hands, two siblings etc.). Because the dual is much less common, many introductory grammars leave it out so that learners can focus on higher frequency features. We will see duals when we look at real primary sources but the digital part of speech annotations will (usually) identify these. You will learn to recognize them as you read more Greek.
+  </p>
+<p>While this lesson focuses on introducint nouns, it also introduces  singular and plural forms for three different verbs. These forms allow us to begin generating full sentence and thus to see when we apply each case to a noun.
+
+  <table>
+    <row role="label"><cell>Lemma</cell><cell>Short Def</cell><cell>Singular</cell><cell>Plural</cell></row>
+    <row><cell>εἰμί</cell><cell>to be</cell><cell>ἦν, s/he or it was</cell><cell>ἦσαν, they were</cell></row>
+    <row><cell>ἔχω</cell><cell>to have, to possess</cell><cell>ἔχει s/he or it has</cell><cell>ἔχύουσι, they have</cell></row>
+    <row><cell>παύω</cell><cell>to stop</cell><cell>παύει s/he or it stops</cell><cell>παύουσι, they stop</cell></row>
+    <row><cell>πέμπω</cell><cell>to send</cell><cell>πέμπει, s/he or it sends</cell><cell>πέμπουσι, they send</cell></row>
+</table>
+</p>
+</div>
 
 <div type="textpart" subtype="para" n="3"><head>Accents.</head>
-  <p>(a) In nouns of the ο-declension an acute (´) on the ultima in the nominative is changed to a
+  <p>(a) In nouns of the ο-declension an acute (´) on the ultima in the nominative becomes a
 circumflex (῀) in the genitive and dative of both numbers.
+  </p><p>The acute accent can only occur on (1) the last or the second to last syllable and only on a long syllable.
 
 
 
@@ -133,6 +237,10 @@ circumflex (῀) in the genitive and dative of both numbers.
 (b) An acute on the ultima changes to a grave (`) when a word follows without intervening punctuation:</p>
 
 <p><foreign xml:id="p3.1">ἀδελφὸν ἔχει</foreign>: <gloss target="p3.1">s/he has a brother.</gloss></p>
+
+<p>(c) If the accent on the nominative of an o-stem noun is an acute, the accent is an acute also in the accusative. This makes sense given the statement above, for the accusative singular because that ending is short and cannot bear a circumflex accent. If you remember that a circumflex involves a rising and then a declining tone, it makes sense: the short syllable is not long enough for the up and down tones -- that requires more length. </p>
+<p>That said, the accusative plural ending, -ους, is long but it still does not bear a circumflex. The reason is probably that the ending -ους comes from *-ονς and was thus originally short.</p>
+<p>The bottom line is that an accented long final syllable can take a circumflex but it does not have to. You just have to remember those places where the long final syllable takes an acute.</p>
  
 </div>
 
@@ -162,23 +270,55 @@ circumflex (῀) in the genitive and dative of both numbers.
 </p><p>
 <foreign>οἱ στρατηγοὶ ἦσαν ἀδελφοί</foreign> <gloss>the generals were brothers.</gloss>
 
-"The generals" are the subject of the verb "were" and thus they are in the nominative. We learn that the generals are also brothers. There is no action involved. We simply learn that A is equivalent to B. We say, in this case, that "brothers" is the <term>predicate</term> of "the generals."
+"The generals" are the subject of the verb "were" and they are in the nominative. The subject of a typical verb will always be in the nominative. (We will see an exception involving more complicated sentences later but for now subjects are always in the nominative.)
+</p><p>
+The example above, however, illustrates a second usage of the nominative. We learn that the generals are also brothers. There is no action involved. We simply learn that A is equivalent to B. We say, in this case, that "brothers" is the <term>predicate</term> of "the generals." The technical term predicate is derived from the Latin word praedico, "to proclaim, to state publicly." Thus the predicate is simply something proclaimed or stated about the subject. Because the verb does not involve an action that changes "brothers," "brothers" remains in the nominative.
 
-(b) The genitive suggests relations like those expressed
 
-with of in English. It frequently denotes possession :
-<foreign>ὁ τοῦ στρατηγοῦ ἀδελφός:</foreign> <gloss>the brother of the general.</gloss>
+(b) The genitive suggests a relationship like that expressed
 
-(c) The dative suggests relations like those with of or
-for in English. It frequently denotes the indirect object :
+with "of" in English.
+
+It frequently denotes possession :
+<foreign>ὁ τοῦ στρατηγοῦ ἀδελφός:</foreign> <gloss>the brother of the general; literally: the of-the-general brother</gloss>
+
+Note that the Greek can use the article to make the relationship unambiguous. Compare a famously ambigous English sentence:
+
+<quote>I saw the person in the park with a telescope.</quote>
+
+Was I using a telescope to see that person? Was that person in the park that has a telescope? Or was the person using the telescope? Any of these interpretations is possible.
+</p>
+<p>In Greek we could say:
+  <quote>I saw the with-the-telescope person in the park.</quote>
+or
+<quote>I saw the person in the with-the-telescope park.</quote>
+
+</p><p>
+(c) The dative suggests relations like those with "to" or 
+"for" in English. "Dative" is derived from the Latin <foreign xml:lang="lat">dare</foreign>, <gloss>to give</gloss> and the classic use of the dative is in a sentence like "he gives a gift to his brother." The dative frequently denotes the indirect object :
+
 <foreign>τῷ στρατηγῷ πέμπει τὸν ἀδελφόν:</foreign> <gloss>s/he sends his brother to the general.</gloss>
 
+We could also say:
+
+<foreign>τῷ ποταμῷ πέμπει στρατηγόν:</foreign> <gloss>s/he sends a general for the river.</gloss>
+
+We could also translate the above as "he sends a general of the river." The point is that the general is dispatched to/for the river, i.e., to be in charge of the river.
+
 (d) The accusative is the direct object of a transitive
-verb: ἀδελφὸν πέμπει he sends a brother.</p></div>
+verb. (And, converseley a transitive verb is any verb that can take a direct object in the accusative!)
+
+<foreign>ἀδελφὸν πέμπει</foreign> <gloss>he sends a brother.</gloss>
+
+</p></div>
 
 <div type="textpart" subtype="para" n="5"><head>The Article.</head>
 <p>
-(a) <rs type="lemma">ὁ</rs> Like English, and unlike Latin,
+(a) Greek does not use an indefinite article in the same way as English. When Greek designates "a river" or "a general" or "a brother," it just uses a form of ποταμός, στρατηγός, or ἀδελφός in the appropriate case.
+
+Greek does have a definite article, i.e., a word that (roughly) corresponds to "the" in English. 
+
+<rs type="lemma">ὁ</rs> Like English, and unlike Latin,
 Greek has a definite article. This agrees with its noun
 in gender, number, and case. It often serves as a possessive pronoun, as my, your, his, etc. ὁ and οἱ are proclitic
 (page xxvii). 
@@ -246,7 +386,9 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 <item n="3">τοῖς στρατηγ--- πέμπουσι τοὺς ἀδελφ--.</item>
 </list>
 
-
+<table>
+  <row><cell><graphic url="images/peneios.jpg"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg"/></cell></row>
+</table>
 <figure><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg"/><head>ὁ ποταμός</head></figure> 
   <graphic url="https://upload.wikimedia.org/wikipedia/commons/b/b2/Pineios_river_%28thessaly%29_map.jpg"/> 
 <figure><head>ὁ ποταμός</head>
@@ -263,25 +405,27 @@ winds through it, is one of the few in Greece that never go dry.</p></figure>
 <div type="textpart" subtype="lesson" n="2">
 <head>DECLENSION OF O-STEMS — Continued</head>
 
-<cit><quote>
-πόνος γάρ, ὡς λέγουσιν, εὐκλείας πατήρ.</quote>
-  <quote>Toil, so they say, is the father of fame.
-  </quote><bibl>Euripides, fragment</bibl></cit>
+<cit>
+  <quote>πόνος γάρ, ὡς λέγουσιν, εὐκλείας πατήρ.</quote>
+  <quote>Toil, so they say, is the father of fame.</quote>
+  <bibl>Euripides, fragment</bibl></cit>
 
 
 <div type="textpart" subtype="para" n="8"><head>Persistent Accent.</head>
 <p>The accent of the nominative
 must be learned by observation. It will remain on the
-same syllable in the other cases if possible. An acute on
+same syllable in the other cases if possible.</p>
+<p>An acute on
 the penult of a noun of the o-declension remains on that
-syllable throughout. An acute ou the antepenult is drawn
+syllable throughout. </p>
+<p>An acute on the antepenult is drawn
 to the penult when the ultima is long (§ V, e). Final -οι
 of the nominative plural is considered short (§ V, a).
 
-<foreign>ὁ φίλος the</foreign> <gloss>friend</gloss>
+<foreign>ὁ φίλος</foreign>  <gloss>the friend</gloss>
 
 
-<foreign>ὁ δίκαιος the just</foreign> <gloss>man</gloss>
+<foreign>ὁ δίκαιος </foreign> <gloss>the just man</gloss>
 
 </p><p>
 
@@ -294,26 +438,26 @@ In like manner inflect ὁ πόλεμος.
 
 <pb n="5"/></p></div>
 
-<div type="textpart" subtype="para" n="9"><p>Genitive of Place from Which. The genitive with
-many prepositions denotes place from which :
-
-τὸν ἄνθρωπον πέμπει ἀπὸ τοῦ ποταμοῦ.
-he sends the man from the river.
-τὸν ἄνθρωπον πέμπει ἐκ τοῦ ποταμοῦ
-he sends the man out of the river.
+<div type="textpart" subtype="para" n="9"><head>Genitive of Place from Which.</head><p> The genitive with
+many prepositions denotes place from which :<note>This is our second use of the genitive (§ 4). The use here given is like the Latin ablative in its from relations.</note>
 
 
+<foreign>τὸν ἄνθρωπον πέμπει ἀπὸ τοῦ ποταμοῦ.</foreign> <gloss>he sends the man from the river.</gloss>
+<foreign>τὸν ἄνθρωπον πέμπει ἐκ τοῦ ποταμοῦ.</foreign> <gloss>he sends the man out of the river.</gloss>
+
+
+<table>
+  <row><cell><graphic url="images/megalop.jpg"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Arcadian_Gate.jpg/2560px-Arcadian_Gate.jpg"/></cell></row>
+</table>
 
 
 
 
-
-  <figure><head>The ARCADIAN GATE</head>
-<p>The walls of Messene still testify to the engineering skill and daring of the
+  <figure><head>The ARCADIAN GATE</head><p>The walls of Messene still testify to the engineering skill and daring of the
 victor of Leuctra. Note particularly the central doorpost of this great gate.
-It is nearly nineteen feet long.</p></figure>></p></div>
+It is nearly nineteen feet long.</p></figure></p></div>
 
-<div type="textpart" subtype="para" n="10"><p>VOCABULARY
+<div type="textpart" subtype="para" n="10"><head>Vocabulary</head><p>
 
 <rs type="lemma">ἄνθρωπος</rs>, ἀνθρώπου, ὁ: person, human being. When used with the feminine article, this noun can explicitly designate a female person. Lat. homo. ANTHROPOLOGY
 <rs type="lemma">ἄξιος</rs>: worthy, worth. AXIOM
@@ -332,7 +476,7 @@ It is nearly nineteen feet long.</p></figure>></p></div>
 
 <rs type="lemma">φίλος</rs>: friend. PHILANTHROPIST.
 
-1 This is our second use of the genitive (§ 4). The use here given is like the Latin ablative in its from relations.
+
 2 Adjectives in -ρος usually have the acute on the last syllable.
 
 </p></div>
@@ -2128,7 +2272,7 @@ Gospel is one of many evidences of this.
   <quote>
     The sea, the sea!
   </quote>
-  <bibl>Xenophon, Anabasis, IV. 7, 24. 2 </bibl>
+  <bibl>Xenophon, <title>Anabasis</title>, IV. 7, 24. 2 </bibl>
 </cit>
  
 
@@ -2535,7 +2679,7 @@ a contrary to fact from a past particular condition (§ 85).</p></div>
         δι-ήρπασεν: ὡς (45) πολεμίαν. ἐντεῦθεν Κῦρος τὴν Κίλισσαν
         (the Cilician queen) εἰς τὴν Κιλικίαν ἀπο-πέμπει τὴν ταχίστην
         (quickest) ὁδόν·2 καὶ συν-έπεμψεν αὐτῇ στρατιώτας οὓς
-        Μένων εἶχε καὶ αὐτόν.</quote> <quote xml:lang="eng"></quote> <bibl>Adapted from Xenophon, Anabasis, I. 2. 19-20.</bibl></cit>
+        Μένων εἶχε καὶ αὐτόν.</quote> <quote xml:lang="eng"></quote> <bibl>Adapted from Xenophon, <title>Anabasis</title>, I. 2. 19-20.</bibl></cit>
 
 
 
@@ -2603,7 +2747,7 @@ Inflect @paé. Compare with paradigm (§ 509, a).
 <p>Genitive of Time. The genitive denotes the time
 within which an action occurs:1
 
-ypayw mevre quepwy | shall write within five days.</p></div>
+ypayw mevre quepwy I shall write within five days.</p></div>
 
 <div type="textpart" subtype="para" n="104">
 <p>VOCABULARY
@@ -3006,7 +3150,7 @@ related to that of the main verb:
         στρατιώτας. ὁ δ᾽ Ὀρόντας νομίσᾱς αὑτῷ εἶναι τοὺς στρατιώτας γράφει ἐπιστολὴν παρὰ βασιλέᾳ (king) ὅτι ἥξοι (he would
         come) ἔχων στρατιώτας. ταύτην τὴν ἐπιστολὴν δίδωσι
         (he gives) πιστῷ (compare πιστεύω) ἀνθρώπῳ, ὡς ᾧετο
-        (he thought). ὁ δὲ λαβὼν Κύρῳ δίδωσιν.</quote> <quote xml:lang="eng"></quote> <bibl>Adapted from Xenophon, Anabasis 1.6.2-3.</bibl></cit>
+        (he thought). ὁ δὲ λαβὼν Κύρῳ δίδωσιν.</quote> <quote xml:lang="eng"></quote> <bibl>Adapted from Xenophon, <title>Anabasis</title> 1.6.2-3.</bibl></cit>
 
 
 <pb n="68"/>
@@ -3113,7 +3257,7 @@ James Russell Lowell, Address on Books and Libraries.</p></div>
   ἐκ δὲ τούτον οἱ στρατιῶται ἐλαύνοντες σὺν κραυγῇ ἀπὸ τοῦ
   αὐτομάτου (compare AUTOMATIC) ἔσπευσαν ἐπὶ τὴς σκηνάς,
   τοῖς δὲ βαρβάροις ἦν φόβος, ὥστε ἔφυγον καὶ ἡ Κίλισσα ἐπὶ
-  τῆς ἁρμαμάξης καὶ οἱ ἐκ τῆς ἀγορᾶς τὰ χρήματα κατα-λιπόντες.<note>κατά in compound words often means behind.</note> οὕτως οὖν οἱ Ἑλληνες σὺν γέλωτι (laughter) ἐπὶ τὰς σκηνὰς ἧκον.</quote>  <bibl>Adapted from Xenophon, Anabasis, I, 2. 16-18.</bibl></cit>
+  τῆς ἁρμαμάξης καὶ οἱ ἐκ τῆς ἀγορᾶς τὰ χρήματα κατα-λιπόντες.<note>κατά in compound words often means behind.</note> οὕτως οὖν οἱ Ἑλληνες σὺν γέλωτι (laughter) ἐπὶ τὰς σκηνὰς ἧκον.</quote>  <bibl>Adapted from Xenophon, <title>Anabasis</title>, I, 2. 16-18.</bibl></cit>
 
 
 
