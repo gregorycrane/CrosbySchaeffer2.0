@@ -33,7 +33,7 @@ While there are many (!) small variations, all Greek nouns roughly follow the fo
 | Dat. | ἀρετῇ | ποταμῷ | φύλακ-ι (φύλαξ) | 
 | Acc. | ἀρετήν | ποταμόν | φύλακ-α (φύλακ-ν) | 
 | Tokens | 2662 | 3352 | 3359 | 
-| Lemmmata | 465 | 473 | 412 | 
+| Lemmas | 465 | 473 | 412 | 
 
 Crosby and Schaeffer avoid the terms "first/second/third declension" because they chose to start with nouns that have a stem that ends in ο (omicron, "little o"). They begin with the "second declension" because of "their general uniformity," i.e., because there are fewer small variant ways to generate o-stem nouns. (Second declension nouns use two different endings for nominative and accusative: -ον for the singular, -α for the plural.) Furthermore, o-stem endings are reused for pronouns, adjectives and participles. Once you are familiar with the o-stem endings, you can also understand the case endings on an additional c. 6,981 additional words -- in other words, you will be able to understand the case endings for 10,332 of the tokens (18%) in the *Anabasis*.
 

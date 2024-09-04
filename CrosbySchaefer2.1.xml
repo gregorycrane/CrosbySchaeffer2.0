@@ -82,28 +82,23 @@
   <table>
   <row><cell><graphic url="images/apobates.jpg"/></cell><cell><graphic url="https://live.staticflickr.com/528/32099864256_b8ff444792_6k.jpg"/></cell></row>
 </table>
-<figure><head>Eager to Go</head><p>Pedestal of the monument dedicated to the victory of Krates in the Apobates (literally,"the person who gets off") race at the Panathenaic Games. A fully armed soldier jumps on and off a moving chariot. The image above is a marble relief from the fourth century BCE and is at the Acropolo Athens, Greece. The original image and more information are available from  <ref n="https://www.flickr.com/photos/69716881@N02/32099864256">Egisto Sani on Flickr</ref>. See also the Wikipedia article on this object (<ref n="https://www.perseus.tufts.edu/hopper/artifact?name=Athens,+Acropolis+1326&amp;object=Sculpture">Acropolis 1326</ref>), which is known as the <ref n="https://en.wikipedia.org/wiki/Apobates_Base">Apobates base.</ref>  </p></figure>
+<p><emph>Eager to Go</emph>: Pedestal of the monument dedicated to the victory of Krates in the Apobates (literally,"the person who gets off") race at the Panathenaic Games. A fully armed soldier jumps on and off a moving chariot. The image above is a marble relief from the fourth century BCE and is at the Acropolo Athens, Greece. The original image and more information are available from  <ref n="https://www.flickr.com/photos/69716881@N02/32099864256">Egisto Sani on Flickr</ref>. See also the Wikipedia article on this object (<ref n="https://www.perseus.tufts.edu/hopper/artifact?name=Athens,+Acropolis+1326&amp;object=Sculpture">Acropolis 1326</ref>), which is known as the <ref n="https://en.wikipedia.org/wiki/Apobates_Base">Apobates base.</ref>  </p>
+
 
 <div type="textpart" subtype="para" n="pref01"><head></head><p>
-This book provides a hybrid approach to learning Ancient that integrates traditional methods with the capabilities provided by digital media. In print culture, readers of ancient languages depended upon static texts that coud not explain themselves. Consider a fairly straightforward line from the Iliad.
+This book provides a hybrid approach to learning Ancient that integrates traditional methods with the capabilities provided by digital media. In print culture, readers of ancient languages depended upon static texts that coud not explain themselves. 
+This book provides a hybrid approach to learning Ancient that integrates traditional methods with the capabilities provided by digital media. In print culture, readers of ancient languages depended upon static texts that coud not explain themselves. 
 
 <cit>
-  <quote xml:lang="grc">ὅσσά μοι ἠνείκαντο ἀέθλια μώνυχες ἵπποι.</quote>
-  <quote>However many prizes my solid-hoofed horses won for me.</quote>
-    <bibl n="https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:9.127?entryUrn=urn%3Acite2%3Ascafife-viewer%3Adictionary-entries.atlas_v1%3Acambridge-greek-lexicon-26769&amp;mode=syntax-trees&amp;collectionUrn=urn%3Acite2%3Abeyond-translation%3Atext_annotation_collection.atlas_v1%3Ail_gregorycrane_gAGDT">9.127</bibl>
-    
-    
+  <quote>Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο, πρεσβύτερος μὲν Ἀρταξέρξης, νεώτερος δὲ Κῦρος· ἐπεὶ δὲ ἠσθένει Δαρεῖος καὶ ὑπώπτευε τελευτὴν τοῦ βίου, ἐβούλετο τὼ παῖδε ἀμφοτέρω παρεῖναι.</quote>
+  <bibl><ref n="https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.1.1-1.1.5">Xenophon, Anabasis 1.1.1</ref></bibl>
 </cit>
-Changes include the following:
 
-<list>
-  <item n="1"><emph>Readers can now go from inflected words to their regularized dictionary forms (which we call "lemmas").</emph> Thus, the Greek form <foreign>ἠνείκαντο</foreign> <gloss>they won for me</gloss> is actually a form of the verb <foreign>φέρω</foreign>, even though the two words bear no resemblance to each other. Forms from different verbs became combined over time and thus it is impossible for any reader to deduce that <foreign>ἠνείκαντο</foreign> is a form of <foreign>φέρω</foreign>. A whole genre of dictionary cross-references and even reference works emerged to help people match irregular forms with their lemmas but, as most of those who depended entirely on print to learn Greek, these were imperfect and often failed to provide the answer.</item>
-  <item n="2"><emph>Readers can now go directly from an inflected form to multiple online dictionaries for Ancient Greek.</emph>. In the case of Homer,
-  
-  </item>
-</list>
+The state of the art of large-scale assisted reading for Greek and Latin in print culture was side-by-side translation, as in the Loeb Classical Library.
 
-If readers could not identify the dictionary form (the lemma) of an inflected form on the page, they had no recourse.
+<graphic url="images/anabasis-loeb.jpg"/>
+
+</p><p>
 
 </p><p>
 
@@ -151,7 +146,7 @@ If readers could not identify the dictionary form (the lemma) of an inflected fo
 </p>
 <p>The other two diacritics tell you whether or not a word beginning with a vowel has an 'h.' Greek ceased to use the letter 'h.' To show whether a word is aspirated (starts with an 'h') it uses what are called breathing marks. 
   <table>
-    <row role="label"><cell></cell><cell></cell><cell></cell></row>
+    <row role="label"><cell>Greek</cell><cell>Translit.</cell></row>
     <row><cell>"rough" breathing (with an 'h')</cell><cell>ὁ</cell><cell>ho</cell></row>
     <row><cell>"smooth" breathing (no 'h')</cell><cell>ἀπὸ</cell><cell>apo</cell></row>
   </table>
@@ -247,7 +242,7 @@ If readers could not identify the dictionary form (the lemma) of an inflected fo
 <row><cell>Dat.</cell><cell>ἀρετῇ</cell><cell>ποταμῷ</cell><cell>φύλακ-ι (φύλαξ)</cell></row>
 <row><cell>Acc.</cell><cell>ἀρετήν</cell><cell>ποταμόν</cell><cell>φύλακ-α (φύλακ-ν)</cell></row>
 <row><cell>Tokens</cell><cell>2662</cell><cell>3352</cell><cell>3359</cell></row>
-<row><cell>Lemmmata</cell><cell>465</cell><cell>473</cell><cell>412</cell></row>
+<row><cell>Lemmas</cell><cell>465</cell><cell>473</cell><cell>412</cell></row>
   </table>
     Crosby and Schaeffer avoid the terms "first/second/third declension" because they chose to start with nouns that have a stem that ends in ο (omicron, "little o"). They begin with the "second declension" because of "their general uniformity," i.e., because there are fewer small variant ways to generate o-stem nouns. (Second declension nouns use two different endings for nominative and accusative: -ον for the singular, -α for the plural.) Furthermore, o-stem endings are reused for pronouns, adjectives and participles. Once you are familiar with the o-stem endings, you can also understand the case endings on an additional c. 6,981 additional words -- in other words, you will be able to understand the case endings for 10,332 of the tokens (18%) in the <title>Anabasis</title>.
     

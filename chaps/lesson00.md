@@ -3,31 +3,29 @@
 
 | ![text](images/apobates.jpg) | ![text](https://live.staticflickr.com/528/32099864256_b8ff444792_6k.jpg) | 
 
-*Eager to Go*: Pedestal of the monument dedicated to the victory of Krates in the Apobates (literally,"the person who gets off") race at the Panathenaic Games. A fully armed soldier jumps on and off a moving chariot. The image above is a marble relief from the fourth century BCE and is at the Acropolo Athens, Greece. The original image and more information are available from  [Egisto Sani on Flickr](https://www.flickr.com/photos/69716881@N02/32099864256). See also the Wikipedia article on this object ([Acropolis 1326](https://www.perseus.tufts.edu/hopper/artifact?name=Athens,+Acropolis+1326&amp;object=Sculpture)), which is known as the [Apobates base.](https://en.wikipedia.org/wiki/Apobates_Base)  
+
+
+**Eager to Go**: Pedestal of the monument dedicated to the victory of Krates in the Apobates (literally,"the person who gets off") race at the Panathenaic Games. A fully armed soldier jumps on and off a moving chariot. The image above is a marble relief from the fourth century BCE and is at the Acropolo Athens, Greece. The original image and more information are available from  [Egisto Sani on Flickr](https://www.flickr.com/photos/69716881@N02/32099864256). See also the Wikipedia article on this object ([Acropolis 1326](https://www.perseus.tufts.edu/hopper/artifact?name=Athens,+Acropolis+1326&amp;object=Sculpture)), which is known as the [Apobates base.](https://en.wikipedia.org/wiki/Apobates_Base)  
 
 
 <div type="textpart" subtype="para" n="pref01"><head></head>
 
 
-This book provides a hybrid approach to learning Ancient that integrates traditional methods with the capabilities provided by digital media. In print culture, readers of ancient languages depended upon static texts that coud not explain themselves. Consider a fairly straightforward line from the Iliad.
+This book provides a hybrid approach to learning Ancient that integrates traditional methods with the capabilities provided by digital media. In print culture, readers of ancient languages depended upon static texts that coud not explain themselves.
+This book provides a hybrid approach to learning Ancient that integrates traditional methods with the capabilities provided by digital media. In print culture, readers of ancient languages depended upon static texts that coud not explain themselves.
 
 
->  ὅσσά μοι ἠνείκαντο ἀέθλια μώνυχες ἵπποι.<br/>
->  However many prizes my solid-hoofed horses won for me.<br/>
->> 9.127
+>  Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο, πρεσβύτερος μὲν Ἀρταξέρξης, νεώτερος δὲ Κῦρος· ἐπεὶ δὲ ἠσθένει Δαρεῖος καὶ ὑπώπτευε τελευτὴν τοῦ βίου, ἐβούλετο τὼ παῖδε ἀμφοτέρω παρεῖναι.<br/>
+>> [Xenophon, Anabasis 1.1.1](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.1.1-1.1.5)
 
 
+The state of the art of large-scale assisted reading for Greek and Latin in print culture was side-by-side translation, as in the Loeb Classical Library.
 
-Changes include the following:
-
-
-1. **Readers can now go from inflected words to their regularized dictionary forms (which we call "lemmas").** Thus, the Greek form <foreign>ἠνείκαντο</foreign> <gloss>they won for me</gloss> is actually a form of the verb <foreign>φέρω</foreign>, even though the two words bear no resemblance to each other. Forms from different verbs became combined over time and thus it is impossible for any reader to deduce that <foreign>ἠνείκαντο</foreign> is a form of <foreign>φέρω</foreign>. A whole genre of dictionary cross-references and even reference works emerged to help people match irregular forms with their lemmas but, as most of those who depended entirely on print to learn Greek, these were imperfect and often failed to provide the answer.
-2. **Readers can now go directly from an inflected form to multiple online dictionaries for Ancient Greek.**. In the case of Homer,
+![text](images/anabasis-loeb.jpg)
 
 
 
 
-If readers could not identify the dictionary form (the lemma) of an inflected form on the page, they had no recourse.
 
 
 
@@ -85,8 +83,8 @@ Three of these describe pitch:
 
 The other two diacritics tell you whether or not a word beginning with a vowel has an 'h.' Greek ceased to use the letter 'h.' To show whether a word is aspirated (starts with an 'h') it uses what are called breathing marks.
 
-| | | 
-| --- | --- | --- 
+| Greek | Translit. | 
+| --- | --- 
 | "rough" breathing (with an 'h') | ὁ | ho | 
 | "smooth" breathing (no 'h') | ἀπὸ | apo | 
 
