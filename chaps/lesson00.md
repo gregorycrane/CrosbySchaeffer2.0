@@ -1,7 +1,7 @@
 <head>Introduction</head>
 <div type="textpart" subtype="para" n="pref01">
 
-| ![text](images/apobates.jpg) | ![text](images/apobates2.jpg) | 
+| ![text](images/apobates.jpg) | ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg/1280px-Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg) | 
 
 
 
