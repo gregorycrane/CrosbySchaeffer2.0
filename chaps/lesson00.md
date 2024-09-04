@@ -1,7 +1,7 @@
 <head>Introduction</head>
 <div type="textpart" subtype="para" n="pref01">
 
-| ![text](images/apobates.jpg) | ![text](https://live.staticflickr.com/528/32099864256_b8ff444792_6k.jpg) | 
+| ![text](images/apobates.jpg) | ![text](images/apobates2.jpg) | 
 
 
 
