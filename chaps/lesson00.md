@@ -1,5 +1,5 @@
 <head>Introduction</head>
-
+<div type="textpart" subtype="para" n="pref01">
 
 | ![text](images/apobates.jpg) | ![text](https://live.staticflickr.com/528/32099864256_b8ff444792_6k.jpg) | 
 
@@ -8,7 +8,7 @@
 **Eager to Go**: Pedestal of the monument dedicated to the victory of Krates in the Apobates (literally,"the person who gets off") race at the Panathenaic Games. A fully armed soldier jumps on and off a moving chariot. The image above is a marble relief from the fourth century BCE and is at the Acropolo Athens, Greece. The original image and more information are available from  [Egisto Sani on Flickr](https://www.flickr.com/photos/69716881@N02/32099864256). See also the Wikipedia article on this object ([Acropolis 1326](https://www.perseus.tufts.edu/hopper/artifact?name=Athens,+Acropolis+1326&amp;object=Sculpture)), which is known as the [Apobates base.](https://en.wikipedia.org/wiki/Apobates_Base)  
 
 
-<div type="textpart" subtype="para" n="pref01"><head></head>
+## [§ pref02](#parapref02). This course
 
 
 This book provides a hybrid approach to learning Ancient that integrates traditional methods with the capabilities provided by digital media. In print culture, readers of ancient languages depended upon static texts that coud not explain themselves.
@@ -26,6 +26,21 @@ The state of the art of large-scale assisted reading for Greek and Latin in prin
 
 
 
+In the early 1990s, the Perseus Digital Library added the ability to generate analyses for each word in the text and links to one or more online dictionaries.
+
+![text](images/anabasis-pers4.jpg)
+
+
+A major new generation of Perseus adds rich linguistic annotation for syntax and other featurs.
+
+![text](images/anabasis-bt.jpg)
+
+
+
+You can hack your way through texts in a language that you do not know. But the more you understand about the language to start with, the more you can get out of the automated tools. These new reading environments allow you do to more at an earlier stage of learning but they also enhance your ability to understand the language no matter how much you know. You can exploit automated tools to avoid learning but you can use tools can, if you used well, deepen your understanding of a language.
+
+
+## [§ pref02](#parapref02). The Greek Alphabet
 
 
 
