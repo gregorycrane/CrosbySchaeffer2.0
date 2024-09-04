@@ -11,9 +11,15 @@
 
 The accent of the nominative
 must be learned by observation. It will remain on the
-same syllable in the other cases if possible. An acute on
+same syllable in the other cases if possible.
+
+
+An acute on
 the penult of a noun of the o-declension remains on that
-syllable throughout. An acute ou the antepenult is drawn
+syllable throughout. 
+
+
+An acute on the antepenult is drawn
 to the penult when the ultima is long (§ V, e). Final -οι
 of the nominative plural is considered short (§ V, a).
 

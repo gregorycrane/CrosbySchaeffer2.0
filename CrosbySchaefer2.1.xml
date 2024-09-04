@@ -104,7 +104,116 @@ Changes include the following:
 </list>
 
 If readers could not identify the dictionary form (the lemma) of an inflected form on the page, they had no recourse.
-</p></div>
+
+</p><p>
+
+  [The following table is based on that of <ref n="https://dcc.dickinson.edu/grammar/goodell/alphabet">Thomas Dwight Goodell' School Grammar for Greek</ref>.]
+
+  <table>
+
+    <row role="label"><cell>Letter</cell><cell></cell><cell>Sound</cell><cell>Name</cell><cell></cell></row>
+<row><cell>Α</cell><cell>α</cell><cell>a in far</cell><cell>ἄλφα</cell><cell>alpha</cell></row>
+<row><cell>Β</cell><cell>β</cell><cell>b</cell><cell>βῆτα</cell><cell>beta</cell></row>
+<row><cell>Γ</cell><cell>γ</cell><cell>g in go</cell><cell>γάμμα</cell><cell>gamma</cell></row>
+<row><cell>Δ</cell><cell>δ</cell><cell>d</cell><cell>δέλτα</cell><cell>delta</cell></row>
+<row><cell>Ε</cell><cell>ε</cell><cell>ĕ in met</cell><cell>εἶ / ἒ ψῑλόν</cell><cell>epsilon</cell></row>
+<row><cell>Ζ</cell><cell>ζ</cell><cell>dz</cell><cell>ζῆτα</cell><cell>zeta</cell></row>
+<row><cell>Η</cell><cell>η</cell><cell>a as in ace</cell><cell>ἦτα</cell><cell>eta</cell></row>
+<row><cell>Θ</cell><cell>θ</cell><cell>th in thin</cell><cell>θῆτα</cell><cell>theta</cell></row>
+<row><cell>Ι</cell><cell>ι</cell><cell>ῐ as in brick; ῑ as in creek</cell><cell>ἰῶτα</cell><cell>iota</cell></row>
+<row><cell>Κ</cell><cell>κ</cell><cell>k</cell><cell>κάππα</cell><cell>kappa</cell></row>
+<row><cell>Λ</cell><cell>λ</cell><cell>l</cell><cell>λάμβδα</cell><cell>lambda</cell></row>
+<row><cell>Μ</cell><cell>μ</cell><cell>m</cell><cell>μῦ</cell><cell>mu</cell></row>
+<row><cell>Ν</cell><cell>ν</cell><cell>n</cell><cell>νῦ</cell><cell>nu</cell></row>
+<row><cell>Ξ</cell><cell>ξ</cell><cell>ks</cell><cell>x in wax</cell><cell>ξεῖ</cell></row>
+<row><cell>Ο</cell><cell>ο</cell><cell>ŏ in obey</cell><cell>οὖ / ὂ μῑκρόν</cell><cell>omicron</cell></row>
+<row><cell>Π</cell><cell>π</cell><cell>p</cell><cell>πεῖ</cell><cell>πῖ</cell><cell>pei / pi</cell></row>
+<row><cell>Ρ</cell><cell>ρ</cell><cell>r</cell><cell>ῥῶ</cell><cell>rho</cell></row>
+<row><cell>Σ</cell><cell>σ, ς</cell><cell>s in see</cell><cell>σίγμα</cell><cell>sigma</cell></row>
+<row><cell>Τ</cell><cell>τ</cell><cell>t in to</cell><cell>ταῦ</cell><cell>tau</cell></row>
+<row><cell>Υ</cell><cell>υ</cell><cell>u</cell><cell>German ü</cell><cell>ὖ</cell><cell>ὖ ψῑλόν</cell><cell>upsilon</cell></row>
+<row><cell>Φ</cell><cell>φ</cell><cell>ph in Philip</cell><cell>φεῖ</cell><cell>φῖ</cell><cell>phei / phi</cell></row>
+<row><cell>Χ</cell><cell>χ</cell><cell>German ch</cell><cell>χεῖ</cell><cell>χῖ</cell><cell>chei / chi</cell></row>
+<row><cell>Ψ</cell><cell>ψ</cell><cell>ps</cell><cell>ψεῖ</cell><cell>ψῖ</cell><cell>psei / psi</cell></row>
+<row><cell>Ω</cell><cell>ω</cell><cell>ō</cell><cell>ὦ</cell><cell>ὦ μέγα</cell><cell>omega</cell></row>
+
+  </table>
+</p>
+
+<p>Greek contains five diacritics.</p>
+<p>Three of these describe pitch:
+  <table>
+    <row role="label"><cell>Accent</cell><cell>Example</cell></row>
+    <row><cell>acute -- a rising tone</cell><cell>ποταμός</cell></row>
+    <row><cell>grave -- a sinking tone</cell><cell>ποταμὸς</cell></row>
+    <row><cell>circumflex -- a tone that rises and falls</cell><cell>Κῦρον</cell></row>
+  </table>
+</p>
+<p>The other two diacritics tell you whether or not a word beginning with a vowel has an 'h.' Greek ceased to use the letter 'h.' To show whether a word is aspirated (starts with an 'h') it uses what are called breathing marks. 
+  <table>
+    <row role="label"><cell></cell><cell></cell><cell></cell></row>
+    <row><cell>"rough" breathing (with an 'h')</cell><cell>ὁ</cell><cell>ho</cell></row>
+    <row><cell>"smooth" breathing (no 'h')</cell><cell>ἀπὸ</cell><cell>apo</cell></row>
+  </table>
+
+  The breathing marks are often very hard to make out on a computer screen. In practice, we should only show one breathing mark (i.e., for either rough or smooth) but that is not how Greek texts are printed.
+</p>
+
+  
+  <p>Words from the opening of Xenophon's March Upcountry (Anabasis):
+  <table>
+<row role="label"><cell>Greek</cell><cell>new letters</cell></row>
+<row><cell>ὁ</cell><cell>['ο']</cell></row>
+<row><cell>μὲν</cell><cell>['μ', 'ε', 'ν']</cell></row>
+<row><cell>οὖν</cell><cell>['υ']</cell></row>
+<row><cell>πρεσβύτερος</cell><cell>['π', 'ρ', 'σ', 'β', 'τ', 'ς']</cell></row>
+<row><cell>παρὼν</cell><cell>['α', 'ω']</cell></row>
+<row><cell>ἐτύγχανε:</cell><cell>['γ', 'χ']</cell></row>
+<row><cell>Κῦρον</cell><cell>['Κ']</cell></row>
+<row><cell>δὲ</cell><cell>['δ']</cell></row>
+<row><cell>μεταπέμπεται</cell><cell>['ι']</cell></row>
+<row><cell>ἀπὸ</cell><cell>[no new letters]</cell></row>
+<row><cell>τῆς</cell><cell>['η']</cell></row>
+<row><cell>ἀρχῆς</cell><cell>[no new letters]</cell></row>
+<row><cell>ἧς</cell><cell>[no new letters]</cell></row>
+<row><cell>αὐτὸν</cell><cell>[no new letters]</cell></row>
+<row><cell>σατράπην</cell><cell>[no new letters]</cell></row>
+<row><cell>ἐποίησε,</cell><cell>[no new letters]</cell></row>
+<row><cell>καὶ</cell><cell>['κ']</cell></row>
+<row><cell>στρατηγὸν</cell><cell>[no new letters]</cell></row>
+<row><cell>δὲ</cell><cell>[no new letters]</cell></row>
+<row><cell>αὐτὸν</cell><cell>[no new letters]</cell></row>
+<row><cell>ἀπέδειξε</cell><cell>['ξ']</cell></row>
+<row><cell>πάντων</cell><cell>[no new letters]</cell></row>
+<row><cell>ὅσοι</cell><cell>[no new letters]</cell></row>
+<row><cell>ἐς</cell><cell>[no new letters]</cell></row>
+<row><cell>Καστωλοῦ</cell><cell>['λ']</cell></row>
+<row><cell>πεδίον</cell><cell>[no new letters]</cell></row>
+<row><cell>ἁθροίζονται.</cell><cell>['θ', 'ζ']</cell></row>
+<row><cell>ἀναβαίνει</cell><cell>[no new letters]</cell></row>
+<row><cell>οὖν</cell><cell>[no new letters]</cell></row>
+<row><cell>ὁ</cell><cell>[no new letters]</cell></row>
+<row><cell>Κῦρος</cell><cell>[no new letters]</cell></row>
+<row><cell>λαβὼν</cell><cell>[no new letters]</cell></row>
+<row><cell>Τισσαφέρνην</cell><cell>['Τ', 'φ']</cell></row>
+<row><cell>ὡς</cell><cell>[no new letters]</cell></row>
+<row><cell>φίλον,</cell><cell>[no new letters]</cell></row>
+<row><cell>καὶ</cell><cell>[no new letters]</cell></row>
+<row><cell>τῶν</cell><cell>[no new letters]</cell></row>
+<row><cell>Ἑλλήνων</cell><cell>['Ε']</cell></row>
+<row><cell>ἔχων</cell><cell>[no new letters]</cell></row>
+<row><cell>ὁπλίτας</cell><cell>[no new letters]</cell></row>
+<row><cell>ἀνέβη</cell><cell>[no new letters]</cell></row>
+<row><cell>τριακοσίους,</cell><cell>[no new letters]</cell></row>
+<row><cell>ἄρχοντα</cell><cell>[no new letters]</cell></row>
+<row><cell>δὲ</cell><cell>[no new letters]</cell></row>
+<row><cell>αὐτῶν</cell><cell>[no new letters]</cell></row>
+<row><cell>Ξενίαν</cell><cell>['Ξ']</cell></row>
+<row><cell>Παρράσιον.</cell><cell>['Π']</cell></row>
+</table>
+</p>
+
+</div>
 </div>
 
 
