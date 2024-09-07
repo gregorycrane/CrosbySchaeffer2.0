@@ -58,7 +58,7 @@ this (just mentioned) is what he wrote ;
 he wrote as follows.
 
 (b) ἐκεῖνος refers to something more remote than do
-οὗτος and ὅδε and is translated <gloss>that</gloss>.
+οὗτος and ὅδε and is translated *that*.
 (c) All three may be used as emphatic personal pronouns,
 he, she, it, they.
 (d) When used as demonstrative adjectives all three
@@ -77,39 +77,17 @@ he crosses the river in (by means of) a boat.
 
 
 VOCABULARY
-
-
-**ἀ-διά-βατος**:2 uncrossable.
-
-
-**δια-βαίνω**:<note>Future and aorist will be given later.</note> cross.
-
-
-**δια-βατός**:2 crossable.
-
-
-**ἐκεῖνος**: that.
-
-
-**συμ-βουλεύω** :<note>σύν- changes to σύμ- before β for the sake of euphony.</note> advise, with D. of
-
-
-**μεστός**: full, full of, the person. with G.
-
-
-**ὅδε**, ἤδε, τόδε: this (as follows).
-
-
-**οὗτος**, αὕτη, τοῦτο: this (as aforesaid).
-
-
-**πλοῖον**, πλοίου, τό: boat.
-
-
-**σῖτος**, του, ὁ : grain, food.  PARASITE.
-
-
-**σύν**, prep. with D.: with. SYNOD.
+<rs type="lemma">ἀ-διά-βατος</rs>:2 uncrossable.
+<rs type="lemma">δια-βαίνω</rs>:<note>Future and aorist will be given later.</note> cross.
+<rs type="lemma">δια-βατός</rs>:2 crossable.
+<rs type="lemma">ἐκεῖνος</rs>: that.
+<rs type="lemma">συμ-βουλεύω</rs> :<note>σύν- changes to σύμ- before β for the sake of euphony.</note> advise, with D. of
+<rs type="lemma">μεστός</rs>: full, full of, the person. with G.
+<rs type="lemma">ὅδε</rs>, ἤδε, τόδε: this (as follows).
+<rs type="lemma">οὗτος</rs>, αὕτη, τοῦτο: this (as aforesaid).
+<rs type="lemma">πλοῖον</rs>, πλοίου, τό: boat.
+<rs type="lemma">σῖτος</rs>, του, ὁ : grain, food.  PARASITE.
+<rs type="lemma">σύν</rs>, prep. with D.: with. SYNOD.
 
 2 Masculine and feminine are alike in form. See paradigm (§510, 6). Compare Latin omnis.
 

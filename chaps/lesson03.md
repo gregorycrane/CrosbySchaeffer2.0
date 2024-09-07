@@ -66,59 +66,35 @@ he was hostile to the general.
 
 VOCABULARY
 
+<rs type="lemma">ἀγαθός</rs>, ἀγαθή, ἀγαθόν: good, brave. AGATHA.
 
 
-**ἀγαθός**, ἀγαθή, ἀγαθόν: good, brave. AGATHA.
+<rs type="lemma">ἄγγελος</rs>, ἀγγέλου, ὁ: messenger. ANGEL.
+
+<rs type="lemma">ἄγω</rs>: lead, Lat. ago.
+
+<rs type="lemma">γράφω</rs>: write. TELEGRAPH. LITHOGRAPH.
+
+<rs type="lemma">ἐθέλω</rs>: wish, be willing.
+
+<rs type="lemma">ἵππος</rs>, ἵππου, ὁ: horse. ANALYSIS. HIPPOPOTAMUS,
+
+<rs type="lemma">καί</rs>: conj.: and, also, even.
+
+<rs type="lemma">καλός</rs>, καλή, καλόν: beautiful, honorable, fine.
+<rs type="lemma">κίνδυνος</rs>, κινδύνου, ὁ: danger.
 
 
-
-
-**ἄγγελος**, ἀγγέλου, ὁ: messenger. ANGEL.
-
-
-
-**ἄγω**: lead, Lat. ago.
-
-
-
-**γράφω**: write. TELEGRAPH. LITHOGRAPH.
-
-
-
-**ἐθέλω**: wish, be willing.
-
-
-
-**ἵππος**, ἵππου, ὁ: horse. ANALYSIS. HIPPOPOTAMUS,
-
-
-
-**καί**: conj.: and, also, even.
-
-
-
-**καλός**, καλή, καλόν: beautiful, honorable, fine.
-
-
-**κίνδυνος**, κινδύνου, ὁ: danger.
-
-
-
-
-**λίθος**, λίθος, ὁ: stone.
+<rs type="lemma">λίθος</rs>, λίθος, ὁ: stone.
 
 
 
 
 
+<rs type="lemma">λύω</rs>: loose, break, destroy.
 
 
-**λύω**: loose, break, destroy.
-
-
-
-
-**παύω**: stop (trans,). PAUSE.
+<rs type="lemma">παύω</rs>: stop (trans,). PAUSE.
 
 <div type="textpart" subtype="para" n="18">
 

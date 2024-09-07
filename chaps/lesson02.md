@@ -28,9 +28,27 @@ of the nominative plural is considered short (§ V, a).
 |  ὁ φίλος  |  the friend  |
 
 
+| Singular |  | Plural |  | 
+| --- | --- | --- | --- 
+| ὁ φίλος | the friend [subj] | οἱ φίλοι | English | 
+| τοῦ φίλου | of the friend | τῶν φίλων | English | 
+| τῷ φίλῷ | to/for the friend | τοῖς φίλοις | English | 
+| τὸν φίλον | the friend [obj] | τοὺς φίλους | English | 
+
+
+
 | Greek | English | 
 | --- | -- | 
-|  ὁ δίκαιος   |  the just man  |
+|  ὁ δίκαιος   |  the just person  |
+
+| Singular |  | Plural |  | 
+| --- | --- | --- | --- 
+| ὁ δίκαιος | the just person [subj] | οἱ δίκαιοι | the just people [subj] | 
+| τοῦ δικαίου | of the just person | τῶν δικαίων | of the just people | 
+| τῷ δικαίῳ | to/for the just person | τοῖς δικαίοις | to/for the just people | 
+| τὸν δίκαιον | the just person [obj] | τοὺς δικαίους | the just people [obj] | 
+
+
 
 
 
@@ -40,9 +58,12 @@ In like manner inflect ὁ πόλεμος.
 
 
 
+Adjectives adopt the gender, number and case of the nouns they modify. As noted above, there are three broad ways of producing Greek nouns. The word Ἕλληνες is, for example, the consontant-stem nominative masculine plural form of Ἕλλην, Ἕλληνος, ὁ, "Greek male" or "Greeks" (when there is a group with men and women. To describe one or more Greek women, the word be  Ἑλληνίς, Ἑλληνίδος, ἡ, "Greek woman.")
 
-2 In the previous lesson you found singular and plural labeled. From now on you are given no labels, bnt you can readily tell which is which.
-3 As in Latin, adjectives agree with their nouns in gender, number, and case.
+
+
+If we want to say "three just Greeks", we would produce
+<foreign>οἱ δίκαιοι Ἕλληνες</foreign>, i.e., we would not change the way we generate the masculine nominative plural of δίκαιος. We generate the o-stem form for the adjective even though it is modifying a consontantal-stem noun.
 
 
 <pb n="5"/>
@@ -50,7 +71,13 @@ In like manner inflect ὁ πόλεμος.
 ## [§ 9](#para9). Genitive of Place from Which.
 
  The genitive with
-many prepositions denotes place from which :<note>This is our second use of the genitive (§ 4). The use here given is like the Latin ablative in its from relations.</note>
+many prepositions denotes place from which. This is our second use of the genitive (§ 4). 
+
+
+Indo-European
+
+
+
 
 
 | Greek | English | 
@@ -72,48 +99,26 @@ The walls of Messene still testify to the engineering skill and daring of the
 victor of Leuctra. Note particularly the central doorpost of this great gate.
 It is nearly nineteen feet long.</figure>
 
+![text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Spartan_Territory_Before_371_BC.png/973px-Spartan_Territory_Before_371_BC.png)
+![text](images/leuctra-gmap.jpg)
+
+
 ## [§ 10](#para10). Vocabulary
 
 
-
-
-
-**ἄνθρωπος**, ἀνθρώπου, ὁ: person, human being. When used with the feminine article, this noun can explicitly designate a female person. Lat. homo. ANTHROPOLOGY
-
-
-**ἄξιος**: worthy, worth. AXIOM
-
-
-**ἀπό**: prep. with G.: from, away from, Lat. ab. APOSTLE.
-
-
-**δίκαιος** : just.
-
-
-**Ἑλλήσποντος**, Ἑλλησπόντου, ὁ: Hellespont, the Dardanelles.
-
-
-
-**ἐκ**: (before consonants), ἐξ (before vowels), proclit. prep. with G. out of, from. Lat. ex. ECLECTIC.
-
-
-**μακρός**: large. MACRON. MACROECONOMICS.
-
-
-**μῑκρός**: small. MICROSCOPIC. MICROECONOMICS
-
-
-
-**πόλεμος**: war.
-
-
-
-**πολέμιος** : hostile. οἱ πολέμιοι: the enemy. POLEMIC.
-
-
-
-
-**φίλος**: friend. PHILANTHROPIST.
+| Lemma | Freq | Total | Gloss |
+| --- | --- | --- | -- |
+| ἄνθρωπος | 75 | 7312 | ἀνθρώπου, ὁ: person, human being. When used with the feminine article, this noun can explicitly designate a female person. Lat. homo. ANTHROPOLOGY
+| ἄξιος | 23 | 7335 | worthy, worth. AXIOM
+| ἀπό | 111 | 7446 | prep. with G.: from, away from, Lat. ab. APOSTLE. 
+| δίκαιος | 32 | 7478 | just. 
+| Ἑλλήσποντος | 3 | 7481 | Ἑλλησπόντου, ὁ: Hellespont, the Dardanelles.
+| ἐκ | 249 | 7730 | (before consonants), ἐξ (before vowels), proclit. prep. with G. out of, from. Lat. ex. ECLECTIC. 
+| μακρός | 11 | 7741 | large. MACRON. MACROECONOMICS.
+| μικρός | 15 | 7756 | [μῑκρός] small. MICROSCOPIC. MICROECONOMICS
+| πόλεμος | 37 | 7793 | war.
+| πολέμιος | 235 | 8028 | hostile. οἱ πολέμιοι: the enemy. POLEMIC.
+| φίλος | 91 | 8119 | friend. PHILANTHROPIST.
 
 
 2 Adjectives in -ρος usually have the acute on the last syllable.
@@ -123,24 +128,28 @@ It is nearly nineteen feet long.</figure>
 <pb n="6"/>
 
 
-<div type="textpart" subtype="para" n="11">
+## [§ 11](#para11). Translation Hints.
 
-TRANSLATION HINTS
 
-. Learn all words given in vocabularies.
+1. Learn all words given in vocabularies.
 
-. Learn all forms as they are presented.
 
-. Read the Greek aloud, noting word groups.
+2. Learn all forms as they are presented.
 
-. Translate.
 
-<div type="textpart" subtype="para" n="12">
+3. Read the Greek aloud, noting word groups.
 
-EXERCISES
+
+4. Translate.
 
 
 
+## [§ 12](#para12). Exercises
+
+
+
+![text](images/pericles.jpg)
+![text](https://upload.wikimedia.org/wikipedia/commons/6/67/Pericles_Pio-Clementino_Inv269.jpg)
 <figure><head>Pericles</head>
 
 
@@ -154,20 +163,22 @@ the matchless Parthenon.</figure>
 
 (a) Translate :
 
-1. τοὺς πολεμίους παύουσιν.1
-2. τὸν ἄνθρωπον πέμπει ἀπὸ τοῦ Ἑλλησπόντου.
-3. οἱ ἀδελφοὶ ἦσαν μῑκροί.
+1. τοὺς πολεμίους παύουσιν.1 
+2. τὸν ἄνθρωπον πέμπει ἀπὸ τοῦ Ἑλλησπόντου. 
+3. οἱ ἀδελφοὶ ἦσαν μῑκροί. 
 4. τοὺς φίλους πέμπουσιν1 ἐκ τοῦ ποταμοῦ.
 5. ὁ πόλεμος ἦν δίκαιος.
-6. οἱ πολέμιοι ἀξίους στρατηγοὺς ἔχουσιν.
-7. ὁ στρατηγὸς τοὺς ἀνθρώπους πέμπει τῷ ἀδελφῷ.
+6. οἱ πολέμιοι ἀξίους στρατηγοὺς ἔχουσιν. 
+7. ὁ στρατηγὸς τοὺς ἀνθρώπους πέμπει τῷ ἀδελφῷ. 
 8. οἱ ἄνθρωποι ἔχουσιν ἀξίους ἀδελφούς.
 
 (b) Complete:
 
+
 1. οἱ πολεμ--- ἦσαν μακρ---.
-2. τὸν ἀδελφ-- πέμπει ἐκ τ--- ποταμ- (singular).
+2. τὸν ἀδελφ-- πέμπει ἐκ τ--- ποταμ- (singular). 
 3. οἱ στρατηγοὶ τοὺς φίλους πεμπ-- τῷ ἀνθρωπ--.
+
 
 <pb n="7"/>
 

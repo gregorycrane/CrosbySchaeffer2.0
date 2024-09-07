@@ -55,12 +55,6 @@ The term **lemmas**  describes the normalized dictionary form for a word. In the
 
 O-stem nouns are more frequent than a-stem nouns and roughly as frequent as K-stem nouns. Equally important, o-stem nouns are very simple -- once you have learned the declension in this chapter, you will have only a few variations (for the neuter gender) to learn.
 
-
-
-
-Greek has three basic ways of generating nouns,
-instead of five as in Latin. To these, because of their general uniformity, the o-stems serve as a good introduction.
-
 ## [§ 2](#para2). Ο-Stem Masculines.
 
 
@@ -89,7 +83,7 @@ In like manner inflect ὁ ἀδελφός.
 
 
 
-The table above is often called a paradigm, an English word derived from the Greek "paradeigma," "something that you show (deigma) on the side (para)." As noted above, the table from the text book shows the most important forms. If we look at the paradigm illustrating the forms of <foreign>ποταμός</foreign> <gloss>river</gloss> that actually appear in the 20 million word Glaux Trees parsed corpus of Ancient Greek, we can see that there are additional forms that the textbook leaves out but we can also see that the textbook has nicely captured the most important forms.
+The table above is often called a paradigm, an English word derived from the Greek "paradeigma," "something that you show (deigma) on the side (para)." As noted above, the table from the text book shows the most important forms. If we look at the paradigm illustrating the forms of <foreign>ποταμός</foreign> *river* that actually appear in the 20 million word Glaux Trees parsed corpus of Ancient Greek, we can see that there are additional forms that the textbook leaves out but we can also see that the textbook has nicely captured the most important forms.
 
 ![text](images/potamos-parad.jpg)
 
@@ -118,7 +112,7 @@ Ancient Greek has endings not only for the singular (e.g., English river vs. riv
 
 
 
-While this lesson focuses on introducint nouns, it also introduces  singular and plural forms for three different verbs. These forms allow us to begin generating full sentence and thus to see when we apply each case to a noun.
+While this lesson focuses on introducing nouns, it also introduces  singular and plural forms for three different verbs. These forms allow us to begin generating full sentence and thus to see when we apply each case to a noun.
 
 
 | Lemma | Short Def | Singular | Plural | 
@@ -234,7 +228,7 @@ or
 
 
 (c) The dative suggests relations like those with "to" or
-"for" in English. "Dative" is derived from the Latin <foreign xml:lang="lat">dare</foreign>, <gloss>to give</gloss> and the classic use of the dative is in a sentence like "he gives a gift to his brother." The dative frequently denotes the indirect object :
+"for" in English. "Dative" is derived from the Latin "dare", *to give* and the classic use of the dative is in a sentence like "he gives a gift to his brother." The dative frequently denotes the indirect object :
 
 | Greek | English | 
 | --- | -- | 
@@ -248,12 +242,48 @@ We could also say:
 
 We could also translate the above as "he sends a general of the river." The point is that the general is dispatched to/for the river, i.e., to be in charge of the river.
 
+
+
+
+
 (d) The accusative is the direct object of a transitive
 verb. (And, converseley a transitive verb is any verb that can take a direct object in the accusative!)
 
 | Greek | English | 
 | --- | -- | 
 |  ἀδελφὸν πέμπει  |  he sends a brother.  |
+
+
+
+
+
+(e) The vocative case is used when addressing someone. The textbook does not introduce this case becauxe it is not very common and because it is easy to generate the form. The vocative is often the same as the nominative. In some case, as with o-stems, the vocative is shorted form of the nominative.
+
+
+
+We will learn later in this lesson:
+
+| Greek | English | 
+| --- | -- | 
+|  ὁ στρατηγός  |  the general  |
+
+From this we could create the voative:
+
+| Greek | English | 
+| --- | -- | 
+|  ὦ στρατηγέ  |  oh general!  |
+
+
+
+
+This chapter introduces core functions of the most common four Greek cases. Indo-European, the language (or cluster of languages) from which Ancient Greek, Latin, Sanskrit, Irish and many other languages derive, had three other cases -- a total of eight.
+
+1. The **instrumental**: "I hammered the nail **by means of a hammer.** In Greek, this function is, as we will see below, taken over by the dative.
+2. The **ablative** (from Latin ab-latus, "taken/carried away"): "I went **away from the lake**. In Greek, this function is, as we will see below, taken over the genitive.
+3. The **locative**: "at home," "in the ocean." In Greek, this function is, as we will see below, taken over by the dative.
+
+Other Indo-European languages preserve some of these cases: Ukrainian and Croatian both have the locative and instrumental case, while Latin contained both a dative and an ablative case.
+
 
 
 
@@ -265,9 +295,7 @@ verb. (And, converseley a transitive verb is any verb that can take a direct obj
 
 Greek does have a definite article, i.e., a word that (roughly) corresponds to "the" in English.
 
-
-
-**ὁ** Like English, and unlike Latin,
+<rs type="lemma">ὁ</rs> Like English, and unlike Latin,
 Greek has a definite article. This agrees with its noun
 in gender, number, and case. It often serves as a possessive pronoun, as my, your, his, etc. ὁ and οἱ are proclitic
 (page xxvii).
@@ -278,40 +306,67 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 
 
 
-<list type="vocab">
 
 
-**ἀδελφός**, ἀδελφοῦ, ὁ:<note>The definite article accompanies nouns in vocabularies to show gender.</note> brother.  PHILADELPHIA.<note>In the vocabularies derivatives and cognates are printed in small capitals.</note>
+Examples from Xenophon:
 
 
+>  τὸ δὲ σύμπαν **δῆλος** **ἦν** **Κῦρος**  ὡς σπεύδων πᾶσαν τὴν ὁδὸν.<br/>
 
-**ἔχει**: he, she, or it has,
-
-
-**ἔχουσι**: they have.
-
-
-**ἦν**: he, she, it was;  there was.
-<rs n="https://atlas-test.fly.dev/morphology/form/245/" type="lemma">ἦσαν</rs>: they or there were.
+>  On the whole, **Cyrus** **was** **obvious**, insofar as he was rushing through the whole trip.<br/>
+>> Xen. Anab. 1.5.9
 
 
-**παύει**: he, she, or it stops (transitive).
+δῆλος: δῆλος, nominative singular, *visible, conspicuous*
 
 
 
-**παύουσι**: they stop (transitive).
+>  ἐκ ταύτης τῆς χώρας ὁ ἄρχων **τοῖς Ἕλλησιν** **ἡγεμόνα** **πέμπει**.<br/>
+
+>  From this territory the ruler of the land sends the Greeks a guide<br/>
+>> Xen. Anab. 6.1.15
 
 
-**πέμπει**: he, she, or it sends (transitive).
 
 
-**πέμπουσι**: they send (transitive).
+>  οὗτοι δὲ **ξένια** **πέμπουσι**  **τοῖς Ἕλλησιν** ἀλφίτων μεδίμνους τρισχιλίους , οἴνου δὲ κεράμια χίλια καὶ πεντακόσια.<br/>
+
+>  **They send** **hospitality gifts** **to the Greeks**: three thousand medimni of flour, and fifteen hundred ceramia of wine. [Watson 1857]<br/>
+>> Xen. Anab. 6.1.15
 
 
-**ποταμός**, ποταμοῦ, ὁ: river, HIPPOPOTAMUS.
 
 
-**στρατηγός**, στρατηγοῦ, ὁ: general. STRATEGY.
+
+
+
+Ἕλλησιν:  Ἕλλην, masculine dative plural, *Hellen; Greek*.
+ξένια: ξένιος, neuter accusative plural, *belonging to a friend and guest, hospitable*.
+
+
+|
+
+
+
+
+The definite article accompanies nouns in vocabularies to show gender. 
+
+
+In the vocabularies derivatives and cognates are printed in small capitals.
+| Lemma | Freq | Total | Gloss |
+| --- | --- | --- | -- |
+| ἀδελφός | 20 | 20 | ἀδελφοῦ, ὁ: brother.  PHILADELPHIA.
+| ἔχει | 16 | 36 | he, she, or it has,
+| ἔχουσι | 1 | 37 | they have.
+| ἦν | 280 | 317 | he, she, it was;  there was.
+| ἦσαν | 132 | 449 | they or there were.
+| ὁ | 6522 | 6971 | ἡ, τό: the.
+| παύει | 0 | 6971 | he, she, or it stops (transitive).
+| παύουσι | 0 | 6971 | they stop (transitive).
+| πέμπει | 9 | 6980 | he, she, or it sends (transitive).
+| πέμπουσι | 7 | 6987 | they send (transitive).
+| ποταμός | 99 | 7086 | ποταμοῦ, ὁ: river, HIPPOPOTAMUS.
+| στρατηγός | 151 | 7237 | στρατηγοῦ, ὁ: general. STRATEGY.
 
 
 

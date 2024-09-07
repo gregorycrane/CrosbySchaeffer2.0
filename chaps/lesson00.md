@@ -43,6 +43,11 @@ You can hack your way through texts in a language that you do not know. But the 
 ## [§ pref02](#parapref02). The Greek Alphabet
 
 
+The Greek alphabet that we use in modern printed editions is just one particular version. The Greeks copies and adapted the writing system of the Phoenicians, adding vowels and providing a more comprehensive way of capturing sounds. (The Wikipedia article on [the History of the Greek alphabet](https://en.wikipedia.org/wiki/History_of_the_Greek_alphabet) is well worth reading.)
+
+
+Our alphabet includes capital and lower case letters. The capital letters are based on ancient inscriptions and are used (mainly) to identify proper names. Lower case letters are based on later scripts of Greek. We also have accents that Greek scholars in Egypt added in the 3rd century BCE to capture pitch accents that were being lost and replaced by stress accents.
+
 
 
 
@@ -57,7 +62,7 @@ You can hack your way through texts in a language that you do not know. But the 
 | Γ | γ | g in go | γάμμα | gamma | 
 | Δ | δ | d | δέλτα | delta | 
 | Ε | ε | ĕ in met | εἶ / ἒ ψῑλόν | epsilon | 
-| Ζ | ζ | dz | ζῆτα | zeta | 
+| Ζ | ζ | dz (but just read it as an English z) | ζῆτα | zeta | 
 | Η | η | a as in ace | ἦτα | eta | 
 | Θ | θ | th in thin | θῆτα | theta | 
 | Ι | ι | ῐ as in brick; ῑ as in creek | ἰῶτα | iota | 

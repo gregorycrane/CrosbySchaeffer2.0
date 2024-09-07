@@ -66,37 +66,19 @@ the entire thought is clear.
 
 
 VOCABULARY
+<rs type="lemma">Ἀθῆναι</rs>, Ἀθηνῶν, αἱ: Athens.
+<rs type="lemma">ἀπ-έχω</rs>: be distant, be away.
 
+<rs type="lemma">ἐπί</rs>: prep. with G., on, upon;1 with D., on, at, by; with A., upon, to, againsi, EPIDERMIS.<note>The difference between the genitive, dative, and accusative may be indicated by these phrases: on horseback, a city on the sea, he marches on the town. Compare παρά (§ 25).</note>
+<rs type="lemma">Ἀθηναῖος</rs>, Ἀθηναά, Ἀθηναῖον: Athenian.
+<rs type="lemma">ἑπτά</rs>: seven. HEPTAGON.
+<rs type="lemma">δρόμος</rs>, δρόμου, ὁ: a running, run, race, race course. HIPPODROME.
 
-**Ἀθῆναι**, Ἀθηνῶν, αἱ: Athens.
+<rs type="lemma">ἥκω</rs>, ἥξω: [No aorist in use] come, have come, arrive.
 
+<rs type="lemma">ὀκτώ</rs>: eight. octopus.
 
-**ἀπ-έχω**: be distant, be away.
-
-
-
-**ἐπί**: prep. with G., on, upon;1 with D., on, at, by; with A., upon, to, againsi, EPIDERMIS.<note>The difference between the genitive, dative, and accusative may be indicated by these phrases: on horseback, a city on the sea, he marches on the town. Compare παρά (§ 25).</note>
-
-
-**Ἀθηναῖος**, Ἀθηναά, Ἀθηναῖον: Athenian.
-
-
-**ἑπτά**: seven. HEPTAGON.
-
-
-**δρόμος**, δρόμου, ὁ: a running, run, race, race course. HIPPODROME.
-
-
-
-**ἥκω**, ἥξω: [No aorist in use] come, have come, arrive.
-
-
-
-**ὀκτώ**: eight. octopus.
-
-
-
-**σπεύδω**, σπεύσω, ἔσπευσα: hasten.
+<rs type="lemma">σπεύδω</rs>, σπεύσω, ἔσπευσα: hasten.
 
 <div type="textpart" subtype="para" n="65">
 

@@ -82,51 +82,29 @@ a contrary to fact from a past particular condition (§ 85).
 
 VOCABULARY
 
+<rs type="lemma">ἄν</rs>, post-pos. particle belonging to certain types of conditional clauses but lacking an exact English eqnivalent.
 
+<rs type="lemma">ἄπ-ειμι</rs>: be away, be absent.
 
-**ἄν**, post-pos. particle belonging to certain types of conditional clauses but lacking an exact English eqnivalent.
-
-
-
-**ἄπ-ειμι**: be away, be absent.
-
-
-
-**εἰμί** enclit.: be.
+<rs type="lemma">εἰμί</rs> enclit.: be.
 
 <rs type="lemma" n="ἔξεστι">ἔξ-ἐστι(ν)</rs>,2 impersonal ; it is possible.
 
+<rs type="lemma">οὔπω</rs>, neg. adv. : not yet.
 
+<rs type="lemma">πάρ-ειμι</rs>: be present.
 
-**οὔπω**, neg. adv. : not yet.
+<rs type="lemma">πέντε</rs>, indeclinable : five. PENTAGON.
 
+<rs type="lemma">στρατόπεδον</rs>: camp. Cf. στρατιά and πεδίον.
 
+<rs type="lemma">τόπος</rs>: place. TOPOGRAPUY.
 
-**πάρ-ειμι**: be present.
+<rs type="lemma">τότε</rs>, adv.: then, at that time.
 
+<rs type="lemma">φᾱσί(ν)</rs>,2 enclit.; they say.
 
-
-**πέντε**, indeclinable : five. PENTAGON.
-
-
-
-**στρατόπεδον**: camp. Cf. στρατιά and πεδίον.
-
-
-
-**τόπος**: place. TOPOGRAPUY.
-
-
-
-**τότε**, adv.: then, at that time.
-
-
-
-**φᾱσί(ν)**,2 enclit.; they say.
-
-
-
-**φησί(ν)**,2 enclit.: he or she says, PROPHET.
+<rs type="lemma">φησί(ν)</rs>,2 enclit.: he or she says, PROPHET.
 
 
 

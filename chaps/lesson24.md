@@ -82,35 +82,17 @@ action (compare with the Latin a or ab and the ablative): 1
 
 
 VOCABULARY
-
-
-**ἄχθομαι**: be burdened, vexed.
+<rs type="lemma">ἄχθομαι</rs>: be burdened, vexed.
 <rs type="lemma" n="μεταπέμπω">μετα-πέμπομαι</rs>: send after, summon.
-
-
-**βούλομαι**: wish, desire.
-
-
-**ἕπομαι**: follow, with D.
-
-
-**πορεία**: journey.
-
-
-**ἔρχομαι**, ἦλθον (aor.): come, go.
+<rs type="lemma">βούλομαι</rs>: wish, desire.
+<rs type="lemma">ἕπομαι</rs>: follow, with D.
+<rs type="lemma">πορεία</rs>: journey.
+<rs type="lemma">ἔρχομαι</rs>, ἦλθον (aor.): come, go.
 <rs type="lemma" n="πορεύω">πορεύομαι</rs>: journey, march,
-
-
-**ἥδομαι**: be pleased. HEDONIST.
-
-
-**ὑπό**: prep., with G., from under, by (agent); with D., under, beneath (with verbs of rest); with A., under (with verbs of motion). HYPOTHESIS.
-
-
-**μάχομαι**: fight, give battle. Cf. μάχη.
-
-
-**μετά**, prep.: with G., with ; with  A., after; as a prefix, often denotes change. METAPHOR.
+<rs type="lemma">ἥδομαι</rs>: be pleased. HEDONIST.
+<rs type="lemma">ὑπό</rs>: prep., with G., from under, by (agent); with D., under, beneath (with verbs of rest); with A., under (with verbs of motion). HYPOTHESIS.
+<rs type="lemma">μάχομαι</rs>: fight, give battle. Cf. μάχη.
+<rs type="lemma">μετά</rs>, prep.: with G., with ; with  A., after; as a prefix, often denotes change. METAPHOR.
 
 1 What uses of the genitive have you now had?
 
@@ -178,7 +160,7 @@ number, and voice ?
 
 
 
-1 πείθω in the middle and passive means <gloss>obey</gloss> and governs the dative (as in Latin).
+1 πείθω in the middle and passive means *obey* and governs the dative (as in Latin).
 
 2 For augment, see page 23, note 1.
 3 Page 72, note 2.

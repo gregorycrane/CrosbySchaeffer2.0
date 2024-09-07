@@ -66,26 +66,18 @@ This uncouth deity of mountain and woodland was believed to have inspired the Pe
 
 VOCABULARY
 
-
-
-**εἶτα**, adv.: then, next.
+<rs type="lemma">εἶτα</rs>, adv.: then, next.
 
 <rs type="lemma" n="οὕτως">οὕτω</rs> (before consonants), οὕτως (before vowels), adv. : thus, so, as afore- said. Cf. οὗτος.
 
+<rs type="lemma">πᾶς</rs>, πᾶσα, πᾶν: sing., every, whole ; pl. all. PANDEMONIUM.
 
 
-**πᾶς**, πᾶσα, πᾶν: sing., every, whole ; pl. all. PANDEMONIUM.
-
-
-
-
-**πρῶτος**: first: πρῶτον, adv. at first. PROTOTYPE.
+<rs type="lemma">πρῶτος</rs>: first: πρῶτον, adv. at first. PROTOTYPE.
 
 
 
-
-
-**φόβος**: fear. HYDROPHOBIA.
+<rs type="lemma">φόβος</rs>: fear. HYDROPHOBIA.
 
 
 

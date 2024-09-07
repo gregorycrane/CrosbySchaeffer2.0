@@ -72,37 +72,19 @@ into the plain
 
 
 VOCABULARY
+<rs type="lemma">δέ</rs>: (δ᾽ before vowels), postpositive conj: but, and.
 
+<rs type="lemma">ἐν</rs>: proclitic prep. with D. : in (Lat. in). ENCLITIC.
+<rs type="lemma">δένδρον</rs>, δένδρου, τό: tree. RHODODENDRON.
 
-**δέ**: (δ᾽ before vowels), postpositive conj: but, and.
+<rs type="lemma">παρά</rs>: prep., with G., from the side of; with D., by the side of; with A., to the side of, to, alongside. PARALLEL.
 
+<rs type="lemma">δῆλος</rs>, δήλη, δῆλον: plain, evident.
+<rs type="lemma">δῶρον</rs>, δώρου, τό: gift. THEODORE,
+<rs type="lemma">εἰς</rs>: proclit. prep. with A.: into  (Lat. in).
+<rs type="lemma">πεδίον</rs>, πεδίου, τό: plain.
 
-
-**ἐν**: proclitic prep. with D. : in (Lat. in). ENCLITIC.
-
-
-**δένδρον**, δένδρου, τό: tree. RHODODENDRON.
-
-
-
-**παρά**: prep., with G., from the side of; with D., by the side of; with A., to the side of, to, alongside. PARALLEL.
-
-
-
-**δῆλος**, δήλη, δῆλον: plain, evident.
-
-
-**δῶρον**, δώρου, τό: gift. THEODORE,
-
-
-**εἰς**: proclit. prep. with A.: into  (Lat. in).
-
-
-**πεδίον**, πεδίου, τό: plain.
-
-
-
-**στάδιον**, σταδίου, τό: stadium (race course); stade (600 ft.).3 
+<rs type="lemma">στάδιον</rs>, σταδίου, τό: stadium (race course); stade (600 ft.).3 
 
 <div type="textpart" subtype="para" n="26">
 

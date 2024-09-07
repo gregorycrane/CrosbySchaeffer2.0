@@ -110,8 +110,9 @@ You can hack your way through texts in a language that you do not know. But the 
 </p>
 </div>
 <div type="textpart" subtype="para" n="pref02"><head>The Greek Alphabet</head>
+<p>The Greek alphabet that we use in modern printed editions is just one particular version. The Greeks copies and adapted the writing system of the Phoenicians, adding vowels and providing a more comprehensive way of capturing sounds. (The Wikipedia article on <ref n="https://en.wikipedia.org/wiki/History_of_the_Greek_alphabet">the History of the Greek alphabet</ref> is well worth reading.)</p>
+  <p>Our alphabet includes capital and lower case letters. The capital letters are based on ancient inscriptions and are used (mainly) to identify proper names. Lower case letters are based on later scripts of Greek. We also have accents that Greek scholars in Egypt added in the 3rd century BCE to capture pitch accents that were being lost and replaced by stress accents.</p>
 <p>
-
 
   [The following table is based on that of <ref n="https://dcc.dickinson.edu/grammar/goodell/alphabet">Thomas Dwight Goodell' School Grammar for Greek</ref>.]
 
@@ -123,7 +124,7 @@ You can hack your way through texts in a language that you do not know. But the 
 <row><cell>Γ</cell><cell>γ</cell><cell>g in go</cell><cell>γάμμα</cell><cell>gamma</cell></row>
 <row><cell>Δ</cell><cell>δ</cell><cell>d</cell><cell>δέλτα</cell><cell>delta</cell></row>
 <row><cell>Ε</cell><cell>ε</cell><cell>ĕ in met</cell><cell>εἶ / ἒ ψῑλόν</cell><cell>epsilon</cell></row>
-<row><cell>Ζ</cell><cell>ζ</cell><cell>dz</cell><cell>ζῆτα</cell><cell>zeta</cell></row>
+<row><cell>Ζ</cell><cell>ζ</cell><cell>dz (but just read it as an English z)</cell><cell>ζῆτα</cell><cell>zeta</cell></row>
 <row><cell>Η</cell><cell>η</cell><cell>a as in ace</cell><cell>ἦτα</cell><cell>eta</cell></row>
 <row><cell>Θ</cell><cell>θ</cell><cell>th in thin</cell><cell>θῆτα</cell><cell>theta</cell></row>
 <row><cell>Ι</cell><cell>ι</cell><cell>ῐ as in brick; ῑ as in creek</cell><cell>ἰῶτα</cell><cell>iota</cell></row>
@@ -273,13 +274,7 @@ You can hack your way through texts in a language that you do not know. But the 
  
         The term <term>lemmas</term>  describes the normalized dictionary form for a word. In the table above, you can see that ποταμός, ποταμοῦ, ποταμῷ, ποταμόν etc. are all forms of the same word. When we look up a noun in a standard Greek dictionary, we look up that first form in the table (the nominative singular). By dividing tokens by lemmas, we can see that each a-stem, o-stem and K-stem lemmas shows up c. 5, 7 and 8 times in the <title>Anabasis</title>, i.e., if you learn a vocab word,  you are likely to see it 4, 6 and 7 times again.
         
-O-stem nouns are more frequent than a-stem nouns and roughly as frequent as K-stem nouns. Equally important, o-stem nouns are very simple -- once you have learned the declension in this chapter, you will have only a few variations (for the neuter gender) to learn.
-        
-
-
-
-    Greek has three basic ways of generating nouns,
-instead of five as in Latin. To these, because of their general uniformity, the o-stems serve as a good introduction.</p></div>
+O-stem nouns are more frequent than a-stem nouns and roughly as frequent as K-stem nouns. Equally important, o-stem nouns are very simple -- once you have learned the declension in this chapter, you will have only a few variations (for the neuter gender) to learn.</p></div>
 
 <div type="textpart" subtype="para" n="2"><head>Ο-Stem Masculines.</head>
 <p>Nouns of the ο-declension
@@ -325,7 +320,7 @@ In like manner inflect ὁ ἀδελφός.</p>
   <p>
     Ancient Greek has endings not only for the singular (e.g., English river vs. rivers) but also has a dual nuumber used to describe pairs (e.g., two hands, two siblings etc.). Because the dual is much less common, many introductory grammars leave it out so that learners can focus on higher frequency features. We will see duals when we look at real primary sources but the digital part of speech annotations will (usually) identify these. You will learn to recognize them as you read more Greek.
   </p>
-<p>While this lesson focuses on introducint nouns, it also introduces  singular and plural forms for three different verbs. These forms allow us to begin generating full sentence and thus to see when we apply each case to a noun.
+<p>While this lesson focuses on introducing nouns, it also introduces  singular and plural forms for three different verbs. These forms allow us to begin generating full sentence and thus to see when we apply each case to a noun.
 
   <table>
     <row role="label"><cell>Lemma</cell><cell>Short Def</cell><cell>Singular</cell><cell>Plural</cell></row>
@@ -420,12 +415,36 @@ We could also say:
 
 We could also translate the above as "he sends a general of the river." The point is that the general is dispatched to/for the river, i.e., to be in charge of the river.
 
-(d) The accusative is the direct object of a transitive
+</p>
+
+<p>(d) The accusative is the direct object of a transitive
 verb. (And, converseley a transitive verb is any verb that can take a direct object in the accusative!)
 
 <foreign>ἀδελφὸν πέμπει</foreign> <gloss>he sends a brother.</gloss>
 
-</p></div>
+</p>
+
+<p>(e) The vocative case is used when addressing someone. The textbook does not introduce this case becauxe it is not very common and because it is easy to generate the form. The vocative is often the same as the nominative. In some case, as with o-stems, the vocative is shorted form of the nominative.
+</p>
+<p>We will learn later in this lesson:
+  
+  <foreign>ὁ στρατηγός</foreign> <gloss>the general</gloss>
+
+  From this we could create the voative:
+
+  <foreign>ὦ στρατηγέ</foreign> <gloss>oh general!</gloss>
+
+</p>
+<p>This chapter introduces core functions of the most common four Greek cases. Indo-European, the language (or cluster of languages) from which Ancient Greek, Latin, Sanskrit, Irish and many other languages derive, had three other cases -- a total of eight.
+  <list>
+    <item n="1">The <term>instrumental</term>: "I hammered the nail <emph>by means of a hammer.</emph> In Greek, this function is, as we will see below, taken over by the dative.</item>
+    <item n="2">The <term>ablative</term> (from Latin ab-latus, "taken/carried away"): "I went <emph>away from the lake</emph>. In Greek, this function is, as we will see below, taken over the genitive.</item>
+    <item n="3">The <term>locative</term>: "at home," "in the ocean." In Greek, this function is, as we will see below, taken over by the dative.</item>
+  </list>
+  Other Indo-European languages preserve some of these cases: Ukrainian and Croatian both have the locative and instrumental case, while Latin contained both a dative and an ablative case. 
+  </p>
+
+</div>
 
 <div type="textpart" subtype="para" n="5"><head>The Article.</head>
 <p>
@@ -442,18 +461,56 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 
 <div type="textpart" subtype="para" n="6"><head>Vocabulary.</head>
 <p></p>
+<p>Examples from Xenophon:
+
+  <cit>
+    <quote>τὸ δὲ σύμπαν <emph>δῆλος</emph> <emph>ἦν</emph> <emph>Κῦρος</emph>  ὡς σπεύδων πᾶσαν τὴν ὁδὸν.</quote>
+
+    <quote xml:lang="eng">On the whole, <emph>Cyrus</emph> <emph>was</emph> <emph>obvious</emph>, insofar as he was rushing through the whole trip.</quote>
+    <bibl>Xen. Anab. 1.5.9</bibl>
+  </cit>
+<list>
+  <item>δῆλος: δῆλος, nominative singular, <gloss>visible, conspicuous</gloss></item>
+</list>
+
+  <cit>
+    <quote>ἐκ ταύτης τῆς χώρας ὁ ἄρχων <emph>τοῖς Ἕλλησιν</emph> <emph>ἡγεμόνα</emph> <emph>πέμπει</emph>.</quote>
+    
+    <quote xml:lang="eng">From this territory the ruler of the land sends the Greeks a guide</quote>
+      <bibl>Xen. Anab. 6.1.15</bibl>
+    
+      </cit>
+
+  <cit>
+<quote>οὗτοι δὲ <emph>ξένια</emph> <emph>πέμπουσι</emph>  <emph>τοῖς Ἕλλησιν</emph> ἀλφίτων μεδίμνους τρισχιλίους , οἴνου δὲ κεράμια χίλια καὶ πεντακόσια.</quote>
+
+<quote xml:lang="eng"><emph>They send</emph> <emph>hospitality gifts</emph> <emph>to the Greeks</emph>: three thousand medimni of flour, and fifteen hundred ceramia of wine. [Watson 1857]</quote>
+  <bibl>Xen. Anab. 6.1.15</bibl>
+
+  </cit>
+</p>
+<p>
+  <list>
+    <item> Ἕλλησιν:  Ἕλλην, masculine dative plural, <gloss>Hellen; Greek</gloss>.</item>
+    <item>ξένια: ξένιος, neuter accusative plural, <gloss>belonging to a friend and guest, hospitable</gloss>.</item>
+  </list>
+ 
+  | 
+
+</p>
+<p>The definite article accompanies nouns in vocabularies to show gender. </p>
+<p>In the vocabularies derivatives and cognates are printed in small capitals.</p>
   <list type="vocab">
-<item><rs type="lemma">ἀδελφός</rs>, ἀδελφοῦ, ὁ:<note>The definite article accompanies nouns in vocabularies to show gender.</note> brother.  PHILADELPHIA.<note>In the vocabularies derivatives and cognates are printed in small capitals.</note></item>
-
-<item><rs type="lemma">ἔχει</rs>: he, she, or it has,</item>
-<item><rs type="lemma">ἔχουσι</rs>: they have.</item>
-<item><rs type="lemma">ἦν</rs>: he, she, it was;  there was.</item>
-<item><rs n="https://atlas-test.fly.dev/morphology/form/245/" type="lemma">ἦσαν</rs>: they or there were.</item>
-<item><rs type="lemma">παύει</rs>: he, she, or it stops (transitive).</item>
-
-<item><rs type="lemma">παύουσι</rs>: they stop (transitive).</item>
-<item><rs type="lemma">πέμπει</rs>: he, she, or it sends (transitive).</item>
-<item><rs type="lemma">πέμπουσι</rs>: they send (transitive).</item>
+<item><rs type="lemma">ἀδελφός</rs>, ἀδελφοῦ, ὁ: brother.  PHILADELPHIA.</item>
+<item><rs type="form">ἔχει</rs>: he, she, or it has,</item>
+<item><rs type="form">ἔχουσι</rs>: they have.</item>
+<item><rs type="form">ἦν</rs>: he, she, it was;  there was.</item>
+<item><rs type="form">ἦσαν</rs>: they or there were.</item>
+<item><rs type="lemma">ὁ</rs>, ἡ, τό: the.</item>
+<item><rs type="form">παύει</rs>: he, she, or it stops (transitive).</item>
+<item><rs type="form">παύουσι</rs>: they stop (transitive).</item>
+<item><rs type="form">πέμπει</rs>: he, she, or it sends (transitive).</item>
+<item><rs type="form">πέμπουσι</rs>: they send (transitive).</item>
 <item><rs type="lemma">ποταμός</rs>, ποταμοῦ, ὁ: river, HIPPOPOTAMUS.</item>
 <item><rs type="lemma">στρατηγός</rs>, στρατηγοῦ, ὁ: general. STRATEGY.</item>
 
@@ -539,22 +596,41 @@ of the nominative plural is considered short (§ V, a).
 
 <foreign>ὁ φίλος</foreign>  <gloss>the friend</gloss>
 
+<table>
+  <row role="label"><cell>Singular</cell><cell></cell><cell>Plural</cell><cell></cell></row>
+  <row><cell>ὁ φίλος</cell><cell>the friend [subj]</cell><cell>οἱ φίλοι</cell><cell>English</cell></row>
+  <row><cell>τοῦ φίλου</cell><cell>of the friend</cell><cell>τῶν φίλων</cell><cell>English</cell></row>
+  <row><cell>τῷ φίλῷ</cell><cell>to/for the friend</cell><cell>τοῖς φίλοις</cell><cell>English</cell></row>
+  <row><cell>τὸν φίλον</cell><cell>the friend [obj]</cell><cell>τοὺς φίλους</cell><cell>English</cell></row>
+</table>
 
-<foreign>ὁ δίκαιος </foreign> <gloss>the just man</gloss>
+
+<foreign>ὁ δίκαιος </foreign> <gloss>the just person</gloss>
+<table>
+  <row role="label"><cell>Singular</cell><cell></cell><cell>Plural</cell><cell></cell></row>
+  <row><cell>ὁ δίκαιος</cell><cell>the just person [subj]</cell><cell>οἱ δίκαιοι</cell><cell>the just people [subj]</cell></row>
+  <row><cell>τοῦ δικαίου</cell><cell>of the just person</cell><cell>τῶν δικαίων</cell><cell>of the just people</cell></row>
+  <row><cell>τῷ δικαίῳ</cell><cell>to/for the just person</cell><cell>τοῖς δικαίοις</cell><cell>to/for the just people</cell></row>
+  <row><cell>τὸν δίκαιον</cell><cell>the just person [obj]</cell><cell>τοὺς δικαίους</cell><cell>the just people [obj]</cell></row>
+</table>
+
 
 </p><p>
 
 In like manner inflect ὁ πόλεμος.
+</p>
+<p>Adjectives adopt the gender, number and case of the nouns they modify. As noted above, there are three broad ways of producing Greek nouns. The word Ἕλληνες is, for example, the consontant-stem nominative masculine plural form of Ἕλλην, Ἕλληνος, ὁ, "Greek male" or "Greeks" (when there is a group with men and women. To describe one or more Greek women, the word be  Ἑλληνίς, Ἑλληνίδος, ἡ, "Greek woman.")
 </p><p>
+  If we want to say "three just Greeks", we would produce 
+  <foreign>οἱ δίκαιοι Ἕλληνες</foreign>, i.e., we would not change the way we generate the masculine nominative plural of δίκαιος. We generate the o-stem form for the adjective even though it is modifying a consontantal-stem noun.
 
-2 In the previous lesson you found singular and plural labeled. From now on you are given no labels, bnt you can readily tell which is which.
-3 As in Latin, adjectives agree with their nouns in gender, number, and case.
-
-
+ 
 <pb n="5"/></p></div>
 
 <div type="textpart" subtype="para" n="9"><head>Genitive of Place from Which.</head><p> The genitive with
-many prepositions denotes place from which :<note>This is our second use of the genitive (§ 4). The use here given is like the Latin ablative in its from relations.</note>
+many prepositions denotes place from which. This is our second use of the genitive (§ 4). </p>
+<p>Indo-European</p>
+<p>
 
 
 <foreign>τὸν ἄνθρωπον πέμπει ἀπὸ τοῦ ποταμοῦ.</foreign> <gloss>he sends the man from the river.</gloss>
@@ -570,27 +646,26 @@ many prepositions denotes place from which :<note>This is our second use of the 
 
   <figure><head>The ARCADIAN GATE</head><p>The walls of Messene still testify to the engineering skill and daring of the
 victor of Leuctra. Note particularly the central doorpost of this great gate.
-It is nearly nineteen feet long.</p></figure></p></div>
+It is nearly nineteen feet long.</p></figure>
+
+<graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Spartan_Territory_Before_371_BC.png/973px-Spartan_Territory_Before_371_BC.png"/>
+<graphic url="images/leuctra-gmap.jpg"/></p>
+</div>
 
 <div type="textpart" subtype="para" n="10"><head>Vocabulary</head><p>
-
-<rs type="lemma">ἄνθρωπος</rs>, ἀνθρώπου, ὁ: person, human being. When used with the feminine article, this noun can explicitly designate a female person. Lat. homo. ANTHROPOLOGY
-<rs type="lemma">ἄξιος</rs>: worthy, worth. AXIOM
-<rs type="lemma">ἀπό</rs>: prep. with G.: from, away from, Lat. ab. APOSTLE. 
-<rs type="lemma">δίκαιος</rs> : just. 
-<rs type="lemma">Ἑλλήσποντος</rs>, Ἑλλησπόντου, ὁ: Hellespont, the Dardanelles.
-
-<rs type="lemma">ἐκ</rs>: (before consonants), ἐξ (before vowels), proclit. prep. with G. out of, from. Lat. ex. ECLECTIC. 
-<rs type="lemma">μακρός</rs>: large. MACRON. MACROECONOMICS.
-<rs type="lemma">μῑκρός</rs>: small. MICROSCOPIC. MICROECONOMICS
-
-<rs type="lemma">πόλεμος</rs>: war.
-
-<rs type="lemma">πολέμιος</rs> : hostile. οἱ πολέμιοι: the enemy. POLEMIC.
-
-
-<rs type="lemma">φίλος</rs>: friend. PHILANTHROPIST.
-
+<list type="vocab">
+<item><rs type="lemma">ἄνθρωπος</rs>, ἀνθρώπου, ὁ: person, human being. When used with the feminine article, this noun can explicitly designate a female person. Lat. homo. ANTHROPOLOGY</item>
+<item><rs type="lemma">ἄξιος</rs>: worthy, worth. AXIOM</item>
+<item><rs type="lemma">ἀπό</rs>: prep. with G.: from, away from, Lat. ab. APOSTLE. </item>
+<item><rs type="lemma">δίκαιος</rs> : just. </item>
+<item><rs type="lemma">Ἑλλήσποντος</rs>, Ἑλλησπόντου, ὁ: Hellespont, the Dardanelles.</item>
+<item><rs type="lemma">ἐκ</rs>: (before consonants), ἐξ (before vowels), proclit. prep. with G. out of, from. Lat. ex. ECLECTIC. </item>
+<item><rs type="lemma">μακρός</rs>: large. MACRON. MACROECONOMICS.</item>
+<item><rs type="lemma">μικρός</rs>: [μῑκρός] small. MICROSCOPIC. MICROECONOMICS</item>
+<item><rs type="lemma">πόλεμος</rs>: war.</item>
+<item><rs type="lemma">πολέμιος</rs> : hostile. οἱ πολέμιοι: the enemy. POLEMIC.</item>
+<item><rs type="lemma">φίλος</rs>: friend. PHILANTHROPIST.</item>
+</list>
 
 2 Adjectives in -ρος usually have the acute on the last syllable.
 
@@ -599,20 +674,18 @@ It is nearly nineteen feet long.</p></figure></p></div>
 <pb n="6"/>
 
 
-<div type="textpart" subtype="para" n="11"><p>TRANSLATION HINTS
+<div type="textpart" subtype="para" n="11"><head>Translation Hints.</head>
+  <p>1. Learn all words given in vocabularies.</p>
+<p>2. Learn all forms as they are presented.</p>
+<p>3. Read the Greek aloud, noting word groups.</p>
+<p>4. Translate.
 
-. Learn all words given in vocabularies.
+</p></div>
 
-. Learn all forms as they are presented.
+<div type="textpart" subtype="para" n="12"><head>Exercises</head><p>
 
-. Read the Greek aloud, noting word groups.
-
-. Translate.</p></div>
-
-<div type="textpart" subtype="para" n="12"><p>EXERCISES
-
-
-
+<graphic url="images/pericles.jpg"/>
+<graphic url="https://upload.wikimedia.org/wikipedia/commons/6/67/Pericles_Pio-Clementino_Inv269.jpg"/>
 <figure><head>Pericles</head>
 
 <p>The most brilliant period in Athenian history is justly called the Age
@@ -623,21 +696,23 @@ all the planning and construction of
 the matchless Parthenon.</p></figure>
 
 (a) Translate :
-
-1. τοὺς πολεμίους παύουσιν.1 
-2. τὸν ἄνθρωπον πέμπει ἀπὸ τοῦ Ἑλλησπόντου. 
-3. οἱ ἀδελφοὶ ἦσαν μῑκροί. 
-4. τοὺς φίλους πέμπουσιν1 ἐκ τοῦ ποταμοῦ.
-5. ὁ πόλεμος ἦν δίκαιος.
-6. οἱ πολέμιοι ἀξίους στρατηγοὺς ἔχουσιν. 
-7. ὁ στρατηγὸς τοὺς ἀνθρώπους πέμπει τῷ ἀδελφῷ. 
-8. οἱ ἄνθρωποι ἔχουσιν ἀξίους ἀδελφούς.
-
+<list>
+<item n="1">τοὺς πολεμίους παύουσιν.1 </item>
+<item n="2">τὸν ἄνθρωπον πέμπει ἀπὸ τοῦ Ἑλλησπόντου. </item>
+<item n="3">οἱ ἀδελφοὶ ἦσαν μῑκροί. </item>
+<item n="4">τοὺς φίλους πέμπουσιν1 ἐκ τοῦ ποταμοῦ.</item>
+<item n="5">ὁ πόλεμος ἦν δίκαιος.</item>
+<item n="6">οἱ πολέμιοι ἀξίους στρατηγοὺς ἔχουσιν. </item>
+<item n="7">ὁ στρατηγὸς τοὺς ἀνθρώπους πέμπει τῷ ἀδελφῷ. </item>
+<item n="8">οἱ ἄνθρωποι ἔχουσιν ἀξίους ἀδελφούς.</item>
+</list>
 (b) Complete:
 
-1. οἱ πολεμ--- ἦσαν μακρ---.
-2. τὸν ἀδελφ-- πέμπει ἐκ τ--- ποταμ- (singular). 
-3. οἱ στρατηγοὶ τοὺς φίλους πεμπ-- τῷ ἀνθρωπ--.
+<list>
+<item n="1">οἱ πολεμ--- ἦσαν μακρ---.</item>
+<item n="2">τὸν ἀδελφ-- πέμπει ἐκ τ--- ποταμ- (singular). </item>
+<item n="3">οἱ στρατηγοὶ τοὺς φίλους πεμπ-- τῷ ἀνθρωπ--.</item>
+</list>
 </p>
 <pb n="7"/>
 

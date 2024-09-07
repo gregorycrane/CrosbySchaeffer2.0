@@ -88,7 +88,7 @@ the article and the noun without the article being repeated, it is said to stand
 <div type="textpart" subtype="para" n="32">
 
 
-Dative of Possession. In English we say There is no lid to the box. The Latin says <foreign xml:lang="lat">Puero est gladius</foreign>, <gloss>the boy has a sword</gloss>. So in Greek the dative is used to denote
+Dative of Possession. In English we say There is no lid to the box. The Latin says "Puero est gladius", *the boy has a sword*. So in Greek the dative is used to denote
 the possessor, while the thing possessed is subject of the
 verb to be:
 
@@ -109,36 +109,18 @@ the village had no garrison,
 
 
 VOCABULARY
+<rs type="lemma">γάρ</rs>: postpositive conjunction : for.
+<rs type="lemma">σπονδή</rs>σπονδῆς, ἡ: libation; pl, σπονδή, σπονδαί, αἱ, treaty, truce. SPONDEE.
+<rs type="lemma">κώμη</rs>, κώμης, ἡ: village.
+<rs type="lemma">μάχη</rs>, μάχη, ἡ: battle. LOGOMACHY.
+<rs type="lemma">φεύγω</rs>: flee. Lat. fugio. FUGITIVE,
+<rs type="lemma">οὐ</rs> (before consonants), οὐκ (before smooth breathing), οὐχ (before rough breathing), proclit. adv.: not, UTOPIA. PROPHYLACTIC.
+<rs type="lemma">φυγή</rs>, φυγῆς, ἡ: flight, exile. Lat fuga.
+
+<rs type="lemma">φυλακή</rs>, φυλακῆς, ἡ: guard, garrison.
 
 
-**γάρ**: postpositive conjunction : for.
-
-
-**σπονδή**σπονδῆς, ἡ: libation; pl, σπονδή, σπονδαί, αἱ, treaty, truce. SPONDEE.
-
-
-**κώμη**, κώμης, ἡ: village.
-
-
-**μάχη**, μάχη, ἡ: battle. LOGOMACHY.
-
-
-**φεύγω**: flee. Lat. fugio. FUGITIVE,
-
-
-**οὐ** (before consonants), οὐκ (before smooth breathing), οὐχ (before rough breathing), proclit. adv.: not, UTOPIA. PROPHYLACTIC.
-
-
-**φυγή**, φυγῆς, ἡ: flight, exile. Lat fuga.
-
-
-
-**φυλακή**, φυλακῆς, ἡ: guard, garrison.
-
-
-
-
-**σκηνή**: tent. SCENE.
+<rs type="lemma">σκηνή</rs>: tent. SCENE.
 <rs type="lemma" n="φυλάσσω">φυλάττω</rs>: guard (verb).
 
 <div type="textpart" subtype="para" n="34">

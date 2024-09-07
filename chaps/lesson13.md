@@ -70,49 +70,27 @@ nominative, it is a personal pronoun of the third person:
 VOCABULARY
 
 
+<rs type="lemma">ἀλλήλων</rs>:1 of one another. PARALLEL.
 
+<rs type="lemma">ἄλλος</rs>: other, another; if preceded by the article, the other, the rest of. ALLOPATHY.
 
-**ἀλλήλων**:1 of one another. PARALLEL.
+<rs type="lemma">αὐτός</rs>: same, self, he, she, it, they, etc. AUTOMATON.
 
+<rs type="lemma">βουλεύω</rs>, βουλεύσω, ἐβούλευσα :  plan,
 
+<rs type="lemma">βουλή</rs>: plan, BOULE.
 
-**ἄλλος**: other, another; if preceded by the article, the other, the rest of. ALLOPATHY.
+<rs type="lemma">ἐπι-βουλεύω</rs>: plot against, with D.
 
+<rs type="lemma">ἐπι-βουλή</rs>: plot.
 
+<rs type="lemma">ἴσος</rs>: equal, ISOSCELES.
 
-**αὐτός**: same, self, he, she, it, they, etc. AUTOMATON.
+<rs type="lemma">κελεύω</rs>, κελεύσω, ἐκέλευσα : order, command,
 
+<rs type="lemma">ὅς</rs>, ἥ, ὅ: rel. pron, : who, which, that.
 
-
-**βουλεύω**, βουλεύσω, ἐβούλευσα :  plan,
-
-
-
-**βουλή**: plan, BOULE.
-
-
-
-**ἐπι-βουλεύω**: plot against, with D.
-
-
-
-**ἐπι-βουλή**: plot.
-
-
-
-**ἴσος**: equal, ISOSCELES.
-
-
-
-**κελεύω**, κελεύσω, ἐκέλευσα : order, command,
-
-
-
-**ὅς**, ἥ, ὅ: rel. pron, : who, which, that.
-
-
-
-**ὥρᾱ**: hour, season. HOUR.
+<rs type="lemma">ὥρᾱ</rs>: hour, season. HOUR.
 
 <div type="textpart" subtype="para" n="72">
 

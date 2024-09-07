@@ -36,7 +36,7 @@ Compare with paradigms (§ 514, a).
 <div type="textpart" subtype="para" n="115">
 
 
-First Aorist Active Particirte or παύω <gloss>I stop</gloss>
+First Aorist Active Particirte or παύω *I stop*
 
 ravoas navodoa. matey
 mavoavTos Tavaaoys TavcavTos
@@ -93,41 +93,21 @@ of a real life after death. Cicero was initiated into these Mysteries.</head></f
 
 
 VOCABULARY
+<rs type="lemma">ἐλπίς</rs>, ἐλπίδος, ἡ: hope, expectation.
+<rs type="lemma">κωλύω</rs>, κωλύσω, ἐκώλῦσα: prevent. KOLYNOS.<note>is this referring to https://en.wikipedia.org/wiki/Kolynos?</note>
+<rs type="lemma">πιστεύω</rs>, πιστεύσω, ἐπίστευσα: trust, with D.
 
+<rs type="lemma">τρέπω</rs>, τρέψω, ἔτρεψα, erpea: turn.
+<rs type="lemma">λαμβάνω</rs>, ἔλαβον: take, receive.  SYLLABLE. (Future, page 187.)
+<rs type="lemma">τρόπος</rs>: turn, “bent,” manner, character, TROPIC,
 
-**ἐλπίς**, ἐλπίδος, ἡ: hope, expectation.
-
-
-**κωλύω**, κωλύσω, ἐκώλῦσα: prevent. KOLYNOS.<note>is this referring to https://en.wikipedia.org/wiki/Kolynos?</note>
-
-
-**πιστεύω**, πιστεύσω, ἐπίστευσα: trust, with D.
-
-
-
-**τρέπω**, τρέψω, ἔτρεψα, erpea: turn.
-
-
-**λαμβάνω**, ἔλαβον: take, receive.  SYLLABLE. (Future, page 187.)
-
-
-**τρόπος**: turn, “bent,” manner, character, TROPIC,
+<rs type="lemma">ὄνομα</rs>: name. ONOMATOPOETIC.
+<rs type="lemma">φυγάς</rs>, φυγάδος, ἡ: exile, fugitive. Cf. φυγή.
 
 
 
-**ὄνομα**: name. ONOMATOPOETIC.
-
-
-**φυγάς**, φυγάδος, ἡ: exile, fugitive. Cf. φυγή.
-
-
-
-
-
-**παρ-έχω**, παρ-ίξω, παρ-έσχον: furnish, cause.
-
-
-**ὡς**, conj, adv.: as, as if, when.
+<rs type="lemma">παρ-έχω</rs>, παρ-ίξω, παρ-έσχον: furnish, cause.
+<rs type="lemma">ὡς</rs>, conj, adv.: as, as if, when.
 
 <figure><head>Eleusis</head></figure>
 

@@ -91,31 +91,15 @@ face, "This is the city of Hadrian, not of Theseus."
 
 
 VOCABULARY
+<rs type="lemma">ἐνταῦθα</rs>: adv., there, at that place.
 
-
-**ἐνταῦθα**: adv., there, at that place.
-
-
-
-**λοιπός**, λοιπή, λοιπόν: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.
-
-
-**ἐντεῦθεν**, adv. : from there, thence.
-
-
-**ἐπιστολή**, ἐπιστολῆς, ἡ: letter. EPISTLE.
-
-
-**οἰκία**, οἰκίας, ἡ: house. ECONOMY.
-
-
-**ἔχω**, ἕξω: have; ἔσχον1: got.
-
-
-**πύλη**, πύλης, ἡ: gate; pl., pass. PYLON. THERMOPYLA.
-
-
-**λείπω**, λείψω, ἔλιπον: leave. ECLIPSE.
+<rs type="lemma">λοιπός</rs>, λοιπή, λοιπόν: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.
+<rs type="lemma">ἐντεῦθεν</rs>, adv. : from there, thence.
+<rs type="lemma">ἐπιστολή</rs>, ἐπιστολῆς, ἡ: letter. EPISTLE.
+<rs type="lemma">οἰκία</rs>, οἰκίας, ἡ: house. ECONOMY.
+<rs type="lemma">ἔχω</rs>, ἕξω: have; ἔσχον1: got.
+<rs type="lemma">πύλη</rs>, πύλης, ἡ: gate; pl., pass. PYLON. THERMOPYLA.
+<rs type="lemma">λείπω</rs>, λείψω, ἔλιπον: leave. ECLIPSE.
 
 
 

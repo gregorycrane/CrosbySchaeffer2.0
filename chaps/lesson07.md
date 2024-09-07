@@ -49,46 +49,26 @@ They will be treated later.
 
 VOCABULARY
 
+<rs type="lemma">ἀγορά</rs>, ἀγορᾶς, ἡ: market, market-place. AGORAPHOBIA.
+
+<rs type="lemma">ἀρχή</rs>, ἀρχῆς, ἡ: beginning, rule, province.
+
+<rs type="lemma">δέκα</rs>: ten. DECALOGUE.
+
+<rs type="lemma">διά</rs>, prep.: with G., through ; with A., on account of. DIAMETER.
+
+<rs type="lemma">ἐπιτήδειος</rs>, ἐπιτηδεία, ἐπιτήδειον: fit, suitable ; τὰ ἐπιτήδεια 1: provisions.
+
+<rs type="lemma">ἡμέρᾱ</rs>, ἡμέρας, ἡ: day. EPHEMERAL.
+
+<rs type="lemma">στρατιά</rs>, στρατιᾶς, ἡ: army. Cf. στρατηγός.
 
 
-**ἀγορά**, ἀγορᾶς, ἡ: market, market-place. AGORAPHOBIA.
+<rs type="lemma">φιλία</rs>, φιλίας, ἡ: friendship. Cf. φίλος.
 
+<rs type="lemma">φίλιος</rs>, φιλία, φίλιον: friendly.
 
-
-**ἀρχή**, ἀρχῆς, ἡ: beginning, rule, province.
-
-
-
-**δέκα**: ten. DECALOGUE.
-
-
-
-**διά**, prep.: with G., through ; with A., on account of. DIAMETER.
-
-
-
-**ἐπιτήδειος**, ἐπιτηδεία, ἐπιτήδειον: fit, suitable ; τὰ ἐπιτήδεια 1: provisions.
-
-
-
-**ἡμέρᾱ**, ἡμέρας, ἡ: day. EPHEMERAL.
-
-
-
-**στρατιά**, στρατιᾶς, ἡ: army. Cf. στρατηγός.
-
-
-
-
-**φιλία**, φιλίας, ἡ: friendship. Cf. φίλος.
-
-
-
-**φίλιος**, φιλία, φίλιον: friendly.
-
-
-
-**χώρᾱ**, χώρας, ἡ country.
+<rs type="lemma">χώρᾱ</rs>, χώρας, ἡ country.
 
 <div type="textpart" subtype="para" n="39">
 

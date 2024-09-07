@@ -56,9 +56,7 @@ Verbs with an initial vowel or diphthong lengthen the initial vowel.
 αυ  - ηυ
 οι  - ῳ
 
-Inflect the imperfect indicative active of 
-
-**πέμπω** and ἀθροίζω.
+Inflect the imperfect indicative active of <rs type="lemma">πέμπω</rs> and ἀθροίζω.
 
 <div type="textpart" subtype="para" n="44">
 
@@ -103,37 +101,17 @@ belongs, awakens universal admiration.</figure>
 
 
 VOCABULARY
+<rs type="lemma">ἀθροίζω</rs>: collect.
 
-
-**ἀθροίζω**: collect.
-
-
-
-**ἀλλά**, conj.: but, however. Stronger than δέ. Final a is often elided.
-
-
-**ἁρπάζω**: seize,carry off. HARPY.
-
-
-**ἀρχαῖος**, ἀρχαία, ἀρχαῖον: original, ancient. Cf. ἀρχή. = ARCHAIC.
-
-
-**βάρβαρος**, βαρβάρου, ὁ: foreigner, barbarian.
-
-
-**ἔργον**, ἔργου, τό: work, deed, ENERGY.
-
-
-**κραυγή**, κραυγῆς, ἡ: outcry, shout.
-
-
-**λόγος**, λόγου, ὁ: word, speech. PROLOGUE.
-
-
-**μέν**: coord. conj. (§ 45).
-
-
-**σῑγή**, σιγῆς, ἡ: silence.
+<rs type="lemma">ἀλλά</rs>, conj.: but, however. Stronger than δέ. Final a is often elided.
+<rs type="lemma">ἁρπάζω</rs>: seize,carry off. HARPY.
+<rs type="lemma">ἀρχαῖος</rs>, ἀρχαία, ἀρχαῖον: original, ancient. Cf. ἀρχή. = ARCHAIC.
+<rs type="lemma">βάρβαρος</rs>, βαρβάρου, ὁ: foreigner, barbarian.
+<rs type="lemma">ἔργον</rs>, ἔργου, τό: work, deed, ENERGY.
+<rs type="lemma">κραυγή</rs>, κραυγῆς, ἡ: outcry, shout.
+<rs type="lemma">λόγος</rs>, λόγου, ὁ: word, speech. PROLOGUE.
+<rs type="lemma">μέν</rs>: coord. conj. (§ 45).
+<rs type="lemma">σῑγή</rs>, σιγῆς, ἡ: silence.
 
 <div type="textpart" subtype="para" n="47">
 

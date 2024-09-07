@@ -60,42 +60,24 @@ shall hasten </quote> <bibl></bibl>
 
 VOCABULARY
 
+<rs type="lemma">ἀ-δικέω</rs>, ἀδικήσω, ἠδίκησα: injure, wrong.
+
+<rs type="lemma">αἰτέω</rs>, αἰτήσω, ἤτησα: ask for, demand.
+
+<rs type="lemma">δή</rs>, post-pos. particle emphasizing preceding word: now, then, accordingly, indeed, etc. Often untranslated.
+
+<rs type="lemma">δοκέω</rs>, δόξω, ἔδοξα: seem, seem best, think, Often with inf. as subject. DOGMATIC.
 
 
-**ἀ-δικέω**, ἀδικήσω, ἠδίκησα: injure, wrong.
+<rs type="lemma">καλέω</rs>,1 καλῶ, ἐκάλεσα: call, name. CALENDAR.
 
+<rs type="lemma">ποιέω</rs>, ποιήσω, ἐποίησα: make, do. POET (ποιητής).
 
+<rs type="lemma">πολεμέω</rs>, πολεμήσω, ἐπολέμησα : make war. Cf. πόλεμος.
 
-**αἰτέω**, αἰτήσω, ἤτησα: ask for, demand.
+<rs type="lemma">φιλέω</rs>, φιλήσω, ἐφίλησα: love. Cf. φίλος.
 
-
-
-**δή**, post-pos. particle emphasizing preceding word: now, then, accordingly, indeed, etc. Often untranslated.
-
-
-
-**δοκέω**, δόξω, ἔδοξα: seem, seem best, think, Often with inf. as subject. DOGMATIC.
-
-
-
-
-**καλέω**,1 καλῶ, ἐκάλεσα: call, name. CALENDAR.
-
-
-
-**ποιέω**, ποιήσω, ἐποίησα: make, do. POET (ποιητής).
-
-
-
-**πολεμέω**, πολεμήσω, ἐπολέμησα : make war. Cf. πόλεμος.
-
-
-
-**φιλέω**, φιλήσω, ἐφίλησα: love. Cf. φίλος.
-
-
-
-**ὧδε**, adv.; thus, as follows. Cf. ὅδε.
+<rs type="lemma">ὧδε</rs>, adv.; thus, as follows. Cf. ὅδε.
 
 <div type="textpart" subtype="para" n="130">
 

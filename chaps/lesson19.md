@@ -24,9 +24,7 @@ stem lengthens to ου.
 <div type="textpart" subtype="para" n="108">
 
 
-Result Clauses. 
-
-**ὥστε** followed by the indicative
+Result Clauses. <rs type="lemma">ὥστε</rs> followed by the indicative
 tlenotes an actual result ; followed by the znfinitive it denotes
 a natural or probable result :
 
@@ -40,43 +38,19 @@ I had money (so as) to buy provisions.
 
 
 VOCABULARY
+<rs type="lemma">ἅρμα</rs>, ἅρματος, τό: chariot.
+<rs type="lemma">πρᾶγμα</rs>, πράγματος, τό: fact, business ; pl. trouble. PRAGMATIC.
+<rs type="lemma">ἄρχων</rs>, ἄρχοντος, ὁ: archon, ruler,  commander. Cf. ἄρχω, ἀρχή.
 
-
-**ἅρμα**, ἅρματος, τό: chariot.
-
-
-**πρᾶγμα**, πράγματος, τό: fact, business ; pl. trouble. PRAGMATIC.
-
-
-**ἄρχων**, ἄρχοντος, ὁ: archon, ruler,  commander. Cf. ἄρχω, ἀρχή.
-
-
-
-**ὕδωρ**, ὕδατος, τό: water. HYDRANT.2
-
-
-**ἀσπίς**, ἀσπίδος, ἡ: shield.
-
-
-**δόρυ**, δόρατος, τό : spear. DORYPHOROS.
-
-
-**χάρις**, χάριτος, ἡ: fuvor, gratiiude. χάριν ἔχω: feel grateful, with D. EUCHARIST.
-
-
-**ἐλαύνω**, ἤλασα: drive. Cf. ἐξελαύνω.
-
-
-**Ἑλλάς**, Ἑλλάδος, ἡ: Ηellas, Greece.
-
-
-**χρῆμα**, χρήματος, τό: thing; pl., things, ie., property, wealth, money.
-
-
-**νύξ**, νυκτός, ἡ: night. Lat. nox.
-
-
-**παῖς**, παιδός, ὁ or ἡ: boy, girl, child. PEDAGOGUE.
+<rs type="lemma">ὕδωρ</rs>, ὕδατος, τό: water. HYDRANT.2
+<rs type="lemma">ἀσπίς</rs>, ἀσπίδος, ἡ: shield.
+<rs type="lemma">δόρυ</rs>, δόρατος, τό : spear. DORYPHOROS.
+<rs type="lemma">χάρις</rs>, χάριτος, ἡ: fuvor, gratiiude. χάριν ἔχω: feel grateful, with D. EUCHARIST.
+<rs type="lemma">ἐλαύνω</rs>, ἤλασα: drive. Cf. ἐξελαύνω.
+<rs type="lemma">Ἑλλάς</rs>, Ἑλλάδος, ἡ: Ηellas, Greece.
+<rs type="lemma">χρῆμα</rs>, χρήματος, τό: thing; pl., things, ie., property, wealth, money.
+<rs type="lemma">νύξ</rs>, νυκτός, ἡ: night. Lat. nox.
+<rs type="lemma">παῖς</rs>, παιδός, ὁ or ἡ: boy, girl, child. PEDAGOGUE.
 ὥστε, conj.: with ind., so that; , with inf., so as to.
 
 <div type="textpart" subtype="para" n="110">

@@ -88,41 +88,23 @@ The gateway to the Acropolis.
 
 
 VOCABULARY
+<rs type="lemma">ἄρχω</rs>, ἄρξω:1 begin, rule, command,  with G. ARCHBISHOP.
 
+<rs type="lemma">μέλλω</rs>, μελλήσω: intend, delay, be about to, usually with fut. inf.
 
-**ἄρχω**, ἄρξω:1 begin, rule, command,  with G. ARCHBISHOP.
+<rs type="lemma">διώκω</rs>, διώξω: pursue.
 
+<rs type="lemma">θύρα</rs>, θύρα, ἡ: door; αἱ θύραι: often used of military head-quarters or of the king's court (compare Sublime Porte). THYROID.
 
+<rs type="lemma">νομίζω</rs>:1 believe, think, with inf.
 
-**μέλλω**, μελλήσω: intend, delay, be about to, usually with fut. inf.
+<rs type="lemma">ὁδός</rs>, ὁδοῦ, ὁ: road, route. EXODUS.
 
+<rs type="lemma">πείθω</rs>, πείσω: persuade.
 
+<rs type="lemma">ὑπ-οπτεύω</rs>, ὑπ-οπτεύσω: suspect (ὑπό, under + ὀπτεύω, look), with inf. HYPODERMIC. OPTIC.
 
-**διώκω**, διώξω: pursue.
-
-
-
-**θύρα**, θύρα, ἡ: door; αἱ θύραι: often used of military head-quarters or of the king's court (compare Sublime Porte). THYROID.
-
-
-
-**νομίζω**:1 believe, think, with inf.
-
-
-
-**ὁδός**, ὁδοῦ, ὁ: road, route. EXODUS.
-
-
-
-**πείθω**, πείσω: persuade.
-
-
-
-**ὑπ-οπτεύω**, ὑπ-οπτεύσω: suspect (ὑπό, under + ὀπτεύω, look), with inf. HYPODERMIC. OPTIC.
-
-
-
-**ἰσχυρός**, ἰσχυρά, ἰσχυρόν: strong. 
+<rs type="lemma">ἰσχυρός</rs>, ἰσχυρά, ἰσχυρόν: strong. 
 
 <div type="textpart" subtype="para" n="52">
 
@@ -176,12 +158,8 @@ Word-formation. Many verbs with ε in the stem
 have cognate nouns or adjectives with ο instead of ε:
 λείπω leave, λοιπός left;
 λέγω speak, λόγος word or speech ;
-πέμπω send (escort), 
-
-**πομπή** procession ;
-
-
-**σπένδω** pour a libation, σπονδή Libation.
+πέμπω send (escort), <rs type="lemma">πομπή</rs> procession ;
+<rs type="lemma">σπένδω</rs> pour a libation, σπονδή Libation.
 
 Compare Latin tego I cover, toga cloak; English I sing, song.
 
