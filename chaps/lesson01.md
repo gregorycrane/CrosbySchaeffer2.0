@@ -308,7 +308,36 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 
 
 
-Examples from Xenophon:
+
+The definite article accompanies nouns in vocabularies to show gender. 
+
+
+In the vocabularies derivatives and cognates are printed in small capitals.
+| Lemma | Freq | Total | Gloss |
+| --- | --- | --- | -- |
+| ἀδελφός | 20 | 20 | ἀδελφοῦ, ὁ: brother.  PHILADELPHIA.
+| ἔχει | 16 | 36 | he, she, or it has,
+| ἔχουσι | 1 | 37 | they have.
+| ἦν | 280 | 317 | he, she, it was;  there was.
+| ἦσαν | 132 | 449 | they or there were.
+| ὁ | 6522 | 6971 | ἡ, τό: the.
+| παύει | 0 | 6971 | he, she, or it stops (transitive).
+| παύουσι | 0 | 6971 | they stop (transitive).
+| πέμπει | 9 | 6980 | he, she, or it sends (transitive).
+| πέμπουσι | 7 | 6987 | they send (transitive).
+| ποταμός | 99 | 7086 | ποταμοῦ, ὁ: river, HIPPOPOTAMUS.
+| στρατηγός | 151 | 7237 | στρατηγοῦ, ὁ: general. STRATEGY.
+
+
+
+
+
+
+
+## [§ 6a](#para6a). Examples from Xenophon.
+
+
+
 
 
 >  τὸ δὲ σύμπαν **δῆλος** **ἦν** **Κῦρος**  ὡς σπεύδων πᾶσαν τὴν ὁδὸν.<br/>
@@ -344,34 +373,7 @@ Examples from Xenophon:
 ξένια: ξένιος, neuter accusative plural, *belonging to a friend and guest, hospitable*.
 
 
-|
-
-
-
-
-The definite article accompanies nouns in vocabularies to show gender. 
-
-
-In the vocabularies derivatives and cognates are printed in small capitals.
-| Lemma | Freq | Total | Gloss |
-| --- | --- | --- | -- |
-| ἀδελφός | 20 | 20 | ἀδελφοῦ, ὁ: brother.  PHILADELPHIA.
-| ἔχει | 16 | 36 | he, she, or it has,
-| ἔχουσι | 1 | 37 | they have.
-| ἦν | 280 | 317 | he, she, it was;  there was.
-| ἦσαν | 132 | 449 | they or there were.
-| ὁ | 6522 | 6971 | ἡ, τό: the.
-| παύει | 0 | 6971 | he, she, or it stops (transitive).
-| παύουσι | 0 | 6971 | they stop (transitive).
-| πέμπει | 9 | 6980 | he, she, or it sends (transitive).
-| πέμπουσι | 7 | 6987 | they send (transitive).
-| ποταμός | 99 | 7086 | ποταμοῦ, ὁ: river, HIPPOPOTAMUS.
-| στρατηγός | 151 | 7237 | στρατηγοῦ, ὁ: general. STRATEGY.
-
-
-
-
-
+| 
 
 
 <pb n="3"/>
