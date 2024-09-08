@@ -80,7 +80,7 @@
   <head>Introduction</head>
   <div type="textpart" subtype="para" n="pref01">
   <table>
-  <row><cell><graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/apobates.jpg"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg/1280px-Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg"/></cell></row>
+  <row><cell><graphic url="images/apobates.jpg"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg/1280px-Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg"/></cell></row>
 </table>
 <p><emph>Eager to Go</emph>: Pedestal of the monument dedicated to the victory of Krates in the Apobates (literally,"the person who gets off") race at the Panathenaic Games. A fully armed soldier jumps on and off a moving chariot. The image above is a marble relief from the fourth century BCE and is at the Acropolo Athens, Greece. The original image and more information are available from  <ref n="https://www.flickr.com/photos/69716881@N02/32099864256">Egisto Sani on Flickr</ref>. See also the Wikipedia article on this object (<ref n="https://www.perseus.tufts.edu/hopper/artifact?name=Athens,+Acropolis+1326&amp;object=Sculpture">Acropolis 1326</ref>), which is known as the <ref n="https://en.wikipedia.org/wiki/Apobates_Base">Apobates base.</ref>  </p></div>
 
@@ -96,15 +96,15 @@ This book provides a hybrid approach to learning Ancient that integrates traditi
 
 The state of the art of large-scale assisted reading for Greek and Latin in print culture was side-by-side translation, as in the Loeb Classical Library.
 
-<graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/anabasis-loeb.jpg"/>
+<graphic url="images/anabasis-loeb.jpg"/>
 
 </p><p>
 In the early 1990s, the Perseus Digital Library added the ability to generate analyses for each word in the text and links to one or more online dictionaries.
 
-<graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/anabasis-pers4.jpg"/>
+<graphic url="images/anabasis-pers4.jpg"/>
 </p><p>A major new generation of Perseus adds rich linguistic annotation for syntax and other featurs.
 
-  <graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/anabasis-bt.jpg"/>
+  <graphic url="images/anabasis-bt.jpg"/>
 </p><p>
 You can hack your way through texts in a language that you do not know. But the more you understand about the language to start with, the more you can get out of the automated tools. These new reading environments allow you do to more at an earlier stage of learning but they also enhance your ability to understand the language no matter how much you know. You can exploit automated tools to avoid learning but you can use tools can, if you used well, deepen your understanding of a language. 
 </p>
@@ -299,7 +299,7 @@ In like manner inflect ὁ ἀδελφός.</p>
 
 <p>The table above is often called a paradigm, an English word derived from the Greek "paradeigma," "something that you show (deigma) on the side (para)." As noted above, the table from the text book shows the most important forms. If we look at the paradigm illustrating the forms of <foreign>ποταμός</foreign> <gloss>river</gloss> that actually appear in the 20 million word Glaux Trees parsed corpus of Ancient Greek, we can see that there are additional forms that the textbook leaves out but we can also see that the textbook has nicely captured the most important forms.
 
-  <graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/potamos-parad.jpg"/>
+  <graphic url="images/potamos-parad.jpg"/>
 
 </p>
 <p>
@@ -612,7 +612,7 @@ NB: μεταπεμψάμενος is a compound of a preverb μετά and the ver
 </list>
 
 <table>
-  <row><cell><graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/peneios.jpg"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg"/></cell></row>
+  <row><cell><graphic url="images/peneios.jpg"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg"/></cell></row>
 </table>
 <figure><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg"/><head>ὁ ποταμός</head></figure> 
   <graphic url="https://upload.wikimedia.org/wikipedia/commons/b/b2/Pineios_river_%28thessaly%29_map.jpg"/> 
@@ -691,7 +691,7 @@ many prepositions denotes place from which. This is our second use of the geniti
 
 
 <table>
-  <row><cell><graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/megalop.jpg"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Arcadian_Gate.jpg/2560px-Arcadian_Gate.jpg"/></cell></row>
+  <row><cell><graphic url="images/megalop.jpg"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Arcadian_Gate.jpg/2560px-Arcadian_Gate.jpg"/></cell></row>
 </table>
 
 
@@ -702,7 +702,7 @@ victor of Leuctra. Note particularly the central doorpost of this great gate.
 It is nearly nineteen feet long.</p></figure>
 
 <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Spartan_Territory_Before_371_BC.png/973px-Spartan_Territory_Before_371_BC.png"/>
-<graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/leuctra-gmap.jpg"/></p>
+<graphic url="images/leuctra-gmap.jpg"/></p>
 </div>
 
 <div type="textpart" subtype="para" n="10"><head>Vocabulary</head><p>
@@ -737,7 +737,7 @@ It is nearly nineteen feet long.</p></figure>
 
 <div type="textpart" subtype="para" n="12"><head>Exercises</head><p>
 
-<graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/pericles.jpg"/>
+<graphic url="images/pericles.jpg"/>
 <graphic url="https://upload.wikimedia.org/wikipedia/commons/6/67/Pericles_Pio-Clementino_Inv269.jpg"/>
 <figure><head>Pericles</head>
 
