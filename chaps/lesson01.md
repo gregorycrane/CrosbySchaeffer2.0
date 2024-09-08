@@ -29,15 +29,19 @@ While there are many (!) small variations, all Greek nouns roughly follow the fo
 | | 1st Declension/α-stem | 2nd Declension/ο-stem | 3rd Declension/C-stem | 
 | --- | --- | --- | --- 
 | Nom. | ἀρετή | ποταμός | φύλαξ (φύλακ-ς) | 
-| Gen. | ἀρετῆς | ποταμοῦ | φύλακ-ος (φύλαξ) | 
-| Dat. | ἀρετῇ | ποταμῷ | φύλακ-ι (φύλαξ) | 
+| Gen. | ἀρετῆς | ποταμοῦ | φύλακ-ος | 
+| Dat. | ἀρετῇ | ποταμῷ | φύλακ-ι | 
 | Acc. | ἀρετήν | ποταμόν | φύλακ-α (φύλακ-ν) | 
 | Tokens | 2662 | 3352 | 3359 | 
 | Lemmas | 465 | 473 | 412 | 
 
-Crosby and Schaeffer avoid the terms "first/second/third declension" because they chose to start with nouns that have a stem that ends in ο (omicron, "little o"). They begin with the "second declension" because of "their general uniformity," i.e., because there are fewer small variant ways to generate o-stem nouns. (Second declension nouns use two different endings for nominative and accusative: -ον for the singular, -α for the plural.) Furthermore, o-stem endings are reused for pronouns, adjectives and participles. Once you are familiar with the o-stem endings, you can also understand the case endings on an additional c. 6,981 additional words -- in other words, you will be able to understand the case endings for 10,332 of the tokens (18%) in the *Anabasis*.
+Crosby and Schaeffer avoid the terms "first/second/third declension" because they chose to start with nouns that have a stem that ends in -ο (omicron, "little o"). They begin with the "second declension" because of "their general uniformity," i.e., because there are fewer small variant ways to generate o-stem nouns. (Second declension nouns use two different endings for nominative and accusative: -ον for the singular, -α for the plural.) Furthermore, o-stem endings are reused for pronouns, adjectives and participles. Once you are familiar with the o-stem endings, you can also understand the case endings on an additional c. 6,981 additional words -- in other words, you will be able to understand the case endings for 10,332 of the tokens (18%) in the *Anabasis*.
+
+
 
 > **Note**: The caveat reflects the fact that the genitive plural ending is common to all three declensions. While automatic count simply assumes that o-stem nouns account for 1/3 of the ambiguous forms, that ambiguity should not significantly affect the overall total.
+
+
 
 
 
@@ -85,7 +89,7 @@ In like manner inflect ὁ ἀδελφός.
 
 The table above is often called a paradigm, an English word derived from the Greek "paradeigma," "something that you show (deigma) on the side (para)." As noted above, the table from the text book shows the most important forms. If we look at the paradigm illustrating the forms of <foreign>ποταμός</foreign> *river* that actually appear in the 20 million word Glaux Trees parsed corpus of Ancient Greek, we can see that there are additional forms that the textbook leaves out but we can also see that the textbook has nicely captured the most important forms.
 
-![text](images/potamos-parad.jpg)
+![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/potamos-parad.jpg)
 
 
 
@@ -118,9 +122,32 @@ While this lesson focuses on introducing nouns, it also introduces  singular and
 | Lemma | Short Def | Singular | Plural | 
 | --- | --- | --- | --- 
 | εἰμί | to be | ἦν, s/he or it was | ἦσαν, they were | 
-| ἔχω | to have, to possess | ἔχει s/he or it has | ἔχύουσι, they have | 
+| ἔχω | to have, to possess | ἔχει s/he or it has | ἔχουσι, they have | 
 | παύω | to stop | παύει s/he or it stops | παύουσι, they stop | 
 | πέμπω | to send | πέμπει, s/he or it sends | πέμπουσι, they send | 
+| w-stem verbs ending n  |  | -ει 256 | -ουσι 132 | 
+
+
+Following the patterns above, you could explain and/or generate 256 third person singular forms (s/he or it) and 132 third person plural (they) forms that occur in the Anabasis: e.g.,
+
+
+
+ἀναβαίνω, *to go up, mount, to go up to*.
+
+>  **ἀναβαίνει** ... ὁ Κῦρος<br/>
+>  Cyrus goes up.<br/>
+>> Xen. Anab. 1.1.2 
+
+
+
+ἀγγέλλω, *to bear a message*
+
+>  οἱ αἱρετοὶ **ἀγγέλλουσι** τοῖς στρατιώταις<br/>
+>  The ones who had been selected bear a message to the soldiers.<br/>
+>> Xen. Anab. 1.3.21 
+
+
+
 
 
 
@@ -313,6 +340,12 @@ The definite article accompanies nouns in vocabularies to show gender.
 
 
 In the vocabularies derivatives and cognates are printed in small capitals.
+
+
+In the vocabulary we calculate how often each word appears in Xenophon's Anabasis and then we give you the running total -- how many words in Xenopon you can understand after adding a new word to what you have studied already.  
+
+
+Because we have not yet studied Greek verbs, this lesson gives us six isolated verb forms so that we can start to generate sentences. Four of thses verb forms show up fairly often. Two of them, however, - "s/he stops" and "they stop" -- do not appear ever in the Anabasis. The verb "to stop" does appear but not very oten in the active voice and never in the forms <foreign>παύει</foreign> and <foreign>παύουσι</foreign>. Textbooks use verbs like <foreign>παύει</foreign>, "I stop," because these verbs are morphologically easy to generate. 
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
 | ἀδελφός | 20 | 20 | ἀδελφοῦ, ὁ: brother.  PHILADELPHIA.
@@ -337,7 +370,7 @@ In the vocabularies derivatives and cognates are printed in small capitals.
 ## [§ 6a](#para6a). Examples from Xenophon.
 
 
-
+Predicate nominatives:
 
 
 >  τὸ δὲ σύμπαν **δῆλος** **ἦν** **Κῦρος**  ὡς σπεύδων πᾶσαν τὴν ὁδὸν.<br/>
@@ -346,7 +379,39 @@ In the vocabularies derivatives and cognates are printed in small capitals.
 >> Xen. Anab. 1.5.9
 
 
-δῆλος: δῆλος, nominative singular, *visible, conspicuous*
+
+We find the expression "general of the Greeks" multiple times:
+
+
+<quote>
+ἐπειδὴ δὲ πάντας παρήλασε , στήσας τὸ ἅρμα πρὸ τῆς φάλαγγος μέσης , πέμψας Πίγρητα τὸν ἑρμηνέα παρὰ **τοὺς στρατηγοὺς τῶν Ἑλλήνων** ἐκέλευσε προβαλέσθαι τὰ ὅπλα καὶ ἐπιχωρῆσαι ὅλην τὴν φάλαγγα.</quote>
+>  And when he had passed them all, stationing his chariot in front of the middle of the phalanx (the military formation), and having sent Pigres, the interpreter, to the generals of the Greeks, he ordered them to resent arms and the whole phalanx to move forward. <br/>
+>> 1.2.17
+
+
+<quote>καὶ Κῦρος μεταπεμψάμενος **τοὺς στρατηγοὺς τῶν Ἑλλήνων** ἔλεγεν ὅτι ἡ ὁδὸς ἔσοιτο πρὸς βασιλέα μέγαν εἰς Βαβυλῶνα ·
+
+</quote>
+
+>  And Cyrus, having summoned **the generals of the Greeks** began to explain that the road would be to Babylon against the Great King.<br/>
+>> Xen. Anab. 1.4.11
+
+NB: μεταπεμψάμενος is a compound of a preverb μετά and the verb πέμπει/πέμπουσι and means "to send over to himself," "to summon."
+
+
+
+
+The following example includes a predicate nominative and a genitive.
+
+<quote>
+ὥστε **ἄδειπνοι ἦσαν οἱ πλεῖστοι** τῶν Ἑλλήνων</quote>
+>  The greater number of the Greek were without having eaten (i.e., had not yet eaten)<br/>
+>> Xen. Anab. 1.10.19
+
+
+ἄδειπνοι: ἄδειπνος, masculine nominative plural, *without having eaten*
+πλεῖστοι: πολύς, superlative, masculine nominative plural, *much, many *
+τῶν Ἑλλήνων, *of the Greeks*
 
 
 
@@ -420,7 +485,7 @@ In the vocabularies derivatives and cognates are printed in small capitals.
 
 
 
-| ![text](images/peneios.jpg) | ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg) | 
+| ![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/peneios.jpg) | ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg) | 
 
 ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg ὁ ποταμός)
 ![text](https://upload.wikimedia.org/wikipedia/commons/b/b2/Pineios_river_%28thessaly%29_map.jpg)

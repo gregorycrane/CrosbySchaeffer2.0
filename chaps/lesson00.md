@@ -1,7 +1,7 @@
 <head>Introduction</head>
 <div type="textpart" subtype="para" n="pref01">
 
-| ![text](images/apobates.jpg) | ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg/1280px-Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg) | 
+| ![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/apobates.jpg) | ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg/1280px-Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg) | 
 
 
 
@@ -21,19 +21,19 @@ This book provides a hybrid approach to learning Ancient that integrates traditi
 
 The state of the art of large-scale assisted reading for Greek and Latin in print culture was side-by-side translation, as in the Loeb Classical Library.
 
-![text](images/anabasis-loeb.jpg)
+![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/anabasis-loeb.jpg)
 
 
 
 
 In the early 1990s, the Perseus Digital Library added the ability to generate analyses for each word in the text and links to one or more online dictionaries.
 
-![text](images/anabasis-pers4.jpg)
+![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/anabasis-pers4.jpg)
 
 
 A major new generation of Perseus adds rich linguistic annotation for syntax and other featurs.
 
-![text](images/anabasis-bt.jpg)
+![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/anabasis-bt.jpg)
 
 
 

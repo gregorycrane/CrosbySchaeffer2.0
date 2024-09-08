@@ -87,7 +87,7 @@ Indo-European
 
 
 
-| ![text](images/megalop.jpg) | ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Arcadian_Gate.jpg/2560px-Arcadian_Gate.jpg) | 
+| ![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/megalop.jpg) | ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Arcadian_Gate.jpg/2560px-Arcadian_Gate.jpg) | 
 
 
 
@@ -100,7 +100,7 @@ victor of Leuctra. Note particularly the central doorpost of this great gate.
 It is nearly nineteen feet long.</figure>
 
 ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Spartan_Territory_Before_371_BC.png/973px-Spartan_Territory_Before_371_BC.png)
-![text](images/leuctra-gmap.jpg)
+![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/leuctra-gmap.jpg)
 
 
 ## [§ 10](#para10). Vocabulary
@@ -148,7 +148,7 @@ It is nearly nineteen feet long.</figure>
 
 
 
-![text](images/pericles.jpg)
+![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/pericles.jpg)
 ![text](https://upload.wikimedia.org/wikipedia/commons/6/67/Pericles_Pio-Clementino_Inv269.jpg)
 <figure><head>Pericles</head>
 

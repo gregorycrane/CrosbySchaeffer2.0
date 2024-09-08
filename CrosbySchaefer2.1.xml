@@ -80,7 +80,7 @@
   <head>Introduction</head>
   <div type="textpart" subtype="para" n="pref01">
   <table>
-  <row><cell><graphic url="images/apobates.jpg"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg/1280px-Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg"/></cell></row>
+  <row><cell><graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/apobates.jpg"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg/1280px-Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg"/></cell></row>
 </table>
 <p><emph>Eager to Go</emph>: Pedestal of the monument dedicated to the victory of Krates in the Apobates (literally,"the person who gets off") race at the Panathenaic Games. A fully armed soldier jumps on and off a moving chariot. The image above is a marble relief from the fourth century BCE and is at the Acropolo Athens, Greece. The original image and more information are available from  <ref n="https://www.flickr.com/photos/69716881@N02/32099864256">Egisto Sani on Flickr</ref>. See also the Wikipedia article on this object (<ref n="https://www.perseus.tufts.edu/hopper/artifact?name=Athens,+Acropolis+1326&amp;object=Sculpture">Acropolis 1326</ref>), which is known as the <ref n="https://en.wikipedia.org/wiki/Apobates_Base">Apobates base.</ref>  </p></div>
 
@@ -96,15 +96,15 @@ This book provides a hybrid approach to learning Ancient that integrates traditi
 
 The state of the art of large-scale assisted reading for Greek and Latin in print culture was side-by-side translation, as in the Loeb Classical Library.
 
-<graphic url="images/anabasis-loeb.jpg"/>
+<graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/anabasis-loeb.jpg"/>
 
 </p><p>
 In the early 1990s, the Perseus Digital Library added the ability to generate analyses for each word in the text and links to one or more online dictionaries.
 
-<graphic url="images/anabasis-pers4.jpg"/>
+<graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/anabasis-pers4.jpg"/>
 </p><p>A major new generation of Perseus adds rich linguistic annotation for syntax and other featurs.
 
-  <graphic url="images/anabasis-bt.jpg"/>
+  <graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/anabasis-bt.jpg"/>
 </p><p>
 You can hack your way through texts in a language that you do not know. But the more you understand about the language to start with, the more you can get out of the automated tools. These new reading environments allow you do to more at an earlier stage of learning but they also enhance your ability to understand the language no matter how much you know. You can exploit automated tools to avoid learning but you can use tools can, if you used well, deepen your understanding of a language. 
 </p>
@@ -250,19 +250,19 @@ You can hack your way through texts in a language that you do not know. But the 
     <table>
     <row role="label"><cell></cell><cell>1st Declension/α-stem</cell><cell>2nd Declension/ο-stem</cell><cell>3rd Declension/C-stem</cell></row>
 <row><cell>Nom.</cell><cell>ἀρετή</cell><cell>ποταμός</cell><cell>φύλαξ (φύλακ-ς)</cell></row>
-<row><cell>Gen.</cell><cell>ἀρετῆς</cell><cell>ποταμοῦ</cell><cell>φύλακ-ος (φύλαξ)</cell></row>
-<row><cell>Dat.</cell><cell>ἀρετῇ</cell><cell>ποταμῷ</cell><cell>φύλακ-ι (φύλαξ)</cell></row>
+<row><cell>Gen.</cell><cell>ἀρετῆς</cell><cell>ποταμοῦ</cell><cell>φύλακ-ος</cell></row>
+<row><cell>Dat.</cell><cell>ἀρετῇ</cell><cell>ποταμῷ</cell><cell>φύλακ-ι</cell></row>
 <row><cell>Acc.</cell><cell>ἀρετήν</cell><cell>ποταμόν</cell><cell>φύλακ-α (φύλακ-ν)</cell></row>
 <row><cell>Tokens</cell><cell>2662</cell><cell>3352</cell><cell>3359</cell></row>
 <row><cell>Lemmas</cell><cell>465</cell><cell>473</cell><cell>412</cell></row>
   </table>
-    Crosby and Schaeffer avoid the terms "first/second/third declension" because they chose to start with nouns that have a stem that ends in ο (omicron, "little o"). They begin with the "second declension" because of "their general uniformity," i.e., because there are fewer small variant ways to generate o-stem nouns. (Second declension nouns use two different endings for nominative and accusative: -ον for the singular, -α for the plural.) Furthermore, o-stem endings are reused for pronouns, adjectives and participles. Once you are familiar with the o-stem endings, you can also understand the case endings on an additional c. 6,981 additional words -- in other words, you will be able to understand the case endings for 10,332 of the tokens (18%) in the <title>Anabasis</title>.
-    
+    Crosby and Schaeffer avoid the terms "first/second/third declension" because they chose to start with nouns that have a stem that ends in -ο (omicron, "little o"). They begin with the "second declension" because of "their general uniformity," i.e., because there are fewer small variant ways to generate o-stem nouns. (Second declension nouns use two different endings for nominative and accusative: -ον for the singular, -α for the plural.) Furthermore, o-stem endings are reused for pronouns, adjectives and participles. Once you are familiar with the o-stem endings, you can also understand the case endings on an additional c. 6,981 additional words -- in other words, you will be able to understand the case endings for 10,332 of the tokens (18%) in the <title>Anabasis</title>.
+</p><p>
     Note: The caveat reflects the fact that the genitive plural ending is common to all three declensions. While automatic count simply assumes that o-stem nouns account for 1/3 of the ambiguous forms, that ambiguity should not significantly affect the overall total.
 
   
 
-    
+</p><p>
     In the table shows that the frequency of all three classes of noun is comparable in the <title>Anabasis</title>. To understand that, we need to explain two terms: <term>word tokens</term>  and <term>lemmata</term>. To understand the difference, consider the following sentence:
 
 
@@ -299,7 +299,7 @@ In like manner inflect ὁ ἀδελφός.</p>
 
 <p>The table above is often called a paradigm, an English word derived from the Greek "paradeigma," "something that you show (deigma) on the side (para)." As noted above, the table from the text book shows the most important forms. If we look at the paradigm illustrating the forms of <foreign>ποταμός</foreign> <gloss>river</gloss> that actually appear in the 20 million word Glaux Trees parsed corpus of Ancient Greek, we can see that there are additional forms that the textbook leaves out but we can also see that the textbook has nicely captured the most important forms.
 
-  <graphic url="images/potamos-parad.jpg"/>
+  <graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/potamos-parad.jpg"/>
 
 </p>
 <p>
@@ -325,11 +325,30 @@ In like manner inflect ὁ ἀδελφός.</p>
   <table>
     <row role="label"><cell>Lemma</cell><cell>Short Def</cell><cell>Singular</cell><cell>Plural</cell></row>
     <row><cell>εἰμί</cell><cell>to be</cell><cell>ἦν, s/he or it was</cell><cell>ἦσαν, they were</cell></row>
-    <row><cell>ἔχω</cell><cell>to have, to possess</cell><cell>ἔχει s/he or it has</cell><cell>ἔχύουσι, they have</cell></row>
+    <row><cell>ἔχω</cell><cell>to have, to possess</cell><cell>ἔχει s/he or it has</cell><cell>ἔχουσι, they have</cell></row>
     <row><cell>παύω</cell><cell>to stop</cell><cell>παύει s/he or it stops</cell><cell>παύουσι, they stop</cell></row>
     <row><cell>πέμπω</cell><cell>to send</cell><cell>πέμπει, s/he or it sends</cell><cell>πέμπουσι, they send</cell></row>
+    <row><cell>w-stem verbs ending n </cell><cell></cell><cell>-ει 256</cell><cell>-ουσι 132</cell></row>
 </table>
+
+Following the patterns above, you could explain and/or generate 256 third person singular forms (s/he or it) and 132 third person plural (they) forms that occur in the Anabasis: e.g.,</p>
+
+<p>ἀναβαίνω, <gloss>to go up, mount, to go up to</gloss>. 
+  <cit>
+    <quote><emph>ἀναβαίνει</emph> ... ὁ Κῦρος</quote>
+    <quote xml:lang="eng">Cyrus goes up.</quote>
+    <bibl>Xen. Anab. 1.1.2 </bibl>
+  </cit>  
+</p><p>ἀγγέλλω, <gloss>to bear a message</gloss>
+  <cit>
+    <quote>οἱ αἱρετοὶ <emph>ἀγγέλλουσι</emph> τοῖς στρατιώταις</quote>
+    <quote xml:lang="eng">The ones who had been selected bear a message to the soldiers.</quote>
+    <bibl>Xen. Anab. 1.3.21 </bibl>
+  </cit>
 </p>
+
+
+
 </div>
 
 <div type="textpart" subtype="para" n="3"><head>Accents.</head>
@@ -466,6 +485,8 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 
 <p>The definite article accompanies nouns in vocabularies to show gender. </p>
 <p>In the vocabularies derivatives and cognates are printed in small capitals.</p>
+<p>In the vocabulary we calculate how often each word appears in Xenophon's Anabasis and then we give you the running total -- how many words in Xenopon you can understand after adding a new word to what you have studied already.  </p>
+<p>Because we have not yet studied Greek verbs, this lesson gives us six isolated verb forms so that we can start to generate sentences. Four of thses verb forms show up fairly often. Two of them, however, - "s/he stops" and "they stop" -- do not appear ever in the Anabasis. The verb "to stop" does appear but not very oten in the active voice and never in the forms <foreign>παύει</foreign> and <foreign>παύουσι</foreign>. Textbooks use verbs like <foreign>παύει</foreign>, "I stop," because these verbs are morphologically easy to generate. </p>
   <list type="vocab">
 <item><rs type="lemma">ἀδελφός</rs>, ἀδελφοῦ, ὁ: brother.  PHILADELPHIA.</item>
 <item><rs type="form">ἔχει</rs>: he, she, or it has,</item>
@@ -487,7 +508,7 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 </div>
 
 <div type="textpart" subtype="para" n="6a"><head>Examples from Xenophon.</head>
-<p>
+<p>Predicate nominatives:
 
   <cit>
     <quote>τὸ δὲ σύμπαν <emph>δῆλος</emph> <emph>ἦν</emph> <emph>Κῦρος</emph>  ὡς σπεύδων πᾶσαν τὴν ὁδὸν.</quote>
@@ -495,8 +516,36 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
     <quote xml:lang="eng">On the whole, <emph>Cyrus</emph> <emph>was</emph> <emph>obvious</emph>, insofar as he was rushing through the whole trip.</quote>
     <bibl>Xen. Anab. 1.5.9</bibl>
   </cit>
+</p><p>We find the expression "general of the Greeks" multiple times:
+
+  <cit>
+    <quote> 
+      ἐπειδὴ δὲ πάντας παρήλασε , στήσας τὸ ἅρμα πρὸ τῆς φάλαγγος μέσης , πέμψας Πίγρητα τὸν ἑρμηνέα παρὰ <emph>τοὺς στρατηγοὺς τῶν Ἑλλήνων</emph> ἐκέλευσε προβαλέσθαι τὰ ὅπλα καὶ ἐπιχωρῆσαι ὅλην τὴν φάλαγγα.</quote>
+    <quote xml:lang="eng">And when he had passed them all, stationing his chariot in front of the middle of the phalanx (the military formation), and having sent Pigres, the interpreter, to the generals of the Greeks, he ordered them to resent arms and the whole phalanx to move forward. </quote>
+    <bibl>1.2.17</bibl>
+  </cit>
+
+<cit><quote>καὶ Κῦρος μεταπεμψάμενος <emph>τοὺς στρατηγοὺς τῶν Ἑλλήνων</emph> ἔλεγεν ὅτι ἡ ὁδὸς ἔσοιτο πρὸς βασιλέα μέγαν εἰς Βαβυλῶνα ·
+
+</quote>
+
+<quote xml:lang="eng">And Cyrus, having summoned <emph>the generals of the Greeks</emph> began to explain that the road would be to Babylon against the Great King.</quote>
+<bibl>Xen. Anab. 1.4.11</bibl>
+</cit>
+NB: μεταπεμψάμενος is a compound of a preverb μετά and the verb πέμπει/πέμπουσι and means "to send over to himself," "to summon."
+</p>
+
+<p>The following example includes a predicate nominative and a genitive.
+  <cit>
+    <quote>
+      ὥστε <emph>ἄδειπνοι ἦσαν οἱ πλεῖστοι</emph> τῶν Ἑλλήνων</quote>
+      <quote xml:lang="eng">The greater number of the Greek were without having eaten (i.e., had not yet eaten)</quote>
+      <bibl>Xen. Anab. 1.10.19</bibl>
+  </cit>
 <list>
-  <item>δῆλος: δῆλος, nominative singular, <gloss>visible, conspicuous</gloss></item>
+  <item>ἄδειπνοι: ἄδειπνος, masculine nominative plural, <gloss>without having eaten</gloss></item>
+    <item>πλεῖστοι: πολύς, superlative, masculine nominative plural, <gloss>much, many </gloss></item>
+    <item>τῶν Ἑλλήνων, <gloss>of the Greeks</gloss></item>
 </list>
 
   <cit>
@@ -563,7 +612,7 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 </list>
 
 <table>
-  <row><cell><graphic url="images/peneios.jpg"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg"/></cell></row>
+  <row><cell><graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/peneios.jpg"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg"/></cell></row>
 </table>
 <figure><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg"/><head>ὁ ποταμός</head></figure> 
   <graphic url="https://upload.wikimedia.org/wikipedia/commons/b/b2/Pineios_river_%28thessaly%29_map.jpg"/> 
@@ -642,7 +691,7 @@ many prepositions denotes place from which. This is our second use of the geniti
 
 
 <table>
-  <row><cell><graphic url="images/megalop.jpg"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Arcadian_Gate.jpg/2560px-Arcadian_Gate.jpg"/></cell></row>
+  <row><cell><graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/megalop.jpg"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Arcadian_Gate.jpg/2560px-Arcadian_Gate.jpg"/></cell></row>
 </table>
 
 
@@ -653,7 +702,7 @@ victor of Leuctra. Note particularly the central doorpost of this great gate.
 It is nearly nineteen feet long.</p></figure>
 
 <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Spartan_Territory_Before_371_BC.png/973px-Spartan_Territory_Before_371_BC.png"/>
-<graphic url="images/leuctra-gmap.jpg"/></p>
+<graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/leuctra-gmap.jpg"/></p>
 </div>
 
 <div type="textpart" subtype="para" n="10"><head>Vocabulary</head><p>
@@ -688,7 +737,7 @@ It is nearly nineteen feet long.</p></figure>
 
 <div type="textpart" subtype="para" n="12"><head>Exercises</head><p>
 
-<graphic url="images/pericles.jpg"/>
+<graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/pericles.jpg"/>
 <graphic url="https://upload.wikimedia.org/wikipedia/commons/6/67/Pericles_Pio-Clementino_Inv269.jpg"/>
 <figure><head>Pericles</head>
 
