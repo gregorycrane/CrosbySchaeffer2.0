@@ -113,8 +113,8 @@ The table above is often called a paradigm, an English word derived from the Gre
 
 
 1. The same ending appears with both acute (ποταμός) and grave (ποταμὸς) accents. The shift from acute to grave (discussed below) happens when another accented word follows. You can see that, in the corpus, the grave accent is used 697 times and that the acute accent (which the textbook shows you) only appears 271 out of 968 times (27%). A word like ποταμός usually has another accented word following it and appears as ποταμὸς. 
-You can see that Greek does have instances where we get forms in thedual ("two rivers"), but there are only 3 instances of the dual number.
-The textbook leaves out one Greek case: the vocative. The vocative is used when a speaker directly addresses someone. The vocative form ποταμὲ means "O River!" but it only occurs 1 time in 20 million tokens. While this low number reflects the fact that people do not typically address an anonymous river, vocative forms are not very common -- and they are easy (in o-stem nows, just shorten the -ος ending to -ε).
+- You can see that Greek does have instances where we get forms in thedual ("two rivers"), but there are only 3 instances of the dual number.
+- The textbook leaves out one Greek case: the vocative. The vocative is used when a speaker directly addresses someone. The vocative form ποταμὲ means "O River!" but it only occurs 1 time in 20 million tokens. While this low number reflects the fact that people do not typically address an anonymous river, vocative forms are not very common -- and they are easy (in o-stem nows, just shorten the -ος ending to -ε).
 
 
 
@@ -424,9 +424,9 @@ The following example includes a predicate nominative and a genitive.
 >> Xen. Anab. 1.10.19
 
 
-ἄδειπνοι: ἄδειπνος, masculine nominative plural, *without having eaten*
-πλεῖστοι: πολύς, superlative, masculine nominative plural,*much, many*
-τῶν Ἑλλήνων, *of the Greeks*
+- ἄδειπνοι: ἄδειπνος, masculine nominative plural, *without having eaten*
+- πλεῖστοι: πολύς, superlative, masculine nominative plural,*much, many*
+- τῶν Ἑλλήνων, *of the Greeks*
 
 
 
@@ -449,8 +449,8 @@ The following example includes a predicate nominative and a genitive.
 
 
 
-Ἕλλησιν:  Ἕλλην, masculine dative plural, *Hellen; Greek*.
-ξένια: ξένιος, neuter accusative plural, *belonging to a friend and guest, hospitable*.
+-  Ἕλλησιν:  Ἕλλην, masculine dative plural, *Hellen; Greek*.
+- ξένια: ξένιος, neuter accusative plural, *belonging to a friend and guest, hospitable*.
 
 
 | 

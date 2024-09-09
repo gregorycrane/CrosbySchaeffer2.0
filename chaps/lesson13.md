@@ -41,16 +41,16 @@ the messenger whom you sent wishes to flee.
 Uses of αὐτός.
 
 
-* Following the article, αὐτός means
+- Following the article, αὐτός means
 same : ἡ αὐτὴ κώμη the same village, 
 
-* modifying a noun or pronoun, but not following
+- modifying a noun or pronoun, but not following
 the article, it means self; Κῦρος αὐτός Cyrus himself; ἡ κώμη αὐτή the village itself ;
 αὐτὸς ἔφυγεν he himself fled ;
 >  αὐτὸς γὰρ Θρασύμαχος ὁμολογεῖ τοὺς μὲν ἄρχοντας ἐνίοτε ἑαυτοῖς κακὰ προστάττειν, τοῖς δὲ δίκαιον εἶναι ταῦτα ποιεῖν<br/> >> Plat. Rep. 340a
 
 
-* standing alone, except in the
+- standing alone, except in the
 nominative, it is a personal pronoun of the third person:
 αὐτῷ ἔγραψα I wrote to him,
 
