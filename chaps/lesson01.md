@@ -425,7 +425,7 @@ The following example includes a predicate nominative and a genitive.
 
 
 ἄδειπνοι: ἄδειπνος, masculine nominative plural, *without having eaten*
-πλεῖστοι: πολύς, superlative, masculine nominative plural, *much, many *
+πλεῖστοι: πολύς, superlative, masculine nominative plural,*much, many*
 τῶν Ἑλλήνων, *of the Greeks*
 
 
