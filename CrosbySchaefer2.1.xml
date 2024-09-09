@@ -324,7 +324,7 @@ In like manner inflect ὁ ἀδελφός.</p>
 
 <div type="textpart" subtype="para" n="2a"><head>Number and Verbs.</head>
   <p>
-    Ancient Greek has endings not only for the singular (e.g., English river vs. rivers) but also has a dual nuumber used to describe pairs (e.g., two hands, two siblings etc.). Because the dual is much less common, many introductory grammars leave it out so that learners can focus on higher frequency features. We will see duals when we look at real primary sources but the digital part of speech annotations will (usually) identify these. You will learn to recognize them as you read more Greek.
+    Ancient Greek has endings not only for the singular (e.g., English river vs. rivers) but also has a dual number used to describe pairs (e.g., two hands, two siblings etc.). Because the dual is much less common, many introductory grammars leave it out so that learners can focus on higher frequency features. We will see duals when we look at real primary sources but the digital part of speech annotations will (usually) identify these. You will learn to recognize them as you read more Greek.
   </p>
 <p>While this lesson focuses on introducing nouns, it also introduces  singular and plural forms for three different verbs. These forms allow us to begin generating full sentence and thus to see when we apply each case to a noun.
 
@@ -525,26 +525,23 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 </p><p>We find the expression "general of the Greeks" multiple times:
 
   <cit>
-    <quote> 
-      ἐπειδὴ δὲ πάντας παρήλασε , στήσας τὸ ἅρμα πρὸ τῆς φάλαγγος μέσης , πέμψας Πίγρητα τὸν ἑρμηνέα παρὰ <emph>τοὺς στρατηγοὺς τῶν Ἑλλήνων</emph> ἐκέλευσε προβαλέσθαι τὰ ὅπλα καὶ ἐπιχωρῆσαι ὅλην τὴν φάλαγγα.</quote>
+    <quote>ἐπειδὴ δὲ πάντας παρήλασε , στήσας τὸ ἅρμα πρὸ τῆς φάλαγγος μέσης , πέμψας Πίγρητα τὸν ἑρμηνέα παρὰ <emph>τοὺς στρατηγοὺς τῶν Ἑλλήνων</emph> ἐκέλευσε προβαλέσθαι τὰ ὅπλα καὶ ἐπιχωρῆσαι ὅλην τὴν φάλαγγα.</quote>
     <quote xml:lang="eng">And when he had passed them all, stationing his chariot in front of the middle of the phalanx (the military formation), and having sent Pigres, the interpreter, to the generals of the Greeks, he ordered them to resent arms and the whole phalanx to move forward. </quote>
     <bibl>1.2.17</bibl>
   </cit>
 
-<cit><quote>καὶ Κῦρος μεταπεμψάμενος <emph>τοὺς στρατηγοὺς τῶν Ἑλλήνων</emph> ἔλεγεν ὅτι ἡ ὁδὸς ἔσοιτο πρὸς βασιλέα μέγαν εἰς Βαβυλῶνα ·
-
-</quote>
+<cit><quote>καὶ Κῦρος μεταπεμψάμενος <emph>τοὺς στρατηγοὺς τῶν Ἑλλήνων</emph> ἔλεγεν ὅτι ἡ ὁδὸς ἔσοιτο πρὸς βασιλέα μέγαν εἰς Βαβυλῶνα ·</quote>
 
 <quote xml:lang="eng">And Cyrus, having summoned <emph>the generals of the Greeks</emph> began to explain that the road would be to Babylon against the Great King.</quote>
 <bibl>Xen. Anab. 1.4.11</bibl>
 </cit>
+
 NB: μεταπεμψάμενος is a compound of a preverb μετά and the verb πέμπει/πέμπουσι and means "to send over to himself," "to summon."
 </p>
 
 <p>The following example includes a predicate nominative and a genitive.
   <cit>
-    <quote>
-      ὥστε <emph>ἄδειπνοι ἦσαν οἱ πλεῖστοι</emph> τῶν Ἑλλήνων</quote>
+    <quote>ὥστε <emph>ἄδειπνοι ἦσαν οἱ πλεῖστοι</emph> τῶν Ἑλλήνων</quote>
       <quote xml:lang="eng">The greater number of the Greek were without having eaten (i.e., had not yet eaten)</quote>
       <bibl>Xen. Anab. 1.10.19</bibl>
   </cit>
