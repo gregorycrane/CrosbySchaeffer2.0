@@ -35,6 +35,12 @@ While there are many (!) small variations, all Greek nouns roughly follow the fo
 
 <foreign>φύλαξ, φύλακος, ὁ</foreign>, *guardian*
 
+
+The entries above provide the nominative singular and the genitive -- if we know those two forms, we can generate all the forms for any (regular) noun.
+
+
+We then add the article to show the gender of the noun. The article ἡ (as we will formally learn later) is the feminine. The article ὁ is masculine. We will also learn the neuter article τό when we encounter neuter nouns in lesson 4.
+
 | | 1st Declension/α-stem | 2nd Declension/ο-stem | 3rd Declension/C-stem | 
 | --- | --- | --- | --- 
 | Nom. | ἀρετή | ποταμός | φύλαξ (φύλακ-ς) | 
@@ -122,7 +128,7 @@ The textbook leaves out one Greek case: the vocative. The vocative is used when 
 
 
 
-Ancient Greek has endings not only for the singular (e.g., English river vs. rivers) but also has a dual nuumber used to describe pairs (e.g., two hands, two siblings etc.). Because the dual is much less common, many introductory grammars leave it out so that learners can focus on higher frequency features. We will see duals when we look at real primary sources but the digital part of speech annotations will (usually) identify these. You will learn to recognize them as you read more Greek.
+Ancient Greek has endings not only for the singular (e.g., English river vs. rivers) but also has a dual number used to describe pairs (e.g., two hands, two siblings etc.). Because the dual is much less common, many introductory grammars leave it out so that learners can focus on higher frequency features. We will see duals when we look at real primary sources but the digital part of speech annotations will (usually) identify these. You will learn to recognize them as you read more Greek.
 
 
 
@@ -393,18 +399,17 @@ Predicate nominatives:
 We find the expression "general of the Greeks" multiple times:
 
 
-<quote>
-ἐπειδὴ δὲ πάντας παρήλασε , στήσας τὸ ἅρμα πρὸ τῆς φάλαγγος μέσης , πέμψας Πίγρητα τὸν ἑρμηνέα παρὰ **τοὺς στρατηγοὺς τῶν Ἑλλήνων** ἐκέλευσε προβαλέσθαι τὰ ὅπλα καὶ ἐπιχωρῆσαι ὅλην τὴν φάλαγγα.</quote>
+>  ἐπειδὴ δὲ πάντας παρήλασε , στήσας τὸ ἅρμα πρὸ τῆς φάλαγγος μέσης , πέμψας Πίγρητα τὸν ἑρμηνέα παρὰ **τοὺς στρατηγοὺς τῶν Ἑλλήνων** ἐκέλευσε προβαλέσθαι τὰ ὅπλα καὶ ἐπιχωρῆσαι ὅλην τὴν φάλαγγα.<br/>
+
 >  And when he had passed them all, stationing his chariot in front of the middle of the phalanx (the military formation), and having sent Pigres, the interpreter, to the generals of the Greeks, he ordered them to resent arms and the whole phalanx to move forward. <br/>
 >> 1.2.17
 
 
-<quote>καὶ Κῦρος μεταπεμψάμενος **τοὺς στρατηγοὺς τῶν Ἑλλήνων** ἔλεγεν ὅτι ἡ ὁδὸς ἔσοιτο πρὸς βασιλέα μέγαν εἰς Βαβυλῶνα ·
-
-</quote>
+>  καὶ Κῦρος μεταπεμψάμενος **τοὺς στρατηγοὺς τῶν Ἑλλήνων** ἔλεγεν ὅτι ἡ ὁδὸς ἔσοιτο πρὸς βασιλέα μέγαν εἰς Βαβυλῶνα ·<br/>
 
 >  And Cyrus, having summoned **the generals of the Greeks** began to explain that the road would be to Babylon against the Great King.<br/>
 >> Xen. Anab. 1.4.11
+
 
 NB: μεταπεμψάμενος is a compound of a preverb μετά and the verb πέμπει/πέμπουσι and means "to send over to himself," "to summon."
 
@@ -413,8 +418,8 @@ NB: μεταπεμψάμενος is a compound of a preverb μετά and the ver
 
 The following example includes a predicate nominative and a genitive.
 
-<quote>
-ὥστε **ἄδειπνοι ἦσαν οἱ πλεῖστοι** τῶν Ἑλλήνων</quote>
+>  ὥστε **ἄδειπνοι ἦσαν οἱ πλεῖστοι** τῶν Ἑλλήνων<br/>
+
 >  The greater number of the Greek were without having eaten (i.e., had not yet eaten)<br/>
 >> Xen. Anab. 1.10.19
 
