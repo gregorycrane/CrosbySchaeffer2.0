@@ -26,6 +26,15 @@ reek uses word endings (and to a lesser degree prefixes) far more than languages
 While there are many (!) small variations, all Greek nouns roughly follow the following three patterns. Each pattern for noun formation is traditionally called a "declension." Core examples of the three declensions of Greek include the following:
 
 
+
+<foreign>ἀρετή, ἀρετῆς, ἡ</foreign>, *excellence, skill*
+
+
+<foreign>ποταμός, ποταμοῦ, ὁ</foreign>, *river, stream*
+
+
+<foreign>φύλαξ, φύλακος, ὁ</foreign>, *guardian*
+
 | | 1st Declension/α-stem | 2nd Declension/ο-stem | 3rd Declension/C-stem | 
 | --- | --- | --- | --- 
 | Nom. | ἀρετή | ποταμός | φύλαξ (φύλακ-ς) | 
@@ -89,8 +98,9 @@ In like manner inflect ὁ ἀδελφός.
 
 The table above is often called a paradigm, an English word derived from the Greek "paradeigma," "something that you show (deigma) on the side (para)." As noted above, the table from the text book shows the most important forms. If we look at the paradigm illustrating the forms of <foreign>ποταμός</foreign> *river* that actually appear in the 20 million word Glaux Trees parsed corpus of Ancient Greek, we can see that there are additional forms that the textbook leaves out but we can also see that the textbook has nicely captured the most important forms.
 
-![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/potamos-parad.jpg)
+![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/potamos-parad.jpg?raw=true)
 
+[Screenshot from the [Perseus Atlas repository](https://atlas-test.fly.dev/morphology/lemma/349/).]
 
 
 
@@ -108,7 +118,7 @@ The textbook leaves out one Greek case: the vocative. The vocative is used when 
 
 
 
-## [§ 2a](#para2a). Number and verbs.
+## [§ 2a](#para2a). Number and Verbs.
 
 
 
@@ -485,7 +495,7 @@ The following example includes a predicate nominative and a genitive.
 
 
 
-| ![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/images/peneios.jpg) | ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg) | 
+| ![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/peneios.jpg?raw=true) | ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg) | 
 
 ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg ὁ ποταμός)
 ![text](https://upload.wikimedia.org/wikipedia/commons/b/b2/Pineios_river_%28thessaly%29_map.jpg)

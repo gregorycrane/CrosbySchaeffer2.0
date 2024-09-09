@@ -80,7 +80,7 @@
   <head>Introduction</head>
   <div type="textpart" subtype="para" n="pref01">
   <table>
-  <row><cell><graphic url="images/apobates.jpg"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg/1280px-Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg"/></cell></row>
+  <row><cell><graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/apobates.jpg?raw=true"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg/1280px-Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg"/></cell></row>
 </table>
 <p><emph>Eager to Go</emph>: Pedestal of the monument dedicated to the victory of Krates in the Apobates (literally,"the person who gets off") race at the Panathenaic Games. A fully armed soldier jumps on and off a moving chariot. The image above is a marble relief from the fourth century BCE and is at the Acropolo Athens, Greece. The original image and more information are available from  <ref n="https://www.flickr.com/photos/69716881@N02/32099864256">Egisto Sani on Flickr</ref>. See also the Wikipedia article on this object (<ref n="https://www.perseus.tufts.edu/hopper/artifact?name=Athens,+Acropolis+1326&amp;object=Sculpture">Acropolis 1326</ref>), which is known as the <ref n="https://en.wikipedia.org/wiki/Apobates_Base">Apobates base.</ref>  </p></div>
 
@@ -96,15 +96,15 @@ This book provides a hybrid approach to learning Ancient that integrates traditi
 
 The state of the art of large-scale assisted reading for Greek and Latin in print culture was side-by-side translation, as in the Loeb Classical Library.
 
-<graphic url="images/anabasis-loeb.jpg"/>
+<graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/anabasis-loeb.jpg?raw=true"/>
 
 </p><p>
 In the early 1990s, the Perseus Digital Library added the ability to generate analyses for each word in the text and links to one or more online dictionaries.
 
-<graphic url="images/anabasis-pers4.jpg"/>
+<graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/anabasis-pers4.jpg?raw=true"/>
 </p><p>A major new generation of Perseus adds rich linguistic annotation for syntax and other featurs.
 
-  <graphic url="images/anabasis-bt.jpg"/>
+  <graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/anabasis-bt.jpg?raw=true"/>
 </p><p>
 You can hack your way through texts in a language that you do not know. But the more you understand about the language to start with, the more you can get out of the automated tools. These new reading environments allow you do to more at an earlier stage of learning but they also enhance your ability to understand the language no matter how much you know. You can exploit automated tools to avoid learning but you can use tools can, if you used well, deepen your understanding of a language. 
 </p>
@@ -245,8 +245,13 @@ You can hack your way through texts in a language that you do not know. But the 
   </p><p>
     reek uses word endings (and to a lesser degree prefixes) far more than languages such as English or Mandarin. English still uses some endings -- English speakers recogngize that "endings" is plural and "ending" is singular. Likewise, English speakers know that the added -s with verbs indicates a singular subject: "she travel*s*" vs. "they travel." Greek has three basic classes of endings for nouns. We will talk about the meanings that these endings convey below. This section introduces the forms.
   </p><p>
-    While there are many (!) small variations, all Greek nouns roughly follow the following three patterns. Each pattern for noun formation is traditionally called a "declension." Core examples of the three declensions of Greek include the following:
+    While there are many (!) small variations, all Greek nouns roughly follow the following three patterns. Each pattern for noun formation is traditionally called a "declension." Core examples of the three declensions of Greek include the following:</p>
     
+    <p><foreign>ἀρετή, ἀρετῆς, ἡ</foreign>, <gloss>excellence, skill</gloss></p>
+    <p><foreign>ποταμός, ποταμοῦ, ὁ</foreign>, <gloss>river, stream</gloss></p>
+    <p><foreign>φύλαξ, φύλακος, ὁ</foreign>, <gloss>guardian</gloss></p>
+<p>The entries above provide the nominative singular and the genitive -- if we know those two forms, we can generate all the forms for any (regular) noun. 
+</p><p>We then add the article to show the gender of the noun. The article ἡ (as we will formally learn later) is the feminine. The article ὁ is masculine. We will also learn the neuter article τό when we encounter neuter nouns in lesson 4.
     <table>
     <row role="label"><cell></cell><cell>1st Declension/α-stem</cell><cell>2nd Declension/ο-stem</cell><cell>3rd Declension/C-stem</cell></row>
 <row><cell>Nom.</cell><cell>ἀρετή</cell><cell>ποταμός</cell><cell>φύλαξ (φύλακ-ς)</cell></row>
@@ -299,8 +304,9 @@ In like manner inflect ὁ ἀδελφός.</p>
 
 <p>The table above is often called a paradigm, an English word derived from the Greek "paradeigma," "something that you show (deigma) on the side (para)." As noted above, the table from the text book shows the most important forms. If we look at the paradigm illustrating the forms of <foreign>ποταμός</foreign> <gloss>river</gloss> that actually appear in the 20 million word Glaux Trees parsed corpus of Ancient Greek, we can see that there are additional forms that the textbook leaves out but we can also see that the textbook has nicely captured the most important forms.
 
-  <graphic url="images/potamos-parad.jpg"/>
+  <graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/potamos-parad.jpg?raw=true"/>
 
+  [Screenshot from the <ref n="https://atlas-test.fly.dev/morphology/lemma/349/">Perseus Atlas repository</ref>.]
 </p>
 <p>
   <list>
@@ -316,7 +322,7 @@ In like manner inflect ὁ ἀδελφός.</p>
 
 </div>
 
-<div type="textpart" subtype="para" n="2a"><head>Number and verbs.</head>
+<div type="textpart" subtype="para" n="2a"><head>Number and Verbs.</head>
   <p>
     Ancient Greek has endings not only for the singular (e.g., English river vs. rivers) but also has a dual nuumber used to describe pairs (e.g., two hands, two siblings etc.). Because the dual is much less common, many introductory grammars leave it out so that learners can focus on higher frequency features. We will see duals when we look at real primary sources but the digital part of speech annotations will (usually) identify these. You will learn to recognize them as you read more Greek.
   </p>
@@ -612,7 +618,7 @@ NB: μεταπεμψάμενος is a compound of a preverb μετά and the ver
 </list>
 
 <table>
-  <row><cell><graphic url="images/peneios.jpg"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg"/></cell></row>
+  <row><cell><graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/peneios.jpg?raw=true"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg"/></cell></row>
 </table>
 <figure><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg"/><head>ὁ ποταμός</head></figure> 
   <graphic url="https://upload.wikimedia.org/wikipedia/commons/b/b2/Pineios_river_%28thessaly%29_map.jpg"/> 
@@ -691,7 +697,7 @@ many prepositions denotes place from which. This is our second use of the geniti
 
 
 <table>
-  <row><cell><graphic url="images/megalop.jpg"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Arcadian_Gate.jpg/2560px-Arcadian_Gate.jpg"/></cell></row>
+  <row><cell><graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/megalop.jpg?raw=true"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Arcadian_Gate.jpg/2560px-Arcadian_Gate.jpg"/></cell></row>
 </table>
 
 
@@ -702,7 +708,7 @@ victor of Leuctra. Note particularly the central doorpost of this great gate.
 It is nearly nineteen feet long.</p></figure>
 
 <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Spartan_Territory_Before_371_BC.png/973px-Spartan_Territory_Before_371_BC.png"/>
-<graphic url="images/leuctra-gmap.jpg"/></p>
+<graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/leuctra-gmap.jpg?raw=true"/></p>
 </div>
 
 <div type="textpart" subtype="para" n="10"><head>Vocabulary</head><p>
@@ -737,7 +743,7 @@ It is nearly nineteen feet long.</p></figure>
 
 <div type="textpart" subtype="para" n="12"><head>Exercises</head><p>
 
-<graphic url="images/pericles.jpg"/>
+<graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/pericles.jpg?raw=true"/>
 <graphic url="https://upload.wikimedia.org/wikipedia/commons/6/67/Pericles_Pio-Clementino_Inv269.jpg"/>
 <figure><head>Pericles</head>
 
