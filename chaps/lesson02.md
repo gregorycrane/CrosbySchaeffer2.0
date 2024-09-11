@@ -51,6 +51,15 @@ of the nominative plural is considered short (§ V, a).
 
 
 
+In most case, we generate an adverb by using the ending -ως:
+
+| Greek | English | 
+| --- | -- | 
+|  δίκαιος  |  δικαίως  |
+|  ἄξιος  |  ἀξίως  |
+
+
+
 
 
 
@@ -93,11 +102,15 @@ Indo-European
 
 
 
-<figure><head>The ARCADIAN GATE</head>
+*The ARCADIAN GATE*: The walls of Messene still testify to the engineering skill and daring of the victor of Leuctra. Note particularly the central doorpost of this great gate. It is nearly nineteen feet long.
 
-The walls of Messene still testify to the engineering skill and daring of the
-victor of Leuctra. Note particularly the central doorpost of this great gate.
-It is nearly nineteen feet long.</figure>
+
+
+
+
+GRC: The [Battle of Leuctra](https://en.wikipedia.org/wiki/Battle_of_Leuctra) in 371 BCE led the permanent elimination of Spartan power. The battle itself might have been a temporary setback but the Boeotians followed up by invading the Peloponnese and the founding of [Messene](https://en.wikipedia.org/wiki/Messene) as a defensible city in Messenia. Much of Spartan power had been based upon using terror to keep the inhabitants of Messenia as a subject population. The permanent liberation of Messenia drastically reduced the amount of labor and of resources that Spartans could extract.
+
+
 
 ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Spartan_Territory_Before_371_BC.png/973px-Spartan_Territory_Before_371_BC.png)
 ![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/leuctra-gmap.jpg?raw=true)
@@ -108,17 +121,17 @@ It is nearly nineteen feet long.</figure>
 
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| ἄνθρωπος | 75 | 7312 | ἀνθρώπου, ὁ: person, human being. When used with the feminine article, this noun can explicitly designate a female person. Lat. homo. ANTHROPOLOGY
-| ἄξιος | 23 | 7335 | worthy, worth. AXIOM
-| ἀπό | 111 | 7446 | prep. with G.: from, away from, Lat. ab. APOSTLE. 
-| δίκαιος | 32 | 7478 | just. 
-| Ἑλλήσποντος | 3 | 7481 | Ἑλλησπόντου, ὁ: Hellespont, the Dardanelles.
-| ἐκ | 249 | 7730 | (before consonants), ἐξ (before vowels), proclit. prep. with G. out of, from. Lat. ex. ECLECTIC. 
-| μακρός | 11 | 7741 | large. MACRON. MACROECONOMICS.
-| μικρός | 15 | 7756 | [μῑκρός] small. MICROSCOPIC. MICROECONOMICS
-| πόλεμος | 37 | 7793 | war.
-| πολέμιος | 235 | 8028 | hostile. οἱ πολέμιοι: the enemy. POLEMIC.
-| φίλος | 91 | 8119 | friend. PHILANTHROPIST.
+| ἄνθρωπος | [75](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἄνθρωπος.md) | 7312 | ἀνθρώπου, ὁ: person, human being. When used with the feminine article, this noun can explicitly designate a female person. ANTHROPOLOGY
+| ἄξιος | [23](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἄξιος.md) | 7335 | worthy, worth. AXIOM
+| ἀπό | [111](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀπό.md) | 7446 | prep. with G.: from, away from, Lat. ab. APOSTLE. 
+| δίκαιος | [32](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δίκαιος.md) | 7478 | just. 
+| Ἑλλήσποντος | [3](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/Ἑλλήσποντος.md) | 7481 | Ἑλλησπόντου, ὁ: Hellespont, the Dardanelles.
+| ἐκ | [249](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐκ.md) | 7730 | (before consonants), ἐξ (before vowels), proclit. prep. with G. out of, from. Lat. ex. ECLECTIC. 
+| μακρός | [11](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/μακρός.md) | 7741 | large. MACRON. MACROECONOMICS.
+| μικρός | [15](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/μικρός.md) | 7756 | [μῑκρός] small. MICROSCOPIC. MICROECONOMICS
+| πόλεμος | [37](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πόλεμος.md) | 7793 | war.
+| πολέμιος | [235](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πολέμιος.md) | 8028 | hostile, i.e., people with whom you have a war; οἱ πολέμιοι: the enemy (people with whom you are at war -- we will learn another word for personal enemies). POLEMIC.
+| φίλος | [91](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φίλος.md) | 8119 | friend. PHILANTHROPIST.
 
 
 2 Adjectives in -ρος usually have the acute on the last syllable.
@@ -144,10 +157,6 @@ It is nearly nineteen feet long.</figure>
 
 
 
-## [§ 12](#para12). Exercises
-
-
-
 ![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/pericles.jpg?raw=true)
 ![text](https://upload.wikimedia.org/wikipedia/commons/6/67/Pericles_Pio-Clementino_Inv269.jpg)
 <figure><head>Pericles</head>
@@ -161,6 +170,10 @@ philosopher. To him we owe above
 all the planning and construction of
 the matchless Parthenon.</figure>
 
+
+## [§ 12](#para12). Exercises
+
+
 (a) Translate :
 
 1. τοὺς πολεμίους παύουσιν.1 
@@ -171,6 +184,10 @@ the matchless Parthenon.</figure>
 6. οἱ πολέμιοι ἀξίους στρατηγοὺς ἔχουσιν. 
 7. ὁ στρατηγὸς τοὺς ἀνθρώπους πέμπει τῷ ἀδελφῷ. 
 8. οἱ ἄνθρωποι ἔχουσιν ἀξίους ἀδελφούς.
+
+Note 1: -ν is usually added to words ending in -σι before a word beginning with a vowel or at the end of the sentence. This is call the ν-movable.
+
+
 
 (b) Complete:
 

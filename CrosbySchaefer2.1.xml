@@ -671,6 +671,11 @@ of the nominative plural is considered short (§ V, a).
   <row><cell>τῷ δικαίῳ</cell><cell>to/for the just person</cell><cell>τοῖς δικαίοις</cell><cell>to/for the just people</cell></row>
   <row><cell>τὸν δίκαιον</cell><cell>the just person [obj]</cell><cell>τοὺς δικαίους</cell><cell>the just people [obj]</cell></row>
 </table>
+</p>
+<p>In most case, we generate an adverb by using the ending -ως:
+
+  <foreign>δίκαιος</foreign> <gloss>δικαίως</gloss>
+  <foreign>ἄξιος</foreign> <gloss>ἀξίως</gloss>
 
 
 </p><p>
@@ -713,7 +718,7 @@ many prepositions denotes place from which. This is our second use of the geniti
 
 <div type="textpart" subtype="para" n="10"><head>Vocabulary</head><p>
 <list type="vocab">
-<item><rs type="lemma">ἄνθρωπος</rs>, ἀνθρώπου, ὁ: person, human being. When used with the feminine article, this noun can explicitly designate a female person. Lat. homo. ANTHROPOLOGY</item>
+<item><rs type="lemma">ἄνθρωπος</rs>, ἀνθρώπου, ὁ: person, human being. When used with the feminine article, this noun can explicitly designate a female person. ANTHROPOLOGY</item>
 <item><rs type="lemma">ἄξιος</rs>: worthy, worth. AXIOM</item>
 <item><rs type="lemma">ἀπό</rs>: prep. with G.: from, away from, Lat. ab. APOSTLE. </item>
 <item><rs type="lemma">δίκαιος</rs> : just. </item>
@@ -722,7 +727,7 @@ many prepositions denotes place from which. This is our second use of the geniti
 <item><rs type="lemma">μακρός</rs>: large. MACRON. MACROECONOMICS.</item>
 <item><rs type="lemma">μικρός</rs>: [μῑκρός] small. MICROSCOPIC. MICROECONOMICS</item>
 <item><rs type="lemma">πόλεμος</rs>: war.</item>
-<item><rs type="lemma">πολέμιος</rs> : hostile. οἱ πολέμιοι: the enemy. POLEMIC.</item>
+<item><rs type="lemma">πολέμιος</rs> : hostile, i.e., people with whom you have a war; οἱ πολέμιοι: the enemy (people with whom you are at war -- we will learn another word for personal enemies). POLEMIC.</item>
 <item><rs type="lemma">φίλος</rs>: friend. PHILANTHROPIST.</item>
 </list>
 
@@ -734,14 +739,12 @@ many prepositions denotes place from which. This is our second use of the geniti
 
 
 <div type="textpart" subtype="para" n="11"><head>Translation Hints.</head>
-  <p>1. Learn all words given in vocabularies.</p>
+<p>1. Learn all words given in vocabularies.</p>
 <p>2. Learn all forms as they are presented.</p>
 <p>3. Read the Greek aloud, noting word groups.</p>
 <p>4. Translate.
 
-</p></div>
 
-<div type="textpart" subtype="para" n="12"><head>Exercises</head><p>
 
 <graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/pericles.jpg?raw=true"/>
 <graphic url="https://upload.wikimedia.org/wikipedia/commons/6/67/Pericles_Pio-Clementino_Inv269.jpg"/>
@@ -753,7 +756,9 @@ of sculptor and architect, poet and
 philosopher. To him we owe above
 all the planning and construction of
 the matchless Parthenon.</p></figure>
+</p></div>
 
+<div type="textpart" subtype="para" n="12"><head>Exercises</head><p>
 (a) Translate :
 <list>
 <item n="1">τοὺς πολεμίους παύουσιν.1 </item>
@@ -765,6 +770,8 @@ the matchless Parthenon.</p></figure>
 <item n="7">ὁ στρατηγὸς τοὺς ἀνθρώπους πέμπει τῷ ἀδελφῷ. </item>
 <item n="8">οἱ ἄνθρωποι ἔχουσιν ἀξίους ἀδελφούς.</item>
 </list>
+Note 1: -ν is usually added to words ending in -σι before a word beginning with a vowel or at the end of the sentence. This is call the ν-movable.
+</p><p>
 (b) Complete:
 
 <list>

@@ -364,18 +364,18 @@ In the vocabulary we calculate how often each word appears in Xenophon's Anabasi
 Because we have not yet studied Greek verbs, this lesson gives us six isolated verb forms so that we can start to generate sentences. Four of thses verb forms show up fairly often. Two of them, however, - "s/he stops" and "they stop" -- do not appear ever in the Anabasis. The verb "to stop" does appear but not very oten in the active voice and never in the forms <foreign>παύει</foreign> and <foreign>παύουσι</foreign>. Textbooks use verbs like <foreign>παύει</foreign>, "I stop," because these verbs are morphologically easy to generate. 
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| ἀδελφός | 20 | 20 | ἀδελφοῦ, ὁ: brother.  PHILADELPHIA.
+| ἀδελφός | [20](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀδελφός.md) | 20 | ἀδελφοῦ, ὁ: brother.  PHILADELPHIA.
 | ἔχει | 16 | 36 | he, she, or it has,
 | ἔχουσι | 1 | 37 | they have.
 | ἦν | 280 | 317 | he, she, it was;  there was.
 | ἦσαν | 132 | 449 | they or there were.
-| ὁ | 6522 | 6971 | ἡ, τό: the.
+| ὁ | [6522](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὁ.md) | 6971 | ἡ, τό: the.
 | παύει | 0 | 6971 | he, she, or it stops (transitive).
 | παύουσι | 0 | 6971 | they stop (transitive).
 | πέμπει | 9 | 6980 | he, she, or it sends (transitive).
 | πέμπουσι | 7 | 6987 | they send (transitive).
-| ποταμός | 99 | 7086 | ποταμοῦ, ὁ: river, HIPPOPOTAMUS.
-| στρατηγός | 151 | 7237 | στρατηγοῦ, ὁ: general. STRATEGY.
+| ποταμός | [99](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ποταμός.md) | 7086 | ποταμοῦ, ὁ: river, HIPPOPOTAMUS.
+| στρατηγός | [151](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/στρατηγός.md) | 7237 | στρατηγοῦ, ὁ: general. STRATEGY.
 
 
 
