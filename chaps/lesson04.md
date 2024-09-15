@@ -100,31 +100,32 @@ The Delphic stadium (page 12) still retains the row of flat stones whose double 
 
 
 (b) Translate :
-1. ἐν τῷ πεδίῳ δῆλα ἦν τὰ δένδρα.
-2. στάδιον ἦν παρὰ τῷ ποταμῷ.
+
+1. ἐν τῷ πεδίῳ δῆλα ἦν τὰ δένδρα. 
+2. στάδιον ἦν παρὰ τῷ ποταμῷ. 
 3. καὶ εἰς τὸ στάδιον ἄγουσι δῶρα καλά.
-4. οἱ δ' ἀδελφοὶ ἐθέλουσιν ἵππους πέμπειν παρὰ τοὺς 1 φίλους.
+4. οἱ δ' ἀδελφοὶ ἐθέλουσιν ἵππους πέμπειν παρὰ τοὺς 1 φίλους. 
 <pb n="12"/>
-5. παρὰ τοῦ στρατηγοῦ ἦν τὰ δῶρα.
-6. ἐκ τοῦ πεδίου ἄγομεν τοὺς πολεμίους.
+5. παρὰ τοῦ στρατηγοῦ ἦν τὰ δῶρα. 
+6. ἐκ τοῦ πεδίου ἄγομεν τοὺς πολεμίους. 
 7. ὁ δ' ἄνθρωπος ἄξιος ἦν δώρων 2 καλῶν.
 
 (c) Complete :
 
-1. τὰ δὲ δένδρα (linking verb) μῑκρά.
-2. ἵππους δ᾽ ἄγετε εἰς τ-- ποταμ-- (singular).
+1. τὰ δὲ δένδρα (linking verb) μῑκρά. 
+2. ἵππους δ᾽ ἄγετε εἰς τ-- ποταμ-- (singular). 
 3. ἐν τ-- σταδι-- (singular) ἦσαν οἱ ἀδελφ--.
 
 (d) Write in Greek :
 
 
 
-1. The stones were beautiful.
-2. The brave messenger was hostile to the general.
-3. The friends have fine horses.
+1. The stones were beautiful. 
+2. The brave messenger was hostile to the general. 
+3. The friends have fine horses. 
 4. He wishes to lead the men out of danger.
-
 5. The brothers were hostile to the messenger.
+
 
 <figure><head>τὸ ἐν Δελφοῖς στάδιον</head>
 

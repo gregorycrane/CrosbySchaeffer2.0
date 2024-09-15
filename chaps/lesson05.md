@@ -5,11 +5,9 @@
 ἀρχὴ δὲ τοι ἥμισυ παντός.
 
 </quote>
-<quote>
-Well begun is half done.
+>  Well begun is half done.<br/>
 
-Literally: (The) beginning (is) half of everything.
-</quote>
+>  WLiterally: (The) beginning (is) half of everything.<br/>
 >> Greek maxim.
 
 
@@ -58,7 +56,6 @@ EXERCISES
 2. δωρ-- (plural) πέμπομεν παρὰ τ-- φιλ-- (plura).
 3. οἱ δ᾽ ἀδελφ-- ἦσαν δικαι--.
 4. ἐθέλετε γραφ--.
-
 5. τὰ δενδρ--  ---- (linking verb) ἐν τ-- πεδι-- (singular),
 
 6. ὁ ἄγγελος πολέμιος ἦν τ ἀνθρωπ-- (singular).
