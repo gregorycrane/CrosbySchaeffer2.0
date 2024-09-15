@@ -69,8 +69,9 @@ into the plain
 παρὰ τὸν στρατηγόν to the side of the general.
 
 <div type="textpart" subtype="para" n="25">
-# Chapter 4: VOCABULARY
-
+# Chapter 4: Vocabulary
+| Lemma | Freq | Total | Gloss |
+| --- | --- | --- | -- |
 | δέ | [2389](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δέ.md) | 14451 | (δ᾽ before vowels), postpositive conj: but, and.
 
 | ἐν | [439](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐν.md) | 14890 | proclitic prep. with D. : in (Lat. in). ENCLITIC.
