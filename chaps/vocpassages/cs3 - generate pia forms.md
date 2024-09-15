@@ -1,4 +1,4 @@
-# present indicative active 1st/2nd person w-stem verbs 9 results
+# present indicative active 1st/2nd person w-stem verbs 12 results
 ## 1. [1.1.2](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.1.2?mode=syntax-trees) 5 ['8996054']
 **BLANK** [οὖν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὖν "οὖν d-------- so, then, therefore") [ὁ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---mn- the") [Κῦρος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Κῦρος "Κῦρος n-s---mn- Cyrus") [λαβὼν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λαμβάνω "λαμβάνω v-sapamn- to take, seize, receive") [Τισσαφέρνην](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Τισσαφέρνης "Τισσαφέρνης n-s---ma- Tissaphernes") [ὡς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὡς "ὡς c-------- as, how") [φίλον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φίλος "φίλος a-s---ma- friend; loved, beloved, dear") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [τῶν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---mg- the") [Ἑλλήνων](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Ἕλλην "Ἕλλην n-p---mg- Hellen; Greek") [ἔχων](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἔχω "ἔχω v-sppamn- have, hold; be able; (+ adv.) be; (mid.) cling to, be next to (+ gen.)") [ὁπλίτας](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁπλίτης "ὁπλίτης n-p---ma- heavy-armed, armed") [ἀνέβη](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀναβαίνω "ἀναβαίνω v3saia--- to go up, mount, to go up to") [τριακοσίους](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τριακόσιοι "τριακόσιοι a-p---ma- three hundred") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ἄρχοντα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄρχω "ἄρχω v-sppama- (to be first) to rule, to begin") [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [αὐτῶν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=αὐτός "αὐτός a-p---mg- unemph. 3rd pers.pronoun; -self; [the] same") [Ξενίαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Ξενίας "Ξενίας n-s---ma- Xenias") [Παρράσιον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Παρράσιος "Παρράσιος n-s---ma- of Parrhasia (Arcadia)") [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
 
@@ -83,7 +83,31 @@ tlg0032.tlg006_perseus-grc2_watson1854-eng.txt The delegates, having heard this 
 
 tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Upon hearing this reply the deputies reported it to the soldiers. 
 
-## 8. [2.1.13](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:2.1.13?mode=syntax-trees) 652 ['9007221']
+## 8. [1.4.10](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.4.10?mode=syntax-trees) 248 ['9000054']
+[ἐνταῦθα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐνταῦθα "ἐνταῦθα d-------- here, there; at that juncture") [ἦσαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰμί "εἰμί v3piia--- to be") [τὰ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---na- the") [Βελέσυος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Βέλεσυς "Βέλεσυς n-s---mg- NoDef") [βασίλεια](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=βασίλειον "βασίλειον n-p---na- a kingly dwelling, palace") [τοῦ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---mg- the") [Συρίας](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Συρία "Συρία n-s---fg- Syria") [ἄρξαντος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄρχω "ἄρχω v-sapamg- (to be first) to rule, to begin") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [παράδεισος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=παράδεισος "παράδεισος n-s---mn- a park") [πάνυ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πάνυ "πάνυ d-------- altogether, entirely") [μέγας](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέγας "μέγας a-s---mn- big, great") [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [καλός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καλός "καλός a-s---mn- beautiful") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ἔχων](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἔχω "ἔχω v-sppamn- have, hold; be able; (+ adv.) be; (mid.) cling to, be next to (+ gen.)") [πάντα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πᾶς "πᾶς a-p---na- all, the whole") [ὅσα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅσος "ὅσος p-p---na- as much/many as") [ὧραι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὥρα "ὥρα n-p---fn- [sacrificial victim]") **BLANK** [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
+
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [φύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φύω) | v3ppia--- | to bring forth, produce, put forth |
+
+tlg0032.tlg006_perseus-grc2_watson1854-eng.txt Here was the palace of Belesys, the governor of Syria, and a very large and beautiful garden, containing all that the seasons produce. 
+
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt There was the palace of Belesys, the late ruler of  Syria , and a very large and beautiful park containing all the products of the seasons. 
+
+## 9. [1.4.16](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.4.16?mode=syntax-trees) 271 ['9000426']
+[ὅπως](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅπως "ὅπως c-------- how, that, in order that, as") [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [ὑμεῖς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύ "σύ p-p---cn- you (personal pronoun)") [ἐμὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐγώ "ἐγώ p-s---ca- I (first person pronoun)") [ἐπαινέσετε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐπαινέω "ἐπαινέω v2pfia--- to approve, applaud, commend") [ἐμοὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐγώ "ἐγώ p-s---cd- I (first person pronoun)") [μελήσει](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέλω "μέλω v3sfia--- to be an object of care") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [μηκέτι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μηκέτι "μηκέτι d-------- no more, no longer, no further") [με](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐγώ "ἐγώ p-s---ca- I (first person pronoun)") [Κῦρον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Κῦρος "Κῦρος n-s---ma- Cyrus") **BLANK** [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
+
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [νομίζω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=νομίζω) | v2ppia--- | to have as a custom; to believe |
+
+tlg0032.tlg006_perseus-grc2_watson1854-eng.txt and it shall be my care so that you may applaud me ; or think me no longer Cyrus.” 
+
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt but I shall see to it that you also shall have cause to commend me, else count me no longer  Cyrus . 
+
+## 10. [2.1.13](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:2.1.13?mode=syntax-trees) 652 ['9007221']
 [ἀλλὰ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀλλά "ἀλλά b-------- otherwise, but") [φιλοσόφῳ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φιλόσοφος "φιλόσοφος n-s---md- a lover of wisdom") [μὲν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand") [ἔοικας](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἔοικα "ἔοικα v2sria--- to be like; to look like") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ὦ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὦ "ὦ i-------- O! oh!") [νεανίσκε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=νεανίσκος "νεανίσκος n-s---mv- a youth") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") **BLANK** [οὐκ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐ "οὐ d-------- not") [ἀχάριστα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀχάριστος "ἀχάριστος a-p---na- ungracious, unpleasant, unpleasing") [·](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=· "· u-------- NoDef") 
 
 
@@ -95,7 +119,7 @@ tlg0032.tlg006_perseus-grc2_watson1854-eng.txt "You seem like a philosopher, you
 
 tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Why, you talk like a philosopher, young man, and what you say is quite pretty; 
 
-## 9. [2.1.16](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:2.1.16?mode=syntax-trees) 659 ['9007312']
+## 11. [2.1.16](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:2.1.16?mode=syntax-trees) 659 ['9007312']
 [σὺ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύ "σύ p-s---cn- you (personal pronoun)") [δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [ἡμῖν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐγώ "ἐγώ p-p---cd- I (first person pronoun)") [εἰπὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λέγω "λέγω v2sama--- to say, tell, speak; epic and arch.: pick, gather") [τί](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---na- who? which?") **BLANK** [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
 
 
@@ -106,4 +130,16 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Why, you talk like a philosopher, y
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt and now tell us what you have to say." 
 
 tlg0032.tlg006_perseus-grc2_perseus-eng2.txt You tell us what your own opinion is. 
+
+## 12. [2.4.3](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:2.4.3?mode=syntax-trees) 835 ['9010015']
+[τί](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---na- who? which?") **BLANK** [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
+
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [μένω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μένω) | v1ppia--- | to stay at home, stay where one is, not stir |
+
+tlg0032.tlg006_perseus-grc2_watson1854-eng.txt " Why do we remain here ? 
+
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Why are we lingering? 
 
