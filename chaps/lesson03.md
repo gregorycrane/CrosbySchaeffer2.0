@@ -127,6 +127,16 @@ and number of the subject ?
 
 3. οἱ ἄγγελοι πολέμιοι ἦσαν τι-- στρατηγ- (singular).
 
+## [§ 18b](#para18b). An immortal horse
+
+
+This is one of the precious bits of sculpture from the eastern pediment of the Parthenon.
+
+
+
+![text](https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_15/3a419042_c771_41c3_ae8b_a3b600fb4f7c/mid_00018006_001.jpg)British Museum (for now) [1816.0610.98](https://www.britishmuseum.org/collection/object/G_1816-0610-98).
+
+
 <div type="textpart" subtype="para" n="19">
 
 

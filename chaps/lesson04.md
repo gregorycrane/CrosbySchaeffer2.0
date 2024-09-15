@@ -68,8 +68,7 @@ into the plain
 
 παρὰ τὸν στρατηγόν to the side of the general.
 
-<div type="textpart" subtype="para" n="25">
-# Chapter 4: Vocabulary
+## [§ 25](#para25). Vocabulary
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
 | δέ | [2389](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δέ.md) | 14451 | (δ᾽ before vowels), postpositive conj: but, and.
@@ -81,6 +80,7 @@ into the plain
 | εἰς | [432](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/εἰς.md) | 15555 | proclit. prep. with A.: into  (Lat. in).
 | πεδίον | [50](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πεδίον.md) | 15605 | πεδίου, τό: plain.
 | στάδιον | [41](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/στάδιον.md) | 15646 | σταδίου, τό: stadium (race course); stade (600 ft.).3 
+
 
 <div type="textpart" subtype="para" n="26">
 
