@@ -5,7 +5,7 @@
 
 | form | lemma | postag | short def |
 | --- | --- | --- | --- |
-| ______ | ἀναβαίνω | v3spia--- | to go up, mount, to go up to |
+| ______ | https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀναβαίνω#present-imperfective | v3spia--- | to go up, mount, to go up to |
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt Cyrus accordingly went up, taking with him Tissaphernes as a friend, and having also with him three hundred heavy-armed Greeks,1 and Xenias of Parrhasia,2 their captain. 
 
@@ -17,7 +17,7 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Cyrus  accordingly went up under th
 
 | form | lemma | postag | short def |
 | --- | --- | --- | --- |
-| ______ | διαβάλλω | v3spia--- | to throw over |
+| ______ | https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=διαβάλλω#present-imperfective | v3spia--- | to throw over |
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt But when Darius was dead, and Artaxerxes was placed upon the throne, Tissaphernes brought an accusation against Cyrus before his brother, saying that he was plotting against him. 
 
@@ -29,7 +29,7 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt When Darius had died and Artaxerxes
 
 | form | lemma | postag | short def |
 | --- | --- | --- | --- |
-| ______ | φέρω | v1spia--- | to bear |
+| ______ | https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φέρω#present-imperfective | v1spia--- | to bear |
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt Wonder not, soldiers, that I feel distressed at the present occurrences; 
 
@@ -41,7 +41,7 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Fellow-soldiers, do not wonder that
 
 | form | lemma | postag | short def |
 | --- | --- | --- | --- |
-| ______ | ἐθέλω | v2ppia--- | to will, wish, purpose |
+| ______ | https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐθέλω#present-imperfective | v2ppia--- | to will, wish, purpose |
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt Nor shall any one ever say, that, after leading Greeks into a country of Barbarians, I deserted the Greeks, and adopted, in preference, the friendship of the Barbarians.  Since, however, you decline to obey me, or to follow me, I will go with you, and submit to whatever may be destined for us. 
 
@@ -53,7 +53,7 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt And never shall any man say that I,
 
 | form | lemma | postag | short def |
 | --- | --- | --- | --- |
-| ______ | νομίζω | v1spia--- | to have as a custom; to believe |
+| ______ | https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=νομίζω#present-imperfective | v1spia--- | to have as a custom; to believe |
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt For I look upon you to be at once my country, my friends, and my fellow-soldiers, and consider that with you I shall be respected, wherever I may be: but that, if separated from you, I shall be unable either to afford assistance to a friend, or to avenge myself upon an enemy. 
 
@@ -65,7 +65,7 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt For I consider that you are to me b
 
 | form | lemma | postag | short def |
 | --- | --- | --- | --- |
-| ______ | μένω | v1ppia--- | to stay at home, stay where one is, not stir |
+| ______ | https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μένω#present-imperfective | v1ppia--- | to stay at home, stay where one is, not stir |
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt As long as we remain here, it seems necessary to consider how we may best remain with safety; or, if we determine upon going at once, how we may depart with the greatest security, and how we may obtain provisions; 
 
@@ -77,7 +77,7 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt And so long as we remain here we mu
 
 | form | lemma | postag | short def |
 | --- | --- | --- | --- |
-| ______ | ἀγγέλλω | v3ppia--- | to bear a message |
+| ______ | https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀγγέλλω#present-imperfective | v3ppia--- | to bear a message |
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt The delegates, having heard this answer, reported it to the soldiers. 
 
@@ -89,7 +89,7 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Upon hearing this reply the deputie
 
 | form | lemma | postag | short def |
 | --- | --- | --- | --- |
-| ______ | λέγω | v2spia--- | to say, tell, speak; epic and arch.: pick, gather |
+| ______ | https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λέγω#present-imperfective | v2spia--- | to say, tell, speak; epic and arch.: pick, gather |
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt "You seem like a philosopher, young man, and express yourself not without grace; 
 
@@ -101,7 +101,7 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Why, you talk like a philosopher, y
 
 | form | lemma | postag | short def |
 | --- | --- | --- | --- |
-| ______ | λέγω | v2spia--- | to say, tell, speak; epic and arch.: pick, gather |
+| ______ | https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λέγω#present-imperfective | v2spia--- | to say, tell, speak; epic and arch.: pick, gather |
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt and now tell us what you have to say." 
 
