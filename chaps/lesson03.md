@@ -91,8 +91,26 @@ he was hostile to the general.
 | παύω | [22](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/παύω.md) | 12062 | stop (trans,). PAUSE.
 
 
+## [§ 18](#para18). Vocabulary Notes
+
+
+The adjective καλός is well attested on Greek vases. People would have the expressions such as Λεαγρὸς καλός ("Leagros is attractive," or, perhaps more accurately, "Leagros is hot!") added to Greek vases in the late sixth and early 5th century B.C. -- there is an entire Wikipedia page dedicated to [Kalos inscriptions](https://en.wikipedia.org/wiki/Kalos_inscription).
+
+
+You can see an example of this practice on a famous vase from the Louvre (c. 485-480 BCE). This vase would have been produced in the years after the Athenians had defeated [Darius I](https://en.wikipedia.org/wiki/Darius_the_Great) and his Persian army at [Marathon](https://en.wikipedia.org/wiki/Battle_of_Marathon) and just before [Xerxes](https://en.wikipedia.org/wiki/Xerxes_I), Darius' son, would invade Greece in 480 BCE and temporarily [occupy (and destroy) Athens](https://en.wikipedia.org/wiki/Achaemenid_destruction_of_Athens). The vase illustrates a deeply emotional scene from Greek mythology: the goddess Eos (Dawn) holds the dead body of her mortal son, whom Achilles had just killed.
+![text](https://upload.wikimedia.org/wikipedia/commons/8/8b/Eos_Memnon_Louvre_G115.jpg)
+![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/hermogkalos.jpg?raw=true)
+The inscription is ΗΕΡΜΟΓΕΝΕΣ ΚΑΛΟΣ, which is Ἑρμογένης καλός in normalized Greek. Note that this Athenian vase uses the Η to indicate aspiration (as with the English 'h') rather than the long ê (as in êta, η).
+
+
+![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/dourispanted.jpg?raw=true) Two of the other inscriptions are worth looking at. one includes ΗΕΟΣ and ΔΟΡΙΣ ΕΓΡΑΦΣΕΝ, equivalent to Ἐώς and Δοῦρις ἔγραψεν ("Douris wrote/scratched", i.e. Douris was the painter). Instead of a -ψ- we get -φσ-. Note the vase uses a single -Ο- sound that we write as -ου-.
+
+
+![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/memnon.jpg?raw=true)A second inscription includes ΜΕΜΝΟΝ (the hero Μέμνων) ΚΑΛΙΑΔΕΣ ΕΠΟΙΕΣΕΝ (Καλλιάδης ἐποιήσεν, "Calliades made [it]," i.e., Calliades was the potter). There is an additional inscription (not shown in detail) that includes a nonsense inscription (i.e., letters for decorative effect).
+
 
 <div type="textpart" subtype="para" n="18">
+
 
 
 EXERCISES
@@ -132,8 +150,8 @@ This is one of the precious bits of sculpture from the eastern pediment of the P
 
 
 
-<graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/parthhorse.jpg?raw=true"//>
-![text](https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_15/3a419042_c771_41c3_ae8b_a3b600fb4f7c/mid_00018006_001.jpg)British Museum (for now) 1816.0610.98: avaiable [here](https://www.britishmuseum.org/collection/object/G_1816-0610-98) via [IIIF](https://iiif.io/).
+![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/parthhorse.jpg?raw=true)
+![text](https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_15/3a419042_c771_41c3_ae8b_a3b600fb4f7c/mid_00018006_001.jpg)British Museum (for now) 1816.0610.98: avaiable [here](https://www.britishmuseum.org/collection/object/G_1816-0610-98) via [IIIF](https://iiif.io/) [GRC: Is this the same object as the one in the original Crosby and Schaeffer?].
 
 
 <div type="textpart" subtype="para" n="19">
