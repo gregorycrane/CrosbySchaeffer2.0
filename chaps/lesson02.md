@@ -121,7 +121,7 @@ GRC: The [Battle of Leuctra](https://en.wikipedia.org/wiki/Battle_of_Leuctra) in
 
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| ἄνθρωπος | [75](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἄνθρωπος.md "this is a tip") | 7312 | ἀνθρώπου, ὁ: person, human being. When used with the feminine article, this noun can explicitly designate a female person. ANTHROPOLOGY
+| ἄνθρωπος | [75](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἄνθρωπος.md) | 7312 | ἀνθρώπου, ὁ: person, human being. When used with the feminine article, this noun can explicitly designate a female person. ANTHROPOLOGY
 | ἄξιος | [23](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἄξιος.md) | 7335 | worthy, worth. AXIOM
 | ἀπό | [111](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀπό.md) | 7446 | prep. with G.: from, away from, Lat. ab. APOSTLE. 
 | δίκαιος | [32](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δίκαιος.md) | 7478 | just. 

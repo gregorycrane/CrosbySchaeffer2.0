@@ -11,13 +11,26 @@
 
 The Present Tense. This tense denotes action occurring or continuing or repeated in present time:
 
-παύω I stop. I am stopping. I keep stopping. I do stop.
+| Greek | English | 
+| --- | -- | 
+|  παύω  |  I stop. I am stopping. I keep stopping. I do stop.  |
 
-Present Indicative Active or παύω I stop
+Present Indicative Active or παύω *I stop*
+
+
+
+
+
+| παύω | I stop | παύομεν | we stop | 
+| παύεις | you (sg) stop | παύετε | you (pl) stop | 
+| παύει | s/he or it stops | παύουσι | they stop | 
+
 
 
 
 Present Infintive ACTIVE παύ-ειν
+
+
 
 In like manner inflect ἐθέλω.
 
@@ -61,40 +74,41 @@ Dative with Adjectives. The dative is used with many adjectives expressing frien
 πολέμιος ἦν τῷ στρατηγῷ
 he was hostile to the general.
 
-<div type="textpart" subtype="para" n="17">
+## [§ 17](#para17). Vocabulary
+| Lemma | Freq | Total | Gloss |
+| --- | --- | --- | -- |
+
+| ἀγαθός | [121](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀγαθός.md) | 8240 | ἀγαθή, ἀγαθόν: good, brave. AGATHA. 
 
 
-VOCABULARY
+| ἄγγελος | [10](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἄγγελος.md) | 8250 | ἀγγέλου, ὁ: messenger. ANGEL.
 
-<rs type="lemma">ἀγαθός</rs>, ἀγαθή, ἀγαθόν: good, brave. AGATHA.
+| ἄγω | [111](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἄγω.md) | 8361 | lead, Lat. ago. 
 
+| γράφω | [5](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/γράφω.md) | 8366 | write. TELEGRAPH. LITHOGRAPH.
 
-<rs type="lemma">ἄγγελος</rs>, ἀγγέλου, ὁ: messenger. ANGEL.
+| ἐθέλω | [62](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐθέλω.md) | 8428 | wish, be willing. 
 
-<rs type="lemma">ἄγω</rs>: lead, Lat. ago.
+| ἵππος | [66](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἵππος.md) | 8494 | ἵππου, ὁ: horse. ANALYSIS. HIPPOPOTAMUS, 
 
-<rs type="lemma">γράφω</rs>: write. TELEGRAPH. LITHOGRAPH.
+| καί | [3388](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/καί.md) | 11882 | conj.: and, also, even.
 
-<rs type="lemma">ἐθέλω</rs>: wish, be willing.
-
-<rs type="lemma">ἵππος</rs>, ἵππου, ὁ: horse. ANALYSIS. HIPPOPOTAMUS,
-
-<rs type="lemma">καί</rs>: conj.: and, also, even.
-
-<rs type="lemma">καλός</rs>, καλή, καλόν: beautiful, honorable, fine.
-<rs type="lemma">κίνδυνος</rs>, κινδύνου, ὁ: danger.
+| καλός | [109](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/καλός.md) | 11991 | καλή, καλόν: beautiful, honorable, fine.
+| κίνδυνος | [10](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/κίνδυνος.md) | 12001 | κινδύνου, ὁ: danger.
 
 
-<rs type="lemma">λίθος</rs>, λίθος, ὁ: stone.
-
-
+| λίθος | [22](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/λίθος.md) | 12023 | λίθος, ὁ: stone.
 
 
 
-<rs type="lemma">λύω</rs>: loose, break, destroy.
 
 
-<rs type="lemma">παύω</rs>: stop (trans,). PAUSE.
+| λύω | [17](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/λύω.md) | 12040 | loose, break, destroy.
+
+
+| παύω | [22](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/παύω.md) | 12062 | stop (trans,). PAUSE.
+
+
 
 <div type="textpart" subtype="para" n="18">
 

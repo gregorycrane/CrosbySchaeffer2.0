@@ -69,22 +69,22 @@ into the plain
 παρὰ τὸν στρατηγόν to the side of the general.
 
 <div type="textpart" subtype="para" n="25">
+# Chapter 4: VOCABULARY
 
+| δέ | [2389](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δέ.md) | 14451 | (δ᾽ before vowels), postpositive conj: but, and.
 
-VOCABULARY
-<rs type="lemma">δέ</rs>: (δ᾽ before vowels), postpositive conj: but, and.
+| ἐν | [439](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐν.md) | 14890 | proclitic prep. with D. : in (Lat. in). ENCLITIC.
+| δένδρον | [12](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δένδρον.md) | 14902 | δένδρου, τό: tree. RHODODENDRON. 
 
-<rs type="lemma">ἐν</rs>: proclitic prep. with D. : in (Lat. in). ENCLITIC.
-<rs type="lemma">δένδρον</rs>, δένδρου, τό: tree. RHODODENDRON.
+| παρά | [180](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/παρά.md) | 15082 | prep., with G., from the side of; with D., by the side of; with A., to the side of, to, alongside. PARALLEL.
 
-<rs type="lemma">παρά</rs>: prep., with G., from the side of; with D., by the side of; with A., to the side of, to, alongside. PARALLEL.
+| δῆλος | [28](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δῆλος.md) | 15110 | δήλη, δῆλον: plain, evident. 
+| δῶρον | [13](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δῶρον.md) | 15123 | δώρου, τό: gift. THEODORE, 
+| εἰς | [432](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/εἰς.md) | 15555 | proclit. prep. with A.: into  (Lat. in).
+| πεδίον | [50](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πεδίον.md) | 15605 | πεδίου, τό: plain.
 
-<rs type="lemma">δῆλος</rs>, δήλη, δῆλον: plain, evident.
-<rs type="lemma">δῶρον</rs>, δώρου, τό: gift. THEODORE,
-<rs type="lemma">εἰς</rs>: proclit. prep. with A.: into  (Lat. in).
-<rs type="lemma">πεδίον</rs>, πεδίου, τό: plain.
+| στάδιον | [41](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/στάδιον.md) | 15646 | σταδίου, τό: stadium (race course); stade (600 ft.).3 
 
-<rs type="lemma">στάδιον</rs>, σταδίου, τό: stadium (race course); stade (600 ft.).3 
 
 <div type="textpart" subtype="para" n="26">
 
