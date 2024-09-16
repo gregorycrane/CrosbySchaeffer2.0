@@ -9,10 +9,10 @@
 
 
 
-<div type="textpart" subtype="para" n="41">
+## [§ 41](#para41). The Imperfect Tense.
 
 
-The Imperfect Tense. This tense denotes action
+This tense denotes action
 continued, repeated, customary, or attempted in past time:
 
 ἔπαυον I was stopping, I kept stopping, I used to stop, I tried to stop.
@@ -21,19 +21,19 @@ IMPERFECT INDICATIVE ACTIVE
 
 παύω I stop ἄγω lead
 
-<div type="textpart" subtype="para" n="42">
+## [§ 42](#para42). Formation.
 
 
-Formation. The imperfect tense is built on the
+The imperfect tense is built on the
 present stem showing the variable vowel (ο or ε). Being
 a secondary3 tense, it differs from the present in having
 (1) augment, (2) secondary endings. It is found only
 in the indicative.
 
-<div type="textpart" subtype="para" n="43">
+## [§ 43](#para43). Augment.
 
 
-Augment. All secondary tenses of the indicative
+All secondary tenses of the indicative
 may be recognized by what is called augment. This is of
 two kinds:
 
@@ -58,19 +58,16 @@ Verbs with an initial vowel or diphthong lengthen the initial vowel.
 
 Inflect the imperfect indicative active of <rs type="lemma">πέμπω</rs> and ἀθροίζω.
 
-<div type="textpart" subtype="para" n="44">
+## [§ 44](#para44). Dative of Manner.
 
-
-Dative of Manner.
 
 The dative may denote manner :2
 
 φεύγουσι σιγῇ they flee in silence.
 
-<div type="textpart" subtype="para" n="45">
+## [§ 45](#para45). Balanced Structure.
 
 
-Balanced Structure.
 μέν ... δέ are used with
 two words or phrases or
 clauses that are compared
@@ -113,10 +110,10 @@ VOCABULARY
 <rs type="lemma">μέν</rs>: coord. conj. (§ 45).
 <rs type="lemma">σῑγή</rs>, σιγῆς, ἡ: silence.
 
-<div type="textpart" subtype="para" n="47">
+## [§ 47](#para47). Exercises.
 
 
-EXERCISES
+
 
 (a) What do the portions in heavy type tell as to person
 and number of the subject?
@@ -162,11 +159,7 @@ Vhich resemble endings of the present ?
 <pb n="25"/>
 
 
-<div type="textpart" subtype="para" n="48">
-
-
-Greek as a World Language.
-
+## [§ 48](#para48). Greek as a World Language.
 
 
 (a) The international language of the first century of our era was Greek. To carry its message to the world, therefore, the New Testament was written in Greek. The following passage is from St. Luke,

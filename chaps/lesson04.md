@@ -108,19 +108,19 @@ with many prepositions denotes **place to which** :1
 | στάδιον | [41](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/στάδιον.md) | 15646 | σταδίου, τό: stadium (race course); stade (600 ft.).3 
 
 
-<div type="textpart" subtype="para" n="26">
+## [§ 26](#para26). Exercises.
 
 
-EXERCISES
+
 
 (a) What probable use  of the word is denoted by the heavy type endings ?
 
-πεδίου
-ἄξι ον
-δῆλα
-δένδρ ῶν
-δώρ οις
-σταδίῳ
+1. πεδί-**ου **
+2. ἄξι-**ον**
+3. δῆλ-**α **
+4. δένδρ-**ῶν**
+5. δώρ-**οις **
+6. σταδί-**ῳ**
 
 The Delphic stadium (page 12) still retains the row of flat stones whose double grooves, called by the Greeks ἡ γραμμή "the scratch."
 

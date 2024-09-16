@@ -7,10 +7,10 @@
 
 
 
-<div type="textpart" subtype="para" n="87">
+## [§ 87](#para87). Masculine Nouns of the α-declension.
 
 
-Masculine Nouns of the α-declension. Most nouns
+Most nouns
 of the α-declension are feminine. Masculines may be
 recognized not merely as referring to males but also as showing -ης or -ας instead of -η or -α in the nominative singular.
 Their genitive singular ends in -ου. Otherwise the inflection parallels that of the feminines.
@@ -88,10 +88,10 @@ VOCABULARY
 <pb n="51"/>
 
 
-<div type="textpart" subtype="para" n="91">
+## [§ 91](#para91). Exercises.
 
 
-EXERCISES
+
 
 (a) Translate:
 

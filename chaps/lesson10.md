@@ -5,10 +5,10 @@
 >  A thing of beauty is a joy forever.</quote><quote xml:lang="eng">Literally: Whatever is beautiful is ever dear.<br/>>> Euripides, Bacchae, 881.
 
 
-<div type="textpart" subtype="para" n="54">
+## [§ 54](#para54). The Aorist.
 
 
-The Aorist. Aorist is the name of a tense of the
+Aorist is the name of a tense of the
 Greek verb. The name is not used in the inflection of
 Latin or English verbs, but many of its functions are
 entirely familiar.
@@ -20,10 +20,9 @@ a motion picture:
 
 ἔπαυον I was stopping; ἔπαυσα I stopped.
 
-<div type="textpart" subtype="para" n="55">
+## [§ 55](#para55). Formation of the Aorist.
 
 
-Formation of the Aorist.
 (a) The aorist, in common with other secondary tenses, in the indicative has
 augment and secondary endings (§§ 42, 43).
 
@@ -54,10 +53,10 @@ ence in formation:
 
 ἔπαυσοα (first aorist) I stopped ; ἔλιπον (second aorist) I left.
 
-<div type="textpart" subtype="para" n="57">
+## [§ 57](#para57). Tenses of the Infinitive.
 
 
-Tenses of the Infinitive. The infinitive, except in
+The infinitive, except in
 
 indirect discourse, has no time value. The present infinitive denotes continuance or repetition (a motion picture),
 while the aorist infinitive denotes a single occurrence (a snap-shot):
@@ -103,10 +102,10 @@ VOCABULARY
 
 
 
-<div type="textpart" subtype="para" n="59">
+## [§ 59](#para59). Exercises.
 
 
-EXERCISES
+
 
 (a) Translate:
 

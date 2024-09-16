@@ -16,10 +16,10 @@ O renowned Athens, brilliant, violet-crowned, and famed in song, stay of Greece.
 
 
 
-<div type="textpart" subtype="para" n="62">
+## [§ 62](#para62). The Value of Transiation.
 
 
-The Value of Transiation. "There is no better wav
+"There is no better wav
 for the student to train himself in the choice of the very
 word that will fit his thought than by translation from
 Latin and Greek. Thus he develops habits of analysis,
@@ -31,10 +31,10 @@ more to the lawyer than all the information which a modern
 school may hope to impart.” <note>Roscoe Pound, Dean of the Law School, Harvard University, as reported
 in Value of the Classics, page 49.</note>
 
-<div type="textpart" subtype="para" n="63">
+## [§ 63](#para63). The Process of Translation.
 
 
-The Process of Translation. From the very beginning, cultivate right habits, The time thus saved will in
+From the very beginning, cultivate right habits, The time thus saved will in
 the end repay you for any time that may seem to be lost
 at the start.
 

@@ -37,10 +37,10 @@ used with στρατηγῷ, χώρᾳ, δῶρα, φυγήν, φιλίας (sin
 
 Of the dative? Of the accusative ?
 
-<div type="textpart" subtype="para" n="61">
+## [§ 61](#para61). Exercises.
 
 
-EXERCISES
+
 (a) Complete:
 
 1. τ--- στρατηγ--- (singular) ὑπ-ὠπτευσαν λῡ--- (present) τὰς σπονδάς.

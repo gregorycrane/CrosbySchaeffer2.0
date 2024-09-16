@@ -2,19 +2,18 @@
 >  πάντων χρημάτων μέτρον ἄνθρωπος.</quote> <quote xml:lang="eng">Man is the measure of all things<br/> >> Protagoras
 
 
-<div type="textpart" subtype="para" n="121">
+## [§ 121](#para121). Inflection of πᾶς.
 
 
-Inflection of πᾶς. πᾶς has the same endings as
+πᾶς has the same endings as
 παύσᾱς. The genitive and dative plural of the masculine
 and neuter violate the rule for accent of monosyllables of
 the consonant declension (§ 102). The accent of the
 feminine is regular.
 
-<div type="textpart" subtype="para" n="122">
+## [§ 122](#para122). Uses of πᾶς.
 
 
-Uses of πᾶς.
 (a) πᾶς, when modifying a noun,
 usually has the predicate qgosition (§ 31, 6) and means
 all:
@@ -37,10 +36,10 @@ every:
 <pb n="69"/>
 
 
-<div type="textpart" subtype="para" n="123">
+## [§ 123](#para123). Exercises.
 
 
-EXERCISES
+
 
 (a) Write in Greek:
 
@@ -82,10 +81,10 @@ VOCABULARY
 
 
 
-<div type="textpart" subtype="para" n="125">
+## [§ 125](#para125). Precision of Thought.
 
 
-Precision of Thought. “The practice of translation, by making us deliberate in the choice of the best
+“The practice of translation, by making us deliberate in the choice of the best
 equivalent of a foreign word in our own language, has
 likewise the advantage of continually schooling us in one
 of the main elements of a good style, — precision ; and

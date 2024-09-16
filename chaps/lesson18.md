@@ -37,10 +37,10 @@ Inflect @paé. Compare with paradigm (§ 509, a).
 <pb n="57"/>
 
 
-<div type="textpart" subtype="para" n="103">
+## [§ 103](#para103). Genitive of Time.
 
 
-Genitive of Time. The genitive denotes the time
+The genitive denotes the time
 within which an action occurs:1
 
 ypayw mevre quepwy I shall write within five days.
@@ -61,10 +61,10 @@ VOCABULARY
 
 <rs type="lemma">πρός</rs>, prep.: with G., from the side of, in the sight of; with D., near, beside, besides ; with A., to the side of, toward. PROSELYTE.
 
-<div type="textpart" subtype="para" n="105">
+## [§ 105](#para105). Exercises.
 
 
-EXERCISES
+
 
 (a) What do the portions in heavy type tell as to the
 probable use of

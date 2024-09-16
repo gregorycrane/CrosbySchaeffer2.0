@@ -11,10 +11,10 @@ The sea, the sea!
 
 
 
-<div type="textpart" subtype="para" n="81">
+## [§ 81](#para81). Feminines in -ᾰ.
 
 
-Feminines in -ᾰ. Most nouns of the a-declension
+Most nouns of the a-declension
 have -ᾱ or -η in the nominative and carry the same throughout the singular. A few nouns have -ᾰ in the nominative.
 These have ᾱ in the genitive and dative singular, if the
 preceding letter is ι or ρ; otherwise they have η.
@@ -49,10 +49,9 @@ prepositions. The nominative is not used except when emphasis is desired.
 <pb n="47"/>
 
 
-<div type="textpart" subtype="para" n="83">
+## [§ 83](#para83). Particular Conditions.
 
 
-Particular Conditions.
 (a) εἰ with a present or past
 tense of the indicative in the protasis1 and the same tense
 of the indicative or its equivalent in the apodosis1 states a
@@ -89,10 +88,10 @@ VOCABULARY
 
 σύ: thou, you (sg.).
 
-<div type="textpart" subtype="para" n="85">
+## [§ 85](#para85). Exercises.
 
 
-EXERCISES
+
 
 (a) Translate :
 

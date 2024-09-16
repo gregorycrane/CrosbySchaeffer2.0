@@ -26,10 +26,10 @@ possible, except that it is regularly so accented after ἀλλά,
 καί, μή, οὐκ, τοῦτο, ὡς and εἰ (if), whether it has this spe-
 cial meaning or not.
 
-<div type="textpart" subtype="para" n="95">
+## [§ 95](#para95). Enclitics.
 
 
-Enclitics. (a) If the preeeding word has an ac-
+(a) If the preeeding word has an ac-
 cent on the ultima, the enclitic has no accent :
 
 καλοί εἰσιν they are beautiful.
@@ -48,19 +48,19 @@ two syllables is accented on the final syllable:
 ὁπλίτης τις a certain hoplite ;
 ὁπλίτης ἐστίν he is a hoplite.
 
-<div type="textpart" subtype="para" n="96">
+## [§ 96](#para96). Accent of Augmented Verbs.
 
 
-Accent of Augmented Verbs. The accent cannot
+The accent cannot
 precede the augment. Therefore compound verbs are ac-
 cented after the prefix :
 
 ἐξάγω, ἐξῆγον ; ἄπ-ειμι, ἀπ-ῆν.
 
-<div type="textpart" subtype="para" n="97">
+## [§ 97](#para97). Contrary to Fact Conditions.
 
 
-Contrary to Fact Conditions. εἰ with a past tense
+εἰ with a past tense
 of the indicative in the protasis and a past tense of the indicative with ἄν in the apodosis implies that the condition
 is not or was not fulfilled. This is called a contrary to
 fact condition. The imperfect tense indicates present time ;
@@ -111,10 +111,10 @@ VOCABULARY
 <pb n="54"/>
 
 
-<div type="textpart" subtype="para" n="99">
+## [§ 99](#para99). Exercises.
 
 
-EXERCISES
+
 
 (a) Translate:
 

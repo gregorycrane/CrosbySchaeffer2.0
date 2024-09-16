@@ -5,10 +5,9 @@ who works.</quote> >> Aeschylus, fragment.
 
 
 
-<div type="textpart" subtype="para" n="127">
+## [§ 127](#para127). Contract Verbs.
 
 
-Contract Verbs.
 (a) Two successive vowels are
 regularly contracted into one long vowel or diphthong :
 
@@ -33,10 +32,10 @@ final ε of the stem is regularly lengthened to η:
 <pb n="72"/>
 
 
-<div type="textpart" subtype="para" n="128">
+## [§ 128](#para128). Genitive Absolute.
 
 
-Genitive Absolute. A noun or pronoun in the
+A noun or pronoun in the
 genitive case with a circumstantial participle in agreement may stand grammatically independent of the rest of
 the sentence. This is called the genitive absolute and corresponds to the ablative absolute in Latin and the nominative independent (absolute) in English.
 
@@ -79,10 +78,10 @@ VOCABULARY
 
 <rs type="lemma">ὧδε</rs>, adv.; thus, as follows. Cf. ὅδε.
 
-<div type="textpart" subtype="para" n="130">
+## [§ 130](#para130). Exercises.
 
 
-EXERCISES
+
 
 (a) Translate:
 
@@ -139,10 +138,10 @@ Poseidon's trident. (See the pictures on page 334 and facing page 180.)</figure>
 
 
 
-<div type="textpart" subtype="para" n="132">
+## [§ 132](#para132). Word-formation.
 
 
-Word-formation. Verbs formed by adding -έω to
+Verbs formed by adding -έω to
 noun (or adjective) stems denote action of a nature similar to that expressed by the noun (or adjective). They
 usually denote a condition or an activity:
 

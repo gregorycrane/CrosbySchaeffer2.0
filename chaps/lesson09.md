@@ -9,10 +9,10 @@
 
 
 
-<div type="textpart" subtype="para" n="49">
+## [§ 49](#para49). The Future Tense.
 
 
-The Future Tense. This tense has the same personal endings as the present. It differs from the present only as to stem, which it forms by adding -σ- to the verb stem. In the case of verbs whose stem ends in a mute, the σ is the occasion of certain changes:
+This tense has the same personal endings as the present. It differs from the present only as to stem, which it forms by adding -σ- to the verb stem. In the case of verbs whose stem ends in a mute, the σ is the occasion of certain changes:
 
 1. A labial (π, β, φ) unites with σ to form -ψ- (πσ) ;
 
@@ -31,10 +31,9 @@ Future Indicative of παύω I stop
 
 In like manner inflect λύω, γράφω, ἄρχω, πείθω.
 
-<div type="textpart" subtype="para" n="50">
+## [§ 50](#para50). Indirect Discourse.
 
 
-Indirect Discourse.
 (a) Verbs whose meaning implies mental action (saying, thinking, or the like) are used to introduce an indirect quotation : the general sends (sent)
 
 <pb n="27"/>
@@ -106,10 +105,10 @@ VOCABULARY
 
 <rs type="lemma">ἰσχυρός</rs>, ἰσχυρά, ἰσχυρόν: strong. 
 
-<div type="textpart" subtype="para" n="52">
+## [§ 52](#para52). Exercises.
 
 
-EXERCISES
+
 
 (a) Identify the person and number of the following forms and give the corresponding forms of the present:
 
@@ -151,10 +150,10 @@ EXERCISES
 
 
 
-<div type="textpart" subtype="para" n="53">
+## [§ 53](#para53). Word-formation.
 
 
-Word-formation. Many verbs with ε in the stem
+Many verbs with ε in the stem
 have cognate nouns or adjectives with ο instead of ε:
 λείπω leave, λοιπός left;
 λέγω speak, λόγος word or speech ;

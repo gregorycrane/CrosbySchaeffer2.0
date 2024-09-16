@@ -2,19 +2,19 @@
 >  ἀνάγκᾳ δ᾽ οὐδὲ θεοὶ μάχονται.</quote> <quote xml:lang="eng">Not even gods fight against necessity<br/> >> Simonides.
 
 
-<div type="textpart" subtype="para" n="133">
+## [§ 133](#para133). Passive Voice.
 
 
-Passive Voice. Like English and Latin, Greek
+Like English and Latin, Greek
 has a passive voice, which shows the subject as acted
 upon:
 
 παύομαι. I am being stopped.
 
-<div type="textpart" subtype="para" n="134">
+## [§ 134](#para134). Middle Voice.
 
 
-Middle Voice. Greek also has a middle voice,
+Greek also has a middle voice,
 which shows that the subject so acts as somehow to affect
 himself.
 
@@ -57,10 +57,10 @@ vowels, which are then contracted.
 The present and imperfect middle and passive have the
 same stem as the present active.
 
-<div type="textpart" subtype="para" n="138">
+## [§ 138](#para138). Deponent Verbs.
 
 
-Deponent Verbs. Some verbs have forms only in
+Some verbs have forms only in
 the middle or passive voice but with active meanings.
 They are called deponents :
 
@@ -69,10 +69,10 @@ They are called deponents :
 Inflect the present and imperfect indicative, and give
 the present infinitive and participle of wopevopac,
 
-<div type="textpart" subtype="para" n="139">
+## [§ 139](#para139). Genitive of Agent.
 
 
-Genitive of Agent. ὑπό and the genitive when
+ὑπό and the genitive when
 modifying a passive verb indicate the agent or doer of an
 action (compare with the Latin a or ab and the ablative): 1
 
@@ -101,10 +101,10 @@ VOCABULARY
 <pb n="77"/>
 
 
-<div type="textpart" subtype="para" n="141">
+## [§ 141](#para141). Exercises.
 
 
-EXERCISES
+
 
 (a) What do the portions in heavy type tell as to person,
 number, and voice ?

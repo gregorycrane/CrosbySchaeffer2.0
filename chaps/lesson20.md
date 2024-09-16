@@ -42,10 +42,10 @@ be used with πολίτῃ, ἀσπίδες, ἅρματα, νυκτῶν, φύ�
 
 (g) Inflect εἰμί the present and imperfect indicative.
 
-<div type="textpart" subtype="para" n="112">
+## [§ 112](#para112). Exercises.
 
 
-EXERCISES
+
 
 (a) Complete:
 

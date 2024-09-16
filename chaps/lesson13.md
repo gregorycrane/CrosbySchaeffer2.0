@@ -35,10 +35,8 @@ but its case depends on the construction in its own clause:
 ὁ ἄγγελος ὃν ἔπεμψας ἐθέλει φυγεῖν
 the messenger whom you sent wishes to flee.
 
-<div type="textpart" subtype="para" n="70">
+## [§ 70](#para70). Uses of αὐτός.
 
-
-Uses of αὐτός.
 
 
 - Following the article, αὐτός means
@@ -92,10 +90,10 @@ VOCABULARY
 
 <rs type="lemma">ὥρᾱ</rs>: hour, season. HOUR.
 
-<div type="textpart" subtype="para" n="72">
+## [§ 72](#para72). Exercises.
 
 
-EXERCISES
+
 
 (a) What does αὐτός mean in these phrases ?
 

@@ -21,10 +21,10 @@ stem lengthens to ου.
 <pb n="60"/>
 
 
-<div type="textpart" subtype="para" n="108">
+## [§ 108](#para108). Result Clauses.
 
 
-Result Clauses. <rs type="lemma">ὥστε</rs> followed by the indicative
+<rs type="lemma">ὥστε</rs> followed by the indicative
 tlenotes an actual result ; followed by the znfinitive it denotes
 a natural or probable result :
 
@@ -53,10 +53,10 @@ VOCABULARY
 <rs type="lemma">παῖς</rs>, παιδός, ὁ or ἡ: boy, girl, child. PEDAGOGUE.
 ὥστε, conj.: with ind., so that; , with inf., so as to.
 
-<div type="textpart" subtype="para" n="110">
+## [§ 110](#para110). Exercises.
 
 
-EXERCISES
+
 
 (a) Translate :
 

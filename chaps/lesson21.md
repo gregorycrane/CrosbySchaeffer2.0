@@ -4,10 +4,10 @@
 
 
 
-<div type="textpart" subtype="para" n="113">
+## [§ 113](#para113). Present Participle.
 
 
-Present Participle. The masculine of the present
+The masculine of the present
 participle is inflected like ἄρχων (§ 107). The neuter has
 the same endings except in the nominative and accusative
 singular, where it uses the mere stem with τ dropped (beause τ cannot end a Greek word), and in the same cases
@@ -52,10 +52,9 @@ endings are the same as those of the present participle, except in the
 nominative singular, where -ς has been added to the stem, causing wr
 to drop out and lengthening α. In like manner inflect ceAaioas.
 
-<div type="textpart" subtype="para" n="116">
+## [§ 116](#para116). Uses of Participles.
 
 
-Uses of Participles.
 (a) A participle, when used in
 the attributive position ($ 31, a), has the force of an attributive adjective. his is called the attributive participle :
 
@@ -113,10 +112,10 @@ VOCABULARY
 
 
 
-<div type="textpart" subtype="para" n="119">
+## [§ 119](#para119). Exercises.
 
 
-EXERCISES
+
 
 (a) Translate :
 

@@ -43,10 +43,8 @@ Inflect it, and compare with paradigm (§ 523).
 
 <pb n="44"/>
 
-<div type="textpart" subtype="para" n="76">
+## [§ 76](#para76). Uses of the Demonstratives.
 
-
-Uses of the Demonstratives.
 
 (a) οὗτος and ὅδε both
 mean this, this book, ete.; but οὗτος usually refers to something already mentioned, and ὅδε to something yet to
@@ -66,10 +64,10 @@ have the predicate position (§ 31, 2):
 αὕτη ἡ κώμη this village ;
 ἐκείνη ἡ κώμη that village.
 
-<div type="textpart" subtype="para" n="77">
+## [§ 77](#para77). Dative of Means.
 
 
-Dative of Means. The dative indicates the means whereby an act is done: <note>The dative has three distinct divisions as to use, corresponding to English phrases with to or for, with, and in.</note>
+The dative indicates the means whereby an act is done: <note>The dative has three distinct divisions as to use, corresponding to English phrases with to or for, with, and in.</note>
 τὸν ποταμὸν διαβαίνει πλοίῳ
 he crosses the river in (by means of) a boat.
 
@@ -97,10 +95,10 @@ VOCABULARY
 <pb n="45"/>
 
 
-<div type="textpart" subtype="para" n="79">
+## [§ 79](#para79). Exercises.
 
 
-EXERCISES
+
 (a) Translate :
 
 1. ἐκεῖνο τὸ πλοῖον μεστὸν ἣν σίτου.
@@ -124,10 +122,10 @@ EXERCISES
 4. They had (ἦν) the same plan.
 5. We ourselves shall leave Athens.
 
-<div type="textpart" subtype="para" n="80">
+## [§ 80](#para80). Dean Inge, of St.
 
 
-Dean Inge, of St. Paul’s Cathedral, London, writes:
+Paul’s Cathedral, London, writes:
 “The Christian Church was the last great creative achievement of classical culture.”<note>Legacy of Greece, page 30.
 </note> The λόγος of St. John’s
 Gospel is one of many evidences of this.
