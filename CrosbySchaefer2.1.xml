@@ -803,9 +803,18 @@ Present Indicative Active or παύω <gloss>I stop</gloss></p>
 <p>
 
   <table>
+    <row role="label"><cell>Greek</cell><cell>English</cell><cell>Greek</cell><cell>English</cell></row>
     <row><cell>παύω</cell><cell>I stop</cell><cell>παύομεν</cell><cell>we stop</cell></row>
     <row><cell>παύεις</cell><cell>you (sg) stop</cell><cell>παύετε</cell><cell>you (pl) stop</cell></row>
     <row><cell>παύει</cell><cell>s/he or it stops</cell><cell>παύουσι</cell><cell>they stop</cell></row>
+  </table>
+
+</p><p>Frequency of this paradigm in the Anabasis.
+  <table>
+    <row role="label"><cell>Freq</cell><cell>Ending</cell><cell>Freq</cell><cell>Ending</cell></row>
+    <row><cell>85</cell><cell>-ω</cell><cell>26</cell><cell>-ομεν</cell></row>
+    <row><cell>26</cell><cell>-εις</cell><cell>34</cell><cell>-ετε</cell></row>
+    <row><cell>256</cell><cell>-ει</cell><cell>132</cell><cell>-ουσι</cell></row>
   </table>
 </p>
 <p>Present Infintive ACTIVE παύ-ειν
@@ -863,7 +872,14 @@ he was hostile to the general.</p></div>
   </list>
 </div>
 <div type="textpart" subtype="para" n="18"><head>Vocabulary Notes</head>
-<p>The adjective καλός is well attested on Greek vases. People would have the expressions such as Λεαγρὸς καλός ("Leagros is attractive," or, perhaps more accurately, "Leagros is hot!") added to Greek vases in the late sixth and early 5th century B.C. -- there is an entire Wikipedia page dedicated to <ref n="https://en.wikipedia.org/wiki/Kalos_inscription">Kalos inscriptions</ref>.</p>
+  <p>The defintions offered for καλός and ἀγαθός demonstrate that both are very positive terms. Each is sometimes translated as "good," "noble" and "honorable." In general, however, καλός describes people and things that are attractive and appealing to us, while ἀγαθός tends to address positive qualities that are not superficial. Thus we get the contrast between men who may be physically attractive but may or may not be courageous. This emerges in a passage from the Anabasis (<ref n="https://scaife-dev.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:7.4.7-7.4.8?right=perseus-eng2">7.4.7-7.4.8</ref> which describes a company of physically attractive (καλός) soldiers but emphasizes that one of them (at least) was also a "good man" (ἀγαθός). The conclusion of this passage captures this distinction:
+  <cit>
+    <quote>λόχον ποτὲ συνελέξατο σκοπῶν οὐδὲν ἄλλο ἢ εἴ τινες εἶεν καλοί, καὶ μετὰ τούτων ἦν ἀνὴρ ἀγαθός.</quote>
+    <quote xml:lang="eng">he had once assembled a company considering nothing else except whether a man was handsome (καλός), and that with these men he was a brave man (ἀνὴρ ἀγαθός.).</quote>
+    <bibl n="https://scaife-dev.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:7.4.7-7.4.8?right=perseus-eng2">Xen. Anab. 7.4.8</bibl>
+  </cit> </p>
+
+<p>The adjective καλός as a compliment plays a significant role in Athenian vases of the early fifth century. People would add the formula "so-and-son is καλός. The phrase Λεαγρὸς καλός ("Leagros is attractive," or, perhaps more accurately, "Leagros is hot!") was particularly common and may reflect the popularity of one particular figure. An separate Wikipedia page dedicated to <ref n="https://en.wikipedia.org/wiki/Kalos_inscription">Kalos inscriptions</ref> has appeared (reflecting the interest that this topic has attracted in the 21st century as well).</p>
 <p>You can see an example of this practice on a famous vase from the Louvre (c. 485-480 BCE). This vase would have been produced in the years after the Athenians had defeated <ref n="https://en.wikipedia.org/wiki/Darius_the_Great">Darius I</ref> and his Persian army at <ref n="https://en.wikipedia.org/wiki/Battle_of_Marathon">Marathon</ref> and just before <ref n="https://en.wikipedia.org/wiki/Xerxes_I">Xerxes</ref>, Darius' son, would invade Greece in 480 BCE and temporarily <ref n="https://en.wikipedia.org/wiki/Achaemenid_destruction_of_Athens">occupy (and destroy) Athens</ref>. The vase illustrates a deeply emotional scene from Greek mythology: the goddess Eos (Dawn) holds the dead body of her mortal son, whom Achilles had just killed.
   <graphic url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Eos_Memnon_Louvre_G115.jpg"/>
   <graphic url="images/hermogkalos.jpg"/>

@@ -21,9 +21,22 @@ Present Indicative Active or παύω *I stop*
 
 
 
+| Greek | English | Greek | English | 
+| --- | --- | --- | --- 
 | παύω | I stop | παύομεν | we stop | 
 | παύεις | you (sg) stop | παύετε | you (pl) stop | 
 | παύει | s/he or it stops | παύουσι | they stop | 
+
+
+
+
+Frequency of this paradigm in the Anabasis.
+
+| Freq | Ending | Freq | Ending | 
+| --- | --- | --- | --- 
+| 85 | -ω | 26 | -ομεν | 
+| 26 | -εις | 34 | -ετε | 
+| 256 | -ει | 132 | -ουσι | 
 
 
 
@@ -94,7 +107,16 @@ he was hostile to the general.
 ## [§ 18](#para18). Vocabulary Notes
 
 
-The adjective καλός is well attested on Greek vases. People would have the expressions such as Λεαγρὸς καλός ("Leagros is attractive," or, perhaps more accurately, "Leagros is hot!") added to Greek vases in the late sixth and early 5th century B.C. -- there is an entire Wikipedia page dedicated to [Kalos inscriptions](https://en.wikipedia.org/wiki/Kalos_inscription).
+The defintions offered for καλός and ἀγαθός demonstrate that both are very positive terms. Each is sometimes translated as "good," "noble" and "honorable." In general, however, καλός describes people and things that are attractive and appealing to us, while ἀγαθός tends to address positive qualities that are not superficial. Thus we get the contrast between men who may be physically attractive but may or may not be courageous. This emerges in a passage from the Anabasis ([7.4.7-7.4.8](https://scaife-dev.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:7.4.7-7.4.8?right=perseus-eng2) which describes a company of physically attractive (καλός) soldiers but emphasizes that one of them (at least) was also a "good man" (ἀγαθός). The conclusion of this passage captures this distinction:
+
+>  λόχον ποτὲ συνελέξατο σκοπῶν οὐδὲν ἄλλο ἢ εἴ τινες εἶεν καλοί, καὶ μετὰ τούτων ἦν ἀνὴρ ἀγαθός.<br/>
+>  he had once assembled a company considering nothing else except whether a man was handsome (καλός), and that with these men he was a brave man (ἀνὴρ ἀγαθός.).<br/>
+>> Xen. Anab. 7.4.8
+
+
+
+
+The adjective καλός as a compliment plays a significant role in Athenian vases of the early fifth century. People would add the formula "so-and-son is καλός. The phrase Λεαγρὸς καλός ("Leagros is attractive," or, perhaps more accurately, "Leagros is hot!") was particularly common and may reflect the popularity of one particular figure. An separate Wikipedia page dedicated to [Kalos inscriptions](https://en.wikipedia.org/wiki/Kalos_inscription) has appeared (reflecting the interest that this topic has attracted in the 21st century as well).
 
 
 You can see an example of this practice on a famous vase from the Louvre (c. 485-480 BCE). This vase would have been produced in the years after the Athenians had defeated [Darius I](https://en.wikipedia.org/wiki/Darius_the_Great) and his Persian army at [Marathon](https://en.wikipedia.org/wiki/Battle_of_Marathon) and just before [Xerxes](https://en.wikipedia.org/wiki/Xerxes_I), Darius' son, would invade Greece in 480 BCE and temporarily [occupy (and destroy) Athens](https://en.wikipedia.org/wiki/Achaemenid_destruction_of_Athens). The vase illustrates a deeply emotional scene from Greek mythology: the goddess Eos (Dawn) holds the dead body of her mortal son, whom Achilles had just killed.
