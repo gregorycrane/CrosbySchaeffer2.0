@@ -41,16 +41,15 @@ Frequency of this paradigm in the Anabasis.
 
 
 
-Present Infintive ACTIVE παύ-ειν
+Present Infintive Active: παύ-ειν
 
 
 
 In like manner inflect ἐθέλω.
 
-<div type="textpart" subtype="para" n="14">
+## [§ 14](#para14). Verb Structure.
 
 
-Verb Structure.
 (a) In the inflection of a verb
 the stem is of fundamental importance. On it are built
 the various forms. παύ- is the stem of παύω.
@@ -63,10 +62,10 @@ written ε/ο, ο being used before μ or ν, ε elsewhere.
 In the present indicative active the personal ending is
 clearly seen only in the first and second persons plural.
 
-<div type="textpart" subtype="para" n="15">
+## [§ 15](#para15). Verb Accent.
 
 
-Verb Accent. In § 8 we saw that the accent of
+In § 8 we saw that the accent of
 nouns was persistent. That of verbs is recessive, that is,
 
 
@@ -79,10 +78,10 @@ on the penult if the ultima is long -
 
 ἐθέλω, ἐθέλομεν.
 
-<div type="textpart" subtype="para" n="16">
+## [§ 16](#para16). Dative with Adjectives.
 
 
-Dative with Adjectives. The dative is used with many adjectives expressing friendliness, hostility, association, fitness, and the like: 1
+The dative is used with many adjectives expressing friendliness, hostility, association, fitness, and the like: 1
 
 πολέμιος ἦν τῷ στρατηγῷ
 he was hostile to the general.
@@ -110,7 +109,7 @@ he was hostile to the general.
 The defintions offered for καλός and ἀγαθός demonstrate that both are very positive terms. Each is sometimes translated as "good," "noble" and "honorable." In general, however, καλός describes people and things that are attractive and appealing to us, while ἀγαθός tends to address positive qualities that are not superficial. Thus we get the contrast between men who may be physically attractive but may or may not be courageous. This emerges in a passage from the Anabasis ([7.4.7-7.4.8](https://scaife-dev.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:7.4.7-7.4.8?right=perseus-eng2) which describes a company of physically attractive (καλός) soldiers but emphasizes that one of them (at least) was also a "good man" (ἀγαθός). The conclusion of this passage captures this distinction:
 
 >  λόχον ποτὲ συνελέξατο σκοπῶν οὐδὲν ἄλλο ἢ εἴ τινες εἶεν καλοί, καὶ μετὰ τούτων ἦν ἀνὴρ ἀγαθός.<br/>
->  he had once assembled a company considering nothing else except whether a man was handsome (καλός), and that with these men he was a brave man (ἀνὴρ ἀγαθός.).<br/>
+>  he had once assembled a company considering nothing else except whether a man was handsome (καλός), and with these men he was a brave man (ἀνὴρ ἀγαθός.).<br/>
 >> Xen. Anab. 7.4.8
 
 
@@ -131,11 +130,11 @@ The inscription is ΗΕΡΜΟΓΕΝΕΣ ΚΑΛΟΣ, which is Ἑρμογένης
 ![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/memnon.jpg?raw=true)A second inscription includes ΜΕΜΝΟΝ (the hero Μέμνων) ΚΑΛΙΑΔΕΣ ΕΠΟΙΕΣΕΝ (Καλλιάδης ἐποιήσεν, "Calliades made [it]," i.e., Calliades was the potter). There is an additional inscription (not shown in detail) that includes a nonsense inscription (i.e., letters for decorative effect).
 
 
-<div type="textpart" subtype="para" n="18">
+## [§ 18](#para18). Exercises.
 
 
 
-EXERCISES
+
 
 (a) What do the portions in heavy type tell as to the person
 and number of the subject ?
@@ -145,6 +144,9 @@ and number of the subject ?
 3. ἔχ-**ετε** 
 4. ἐθέλ-**ω** 
 5. γράφ-**εἰς**
+
+
+
 
 (b) Translate:
 
@@ -158,6 +160,9 @@ and number of the subject ?
 8. ὁ στρατηγὸς πολέμιος ἦν τοῖς ἀγγέλοις,
 
 <pb n="9"/>
+
+
+
 (c)
 
 1. οἱ ἀδελφοὶ ἐθέλουσι γραφ--. 
@@ -184,11 +189,13 @@ This is one of the precious bits of sculpture from the eastern pediment of the P
 1. Read the entire English sentence, noting how the words are related.
 2. Call to mind Greek words with meanings like thosein English.
 3. Consider the changes in form needed to express the relations suggested by the English.
-
 4. Form the Greek sentence mentally and say it aloud before starting to write.
 5. Write the sentence, with accents and breathings.
 
-(2) Write in Greek :
+
+
+
+(b) Write in Greek :
 
 1. The brothers were small. 
 2. They are sending the man to the general. 
@@ -204,7 +211,7 @@ This is one of the precious bits of sculpture from the eastern pediment of the P
 
 
 
-This is the famous refrain of the frog chorus in Aristophanes’ comedy, The Frogs. In unison with this unceasing chant Dionysus rows Charon’s boat across the Styx. It is the basis of Yale’s well-known yell.
+This is the famous refrain of the frog chorus in Aristophanes’ comedy, The Frogs. In unison with this unceasing chant Dionysus rows Charon’s boat across the Styx. It is the basis of Yale’s well-known yell. <note>GRC: The "it is" is the America of the 1920s. This Greek phrase was the basis of the Yale "Long Cheer," first publicly used in 1884 and continued through the 1960s: basic information in the [Wikipedia Entry on the Frogs](https://en.wikipedia.org/wiki/The_Frogs) with links to Yale Alumni Magazines with details.</note>
 
 <pb n="10"/>
 

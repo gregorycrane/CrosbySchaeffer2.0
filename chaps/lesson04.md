@@ -17,56 +17,82 @@ ending in -ον. They differ from masculines only in the
 nominative singular and the nominative and accusative
 plural.
 
+
+
 As in Latin, nominative and accusative of neuters are
 identical in form. In the plural they end in a (Latin a).
 
 τὸ ἄξιον δῶρον
-the worthy gift
+the valuable gift
+| Greek | English | Greek | English | 
+| --- | --- | --- | --- 
+| the valuable gift [nom] | τὸ ἄξιον δῶρον | the valuable gifts [nom] | τὰ ἄξια δῶρα | 
+| of the valuable gift | τοῦ ἀξίου δώρου | of the valuable gifts | τῶν ἀξίων δώρων | 
+| by means of the valuable gift | τῷ ἀξίῳ δώρῳ | by means of the valuable gifts | τοῖς ἀξίοις δώροις | 
+| the valuable gift [acc] | τὸ ἄξιον δῶρον | the valuable gift [acc] | τὰ ἄξια δῶρα | 
 
 
-In like manner inflect τὸ καλὸν πεδίον.2
-
-<div type="textpart" subtype="para" n="22">
+In like manner inflect τὸ καλὸν πεδίον.
 
 
-Agreement of Verb. A neuter plural subject regularly has its verb in the singular:
-τὰ δῶρα ἦν ἄξια
-the gifts were worthy.
+For accent of δῶρον and πεδίον see § V, d and f [GRC: make these active links].
 
-<div type="textpart" subtype="para" n="23">
+## [§ 22](#para22). Agreement of Verb.
 
 
-Dative of Place Where. The dative with most
-prepositions denotes place where: 4
-
-ἐν τῷ πεδίῳ in the plain
-(Latin: in oppido in the town);
-παρὰ τῷ στρατηγῶ at the side of the general.
+A neuter plural subject regularly has its verb in the singular:
+| Greek | English | 
+| --- | -- | 
+|  τὰ δῶρα ἦν ἄξια  |  the gifts were worthy.  |
 
 
+## [§ 23](#para23). Dative of Place Where. 
 
-2 For accent of δῶρον and πεδίον see § V, d and f.
 
-3 Endings of neuters of the ο-declension in Latin.
+The dative with most
+prepositions denotes **place where**:
 
-4 This is our third use of the dative (§§ 4, 16). The use here given is like
+| Greek | English | 
+| --- | -- | 
+|  ἐν τῷ πεδίῳ  |  in the plain  |
+
+(Latin: "in oppido" *in the town*);
+
+| Greek | English | 
+| --- | -- | 
+|  παρὰ τῷ στρατηγῶ  |  at the side of the general  |
+
+
+
+This is our third use of the dative (§§ 4, 16). The use here given is like
 that of the Latin ablative in its in relations.
+
+
+
+
+
+
+
 
 
 <pb n="11"/>
 
 
-<div type="textpart" subtype="para" n="24">
+## [§ 24](#para24). Accusative of Place to Which.
 
 
-Accusative of Place to Which. The accusative
-with many prepositions denotes place to which :1
+The accusative
+with many prepositions denotes **place to which** :1
 
-εἰς τὸ πεδίον
-into the plain
-(Latin: in oppidum into the town);
+| Greek | English | 
+| --- | -- | 
+|  εἰς τὸ πεδίον  |  into the plain  |
 
-παρὰ τὸν στρατηγόν to the side of the general.
+(Latin: "in oppidum" *into the town*);
+
+| Greek | English | 
+| --- | -- | 
+|  παρὰ τὸν στρατηγόν  |  to the side of the general  |
 
 ## [§ 25](#para25). Vocabulary
 | Lemma | Freq | Total | Gloss |
