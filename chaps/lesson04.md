@@ -108,6 +108,28 @@ with many prepositions denotes **place to which** :1
 | στάδιον | [41](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/στάδιον.md) | 15646 | σταδίου, τό: stadium (race course); stade (600 ft.).3 
 
 
+## [§ 25a](#para25a). Delphi.
+
+
+The Temple and Oracle of Apollo at Delphi was considered to stand at the center of the Greek world and was called the "navel of the world." It was ostensibly a Panhellenic site -- open to all Hellenes -- but it sided with the Spartans and their allies against Athens in the Peloponnesian War. In the Oresteia of Aeschylus, Apollo is powerless to resolve the challenge that the Furies pose after he has pushed Orestes to kill his mother and offered Orestes his full support. Only Athena and the Athenian people can resolve the problem. Apollo and Delphi are sinister forces (in my view) in Sophocles' Oedipus the King.
+
+
+Delphi was the scene of the other great Panhellenic games, comparable to, if perhaps not quite as prestigious, as those at Olympia. Delphi's games ran on a four year schedule two years before and after the games at Olympia. Lesser panhellenic Games at the Isthmus and at Nemea filled in the other two years of the four year cycle so that each year provided games and a cosmopolitan venue in which to meet.
+
+
+Here is a view from the end of the [Stadium at Delphi](https://en.wikipedia.org/wiki/Stadium_of_Delphi) looking towards the starting lines.
+![text](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/%CE%91%CF%81%CF%87%CE%B1%CE%AF%CE%BF_%CF%83%CF%84%CE%AC%CE%B4%CE%B9%CE%BF_%CE%94%CE%B5%CE%BB%CF%86%CF%8E%CE%BD2.jpg/1024px-%CE%91%CF%81%CF%87%CE%B1%CE%AF%CE%BF_%CF%83%CF%84%CE%AC%CE%B4%CE%B9%CE%BF_%CE%94%CE%B5%CE%BB%CF%86%CF%8E%CE%BD2.jpg)
+
+
+![text](https://upload.wikimedia.org/wikipedia/commons/7/71/%CE%91%CF%81%CF%87%CE%B1%CE%AF%CE%BF_%CF%83%CF%84%CE%AC%CE%B4%CE%B9%CE%BF_%CE%94%CE%B5%CE%BB%CF%86%CF%8E%CE%BD2.jpg)
+![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/gramme.jpg?raw=true)
+![text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Delphi_stadium_starting_line_DSC06301.jpg/790px-Delphi_stadium_starting_line_DSC06301.jpg)
+<figure><head>The "scratch."</head>
+
+
+The Delphic stadium (page 12) still retains the row of flat stones whose double grooves, called by the Greeks ἡ γραμμή "the scratch."
+</figure>
+
 ## [§ 26](#para26). Exercises.
 
 
@@ -122,7 +144,7 @@ with many prepositions denotes **place to which** :1
 5. δώρ-**οις **
 6. σταδί-**ῳ**
 
-The Delphic stadium (page 12) still retains the row of flat stones whose double grooves, called by the Greeks ἡ γραμμή "the scratch."
+
 
 
 (b) Translate :
