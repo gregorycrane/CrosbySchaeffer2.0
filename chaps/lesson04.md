@@ -36,6 +36,25 @@ In like manner inflect τὸ καλὸν πεδίον.
 
 
 For accent of δῶρον and πεδίον see § V, d and f [GRC: make these active links].
+<div type="textpart" subtype="para" n="21a">
+
+
+These are the most common neuter o-stem nouns, with the CS lesson if they appear in lesson 1-24.
+
+| | lemma | freq | CS1-24 | def | 
+| --- | --- | --- | --- | --- 
+| 1 | χωρίον | 92 | NA | a particular place, a place, spot, district | 
+| 2 | ὅπλον | 85 | 15 | a tool, implement, (pl.) arms, weapons | 
+| 3 | πλοῖον | 60 | 14 | a floating vessel, a ship, vessel | 
+| 4 | πεδίον | 50 | 4 | a plain | 
+| 5 | στρατόπεδον | 39 | 17 | the ground on which soldiers are encamped, a camp, encampment | 
+| 6 | ἄκρον | 31 | NA | the highest or furthest point: mountain top, cape | 
+| 7 | ὑποζύγιον | 30 | NA | a beast for the yoke, a beast of burden | 
+| 8 | στάδιον | 41 | 4 | a stade, = ca. 600 feet | 
+| 9 | πρόβατον | 19 | NA | sheep; small cattle | 
+| 10 | πλέθρον | 17 | NA | a plethron, = 100 feet long, or 10,000 square feet | 
+
+
 
 ## [§ 22](#para22). Agreement of Verb.
 
