@@ -108,10 +108,40 @@ with many prepositions denotes **place to which** :1
 | στάδιον | [41](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/στάδιον.md) | 15646 | σταδίου, τό: stadium (race course); stade (600 ft.).3 
 
 
+
+## [§ 25a](#para25a). Vocabulary Notes
+
+
+The most common dictionary words in the Anabasis, with the Crosby and Schaeffer lesson listed if they appear in lessons 1-24.
+
+| | lemma | freq | CS1-24 | def | 
+| --- | --- | --- | --- | --- 
+| 1 | ὁ | 6522 | 1 | the | 
+| 2 | καί | 3388 | 3 | and, also | 
+| 3 | δέ | 2389 | 4 | but | 
+| 4 | εἰμί | 1316 | 17 | to be | 
+| 5 | οὗτος | 1037 | 14 | this; that | 
+| 6 | αὐτός | 899 | 13 | unemph. 3rd pers.pronoun; -self; [the] same | 
+| 7 | μέν | 787 | 8 | on the one hand, on the other hand | 
+| 8 | ἐγώ | 741 | 15 | I (first person pronoun) | 
+| 9 | σύ | 536 | 15 | you (personal pronoun) | 
+| 10 | λέγω | 514 | NA | to say, tell, speak; epic and arch.: pick, gather | 
+| 11 | ὅς | 506 | 13 | who, that, which: relative pronoun | 
+| 12 | τις | 464 | NA | any one, any thing, some one, some thing | 
+| 13 | ἐπί | 461 | 12 | on, upon with gen., dat., and acc. | 
+| 14 | ὡς | 457 | 21 | as, how | 
+| 15 | γάρ | 452 | 6 | for | 
+| 16 | ἐν | 439 | 4 | in, among. c. dat. | 
+| 17 | ἔχω | 438 | 10 | have, hold; be able; (+ adv.) be; (mid.) cling to, be next to (+ gen.) | 
+| 18 | οὐ | 434 | 6 | not | 
+| 19 | εἰς | 432 | 4 | into, to c. acc. | 
+| 20 | πολύς | 426 | NA | much, many | 
+
+
 ## [§ 25a](#para25a). Delphi.
 
 
-The Temple and Oracle of Apollo at Delphi was considered to stand at the center of the Greek world and was called the "navel of the world." It was ostensibly a Panhellenic site -- open to all Hellenes -- but it sided with the Spartans and their allies against Athens in the Peloponnesian War. In the Oresteia of Aeschylus, Apollo is powerless to resolve the challenge that the Furies pose after he has pushed Orestes to kill his mother and offered Orestes his full support. Only Athena and the Athenian people can resolve the problem. Apollo and Delphi are sinister forces (in my view) in Sophocles' Oedipus the King.
+The Temple and Oracle of Apollo at Delphi was considered to stand at the center of the Greek world and was called the "navel of the world." It was ostensibly a Panhellenic site -- open to all Hellenes. Before leaving to travel with Cyrus, Xenophon, for example, consulted the oracle. Delphi had, however, sided with the Spartans and their allies against Athens in the Peloponnesian War. In the Oresteia of Aeschylus, Apollo is powerless to resolve the challenge that the Furies pose after he has pushed Orestes to kill his mother and offered Orestes his full support. Only Athena and the Athenian people can resolve the problem. Apollo and Delphi are sinister forces (in my view) in Sophocles' Oedipus the King. Euripides situated his play the Ion in Delphi but the action of the play emerges from the fact that Apollo had raped an Athenian woman, a sexual act that is not romanticized or blurred but presented as an ugly trauma with lifelong impact.
 
 
 Delphi was the scene of the other great Panhellenic games, comparable to, if perhaps not quite as prestigious, as those at Olympia. Delphi's games ran on a four year schedule two years before and after the games at Olympia. Lesser panhellenic Games at the Isthmus and at Nemea filled in the other two years of the four year cycle so that each year provided games and a cosmopolitan venue in which to meet.
@@ -121,7 +151,7 @@ Here is a view from the end of the [Stadium at Delphi](https://en.wikipedia.org/
 ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/%CE%91%CF%81%CF%87%CE%B1%CE%AF%CE%BF_%CF%83%CF%84%CE%AC%CE%B4%CE%B9%CE%BF_%CE%94%CE%B5%CE%BB%CF%86%CF%8E%CE%BD2.jpg/1024px-%CE%91%CF%81%CF%87%CE%B1%CE%AF%CE%BF_%CF%83%CF%84%CE%AC%CE%B4%CE%B9%CE%BF_%CE%94%CE%B5%CE%BB%CF%86%CF%8E%CE%BD2.jpg)
 
 
-![text](https://upload.wikimedia.org/wikipedia/commons/7/71/%CE%91%CF%81%CF%87%CE%B1%CE%AF%CE%BF_%CF%83%CF%84%CE%AC%CE%B4%CE%B9%CE%BF_%CE%94%CE%B5%CE%BB%CF%86%CF%8E%CE%BD2.jpg)
+
 ![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/gramme.jpg?raw=true)
 ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Delphi_stadium_starting_line_DSC06301.jpg/790px-Delphi_stadium_starting_line_DSC06301.jpg)
 <figure><head>The "scratch."</head>
