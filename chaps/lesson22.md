@@ -55,11 +55,11 @@ all the water.
 2. By destroying the seven boats they caused us trouble.
 3. The exiles do not trust those who are remaining here.
 4. Since we are hopeful (having hope) we intend to hasten to the camp.
-<figure><head>The Great God Pan</head>
+# Chapter 22: Figure: The Great God Pan
 
 
 
-This uncouth deity of mountain and woodland was believed to have inspired the Persians with "panic" at Marathon and Salamis.</figure>
+This uncouth deity of mountain and woodland was believed to have inspired the Persians with "panic" at Marathon and Salamis.
 <div type="textpart" subtype="para" n="124">
 
 
@@ -118,7 +118,7 @@ James Russell Lowell, Address on Books and Libraries.
 
 
 
-<figure><head>A Panathenaic Amphora</head></figure>
+<head>Figure: A Panathenaic Amphora</head>
 
 
 <pb n="71"/>

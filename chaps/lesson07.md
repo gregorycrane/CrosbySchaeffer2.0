@@ -113,7 +113,7 @@ Gate OF ATHENA ARCHEGETIS
 4. The flight was not evident to the general.
 5. The garrison did not have (use ἦσαν) tents.
 
-<figure><head>THE ACROPOLIS</head>
+# Chapter 7: Figure: THE ACROPOLIS
 
 
 
@@ -121,7 +121,7 @@ Although many Greek cities had a fortified hill, or acropolis, most people
 associate that word with the famous hi!l in the heart of Athens. At first the
 home of the early kings, it came to be devoted to the gods and heroes of the
 state. Its glorious temples were visible from the agora, as indeed for miles
-around in all directions.</figure>
+around in all directions.
 
 ## [§ 40](#para40). Word-formation.
 

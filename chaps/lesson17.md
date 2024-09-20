@@ -155,20 +155,20 @@ IN HOSTILE TERRITORY
 
 
 <pb n="55"/>
-<figure><head>THE STADIUM AT ATHENS</head>
+# Chapter 17: Figure: THE STADIUM AT ATHENS
 
 
 Here the Olympic games were revived in 1896 after the lapse of centuries
-In the lower picture you can see its marble seats beyond the grove.</figure>
+In the lower picture you can see its marble seats beyond the grove.
 
 
-<figure><head>View of ATHENS FROM THE ACROPOLIS</head>
+# Chapter 17: Figure: View of ATHENS FROM THE ACROPOLIS
 
 
 Above the housetops rises the Arch of Hadrian (page 32). To the right
 are the surviving columns of the lofty Olympieum (page 118). Beyond the
 Stadium looms Hymettus, famed for its honey. The glory of Hymettus’
-slopes at sunset won for Athens the title. “violet crowned.”</figure>
+slopes at sunset won for Athens the title. “violet crowned.”
 
 
 

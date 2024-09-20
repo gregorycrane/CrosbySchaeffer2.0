@@ -502,16 +502,16 @@ The following example includes a predicate nominative and a genitive.
 
 | ![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/peneios.jpg?raw=true) | ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg) | 
 
-![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg ὁ ποταμός)
+<figure>![text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg)<head>ὁ ποταμός</head>
 ![text](https://upload.wikimedia.org/wikipedia/commons/b/b2/Pineios_river_%28thessaly%29_map.jpg)
-<figure><head>ὁ ποταμός</head>
+# Chapter 1: Figure: ὁ ποταμός
 
 
 This lovely pass, the Vale of Tempe, between Mt. Ossa and Mt. Olympus,
 might have proven more troublesome to the Persians than Thermopylae, had
 they not found an easier entrance into Greece. The Peneus River, which
-winds through it, is one of the few in Greece that never go dry.</figure>
-![text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%CE%A0%CE%B7%CE%BD%CE%B5%CE%B9%CF%8C%CF%82-Pinios_river.jpg/640px-%CE%A0%CE%B7%CE%BD%CE%B5%CE%B9%CF%8C%CF%82-Pinios_river.jpg)
+winds through it, is one of the few in Greece that never go dry.
+<figure>![text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%CE%A0%CE%B7%CE%BD%CE%B5%CE%B9%CF%8C%CF%82-Pinios_river.jpg/640px-%CE%A0%CE%B7%CE%BD%CE%B5%CE%B9%CF%8C%CF%82-Pinios_river.jpg)
 <pb n="4"/>
 
 

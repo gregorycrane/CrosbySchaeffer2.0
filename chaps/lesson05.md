@@ -32,7 +32,6 @@ a good working vocabulary. The words assigned for study
 in this book have been chosen for their relative frequency
 and general utility. If you learn them, you should be able
 to figure out the meaning of many other words, and as a
-
 result be able to read with greater ease and pleasure.
 
 ASSIGNMENTS
@@ -91,10 +90,19 @@ add that belong to this group?
 6. you (plural) wish,
 7. he sends
 
+![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/studenttablet.jpg?raw=true)
 
 
 <pb n="14"/>
+## [§ 28a](#para28a). Figure: A Greek Student's Tablet
 
+![text](https://upload.wikimedia.org/wikipedia/commons/5/5e/Wax_writing_tablet_%282nd_C%29_-_BL_Add_MS_34186.jpg)
+
+
+Here we see half of a school tablet used by some Greek student more than
+2000 years ago. At the top the master has written two lines of verse, which
+the pupil has tried to reproduce twice in the space below. See if you can
+find mistakes in their work.
 
 ## [§ 28](#para28). Exercises.
 
@@ -109,14 +117,7 @@ add that belong to this group?
 5. τὰ δενδρ--  ---- (linking verb) ἐν τ-- πεδι-- (singular),
 6. ὁ ἄγγελος πολέμιος ἦν τ ἀνθρωπ-- (singular).
 
-<figure><head>A GREEK BOY‘S TABLET</head>
 
-
-
-Here we see half of a school tablet used by some Greek lad more than
-2000 years ago. At the top the master has written two lines of verse, which
-the pupil has tried to reproduce twice in the space below. See if you can
-find mistakes in his work.</figure>
 
 (b) Write in Greek:
 

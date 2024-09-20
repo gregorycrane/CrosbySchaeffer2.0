@@ -85,8 +85,8 @@ related to that of the main verb:
 φυγὼν δια-βαίνει having fled he crosses.
 
 <pb n="66"/>
-<figure><head>The Eleusinian Mysteries, unlike the ordinary Greek religion, gave hope
-of a real life after death. Cicero was initiated into these Mysteries.</head></figure>
+<head>Figure: The Eleusinian Mysteries, unlike the ordinary Greek religion, gave hope
+of a real life after death. Cicero was initiated into these Mysteries.</head>
 
 <div type="textpart" subtype="para" n="118">
 
@@ -108,7 +108,7 @@ VOCABULARY
 <rs type="lemma">παρ-έχω</rs>, παρ-ίξω, παρ-έσχον: furnish, cause.
 <rs type="lemma">ὡς</rs>, conj, adv.: as, as if, when.
 
-<figure><head>Eleusis</head></figure>
+# Chapter 21: Figure: Eleusis
 
 
 
@@ -137,10 +137,10 @@ VOCABULARY
 3. τοῖς μὲν μεν--- πιστεύσομεν, τοῖς δὲ ἐξιελαυν-- οὔ.
 4. οὗτος γὰρ λαβ- τὰ χρημα--- ἤθροισε στρατιᾶν.
 
-<figure><head>Torches from ELeusis</head>
+# Chapter 21: Figure: Torches from ELeusis
 
 
-Much of the ritual was performed by torchlight</figure>
+Much of the ritual was performed by torchlight
 
 
 

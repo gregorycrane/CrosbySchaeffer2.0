@@ -127,14 +127,14 @@ HUMAN FRAILTY
 
 
 <pb n="74"/>
-<figure><head>THE ERECHTHEUM</head>
+# Chapter 23: Figure: THE ERECHTHEUM
 
 
 On the spot where Athena contended with Poseidon for the guardianship
 of Athens, stands the most elegant of all Greek temples. Near one end
 grew the sacred olive of the goddess. Within the shrine was her ancient
 wooden image. Beneath the north porch are still shown the marks of
-Poseidon's trident. (See the pictures on page 334 and facing page 180.)</figure>
+Poseidon's trident. (See the pictures on page 334 and facing page 180.)
 
 
 
@@ -152,11 +152,11 @@ usually denote a condition or an activity:
 This type of verb is to be found chiefly in connection
 with words of the ο-declension.
 
-<figure><head>A DETAIL FROM THE ERECHTHEUM</head>
+# Chapter 23: Figure: A DETAIL FROM THE ERECHTHEUM
 
 
 This honeysuckle pattern, justly famous for its exquisite workmanship, is an
-ever-recurring theme in the decoration of the temple.</figure>
+ever-recurring theme in the decoration of the temple.
 
 
 

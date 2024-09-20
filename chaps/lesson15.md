@@ -129,12 +129,12 @@ VOCABULARY
 5. The grain was not in the beat itself.
 
 
-<figure><head>THE SEA GOD’S SHRINΕ</head>
+# Chapter 15: Figure: THE SEA GOD’S SHRINΕ
 
 
 These columns of whitest marble, belonging to the temple of Poseidon, still welcome the
 seafarer to Attica as in the proud
-days of Pericles.</figure>
+days of Pericles.
 
 86.
 

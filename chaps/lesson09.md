@@ -166,12 +166,12 @@ Compare Latin tego I cover, toga cloak; English I sing, song.
 
 
 
-<figure><head>ὁδὸς ἀρχαία</head>
+# Chapter 9: Figure: ὁδὸς ἀρχαία
 
 
 This fine roadway, bordered with elevated sidewalks, led from the agora
 at Corinth to the harbor. The ancient Greeks did most of their travel by sea
-and so had few good roads.</figure>
+and so had few good roads.
 
 
 

@@ -133,14 +133,14 @@ VOCABULARY
 
 <pb n="42"/>
 
-<figure><head>AN ANCIENT TIMEPIECE</head>
+# Chapter 13: Figure: AN ANCIENT TIMEPIECE
 
 
 
 This Horologium, or Tower of the Winds, stood in the Agora and served
 as both weather bureau and town clock. It was surmounted by a weather-
 vane. Sundials adorned the exterior, and within was a water clock. The
-figures beneath the cornice represent the eight winds.</figure>
+figures beneath the cornice represent the eight winds.
 
 
 <div type="textpart" subtype="para" n="73">

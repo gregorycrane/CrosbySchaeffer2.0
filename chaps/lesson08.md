@@ -79,13 +79,13 @@ or contrasted:
 ὁ δέ, ἡ δέ, κ.τ.λ. but (and) he, she, etc.,
 indicating change of subject. μέν is rarely to be translated but is a valuable warning that a comparison or contrast is coming. It is one of the many little words, often untranslatable, that make Greek so effective for expressing important shades of meaning.
 
-<figure><head>An Ionic Column</head>
+# Chapter 8: Figure: An Ionic Column
 
 
 
 The delicate workmanship of the
 Erechtheum, to which this column
-belongs, awakens universal admiration.</figure>
+belongs, awakens universal admiration.
 
 1 Certain verbs beginning with ε change ε to ει when augmented : ἔχω, εἶχον.
 

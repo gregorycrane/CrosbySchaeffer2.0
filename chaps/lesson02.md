@@ -102,8 +102,9 @@ Indo-European
 
 
 
-*The ARCADIAN GATE*: The walls of Messene still testify to the engineering skill and daring of the victor of Leuctra. Note particularly the central doorpost of this great gate. It is nearly nineteen feet long.
+<head>Figure: The ARCADIAN GATE</head>
 
+The walls of Messene still testify to the engineering skill and daring of the victor of Leuctra. Note particularly the central doorpost of this great gate. It is nearly nineteen feet long.
 
 
 
@@ -159,7 +160,7 @@ On μακρός and μικρός: Adjectives in -ρος usually have the acute o
 
 ![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/pericles.jpg?raw=true)
 ![text](https://upload.wikimedia.org/wikipedia/commons/6/67/Pericles_Pio-Clementino_Inv269.jpg)
-<figure><head>Pericles</head>
+# Chapter 2: Figure: Pericles
 
 
 
@@ -168,7 +169,7 @@ of Pericles. His home was the haunt
 of sculptor and architect, poet and
 philosopher. To him we owe above
 all the planning and construction of
-the matchless Parthenon.</figure>
+the matchless Parthenon.
 
 
 ## [§ 12](#para12). Exercises

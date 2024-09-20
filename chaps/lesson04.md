@@ -190,11 +190,11 @@ Here is a view from the end of the [Stadium at Delphi](https://en.wikipedia.org/
 
 ![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/gramme.jpg?raw=true)
 ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Delphi_stadium_starting_line_DSC06301.jpg/790px-Delphi_stadium_starting_line_DSC06301.jpg)
-<figure><head>The "scratch."</head>
+# Chapter 4: Figure: The "scratch."
 
 
 The Delphic stadium (page 12) still retains the row of flat stones whose double grooves, called by the Greeks ἡ γραμμή "the scratch."
-</figure>
+
 
 ## [§ 26](#para26). Exercises.
 
@@ -241,12 +241,12 @@ The Delphic stadium (page 12) still retains the row of flat stones whose double 
 5. The brothers were hostile to the messenger.
 
 
-<figure><head>τὸ ἐν Δελφοῖς στάδιον</head>
+# Chapter 4: Figure: τὸ ἐν Δελφοῖς στάδιον
 
 
 This ancient Greek stadium, perhaps the best preserved of all, is !ocated on
 the slopes of Parnassus, high above a lovely valley. Here every four years
-were held the famous Pythian Games in honor of Apollo.</figure>
+were held the famous Pythian Games in honor of Apollo.
 
 <pb n="13"/>
 
