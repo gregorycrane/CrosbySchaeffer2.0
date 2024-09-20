@@ -14,12 +14,12 @@
 
 The phrase above is called a Greek maxim because it appears in multiple places and does not have an obvious author. You can now substantiate that this is a maxim by searching online corpora. If you search for the Greek phrase above in the Perseus Scaife Viewer (which draws upon the largest openly licensed collection of Greek) you will (as of September 2024) find that it appears in six different authors:
 
-- Philo of Alexandria
-- Demeterius of Phaleron
-- Lucian of Samosata
-- Iambilichus
-- Dionysius of Halicarnassus
-- Galen.
+- [Demeterius of Phaleron (c. 350 - c. 280 BCE)](https://en.wikipedia.org/wiki/Demetrius_of_Phalerum)
+- [Dionysius of Halicarnassus (c. 60 BCE - after 7 CE)](https://en.wikipedia.org/wiki/Dionysius_of_Halicarnassus)
+- [Philo of Alexandria (c. 20 BCE - c. 50 CE)](https://en.wikipedia.org/wiki/Philo)
+- [Lucian of Samosata (c. 125 - after 180 CE)](https://en.wikipedia.org/wiki/Lucian)
+- [Iambilichus (c. 245 - c. 325)](https://en.wikipedia.org/wiki/Iamblichus)
+- [Galen (129 - 216 CE)](https://en.wikipedia.org/wiki/Galen)
 
 
 
