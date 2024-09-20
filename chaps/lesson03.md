@@ -7,9 +7,9 @@
 
 
 
-<div type="textpart" subtype="para" n="13">
+## [§ 13](#para13). The Present Tense.
 
-The Present Tense. This tense denotes action occurring or continuing or repeated in present time:
+The present tense denotes action occurring or continuing or repeated in present time:
 
 | Greek | English | 
 | --- | -- | 

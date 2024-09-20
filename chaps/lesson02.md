@@ -134,7 +134,7 @@ GRC: The [Battle of Leuctra](https://en.wikipedia.org/wiki/Battle_of_Leuctra) in
 | φίλος | [91](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φίλος.md) | 8119 | friend. PHILANTHROPIST.
 
 
-2 Adjectives in -ρος usually have the acute on the last syllable.
+On μακρός and μικρός: Adjectives in -ρος usually have the acute on the last syllable.
 
 
 

@@ -65,6 +65,24 @@ A neuter plural subject regularly has its verb in the singular:
 |  τὰ δῶρα ἦν ἄξια  |  the gifts were worthy.  |
 
 
+
+
+## [§ 23a](#para23a). παρά -- a three case preposition. 
+
+
+In this lesson we encounter παρά, the first (and not that last) Greek preposition that can govern the genitive, dative, and accusative, depending upon its meaning.
+
+
+The core meaning of παρά is "in the vicinity of" or "nearby but not within."  If the object being referenced extends in length or width (e.g., a river, a wall) or if it is a person, you can often translate the core meaning as "from/to/at the side of."
+
+
+We have already seen the Genitive of Separation (<ref n="9">9</ref>) with prepositions ἀπό and ἐξ. Here are two examples used with παρά:
+
+| Greek | English | 
+| --- | -- | 
+|  παρὰ τοῦ στρατηγοῦ  |  from the side of the general (or just, from the general)  |
+|  παρὰ τοῦ ποταμοῦ  |  from the side of/from the river  |
+
 ## [§ 23](#para23). Dative of Place Where. 
 
 
@@ -123,7 +141,7 @@ with many prepositions denotes **place to which** :1
 | δῆλος | [28](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δῆλος.md) | 15110 | δήλη, δῆλον: plain, evident. 
 | δῶρον | [13](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δῶρον.md) | 15123 | δώρου, τό: gift. THEODORE, 
 | εἰς | [432](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/εἰς.md) | 15555 | proclit. prep. with A.: into  (Lat. in).
-| πεδίον | [50](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πεδίον.md) | 15605 | πεδίου, τό: plain.
+| πεδίον | [50](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πεδίον.md) | 15605 | πεδίου, τό: plain, flat area.
 | στάδιον | [41](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/στάδιον.md) | 15646 | σταδίου, τό: stadium (race course); stade (600 ft.).3 
 
 
