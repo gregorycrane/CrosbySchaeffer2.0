@@ -12,7 +12,16 @@
 
 
 
-The phrase above is called a Greek maxim because it appears in multiple places and does not have an obvious author. You can now substantiate that this is a maxim by searching online corpora. If you search for the Greek phrase above in the Perseus Scaife Viewer (which draws upon the largest openly licensed collection of Greek) you will (as of September 2024) find that it appears in six different authors: Philo of Alexandria, Demeterius of Phaleron, Lucian of Samosata, Iambilichus, Dionysius of Halicarnassus and Galen.
+The phrase above is called a Greek maxim because it appears in multiple places and does not have an obvious author. You can now substantiate that this is a maxim by searching online corpora. If you search for the Greek phrase above in the Perseus Scaife Viewer (which draws upon the largest openly licensed collection of Greek) you will (as of September 2024) find that it appears in six different authors:
+
+- Philo of Alexandria
+- Demeterius of Phaleron
+- Lucian of Samosata
+- Iambilichus
+- Dionysius of Halicarnassus
+- Galen.
+
+
 
 ## [§ 27](#para27). Importance of Vocabulary.
 
