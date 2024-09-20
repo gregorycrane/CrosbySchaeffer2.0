@@ -2,7 +2,7 @@
 
 
 >  οἱ γὰρ πόνοι τίκτουσι τὴν εὐανδρίᾱν.<br/>
->  Labor begets manhood. Literally: For toils beget manhood.<br/>>> Euripides, fragment.
+>  Labor begets manhood. Literally: For toils beget manhood.<br/><bibl>Euripides, fragment.</bibl>
 
 
 
@@ -110,7 +110,7 @@ The defintions offered for καλός and ἀγαθός demonstrate that both ar
 
 >  λόχον ποτὲ συνελέξατο σκοπῶν οὐδὲν ἄλλο ἢ εἴ τινες εἶεν καλοί, καὶ μετὰ τούτων ἦν ἀνὴρ ἀγαθός.<br/>
 >  he had once assembled a company considering nothing else except whether a man was handsome (καλός), and with these men he was a brave man (ἀνὴρ ἀγαθός.).<br/>
->> Xen. Anab. 7.4.8
+>> [Xen. Anab. 7.4.8](https://scaife-dev.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:7.4.7-7.4.8?right=perseus-eng2)
 
 
 

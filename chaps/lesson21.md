@@ -1,6 +1,6 @@
 # Chapter 21: PARTICIPLES
 
->  ἐλπὶς ἐν ἀνθρώποις μούνη θεὸς ἐσθλὴ ἔνεστιν.</quote> <quote xml:lang="eng">Hope is man’s one good deity.<br/> >> Theognis, 1135.
+>  ἐλπὶς ἐν ἀνθρώποις μούνη θεὸς ἐσθλὴ ἔνεστιν.</quote> <quote xml:lang="eng">Hope is man’s one good deity.<br/> <bibl>Theognis, 1135.</bibl>
 
 
 
@@ -161,7 +161,7 @@ A TRAITOR CAUGHT
 στρατιώτας. ὁ δ᾽ Ὀρόντας νομίσᾱς αὑτῷ εἶναι τοὺς στρατιώτας γράφει ἐπιστολὴν παρὰ βασιλέᾳ (king) ὅτι ἥξοι (he would
 come) ἔχων στρατιώτας. ταύτην τὴν ἐπιστολὴν δίδωσι
 (he gives) πιστῷ (compare πιστεύω) ἀνθρώπῳ, ὡς ᾧετο
-(he thought). ὁ δὲ λαβὼν Κύρῳ δίδωσιν.</quote> <quote xml:lang="eng"></quote> >> Adapted from Xenophon, *Anabasis* 1.6.2-3.
+(he thought). ὁ δὲ λαβὼν Κύρῳ δίδωσιν.</quote> <quote xml:lang="eng"></quote> <bibl>Adapted from Xenophon, *Anabasis* 1.6.2-3.</bibl>
 
 
 <pb n="68"/>

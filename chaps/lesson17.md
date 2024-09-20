@@ -149,7 +149,7 @@ IN HOSTILE TERRITORY
 δι-ήρπασεν: ὡς (45) πολεμίαν. ἐντεῦθεν Κῦρος τὴν Κίλισσαν
 (the Cilician queen) εἰς τὴν Κιλικίαν ἀπο-πέμπει τὴν ταχίστην
 (quickest) ὁδόν·2 καὶ συν-έπεμψεν αὐτῇ στρατιώτας οὓς
-Μένων εἶχε καὶ αὐτόν.</quote> <quote xml:lang="eng"></quote> >> Adapted from Xenophon, *Anabasis*, I. 2. 19-20.
+Μένων εἶχε καὶ αὐτόν.</quote> <quote xml:lang="eng"></quote> <bibl>Adapted from Xenophon, *Anabasis*, I. 2. 19-20.</bibl>
 
 
 

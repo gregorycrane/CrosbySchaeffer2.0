@@ -45,7 +45,7 @@ same : ἡ αὐτὴ κώμη the same village,
 - modifying a noun or pronoun, but not following
 the article, it means self; Κῦρος αὐτός Cyrus himself; ἡ κώμη αὐτή the village itself ;
 αὐτὸς ἔφυγεν he himself fled ;
->  αὐτὸς γὰρ Θρασύμαχος ὁμολογεῖ τοὺς μὲν ἄρχοντας ἐνίοτε ἑαυτοῖς κακὰ προστάττειν, τοῖς δὲ δίκαιον εἶναι ταῦτα ποιεῖν<br/> >> Plat. Rep. 340a
+>  αὐτὸς γὰρ Θρασύμαχος ὁμολογεῖ τοὺς μὲν ἄρχοντας ἐνίοτε ἑαυτοῖς κακὰ προστάττειν, τοῖς δὲ δίκαιον εἶναι ταῦτα ποιεῖν<br/> <bibl>Plat. Rep. 340a</bibl>
 
 
 - standing alone, except in the

@@ -1,6 +1,6 @@
 # Chapter 23: CONTRACT VERBS IN -έω 
 >  φιλεῖ δὲ τῷ κάμνοντι συσπεύδειν θεός.</quote> <quote xml:lang="eng">God helps him who helps himself<br/> <quote xml:lang="eng">Literally: God loves to assist zealously the man
-who works.</quote> >> Aeschylus, fragment.
+who works.</quote> <bibl>Aeschylus, fragment.</bibl>
 
 
 
@@ -119,7 +119,7 @@ Love led Orpheus to seek Eurydice in Hades. On the way out, he turned to look α
 HUMAN FRAILTY
 <quote xml:lang="grc">Πόθεν (whence) πόλεμοι καὶ πόθεν μάχαι ἐν ὑμῖν; οὐκ
 ἐντεῦθεν, ἐκ τῶν ἡδονῶν (pleasures) ὑμῶν... ; ἐπιθυμεῖτε
-(desire), καὶ οὐκ ἔχετε· . . . μάχεσθε (you fight) καὶ πολεμεῖτε. . .. αἰτεῖτε καὶ οὐ λαμβάνετε, διότι (because) κακῶς <note>Adverb.</note> αἰτεῖσθε (= αἰτεῖτε)</quote> <quote xml:lang="eng"></quote> >> St. James, IV. 1-3.
+(desire), καὶ οὐκ ἔχετε· . . . μάχεσθε (you fight) καὶ πολεμεῖτε. . .. αἰτεῖτε καὶ οὐ λαμβάνετε, διότι (because) κακῶς <note>Adverb.</note> αἰτεῖσθε (= αἰτεῖτε)</quote> <quote xml:lang="eng"></quote> <bibl>St. James, IV. 1-3.</bibl>
 
 
 

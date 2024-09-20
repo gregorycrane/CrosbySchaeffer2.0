@@ -2,7 +2,7 @@
 
 
 >  ὅ τι καλὸν φίλον ἀεί.<br/>
->  A thing of beauty is a joy forever.</quote><quote xml:lang="eng">Literally: Whatever is beautiful is ever dear.<br/>>> Euripides, Bacchae, 881.
+>  A thing of beauty is a joy forever.</quote><quote xml:lang="eng">Literally: Whatever is beautiful is ever dear.<br/><bibl>Euripides, Bacchae, 881.</bibl>
 
 
 ## [§ 54](#para54). The Aorist.

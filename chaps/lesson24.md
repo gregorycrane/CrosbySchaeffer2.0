@@ -1,5 +1,5 @@
 # Chapter 24: PRESENT AND IMPERFECT INDICATIVE, PRESENT INFINITIVE, AND PARTICIPLE OF παύω IN MIDDLE AND PASSIVE VOICE
->  ἀνάγκᾳ δ᾽ οὐδὲ θεοὶ μάχονται.</quote> <quote xml:lang="eng">Not even gods fight against necessity<br/> >> Simonides.
+>  ἀνάγκᾳ δ᾽ οὐδὲ θεοὶ μάχονται.</quote> <quote xml:lang="eng">Not even gods fight against necessity<br/> <bibl>Simonides.</bibl>
 
 
 ## [§ 133](#para133). Passive Voice.

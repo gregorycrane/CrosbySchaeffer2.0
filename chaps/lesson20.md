@@ -1,5 +1,5 @@
 # Chapter 20: REVIEW
->  αἱ δεύτεραί πως φροντίδες σοφώτεραι.</quote> <quote xml:lang="eng">The sober second thought.</quote> <quote xml:lang="eng">Literally: Second thoughts somehow [are] wiser.<br/> >> Euripides, Hippolytus, 436.
+>  αἱ δεύτεραί πως φροντίδες σοφώτεραι.</quote> <quote xml:lang="eng">The sober second thought.</quote> <quote xml:lang="eng">Literally: Second thoughts somehow [are] wiser.<br/> <bibl>Euripides, Hippolytus, 436.</bibl>
 
 <figure><head>καλὸν τὸ ὕδωρ
 The sacred isle of Delos now lies

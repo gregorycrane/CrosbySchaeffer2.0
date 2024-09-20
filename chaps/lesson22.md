@@ -1,5 +1,5 @@
 # Chapter 22: πᾶς. READING
->  πάντων χρημάτων μέτρον ἄνθρωπος.</quote> <quote xml:lang="eng">Man is the measure of all things<br/> >> Protagoras
+>  πάντων χρημάτων μέτρον ἄνθρωπος.</quote> <quote xml:lang="eng">Man is the measure of all things<br/> <bibl>Protagoras</bibl>
 
 
 ## [§ 121](#para121). Inflection of πᾶς.
@@ -107,7 +107,7 @@ James Russell Lowell, Address on Books and Libraries.
 ἐκ δὲ τούτον οἱ στρατιῶται ἐλαύνοντες σὺν κραυγῇ ἀπὸ τοῦ
 αὐτομάτου (compare AUTOMATIC) ἔσπευσαν ἐπὶ τὴς σκηνάς,
 τοῖς δὲ βαρβάροις ἦν φόβος, ὥστε ἔφυγον καὶ ἡ Κίλισσα ἐπὶ
-τῆς ἁρμαμάξης καὶ οἱ ἐκ τῆς ἀγορᾶς τὰ χρήματα κατα-λιπόντες.<note>κατά in compound words often means behind.</note> οὕτως οὖν οἱ Ἑλληνες σὺν γέλωτι (laughter) ἐπὶ τὰς σκηνὰς ἧκον.</quote>  >> Adapted from Xenophon, *Anabasis*, I, 2. 16-18.
+τῆς ἁρμαμάξης καὶ οἱ ἐκ τῆς ἀγορᾶς τὰ χρήματα κατα-λιπόντες.<note>κατά in compound words often means behind.</note> οὕτως οὖν οἱ Ἑλληνες σὺν γέλωτι (laughter) ἐπὶ τὰς σκηνὰς ἧκον.</quote>  <bibl>Adapted from Xenophon, *Anabasis*, I, 2. 16-18.</bibl>
 
 
 

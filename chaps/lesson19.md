@@ -1,5 +1,5 @@
 # Chapter 19: CONSONANT DECLENSION (Δ- OR Τ-STEMS)
->  ἄριστον μὲν ὕδωρ.</quote> <quote xml:lang="eng">Water is best<br/> >> Pindar, Olympian, 1. 1.
+>  ἄριστον μὲν ὕδωρ.</quote> <quote xml:lang="eng">Water is best<br/> <bibl>Pindar, Olympian, 1. 1.</bibl>
 
 
 

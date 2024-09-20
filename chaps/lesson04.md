@@ -2,9 +2,8 @@
 
 
 >  πᾶν δένδρον ἀγαθὸν καρποὺς καλοὺς ποιεῖ.<br/>
-<quote>
-Every good tree bringeth forth good fruit. </quote>
->> Matthew, VII. 17.
+>  Every good tree bringeth forth good fruit. <br/>
+>> [Matthew, VII. 17.](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg001.perseus-grc2:7.17?right=perseus-eng2)
 
 
 
