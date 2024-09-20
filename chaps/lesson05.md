@@ -7,10 +7,12 @@
 </quote>
 >  Well begun is half done.<br/>
 
->  WLiterally: (The) beginning (is) half of everything.<br/>
->> Greek maxim.
+>  Literally: (The) beginning (is) half of everything.<br/>
+>> [Greek maxim.](https://scaife.perseus.org/search/?q=ἀρχὴ%20δὲ%20τοι%20ἥμισυ%20παντός&amp;kind=form&amp;format=instances&amp;p=1)
 
 
+
+The phrase above is called a Greek maxim because it appears in multiple places and does not have an obvious author. You can now substantiate that this is a maxim by searching online corpora. If you search for the Greek phrase above in the Perseus Scaife Viewer (which draws upon the largest openly licensed collection of Greek) you will (as of September 2024) find that it appears in six different authors: Philo of Alexandria, Demeterius of Phaleron, Lucian of Samosata, Iambilichus, Dionysius of Halicarnassus and Galen.
 
 ## [§ 27](#para27). Importance of Vocabulary.
 
