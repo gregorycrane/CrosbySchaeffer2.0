@@ -82,29 +82,29 @@ a contrary to fact from a past particular condition (§ 85).
 
 VOCABULARY
 
-[ἄν](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἄν.md), post-pos. particle belonging to certain types of conditional clauses but lacking an exact English eqnivalent.
+<rs type="lemma">ἄν</rs>, post-pos. particle belonging to certain types of conditional clauses but lacking an exact English eqnivalent.
 
-[ἄπ-ειμι](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἄπ-ειμι.md): be away, be absent.
+<rs type="lemma">ἄπ-ειμι</rs>: be away, be absent.
 
-[εἰμί](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/εἰμί.md) enclit.: be.
+<rs type="lemma">εἰμί</rs> enclit.: be.
 
 <rs type="lemma" n="ἔξεστι">ἔξ-ἐστι(ν)</rs>,2 impersonal ; it is possible.
 
-[οὔπω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/οὔπω.md), neg. adv. : not yet.
+<rs type="lemma">οὔπω</rs>, neg. adv. : not yet.
 
-[πάρ-ειμι](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πάρ-ειμι.md): be present.
+<rs type="lemma">πάρ-ειμι</rs>: be present.
 
-[πέντε](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πέντε.md), indeclinable : five. PENTAGON.
+<rs type="lemma">πέντε</rs>, indeclinable : five. PENTAGON.
 
-[στρατόπεδον](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/στρατόπεδον.md): camp. Cf. στρατιά and πεδίον.
+<rs type="lemma">στρατόπεδον</rs>: camp. Cf. στρατιά and πεδίον.
 
-[τόπος](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/τόπος.md): place. TOPOGRAPUY.
+<rs type="lemma">τόπος</rs>: place. TOPOGRAPUY.
 
-[τότε](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/τότε.md), adv.: then, at that time.
+<rs type="lemma">τότε</rs>, adv.: then, at that time.
 
-[φᾱσί(ν)](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φᾱσί(ν).md),2 enclit.; they say.
+<rs type="lemma">φᾱσί(ν)</rs>,2 enclit.; they say.
 
-[φησί(ν)](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φησί(ν).md),2 enclit.: he or she says, PROPHET.
+<rs type="lemma">φησί(ν)</rs>,2 enclit.: he or she says, PROPHET.
 
 
 

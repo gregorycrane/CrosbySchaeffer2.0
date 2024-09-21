@@ -92,21 +92,21 @@ of a real life after death. Cicero was initiated into these Mysteries.</head>
 
 
 VOCABULARY
-[ἐλπίς](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐλπίς.md), ἐλπίδος, ἡ: hope, expectation.
-[κωλύω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/κωλύω.md), κωλύσω, ἐκώλῦσα: prevent. KOLYNOS.<note>is this referring to https://en.wikipedia.org/wiki/Kolynos?</note>
-[πιστεύω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πιστεύω.md), πιστεύσω, ἐπίστευσα: trust, with D.
+<rs type="lemma">ἐλπίς</rs>, ἐλπίδος, ἡ: hope, expectation.
+<rs type="lemma">κωλύω</rs>, κωλύσω, ἐκώλῦσα: prevent. KOLYNOS.<note>is this referring to https://en.wikipedia.org/wiki/Kolynos?</note>
+<rs type="lemma">πιστεύω</rs>, πιστεύσω, ἐπίστευσα: trust, with D.
 
-[τρέπω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/τρέπω.md), τρέψω, ἔτρεψα, erpea: turn.
-[λαμβάνω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/λαμβάνω.md), ἔλαβον: take, receive.  SYLLABLE. (Future, page 187.)
-[τρόπος](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/τρόπος.md): turn, “bent,” manner, character, TROPIC,
+<rs type="lemma">τρέπω</rs>, τρέψω, ἔτρεψα, erpea: turn.
+<rs type="lemma">λαμβάνω</rs>, ἔλαβον: take, receive.  SYLLABLE. (Future, page 187.)
+<rs type="lemma">τρόπος</rs>: turn, “bent,” manner, character, TROPIC,
 
-[ὄνομα](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὄνομα.md): name. ONOMATOPOETIC.
-[φυγάς](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φυγάς.md), φυγάδος, ἡ: exile, fugitive. Cf. φυγή.
+<rs type="lemma">ὄνομα</rs>: name. ONOMATOPOETIC.
+<rs type="lemma">φυγάς</rs>, φυγάδος, ἡ: exile, fugitive. Cf. φυγή.
 
 
 
-[παρ-έχω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/παρ-έχω.md), παρ-ίξω, παρ-έσχον: furnish, cause.
-[ὡς](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὡς.md), conj, adv.: as, as if, when.
+<rs type="lemma">παρ-έχω</rs>, παρ-ίξω, παρ-έσχον: furnish, cause.
+<rs type="lemma">ὡς</rs>, conj, adv.: as, as if, when.
 
 # Chapter 21: Figure: Eleusis
 

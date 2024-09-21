@@ -56,7 +56,7 @@ Verbs with an initial vowel or diphthong lengthen the initial vowel.
 αυ  - ηυ
 οι  - ῳ
 
-Inflect the imperfect indicative active of [πέμπω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πέμπω.md) and ἀθροίζω.
+Inflect the imperfect indicative active of <rs type="lemma">πέμπω</rs> and ἀθροίζω.
 
 ## [§ 44](#para44). Dative of Manner.
 
@@ -98,17 +98,17 @@ belongs, awakens universal admiration.
 
 
 VOCABULARY
-[ἀθροίζω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀθροίζω.md): collect.
+<rs type="lemma">ἀθροίζω</rs>: collect.
 
-[ἀλλά](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀλλά.md), conj.: but, however. Stronger than δέ. Final a is often elided.
-[ἁρπάζω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἁρπάζω.md): seize,carry off. HARPY.
-[ἀρχαῖος](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀρχαῖος.md), ἀρχαία, ἀρχαῖον: original, ancient. Cf. ἀρχή. = ARCHAIC.
-[βάρβαρος](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/βάρβαρος.md), βαρβάρου, ὁ: foreigner, barbarian.
-[ἔργον](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἔργον.md), ἔργου, τό: work, deed, ENERGY.
-[κραυγή](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/κραυγή.md), κραυγῆς, ἡ: outcry, shout.
-[λόγος](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/λόγος.md), λόγου, ὁ: word, speech. PROLOGUE.
-[μέν](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/μέν.md): coord. conj. (§ 45).
-[σῑγή](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/σῑγή.md), σιγῆς, ἡ: silence.
+<rs type="lemma">ἀλλά</rs>, conj.: but, however. Stronger than δέ. Final a is often elided.
+<rs type="lemma">ἁρπάζω</rs>: seize,carry off. HARPY.
+<rs type="lemma">ἀρχαῖος</rs>, ἀρχαία, ἀρχαῖον: original, ancient. Cf. ἀρχή. = ARCHAIC.
+<rs type="lemma">βάρβαρος</rs>, βαρβάρου, ὁ: foreigner, barbarian.
+<rs type="lemma">ἔργον</rs>, ἔργου, τό: work, deed, ENERGY.
+<rs type="lemma">κραυγή</rs>, κραυγῆς, ἡ: outcry, shout.
+<rs type="lemma">λόγος</rs>, λόγου, ὁ: word, speech. PROLOGUE.
+<rs type="lemma">μέν</rs>: coord. conj. (§ 45).
+<rs type="lemma">σῑγή</rs>, σιγῆς, ἡ: silence.
 
 ## [§ 47](#para47). Exercises.
 

@@ -59,24 +59,24 @@ shall hasten  <bibl></bibl>
 
 VOCABULARY
 
-[ἀ-δικέω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀ-δικέω.md), ἀδικήσω, ἠδίκησα: injure, wrong.
+<rs type="lemma">ἀ-δικέω</rs>, ἀδικήσω, ἠδίκησα: injure, wrong.
 
-[αἰτέω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/αἰτέω.md), αἰτήσω, ἤτησα: ask for, demand.
+<rs type="lemma">αἰτέω</rs>, αἰτήσω, ἤτησα: ask for, demand.
 
-[δή](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δή.md), post-pos. particle emphasizing preceding word: now, then, accordingly, indeed, etc. Often untranslated.
+<rs type="lemma">δή</rs>, post-pos. particle emphasizing preceding word: now, then, accordingly, indeed, etc. Often untranslated.
 
-[δοκέω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δοκέω.md), δόξω, ἔδοξα: seem, seem best, think, Often with inf. as subject. DOGMATIC.
+<rs type="lemma">δοκέω</rs>, δόξω, ἔδοξα: seem, seem best, think, Often with inf. as subject. DOGMATIC.
 
 
-[καλέω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/καλέω.md),1 καλῶ, ἐκάλεσα: call, name. CALENDAR.
+<rs type="lemma">καλέω</rs>,1 καλῶ, ἐκάλεσα: call, name. CALENDAR.
 
-[ποιέω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ποιέω.md), ποιήσω, ἐποίησα: make, do. POET (ποιητής).
+<rs type="lemma">ποιέω</rs>, ποιήσω, ἐποίησα: make, do. POET (ποιητής).
 
-[πολεμέω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πολεμέω.md), πολεμήσω, ἐπολέμησα : make war. Cf. πόλεμος.
+<rs type="lemma">πολεμέω</rs>, πολεμήσω, ἐπολέμησα : make war. Cf. πόλεμος.
 
-[φιλέω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φιλέω.md), φιλήσω, ἐφίλησα: love. Cf. φίλος.
+<rs type="lemma">φιλέω</rs>, φιλήσω, ἐφίλησα: love. Cf. φίλος.
 
-[ὧδε](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὧδε.md), adv.; thus, as follows. Cf. ὅδε.
+<rs type="lemma">ὧδε</rs>, adv.; thus, as follows. Cf. ὅδε.
 
 ## [§ 130](#para130). Exercises.
 

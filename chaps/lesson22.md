@@ -65,18 +65,18 @@ This uncouth deity of mountain and woodland was believed to have inspired the Pe
 
 VOCABULARY
 
-[εἶτα](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/εἶτα.md), adv.: then, next.
+<rs type="lemma">εἶτα</rs>, adv.: then, next.
 
 <rs type="lemma" n="οὕτως">οὕτω</rs> (before consonants), οὕτως (before vowels), adv. : thus, so, as afore- said. Cf. οὗτος.
 
-[πᾶς](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πᾶς.md), πᾶσα, πᾶν: sing., every, whole ; pl. all. PANDEMONIUM.
+<rs type="lemma">πᾶς</rs>, πᾶσα, πᾶν: sing., every, whole ; pl. all. PANDEMONIUM.
 
 
-[πρῶτος](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πρῶτος.md): first: πρῶτον, adv. at first. PROTOTYPE.
+<rs type="lemma">πρῶτος</rs>: first: πρῶτον, adv. at first. PROTOTYPE.
 
 
 
-[φόβος](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φόβος.md): fear. HYDROPHOBIA.
+<rs type="lemma">φόβος</rs>: fear. HYDROPHOBIA.
 
 
 

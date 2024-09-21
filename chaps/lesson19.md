@@ -24,7 +24,7 @@ stem lengthens to ου.
 ## [§ 108](#para108). Result Clauses.
 
 
-[ὥστε](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὥστε.md) followed by the indicative
+<rs type="lemma">ὥστε</rs> followed by the indicative
 tlenotes an actual result ; followed by the znfinitive it denotes
 a natural or probable result :
 
@@ -38,19 +38,19 @@ I had money (so as) to buy provisions.
 
 
 VOCABULARY
-[ἅρμα](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἅρμα.md), ἅρματος, τό: chariot.
-[πρᾶγμα](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πρᾶγμα.md), πράγματος, τό: fact, business ; pl. trouble. PRAGMATIC.
-[ἄρχων](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἄρχων.md), ἄρχοντος, ὁ: archon, ruler,  commander. Cf. ἄρχω, ἀρχή.
+<rs type="lemma">ἅρμα</rs>, ἅρματος, τό: chariot.
+<rs type="lemma">πρᾶγμα</rs>, πράγματος, τό: fact, business ; pl. trouble. PRAGMATIC.
+<rs type="lemma">ἄρχων</rs>, ἄρχοντος, ὁ: archon, ruler,  commander. Cf. ἄρχω, ἀρχή.
 
-[ὕδωρ](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὕδωρ.md), ὕδατος, τό: water. HYDRANT.2
-[ἀσπίς](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀσπίς.md), ἀσπίδος, ἡ: shield.
-[δόρυ](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δόρυ.md), δόρατος, τό : spear. DORYPHOROS.
-[χάρις](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/χάρις.md), χάριτος, ἡ: fuvor, gratiiude. χάριν ἔχω: feel grateful, with D. EUCHARIST.
-[ἐλαύνω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐλαύνω.md), ἤλασα: drive. Cf. ἐξελαύνω.
-[Ἑλλάς](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/Ἑλλάς.md), Ἑλλάδος, ἡ: Ηellas, Greece.
-[χρῆμα](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/χρῆμα.md), χρήματος, τό: thing; pl., things, ie., property, wealth, money.
-[νύξ](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/νύξ.md), νυκτός, ἡ: night. Lat. nox.
-[παῖς](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/παῖς.md), παιδός, ὁ or ἡ: boy, girl, child. PEDAGOGUE.
+<rs type="lemma">ὕδωρ</rs>, ὕδατος, τό: water. HYDRANT.2
+<rs type="lemma">ἀσπίς</rs>, ἀσπίδος, ἡ: shield.
+<rs type="lemma">δόρυ</rs>, δόρατος, τό : spear. DORYPHOROS.
+<rs type="lemma">χάρις</rs>, χάριτος, ἡ: fuvor, gratiiude. χάριν ἔχω: feel grateful, with D. EUCHARIST.
+<rs type="lemma">ἐλαύνω</rs>, ἤλασα: drive. Cf. ἐξελαύνω.
+<rs type="lemma">Ἑλλάς</rs>, Ἑλλάδος, ἡ: Ηellas, Greece.
+<rs type="lemma">χρῆμα</rs>, χρήματος, τό: thing; pl., things, ie., property, wealth, money.
+<rs type="lemma">νύξ</rs>, νυκτός, ἡ: night. Lat. nox.
+<rs type="lemma">παῖς</rs>, παιδός, ὁ or ἡ: boy, girl, child. PEDAGOGUE.
 ὥστε, conj.: with ind., so that; , with inf., so as to.
 
 ## [§ 110](#para110). Exercises.

@@ -66,19 +66,19 @@ the entire thought is clear.
 
 
 VOCABULARY
-[Ἀθῆναι](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/Ἀθῆναι.md), Ἀθηνῶν, αἱ: Athens.
-[ἀπ-έχω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀπ-έχω.md): be distant, be away.
+<rs type="lemma">Ἀθῆναι</rs>, Ἀθηνῶν, αἱ: Athens.
+<rs type="lemma">ἀπ-έχω</rs>: be distant, be away.
 
-[ἐπί](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐπί.md): prep. with G., on, upon;1 with D., on, at, by; with A., upon, to, againsi, EPIDERMIS.<note>The difference between the genitive, dative, and accusative may be indicated by these phrases: on horseback, a city on the sea, he marches on the town. Compare παρά (§ 25).</note>
-[Ἀθηναῖος](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/Ἀθηναῖος.md), Ἀθηναά, Ἀθηναῖον: Athenian.
-[ἑπτά](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἑπτά.md): seven. HEPTAGON.
-[δρόμος](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δρόμος.md), δρόμου, ὁ: a running, run, race, race course. HIPPODROME.
+<rs type="lemma">ἐπί</rs>: prep. with G., on, upon;1 with D., on, at, by; with A., upon, to, againsi, EPIDERMIS.<note>The difference between the genitive, dative, and accusative may be indicated by these phrases: on horseback, a city on the sea, he marches on the town. Compare παρά (§ 25).</note>
+<rs type="lemma">Ἀθηναῖος</rs>, Ἀθηναά, Ἀθηναῖον: Athenian.
+<rs type="lemma">ἑπτά</rs>: seven. HEPTAGON.
+<rs type="lemma">δρόμος</rs>, δρόμου, ὁ: a running, run, race, race course. HIPPODROME.
 
-[ἥκω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἥκω.md), ἥξω: [No aorist in use] come, have come, arrive.
+<rs type="lemma">ἥκω</rs>, ἥξω: [No aorist in use] come, have come, arrive.
 
-[ὀκτώ](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὀκτώ.md): eight. octopus.
+<rs type="lemma">ὀκτώ</rs>: eight. octopus.
 
-[σπεύδω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/σπεύδω.md), σπεύσω, ἔσπευσα: hasten.
+<rs type="lemma">σπεύδω</rs>, σπεύσω, ἔσπευσα: hasten.
 
 <div type="textpart" subtype="para" n="65">
 

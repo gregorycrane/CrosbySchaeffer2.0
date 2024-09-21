@@ -87,23 +87,23 @@ The gateway to the Acropolis.
 
 
 VOCABULARY
-[ἄρχω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἄρχω.md), ἄρξω:1 begin, rule, command,  with G. ARCHBISHOP.
+<rs type="lemma">ἄρχω</rs>, ἄρξω:1 begin, rule, command,  with G. ARCHBISHOP.
 
-[μέλλω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/μέλλω.md), μελλήσω: intend, delay, be about to, usually with fut. inf.
+<rs type="lemma">μέλλω</rs>, μελλήσω: intend, delay, be about to, usually with fut. inf.
 
-[διώκω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/διώκω.md), διώξω: pursue.
+<rs type="lemma">διώκω</rs>, διώξω: pursue.
 
-[θύρα](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/θύρα.md), θύρα, ἡ: door; αἱ θύραι: often used of military head-quarters or of the king's court (compare Sublime Porte). THYROID.
+<rs type="lemma">θύρα</rs>, θύρα, ἡ: door; αἱ θύραι: often used of military head-quarters or of the king's court (compare Sublime Porte). THYROID.
 
-[νομίζω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/νομίζω.md):1 believe, think, with inf.
+<rs type="lemma">νομίζω</rs>:1 believe, think, with inf.
 
-[ὁδός](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὁδός.md), ὁδοῦ, ὁ: road, route. EXODUS.
+<rs type="lemma">ὁδός</rs>, ὁδοῦ, ὁ: road, route. EXODUS.
 
-[πείθω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πείθω.md), πείσω: persuade.
+<rs type="lemma">πείθω</rs>, πείσω: persuade.
 
-[ὑπ-οπτεύω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὑπ-οπτεύω.md), ὑπ-οπτεύσω: suspect (ὑπό, under + ὀπτεύω, look), with inf. HYPODERMIC. OPTIC.
+<rs type="lemma">ὑπ-οπτεύω</rs>, ὑπ-οπτεύσω: suspect (ὑπό, under + ὀπτεύω, look), with inf. HYPODERMIC. OPTIC.
 
-[ἰσχυρός](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἰσχυρός.md), ἰσχυρά, ἰσχυρόν: strong. 
+<rs type="lemma">ἰσχυρός</rs>, ἰσχυρά, ἰσχυρόν: strong. 
 
 ## [§ 52](#para52). Exercises.
 
@@ -157,8 +157,8 @@ Many verbs with ε in the stem
 have cognate nouns or adjectives with ο instead of ε:
 λείπω leave, λοιπός left;
 λέγω speak, λόγος word or speech ;
-πέμπω send (escort), [πομπή](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πομπή.md) procession ;
-[σπένδω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/σπένδω.md) pour a libation, σπονδή Libation.
+πέμπω send (escort), <rs type="lemma">πομπή</rs> procession ;
+<rs type="lemma">σπένδω</rs> pour a libation, σπονδή Libation.
 
 Compare Latin tego I cover, toga cloak; English I sing, song.
 

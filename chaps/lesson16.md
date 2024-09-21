@@ -53,31 +53,31 @@ they persuaded me to go to their (own) tent.
 
 VOCABULARY
 
-[ἑ-αυτοῦ](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἑ-αυτοῦ.md) : of himself, herself; itself.
+<rs type="lemma">ἑ-αυτοῦ</rs> : of himself, herself; itself.
 
-[ἐμ-αυτοῦ](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐμ-αυτοῦ.md): of myself.
+<rs type="lemma">ἐμ-αυτοῦ</rs>: of myself.
 
-[ἐξελαύνω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐξελαύνω.md),2 ἐξήλασα: drive out, march forth, march on.
+<rs type="lemma">ἐξελαύνω</rs>,2 ἐξήλασα: drive out, march forth, march on.
 
-[μένω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/μένω.md):2 remain, wait for.
+<rs type="lemma">μένω</rs>:2 remain, wait for.
 
-[Ξενίας](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/Ξενίας.md): Xenias, an Arcadian general serving under Cyrus, the younger.
+<rs type="lemma">Ξενίας</rs>: Xenias, an Arcadian general serving under Cyrus, the younger.
 
-[ὁπλίτης](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὁπλίτης.md): hoplite, a heavy-armed soldier, Cf.
-
-
+<rs type="lemma">ὁπλίτης</rs>: hoplite, a heavy-armed soldier, Cf.
 
 
 
-[πολίτης](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πολίτης.md): citizen, POLITICS,
 
-[σατράπης](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/σατράπης.md): satrap, a Persian viceroy.
 
-[σεαυτοῦ](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/σεαυτοῦ.md): Of yourself.
+<rs type="lemma">πολίτης</rs>: citizen, POLITICS,
+
+<rs type="lemma">σατράπης</rs>: satrap, a Persian viceroy.
+
+<rs type="lemma">σεαυτοῦ</rs>: Of yourself.
 
 <rs type="lemma" n="σταθμόν">σταθμός</rs>: halting-place, day’s march,
 
-[στρατιώτης](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/στρατιώτης.md): soldier. Cf. στρατιά, στρατηγός.
+<rs type="lemma">στρατιώτης</rs>: soldier. Cf. στρατιά, στρατηγός.
 
 1 Contracted forms gavrod and abroé are often used in place of ceavrod and ἑαυτοῦ.
 

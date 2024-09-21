@@ -1011,16 +1011,16 @@ In like manner inflect τὸ καλὸν πεδίον.</p>
 <p>These are the most common neuter o-stem nouns, with the CS lesson if they appear in lesson 1-24.</p>
 <table>
   <row role="label"><cell></cell><cell>lemma</cell><cell>freq</cell><cell>CS1-24</cell><cell>def</cell></row>
-  <row><cell>1</cell><cell>χωρίον</cell><cell>92</cell><cell>NA</cell><cell>a particular place, a place, spot, district</cell></row>
-  <row><cell>2</cell><cell>ὅπλον</cell><cell>85</cell><cell>15</cell><cell>a tool, implement, (pl.) arms, weapons</cell></row>
-  <row><cell>3</cell><cell>πλοῖον</cell><cell>60</cell><cell>14</cell><cell>a floating vessel, a ship, vessel</cell></row>
-  <row><cell>4</cell><cell>πεδίον</cell><cell>50</cell><cell>4</cell><cell>a plain</cell></row>
-  <row><cell>5</cell><cell>στρατόπεδον</cell><cell>39</cell><cell>17</cell><cell>the ground on which soldiers are encamped, a camp, encampment</cell></row>
-  <row><cell>6</cell><cell>ἄκρον</cell><cell>31</cell><cell>NA</cell><cell>the highest or furthest point: mountain top, cape</cell></row>
-  <row><cell>7</cell><cell>ὑποζύγιον</cell><cell>30</cell><cell>NA</cell><cell>a beast for the yoke, a beast of burden</cell></row>
-  <row><cell>8</cell><cell>στάδιον</cell><cell>41</cell><cell>4</cell><cell>a stade, = ca. 600 feet</cell></row>
-  <row><cell>9</cell><cell>πρόβατον</cell><cell>19</cell><cell>NA</cell><cell>sheep; small cattle</cell></row>
-  <row><cell>10</cell><cell>πλέθρον</cell><cell>17</cell><cell>NA</cell><cell>a plethron, = 100 feet long, or 10,000 square feet</cell></row>
+  <row><cell>1</cell><cell><rs type="lemma">χωρίον</rs></cell><cell>92</cell><cell>NA</cell><cell>a particular place, a place, spot, district</cell></row>
+  <row><cell>2</cell><cell><rs type="lemma">ὅπλον</rs></cell><cell>85</cell><cell>15</cell><cell>a tool, implement, (pl.) arms, weapons</cell></row>
+  <row><cell>3</cell><cell><rs type="lemma">πλοῖον</rs></cell><cell>60</cell><cell>14</cell><cell>a floating vessel, a ship, vessel</cell></row>
+  <row><cell>4</cell><cell><rs type="lemma">πεδίον</rs></cell><cell>50</cell><cell>4</cell><cell>a plain</cell></row>
+  <row><cell>5</cell><cell><rs type="lemma">στρατόπεδον</rs></cell><cell>39</cell><cell>17</cell><cell>the ground on which soldiers are encamped, a camp, encampment</cell></row>
+  <row><cell>6</cell><cell><rs type="lemma">ἄκρον</rs></cell><cell>31</cell><cell>NA</cell><cell>the highest or furthest point: mountain top, cape</cell></row>
+  <row><cell>7</cell><cell><rs type="lemma">ὑποζύγιον</rs></cell><cell>30</cell><cell>NA</cell><cell>a beast for the yoke, a beast of burden</cell></row>
+  <row><cell>8</cell><cell><rs type="lemma">στάδιον</rs></cell><cell>41</cell><cell>4</cell><cell>a stade, = ca. 600 feet</cell></row>
+  <row><cell>9</cell><cell><rs type="lemma">πρόβατον</rs></cell><cell>19</cell><cell>NA</cell><cell>sheep; small cattle</cell></row>
+  <row><cell>10</cell><cell><rs type="lemma">πλέθρον</rs></cell><cell>17</cell><cell>NA</cell><cell>a plethron, = 100 feet long, or 10,000 square feet</cell></row>
   </table>
 </div>
 
@@ -1091,26 +1091,26 @@ with many prepositions denotes <term>place to which</term> :1
   <p>The most common dictionary words in the Anabasis, with the Crosby and Schaeffer lesson listed if they appear in lessons 1-24.</p>
 <table>
   <row role="label"><cell></cell><cell>lemma</cell><cell>freq</cell><cell>CS1-24</cell><cell>def</cell></row>
-  <row><cell>1</cell><cell>ὁ</cell><cell>6522</cell><cell>1</cell><cell>the</cell></row>
-  <row><cell>2</cell><cell>καί</cell><cell>3388</cell><cell>3</cell><cell>and, also</cell></row>
-  <row><cell>3</cell><cell>δέ</cell><cell>2389</cell><cell>4</cell><cell>but</cell></row>
-  <row><cell>4</cell><cell>εἰμί</cell><cell>1316</cell><cell>17</cell><cell>to be</cell></row>
-  <row><cell>5</cell><cell>οὗτος</cell><cell>1037</cell><cell>14</cell><cell>this; that</cell></row>
-  <row><cell>6</cell><cell>αὐτός</cell><cell>899</cell><cell>13</cell><cell>unemph. 3rd pers.pronoun; -self; [the] same</cell></row>
-  <row><cell>7</cell><cell>μέν</cell><cell>787</cell><cell>8</cell><cell>on the one hand, on the other hand</cell></row>
-  <row><cell>8</cell><cell>ἐγώ</cell><cell>741</cell><cell>15</cell><cell>I (first person pronoun)</cell></row>
-  <row><cell>9</cell><cell>σύ</cell><cell>536</cell><cell>15</cell><cell>you (personal pronoun)</cell></row>
-  <row><cell>10</cell><cell>λέγω</cell><cell>514</cell><cell>NA</cell><cell>to say, tell, speak; epic and arch.: pick, gather</cell></row>
-  <row><cell>11</cell><cell>ὅς</cell><cell>506</cell><cell>13</cell><cell>who, that, which: relative pronoun</cell></row>
-  <row><cell>12</cell><cell>τις</cell><cell>464</cell><cell>NA</cell><cell>any one, any thing, some one, some thing</cell></row>
-  <row><cell>13</cell><cell>ἐπί</cell><cell>461</cell><cell>12</cell><cell>on, upon with gen., dat., and acc.</cell></row>
-  <row><cell>14</cell><cell>ὡς</cell><cell>457</cell><cell>21</cell><cell>as, how</cell></row>
-  <row><cell>15</cell><cell>γάρ</cell><cell>452</cell><cell>6</cell><cell>for</cell></row>
-  <row><cell>16</cell><cell>ἐν</cell><cell>439</cell><cell>4</cell><cell>in, among. c. dat.</cell></row>
-  <row><cell>17</cell><cell>ἔχω</cell><cell>438</cell><cell>10</cell><cell>have, hold; be able; (+ adv.) be; (mid.) cling to, be next to (+ gen.)</cell></row>
-  <row><cell>18</cell><cell>οὐ</cell><cell>434</cell><cell>6</cell><cell>not</cell></row>
-  <row><cell>19</cell><cell>εἰς</cell><cell>432</cell><cell>4</cell><cell>into, to c. acc.</cell></row>
-  <row><cell>20</cell><cell>πολύς</cell><cell>426</cell><cell>NA</cell><cell>much, many</cell></row>
+  <row><cell>1</cell><cell><rs type="lemma">ὁ</rs></cell><cell>6522</cell><cell>1</cell><cell>the</cell></row>
+  <row><cell>2</cell><cell><rs type="lemma">καί</rs></cell><cell>3388</cell><cell>3</cell><cell>and, also</cell></row>
+  <row><cell>3</cell><cell><rs type="lemma">δέ</rs></cell><cell>2389</cell><cell>4</cell><cell>but</cell></row>
+  <row><cell>4</cell><cell><rs type="lemma">εἰμί</rs></cell><cell>1316</cell><cell>17</cell><cell>to be</cell></row>
+  <row><cell>5</cell><cell><rs type="lemma">οὗτος</rs></cell><cell>1037</cell><cell>14</cell><cell>this; that</cell></row>
+  <row><cell>6</cell><cell><rs type="lemma">αὐτός</rs></cell><cell>899</cell><cell>13</cell><cell>unemph. 3rd pers.pronoun; -self; [the] same</cell></row>
+  <row><cell>7</cell><cell><rs type="lemma">μέν</rs></cell><cell>787</cell><cell>8</cell><cell>on the one hand, on the other hand</cell></row>
+  <row><cell>8</cell><cell><rs type="lemma">ἐγώ</rs></cell><cell>741</cell><cell>15</cell><cell>I (first person pronoun)</cell></row>
+  <row><cell>9</cell><cell><rs type="lemma">σύ</rs></cell><cell>536</cell><cell>15</cell><cell>you (personal pronoun)</cell></row>
+  <row><cell>10</cell><cell><rs type="lemma">λέγω</rs></cell><cell>514</cell><cell>NA</cell><cell>to say, tell, speak; epic and arch.: pick, gather</cell></row>
+  <row><cell>11</cell><cell><rs type="lemma">ὅς</rs></cell><cell>506</cell><cell>13</cell><cell>who, that, which: relative pronoun</cell></row>
+  <row><cell>12</cell><cell><rs type="lemma">τις</rs></cell><cell>464</cell><cell>NA</cell><cell>any one, any thing, some one, some thing</cell></row>
+  <row><cell>13</cell><cell><rs type="lemma">ἐπί</rs></cell><cell>461</cell><cell>12</cell><cell>on, upon with gen., dat., and acc.</cell></row>
+  <row><cell>14</cell><cell><rs type="lemma">ὡς</rs></cell><cell>457</cell><cell>21</cell><cell>as, how</cell></row>
+  <row><cell>15</cell><cell><rs type="lemma">γάρ</rs></cell><cell>452</cell><cell>6</cell><cell>for</cell></row>
+  <row><cell>16</cell><cell><rs type="lemma">ἐν</rs></cell><cell>439</cell><cell>4</cell><cell>in, among. c. dat.</cell></row>
+  <row><cell>17</cell><cell><rs type="lemma">ἔχω</rs></cell><cell>438</cell><cell>10</cell><cell>have, hold; be able; (+ adv.) be; (mid.) cling to, be next to (+ gen.)</cell></row>
+  <row><cell>18</cell><cell><rs type="lemma">οὐ</rs></cell><cell>434</cell><cell>6</cell><cell>not</cell></row>
+  <row><cell>19</cell><cell><rs type="lemma">εἰς</rs></cell><cell>432</cell><cell>4</cell><cell>into, to c. acc.</cell></row>
+  <row><cell>20</cell><cell><rs type="lemma">πολύς</rs></cell><cell>426</cell><cell>NA</cell><cell>much, many</cell></row>
   </table>
 </div>
 <div type="textpart" subtype="para" n="25a"><head>Delphi.</head>

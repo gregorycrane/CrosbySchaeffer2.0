@@ -33,8 +33,8 @@ In like manner inflect θάλαττα and βασίλεια.
 <div type="textpart" subtype="para" n="82">
 
 
-The Personal Pronouns are [ἐγώ](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐγώ.md),
-[σύ](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/σύ.md) you (sg.), for
+The Personal Pronouns are <rs type="lemma">ἐγώ</rs>,
+<rs type="lemma">σύ</rs> you (sg.), for
 the first and second persons. For the third person, αὐτός
 is used in all cases except the nominative.
 
@@ -76,15 +76,15 @@ VOCABULARY
 <rs type="lemma" n="ἄμαξα">ἅμαξα</rs>: cart, wagon.
 
 <rs type="lemma" n="βασιλεία">βασίλεια</rs>: queen.
-[γέφῡρα](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/γέφῡρα.md): bridge.
-[ἐγώ](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐγώ.md): I. EGOTIST.
-[ὅπλον](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὅπλον.md): implement, tool ;
-[εἰ](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/εἰ.md), proclit. conj.: if. frequently pl, arms (in war). PANOPLY.
+<rs type="lemma">γέφῡρα</rs>: bridge.
+<rs type="lemma">ἐγώ</rs>: I. EGOTIST.
+<rs type="lemma">ὅπλον</rs>: implement, tool ;
+<rs type="lemma">εἰ</rs>, proclit. conj.: if. frequently pl, arms (in war). PANOPLY.
 <rs type="lemma" n="θάλασσα">θάλαττα</rs>: sea.
-[κακός](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/κακός.md): bad, cowardly. CACOPHONY.
-[οὖν](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/οὖν.md), post-pos. conj.: therefore, then,  accordingly.
+<rs type="lemma">κακός</rs>: bad, cowardly. CACOPHONY.
+<rs type="lemma">οὖν</rs>, post-pos. conj.: therefore, then,  accordingly.
 
-[μή](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/μή.md), neg. adv.: not, Found instead of οὐ with most uses of the infinitive and in conditional clauses.
+<rs type="lemma">μή</rs>, neg. adv.: not, Found instead of οὐ with most uses of the infinitive and in conditional clauses.
 
 σύ: thou, you (sg.).
 

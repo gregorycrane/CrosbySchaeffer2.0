@@ -75,17 +75,17 @@ he crosses the river in (by means of) a boat.
 
 
 VOCABULARY
-[ἀ-διά-βατος](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀ-διά-βατος.md):2 uncrossable.
-[δια-βαίνω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δια-βαίνω.md):<note>Future and aorist will be given later.</note> cross.
-[δια-βατός](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δια-βατός.md):2 crossable.
-[ἐκεῖνος](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐκεῖνος.md): that.
-[συμ-βουλεύω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/συμ-βουλεύω.md) :<note>σύν- changes to σύμ- before β for the sake of euphony.</note> advise, with D. of
-[μεστός](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/μεστός.md): full, full of, the person. with G.
-[ὅδε](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὅδε.md), ἤδε, τόδε: this (as follows).
-[οὗτος](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/οὗτος.md), αὕτη, τοῦτο: this (as aforesaid).
-[πλοῖον](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πλοῖον.md), πλοίου, τό: boat.
-[σῖτος](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/σῖτος.md), του, ὁ : grain, food.  PARASITE.
-[σύν](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/σύν.md), prep. with D.: with. SYNOD.
+<rs type="lemma">ἀ-διά-βατος</rs>:2 uncrossable.
+<rs type="lemma">δια-βαίνω</rs>:<note>Future and aorist will be given later.</note> cross.
+<rs type="lemma">δια-βατός</rs>:2 crossable.
+<rs type="lemma">ἐκεῖνος</rs>: that.
+<rs type="lemma">συμ-βουλεύω</rs> :<note>σύν- changes to σύμ- before β for the sake of euphony.</note> advise, with D. of
+<rs type="lemma">μεστός</rs>: full, full of, the person. with G.
+<rs type="lemma">ὅδε</rs>, ἤδε, τόδε: this (as follows).
+<rs type="lemma">οὗτος</rs>, αὕτη, τοῦτο: this (as aforesaid).
+<rs type="lemma">πλοῖον</rs>, πλοίου, τό: boat.
+<rs type="lemma">σῖτος</rs>, του, ὁ : grain, food.  PARASITE.
+<rs type="lemma">σύν</rs>, prep. with D.: with. SYNOD.
 
 2 Masculine and feminine are alike in form. See paradigm (§510, 6). Compare Latin omnis.
 

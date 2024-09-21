@@ -68,27 +68,27 @@ nominative, it is a personal pronoun of the third person:
 VOCABULARY
 
 
-[ἀλλήλων](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀλλήλων.md):1 of one another. PARALLEL.
+<rs type="lemma">ἀλλήλων</rs>:1 of one another. PARALLEL.
 
-[ἄλλος](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἄλλος.md): other, another; if preceded by the article, the other, the rest of. ALLOPATHY.
+<rs type="lemma">ἄλλος</rs>: other, another; if preceded by the article, the other, the rest of. ALLOPATHY.
 
-[αὐτός](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/αὐτός.md): same, self, he, she, it, they, etc. AUTOMATON.
+<rs type="lemma">αὐτός</rs>: same, self, he, she, it, they, etc. AUTOMATON.
 
-[βουλεύω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/βουλεύω.md), βουλεύσω, ἐβούλευσα :  plan,
+<rs type="lemma">βουλεύω</rs>, βουλεύσω, ἐβούλευσα :  plan,
 
-[βουλή](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/βουλή.md): plan, BOULE.
+<rs type="lemma">βουλή</rs>: plan, BOULE.
 
-[ἐπι-βουλεύω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐπι-βουλεύω.md): plot against, with D.
+<rs type="lemma">ἐπι-βουλεύω</rs>: plot against, with D.
 
-[ἐπι-βουλή](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐπι-βουλή.md): plot.
+<rs type="lemma">ἐπι-βουλή</rs>: plot.
 
-[ἴσος](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἴσος.md): equal, ISOSCELES.
+<rs type="lemma">ἴσος</rs>: equal, ISOSCELES.
 
-[κελεύω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/κελεύω.md), κελεύσω, ἐκέλευσα : order, command,
+<rs type="lemma">κελεύω</rs>, κελεύσω, ἐκέλευσα : order, command,
 
-[ὅς](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὅς.md), ἥ, ὅ: rel. pron, : who, which, that.
+<rs type="lemma">ὅς</rs>, ἥ, ὅ: rel. pron, : who, which, that.
 
-[ὥρᾱ](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὥρᾱ.md): hour, season. HOUR.
+<rs type="lemma">ὥρᾱ</rs>: hour, season. HOUR.
 
 ## [§ 72](#para72). Exercises.
 
