@@ -2,7 +2,7 @@
 
 
 >  ὅ τι καλὸν φίλον ἀεί.<br/>
->  A thing of beauty is a joy forever.</quote><quote xml:lang="eng">Literally: Whatever is beautiful is ever dear.<br/><bibl>Euripides, Bacchae, 881.</bibl>
+>  A thing of beauty is a joy forever.<quote xml:lang="eng">Literally: Whatever is beautiful is ever dear.<br/><bibl>Euripides, Bacchae, 881.</bibl>
 
 
 ## [§ 54](#para54). The Aorist.
@@ -90,15 +90,15 @@ face, "This is the city of Hadrian, not of Theseus."
 
 
 VOCABULARY
-<rs type="lemma">ἐνταῦθα</rs>: adv., there, at that place.
+[ἐνταῦθα](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐνταῦθα.md): adv., there, at that place.
 
-<rs type="lemma">λοιπός</rs>, λοιπή, λοιπόν: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.
-<rs type="lemma">ἐντεῦθεν</rs>, adv. : from there, thence.
-<rs type="lemma">ἐπιστολή</rs>, ἐπιστολῆς, ἡ: letter. EPISTLE.
-<rs type="lemma">οἰκία</rs>, οἰκίας, ἡ: house. ECONOMY.
-<rs type="lemma">ἔχω</rs>, ἕξω: have; ἔσχον1: got.
-<rs type="lemma">πύλη</rs>, πύλης, ἡ: gate; pl., pass. PYLON. THERMOPYLA.
-<rs type="lemma">λείπω</rs>, λείψω, ἔλιπον: leave. ECLIPSE.
+[λοιπός](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/λοιπός.md), λοιπή, λοιπόν: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.
+[ἐντεῦθεν](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐντεῦθεν.md), adv. : from there, thence.
+[ἐπιστολή](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐπιστολή.md), ἐπιστολῆς, ἡ: letter. EPISTLE.
+[οἰκία](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/οἰκία.md), οἰκίας, ἡ: house. ECONOMY.
+[ἔχω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἔχω.md), ἕξω: have; ἔσχον1: got.
+[πύλη](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πύλη.md), πύλης, ἡ: gate; pl., pass. PYLON. THERMOPYLA.
+[λείπω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/λείπω.md), λείψω, ἔλιπον: leave. ECLIPSE.
 
 
 

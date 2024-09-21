@@ -1,6 +1,6 @@
 # Chapter 23: CONTRACT VERBS IN -έω 
->  φιλεῖ δὲ τῷ κάμνοντι συσπεύδειν θεός.</quote> <quote xml:lang="eng">God helps him who helps himself<br/> <quote xml:lang="eng">Literally: God loves to assist zealously the man
-who works.</quote> <bibl>Aeschylus, fragment.</bibl>
+>  φιλεῖ δὲ τῷ κάμνοντι συσπεύδειν θεός. <quote xml:lang="eng">God helps him who helps himself<br/> <quote xml:lang="eng">Literally: God loves to assist zealously the man
+who works. <bibl>Aeschylus, fragment.</bibl>
 
 
 
@@ -46,10 +46,10 @@ genitive absolute may express time, cause, and the like.
 It is usually best translated as a clause :
 
 >  Κύρου κελεύσαντος ταῦτα ἐποίησαν<br/> <quote xml:lang="eng">when Cyrus ordered, they did
-this </quote> 
+this  
 ;
 >  τούτων πράγματα παρ-εχόντων σπεύσομεν<br/> <quote xml:lang="eng">if they cause trouble, we
-shall hasten </quote> <bibl></bibl>
+shall hasten  <bibl></bibl>
 ;
 
 τῶν φυλάκων διωκόντων ἔφυγεν with the guards pursuing, he fled.
@@ -59,24 +59,24 @@ shall hasten </quote> <bibl></bibl>
 
 VOCABULARY
 
-<rs type="lemma">ἀ-δικέω</rs>, ἀδικήσω, ἠδίκησα: injure, wrong.
+[ἀ-δικέω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀ-δικέω.md), ἀδικήσω, ἠδίκησα: injure, wrong.
 
-<rs type="lemma">αἰτέω</rs>, αἰτήσω, ἤτησα: ask for, demand.
+[αἰτέω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/αἰτέω.md), αἰτήσω, ἤτησα: ask for, demand.
 
-<rs type="lemma">δή</rs>, post-pos. particle emphasizing preceding word: now, then, accordingly, indeed, etc. Often untranslated.
+[δή](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δή.md), post-pos. particle emphasizing preceding word: now, then, accordingly, indeed, etc. Often untranslated.
 
-<rs type="lemma">δοκέω</rs>, δόξω, ἔδοξα: seem, seem best, think, Often with inf. as subject. DOGMATIC.
+[δοκέω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δοκέω.md), δόξω, ἔδοξα: seem, seem best, think, Often with inf. as subject. DOGMATIC.
 
 
-<rs type="lemma">καλέω</rs>,1 καλῶ, ἐκάλεσα: call, name. CALENDAR.
+[καλέω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/καλέω.md),1 καλῶ, ἐκάλεσα: call, name. CALENDAR.
 
-<rs type="lemma">ποιέω</rs>, ποιήσω, ἐποίησα: make, do. POET (ποιητής).
+[ποιέω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ποιέω.md), ποιήσω, ἐποίησα: make, do. POET (ποιητής).
 
-<rs type="lemma">πολεμέω</rs>, πολεμήσω, ἐπολέμησα : make war. Cf. πόλεμος.
+[πολεμέω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πολεμέω.md), πολεμήσω, ἐπολέμησα : make war. Cf. πόλεμος.
 
-<rs type="lemma">φιλέω</rs>, φιλήσω, ἐφίλησα: love. Cf. φίλος.
+[φιλέω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φιλέω.md), φιλήσω, ἐφίλησα: love. Cf. φίλος.
 
-<rs type="lemma">ὧδε</rs>, adv.; thus, as follows. Cf. ὅδε.
+[ὧδε](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὧδε.md), adv.; thus, as follows. Cf. ὅδε.
 
 ## [§ 130](#para130). Exercises.
 
@@ -119,7 +119,7 @@ Love led Orpheus to seek Eurydice in Hades. On the way out, he turned to look α
 HUMAN FRAILTY
 <quote xml:lang="grc">Πόθεν (whence) πόλεμοι καὶ πόθεν μάχαι ἐν ὑμῖν; οὐκ
 ἐντεῦθεν, ἐκ τῶν ἡδονῶν (pleasures) ὑμῶν... ; ἐπιθυμεῖτε
-(desire), καὶ οὐκ ἔχετε· . . . μάχεσθε (you fight) καὶ πολεμεῖτε. . .. αἰτεῖτε καὶ οὐ λαμβάνετε, διότι (because) κακῶς <note>Adverb.</note> αἰτεῖσθε (= αἰτεῖτε)</quote> <quote xml:lang="eng"></quote> <bibl>St. James, IV. 1-3.</bibl>
+(desire), καὶ οὐκ ἔχετε· . . . μάχεσθε (you fight) καὶ πολεμεῖτε. . .. αἰτεῖτε καὶ οὐ λαμβάνετε, διότι (because) κακῶς <note>Adverb.</note> αἰτεῖσθε (= αἰτεῖτε) <quote xml:lang="eng"> <bibl>St. James, IV. 1-3.</bibl>
 
 
 

@@ -319,7 +319,24 @@ In like manner inflect ὁ ἀδελφός.</p>
 
 
 </p>
-
+<p>
+  The top 10 o-stem lemmas with identical endings and accent.
+  <table>
+  <row role="label"><cell></cell><cell>lemma</cell><cell>freq.</cell><cell>gloss</cell></row>
+  <row><cell>1</cell><cell><rs type="lemma">στρατηγός</rs></cell><cell>151</cell><cell>the leader</cell></row>
+  <row><cell>2</cell><cell><rs type="lemma">ποταμός</rs></cell><cell>99</cell><cell>a river, stream</cell></row>
+  <row><cell>3</cell><cell><rs type="lemma">λοχαγός</rs></cell><cell>90</cell><cell>the leader of an armed band; commander of a company</cell></row>
+  <row><cell>4</cell><cell><rs type="lemma">θεός</rs></cell><cell>89</cell><cell>god</cell></row>
+  <row><cell>5</cell><cell><rs type="lemma">σταθμός</rs></cell><cell>55</cell><cell>a standing place, weight</cell></row>
+  <row><cell>6</cell><cell><rs type="lemma">μισθός</rs></cell><cell>40</cell><cell>wages, pay, hire</cell></row>
+  <row><cell>7</cell><cell><rs type="lemma">ἀδελφός</rs></cell><cell>20</cell><cell>(of the same mother) brother; adj brotherly, sisterly, akin</cell></row>
+  <row><cell>8</cell><cell><rs type="lemma">καιρός</rs></cell><cell>14</cell><cell>time; the right moment, opportunity</cell></row>
+  <row><cell>9</cell><cell><rs type="lemma">Μυσός</rs></cell><cell>10</cell><cell>a Mysian</cell></row>
+  <row><cell>10</cell><cell><rs type="lemma">ἀριθμός</rs></cell><cell>9</cell><cell>number</cell></row>
+  <row><cell></cell><cell>All forms</cell><cell>749</cell><cell></cell></row>
+  </table>
+  
+</p>
 </div>
 
 <div type="textpart" subtype="para" n="2a"><head>Number and Verbs.</head>
@@ -1255,6 +1272,25 @@ add that belong to this group?
   2000 years ago. At the top the master has written two lines of verse, which
   the pupil has tried to reproduce twice in the space below. See if you can
   find mistakes in their work.</p></figure>
+  <p>The two lines above each contain a separate line in iambic trimeter. The first line (in modern, normalized Greek) is:
+    <cit>
+      <quote>σοφοῦ παρ’ ἀνδρὸς προσδέχου συμβουλίαν</quote>
+      <quote xml:lang="eng">Accept advice from a wise man!</quote>
+      <bibl n="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0541.tlg042.1st1K-grc2:61">Menander(?)</bibl>
+
+    </cit>
+    We are not sure if the line actually comes from a play by Menander or if an ancient source made this attribution to increase the authority of the line. Both are middle 2nd person singular imperatives with the main verb, δέχου, preceded by a preverb (ἐκ, which we have aleady learned, or πρός, which will appear in lesson 18).</p><p>
+    Note: the edition of this line in the Scaife viewer offers the variant ἐκδέχου rather than προσδέχου, but the difference has minimal, if any, effect on the translation.
+
+  </p><p>The second iambic trimeter line would be written as following:
+    <cit>
+      <quote>μὴ πᾶσιν εἰκῇ τοῖς φίλοις πιστεύεται</quote>
+      <quote xml:lang="eng">S/he does not randomly trust all [his/her] friends.</quote>
+    </cit>
+  </p><p>The form πιστεύεται may well be a mistake for πιστεύετε, which would be a second person plural imperative, "do [μὴ: not] put your trust in."
+  </p>
+  <p>Each line contains an improving maxim so that the students would internalize approved content as they practiced their handwriting. Education in Ancient Greece (as in many, if not most cultural contexts) was as much about character formation as about the acquisition of intellectual skills.</p>
+  <p>The tablet above was discovered in Egypt and dates from the second century CE (c. 100-200). Transcriptions and bibliography for (<ref n="https://papyri.info/dclp/61495">Add MS 34186.1</ref>)this tablet  are available in <ref n="https://papyri.info/">Papyri.info</ref>, the digital library that papyrologists have developed to aggregate information in their field. (The object above is a wax tablet and not papyrus but Papyri.info includes it because of its focus on writings in ephemeral media from Egypt.)</p>
 </div>
 <div type="textpart" subtype="para" n="28"><head>Exercises.</head>
 <p>
@@ -1288,30 +1324,32 @@ add that belong to this group?
 
 
 <cit>
-  <quote>
-    σκηνὴ πᾶς ὁ βίος.
+  <quote><l>σκηνὴ πᾶς ὁ βίος καὶ παίγνιον: ἢ μάθε παίζειν,</l>
+<l>τὴν σπουδὴν μεταθείς, ἢ φέρε τὰς ὀδύνας.</l>
   </quote>
-  <quote>All the world’s a stage.</quote>
-  <quote>Literally: All life is a tent (See § 35).</quote>
-  <bibl>Greek Anthology.</bibl>
+  <quote xml:lang="eng"><l>All life is a stage and  game: either learn to play</l>
+    <l>shifting off your seriousness, or bear the weight or your sufferings.</l>
+  </quote>
+
+  <bibl n="https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0475%3Abook%3D10%3Achapter%3D72">Greek Anthology 10.72.</bibl>
 </cit>
  
 
 
-<div type="textpart" subtype="para" n="29">
-<p>Α-Stem Feminines. Α-declension nouns whose
+<div type="textpart" subtype="para" n="29"><head>Α-Stem Feminines.</head>
+<p>Α-declension nouns whose
 nominatives end in ᾱ or η are feminine. Because the
 feminine article shows η in the singular, nouns and adjectives in η are presented first.<note n="GRC">this makes no sense if you have not learned the next chapter -- it only works for teachers</note> Both types are the same
 in the plural
 
-ἡ καλὴ σκηνή the beautiful tent
+<foreign></foreign>ἡ καλὴ σκηνή the beautiful tent
 
 
-κώμη village
+<foreign></foreign>κώμη village
 
 
 In like manner inflect ἡ φυγή and ἡ μάχη.4
-
+</p><p>
 What forms of the α-declension have the same ending as the corresponding form of the ο-declension? What have similar endings?</p></div>
 
 <div type="textpart" subtype="para" n="30"><head>Adjectives.</head>
@@ -1343,30 +1381,38 @@ an adjective phrase accompanies a noun with a definite
 article, the adjective usually stands between the article
 and the noun, as in English:
 
-ὁ δίκαιος ἄνθρωπος the just man.
+<foreign>ὁ δίκαιος ἄνθρωπος</foreign> <gloss>the just man.</gloss>
+ 
 
 Note that (unlike English) even a prepositional phrase
 may stand in this position:
 οἱ ἐν τῇ κώμῃ ἄνθρωποι or οἱ ἐν τῇ κώμῃ1 the men in the village.
-
+</p><p>
 The adjective may also follow the noun and have the article repeated with it:
 ὁ ἄνθρωπος ὁ δίκαιος the Just man.
+</p><p>
 
 In the above instances the adjective or phrase is said to
 have the attributive position.
+</p><p>
 
 (b) When an adjective precedes the article or follows
 the article and the noun without the article being repeated, it is said to stand in the predicate position:
+</p><p>
 
 δίκαιος ὁ ἄνθρωπος or ὁ ἄνθρωπος δίκαιος the man (is) just. </p></div>
 
 <div type="textpart" subtype="para" n="32"><head>Dative of Possession.</head>
-<p>In English we say There is no lid to the box. The Latin says <foreign xml:lang="lat">Puero est gladius</foreign>, <gloss>the boy has a sword</gloss>. So in Greek the dative is used to denote
+<p>In English we say 
+  <quote xml:lang="eng">There is no lid to the box.</quote> 
+  
+  The Latin says <foreign xml:lang="lat">Puero est gladius</foreign>, <gloss>the boy has a sword</gloss>. 
+  So in Greek the dative is used to denote
 the possessor, while the thing possessed is subject of the
 verb to be:
 
-φυλακὴ οὐκ ἦν τῇ κώμῃ 
-the village had no garrison,
+<foreign>φυλακὴ οὐκ ἦν τῇ κώμῃ</foreign> <gloss>the village had no garrison.</gloss>
+
 
 
 
@@ -1378,21 +1424,21 @@ the village had no garrison,
 <pb n="17"/>
 
 
-<div type="textpart" subtype="para" n="33">
-<p>VOCABULARY
-<rs type="lemma">γάρ</rs>: postpositive conjunction : for. 
-<rs type="lemma">σπονδή</rs>σπονδῆς, ἡ: libation; pl, σπονδή, σπονδαί, αἱ, treaty, truce. SPONDEE.
-<rs type="lemma">κώμη</rs>, κώμης, ἡ: village. 
-<rs type="lemma">μάχη</rs>, μάχη, ἡ: battle. LOGOMACHY. 
-<rs type="lemma">φεύγω</rs>: flee. Lat. fugio. FUGITIVE,
-<rs type="lemma">οὐ</rs> (before consonants), οὐκ (before smooth breathing), οὐχ (before rough breathing), proclit. adv.: not, UTOPIA. PROPHYLACTIC.
-<rs type="lemma">φυγή</rs>, φυγῆς, ἡ: flight, exile. Lat fuga.
-
-<rs type="lemma">φυλακή</rs>, φυλακῆς, ἡ: guard, garrison.
-
-
-<rs type="lemma">σκηνή</rs>: tent. SCENE. 
-<rs type="lemma" n="φυλάσσω">φυλάττω</rs>: guard (verb).</p></div>
+<div type="textpart" subtype="para" n="33"><head>Vocabulary</head>
+<p>
+  <list type="vocab">
+    <item><rs type="lemma">γάρ</rs>: postpositive conjunction : for. </item>
+<item><rs type="lemma">σπονδή</rs> σπονδῆς, ἡ: libation; pl, σπονδή, σπονδαί, αἱ, treaty, truce. SPONDEE.</item>
+<item><rs type="lemma">κώμη</rs>, κώμης, ἡ: village. </item>
+<item><rs type="lemma">μάχη</rs>, μάχη, ἡ: battle. LOGOMACHY. </item>
+<item><rs type="lemma">φεύγω</rs>: flee. Lat. fugio. FUGITIVE,</item>
+<item><rs type="lemma">οὐ</rs> (before consonants), οὐκ (before smooth breathing), οὐχ (before rough breathing), proclit. adv.: not, UTOPIA. PROPHYLACTIC.</item>
+<item><rs type="lemma">φυγή</rs>, φυγῆς, ἡ: flight, exile. Lat fuga.</item>
+<item><rs type="lemma">φυλακή</rs>, φυλακῆς, ἡ: guard, garrison.</item>
+<item><rs type="lemma">σκηνή</rs>: tent. SCENE. </item>
+<item><rs type="lemma" n="φυλάσσω">φυλάττω</rs> guard (verb).</item>
+</list>
+</p></div>
 
 <div type="textpart" subtype="para" n="34"><head>Exercises.</head>
 <p>
@@ -1487,29 +1533,31 @@ They will be treated later.
 
 <pb n="20"/>
 
-<div type="textpart" subtype="para" n="38">
-<p>VOCABULARY
+<div type="textpart" subtype="para" n="38"><head>Vocabulary</head>
+<p>
+<list>
+<item><rs type="lemma">ἀγορά</rs>, ἀγορᾶς, ἡ: market, market-place. AGORAPHOBIA.</item>
 
-<rs type="lemma">ἀγορά</rs>, ἀγορᾶς, ἡ: market, market-place. AGORAPHOBIA.
+<item><rs type="lemma">ἀρχή</rs>, ἀρχῆς, ἡ: beginning, rule, province.</item>
 
-<rs type="lemma">ἀρχή</rs>, ἀρχῆς, ἡ: beginning, rule, province.
+<item><rs type="lemma">δέκα</rs>: ten. DECALOGUE.</item>
 
-<rs type="lemma">δέκα</rs>: ten. DECALOGUE.
+<item><rs type="lemma">διά</rs>, prep.: with G., through ; with A., on account of. DIAMETER.</item>
 
-<rs type="lemma">διά</rs>, prep.: with G., through ; with A., on account of. DIAMETER.
+<item><rs type="lemma">ἐπιτήδειος</rs>, ἐπιτηδεία, ἐπιτήδειον: fit, suitable ; τὰ ἐπιτήδεια 1: provisions.</item>
 
-<rs type="lemma">ἐπιτήδειος</rs>, ἐπιτηδεία, ἐπιτήδειον: fit, suitable ; τὰ ἐπιτήδεια 1: provisions.
+<item><rs type="lemma">ἡμέρᾱ</rs>, ἡμέρας, ἡ: day. EPHEMERAL.</item>
 
-<rs type="lemma">ἡμέρᾱ</rs>, ἡμέρας, ἡ: day. EPHEMERAL.
-
-<rs type="lemma">στρατιά</rs>, στρατιᾶς, ἡ: army. Cf. στρατηγός.
+<item><rs type="lemma">στρατιά</rs>, στρατιᾶς, ἡ: army. Cf. στρατηγός.</item>
 
 
-<rs type="lemma">φιλία</rs>, φιλίας, ἡ: friendship. Cf. φίλος.
+<item><rs type="lemma">φιλία</rs>, φιλίας, ἡ: friendship. Cf. φίλος.</item>
 
-<rs type="lemma">φίλιος</rs>, φιλία, φίλιον: friendly.
+<item><rs type="lemma">φίλιος</rs>, φιλία, φίλιον: friendly.</item>
 
-<rs type="lemma">χώρᾱ</rs>, χώρας, ἡ country.</p></div>
+<item><rs type="lemma">χώρᾱ</rs>, χώρας, ἡ country.</item>
+</list>
+</p></div>
 
 <div type="textpart" subtype="para" n="39"><head>Exercises.</head>
 <p>

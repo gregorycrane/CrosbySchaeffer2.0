@@ -42,31 +42,33 @@ They will be treated later.
 
 <pb n="20"/>
 
-<div type="textpart" subtype="para" n="38">
+## [§ 38](#para38). Vocabulary
 
 
-VOCABULARY
-
-<rs type="lemma">ἀγορά</rs>, ἀγορᾶς, ἡ: market, market-place. AGORAPHOBIA.
-
-<rs type="lemma">ἀρχή</rs>, ἀρχῆς, ἡ: beginning, rule, province.
-
-<rs type="lemma">δέκα</rs>: ten. DECALOGUE.
-
-<rs type="lemma">διά</rs>, prep.: with G., through ; with A., on account of. DIAMETER.
-
-<rs type="lemma">ἐπιτήδειος</rs>, ἐπιτηδεία, ἐπιτήδειον: fit, suitable ; τὰ ἐπιτήδεια 1: provisions.
-
-<rs type="lemma">ἡμέρᾱ</rs>, ἡμέρας, ἡ: day. EPHEMERAL.
-
-<rs type="lemma">στρατιά</rs>, στρατιᾶς, ἡ: army. Cf. στρατηγός.
 
 
-<rs type="lemma">φιλία</rs>, φιλίας, ἡ: friendship. Cf. φίλος.
+| ἀγορά | [35](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀγορά.md) | 16867 | ἀγορᾶς, ἡ: market, market-place. AGORAPHOBIA.
 
-<rs type="lemma">φίλιος</rs>, φιλία, φίλιον: friendly.
+| ἀρχή | [22](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀρχή.md) | 16889 | ἀρχῆς, ἡ: beginning, rule, province.
 
-<rs type="lemma">χώρᾱ</rs>, χώρας, ἡ country.
+| δέκα | [23](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δέκα.md) | 16912 | ten. DECALOGUE.
+
+| διά | [159](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/διά.md) | 17071 | prep.: with G., through ; with A., on account of. DIAMETER.
+
+| ἐπιτήδειος | [96](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐπιτήδειος.md) | 17167 | ἐπιτηδεία, ἐπιτήδειον: fit, suitable ; τὰ ἐπιτήδεια 1: provisions.
+
+| ἡμέρα | [131](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἡμέρα.md) | 17298 | ἡμέρας, ἡ: day. EPHEMERAL.
+
+| στρατιά | [75](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/στρατιά.md) | 17373 | στρατιᾶς, ἡ: army. Cf. στρατηγός.
+
+
+| φιλία | [30](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φιλία.md) | 17403 | φιλίας, ἡ: friendship. Cf. φίλος.
+
+| φίλιος | [5](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φίλιος.md) | 17408 | φιλία, φίλιον: friendly.
+
+| χώρα | [106](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/χώρα.md) | 17514 | χώρας, ἡ country.
+
+
 
 ## [§ 39](#para39). Exercises.
 

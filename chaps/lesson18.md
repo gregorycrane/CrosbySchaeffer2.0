@@ -49,17 +49,17 @@ ypayw mevre quepwy I shall write within five days.
 
 
 VOCABULARY
-<rs type="lemma">γυνή</rs>, γυναικός, ἡ: woman, wife.  MISOGYNIST.
-<rs type="lemma">δι-αρπάζω</rs>, δι-αρπάσω, δι-ήρπασα:  plunder, pillage, sack.
-<rs type="lemma">Θρᾷξ</rs>, θρᾳκός, ὁ: Thracian.
-<rs type="lemma">σάλπιγξ</rs>, -γγος, ἡ: trumpet.
-<rs type="lemma">κατά</rs>, prep.: with G., down from; with A., down along, along, according to. CATALOGUE.
-<rs type="lemma">φάλαγξ</rs>, -γγος, ἡ: phalanx, battle-line.
+[γυνή](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/γυνή.md), γυναικός, ἡ: woman, wife.  MISOGYNIST.
+[δι-αρπάζω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δι-αρπάζω.md), δι-αρπάσω, δι-ήρπασα:  plunder, pillage, sack.
+[Θρᾷξ](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/Θρᾷξ.md), θρᾳκός, ὁ: Thracian.
+[σάλπιγξ](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/σάλπιγξ.md), -γγος, ἡ: trumpet.
+[κατά](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/κατά.md), prep.: with G., down from; with A., down along, along, according to. CATALOGUE.
+[φάλαγξ](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φάλαγξ.md), -γγος, ἡ: phalanx, battle-line.
 
-<rs type="lemma">φύλαξ</rs>. φύλακος, ὁ: guard. Cf. φυλακή, φυλάττω.
-<rs type="lemma">κῆρυξ</rs>, κήρῡκος, ὁ: herald.
+[φύλαξ](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φύλαξ.md). φύλακος, ὁ: guard. Cf. φυλακή, φυλάττω.
+[κῆρυξ](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/κῆρυξ.md), κήρῡκος, ὁ: herald.
 
-<rs type="lemma">πρός</rs>, prep.: with G., from the side of, in the sight of; with D., near, beside, besides ; with A., to the side of, toward. PROSELYTE.
+[πρός](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πρός.md), prep.: with G., from the side of, in the sight of; with D., near, beside, besides ; with A., to the side of, toward. PROSELYTE.
 
 ## [§ 105](#para105). Exercises.
 

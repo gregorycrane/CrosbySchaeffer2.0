@@ -1,10 +1,10 @@
 # Chapter 11: REVIEW
 
 
-<quote><l part="F">σοφῷ γὰρ αἰσχρὸν ἐξαμαρτάνειν.</l>
-</quote>
+<quote><l part="F">σοφῷ γὰρ αἰσχρὸν ἐξαμαρτάνειν.
+
 <quote>‘Tis shameful for a wise man to make mistakes.
-</quote>
+
 >> Aeschylus, Prometheus, 1039.
 
 

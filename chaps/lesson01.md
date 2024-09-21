@@ -124,6 +124,26 @@ The table above is often called a paradigm, an English word derived from the Gre
 
 
 
+The top 10 o-stem lemmas with identical endings and accent.
+
+| | lemma | freq. | gloss | 
+| --- | --- | --- | --- 
+| 1 | <cell>[στρατηγός](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/στρατηγός.md)</cell>| 151 | the leader | 
+| 2 | <cell>[ποταμός](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ποταμός.md)</cell>| 99 | a river, stream | 
+| 3 | <cell>[λοχαγός](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/λοχαγός.md)</cell>| 90 | the leader of an armed band; commander of a company | 
+| 4 | <cell>[θεός](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/θεός.md)</cell>| 89 | god | 
+| 5 | <cell>[σταθμός](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/σταθμός.md)</cell>| 55 | a standing place, weight | 
+| 6 | <cell>[μισθός](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/μισθός.md)</cell>| 40 | wages, pay, hire | 
+| 7 | <cell>[ἀδελφός](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀδελφός.md)</cell>| 20 | (of the same mother) brother; adj brotherly, sisterly, akin | 
+| 8 | <cell>[καιρός](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/καιρός.md)</cell>| 14 | time; the right moment, opportunity | 
+| 9 | <cell>[Μυσός](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/Μυσός.md)</cell>| 10 | a Mysian | 
+| 10 | <cell>[ἀριθμός](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀριθμός.md)</cell>| 9 | number | 
+| | All forms | 749 |  | 
+
+
+
+
+
 ## [§ 2a](#para2a). Number and Verbs.
 
 
@@ -338,7 +358,7 @@ Other Indo-European languages preserve some of these cases: Ukrainian and Croati
 
 Greek does have a definite article, i.e., a word that (roughly) corresponds to "the" in English.
 
-<rs type="lemma">ὁ</rs> Like English, and unlike Latin,
+[ὁ](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὁ.md) Like English, and unlike Latin,
 Greek has a definite article. This agrees with its noun
 in gender, number, and case. It often serves as a possessive pronoun, as my, your, his, etc. ὁ and οἱ are proclitic
 (page xxvii).

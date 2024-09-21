@@ -1,5 +1,5 @@
 # Chapter 24: PRESENT AND IMPERFECT INDICATIVE, PRESENT INFINITIVE, AND PARTICIPLE OF παύω IN MIDDLE AND PASSIVE VOICE
->  ἀνάγκᾳ δ᾽ οὐδὲ θεοὶ μάχονται.</quote> <quote xml:lang="eng">Not even gods fight against necessity<br/> <bibl>Simonides.</bibl>
+>  ἀνάγκᾳ δ᾽ οὐδὲ θεοὶ μάχονται. <quote xml:lang="eng">Not even gods fight against necessity<br/> <bibl>Simonides.</bibl>
 
 
 ## [§ 133](#para133). Passive Voice.
@@ -82,17 +82,17 @@ action (compare with the Latin a or ab and the ablative): 1
 
 
 VOCABULARY
-<rs type="lemma">ἄχθομαι</rs>: be burdened, vexed.
+[ἄχθομαι](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἄχθομαι.md): be burdened, vexed.
 <rs type="lemma" n="μεταπέμπω">μετα-πέμπομαι</rs>: send after, summon.
-<rs type="lemma">βούλομαι</rs>: wish, desire.
-<rs type="lemma">ἕπομαι</rs>: follow, with D.
-<rs type="lemma">πορεία</rs>: journey.
-<rs type="lemma">ἔρχομαι</rs>, ἦλθον (aor.): come, go.
+[βούλομαι](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/βούλομαι.md): wish, desire.
+[ἕπομαι](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἕπομαι.md): follow, with D.
+[πορεία](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πορεία.md): journey.
+[ἔρχομαι](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἔρχομαι.md), ἦλθον (aor.): come, go.
 <rs type="lemma" n="πορεύω">πορεύομαι</rs>: journey, march,
-<rs type="lemma">ἥδομαι</rs>: be pleased. HEDONIST.
-<rs type="lemma">ὑπό</rs>: prep., with G., from under, by (agent); with D., under, beneath (with verbs of rest); with A., under (with verbs of motion). HYPOTHESIS.
-<rs type="lemma">μάχομαι</rs>: fight, give battle. Cf. μάχη.
-<rs type="lemma">μετά</rs>, prep.: with G., with ; with  A., after; as a prefix, often denotes change. METAPHOR.
+[ἥδομαι](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἥδομαι.md): be pleased. HEDONIST.
+[ὑπό](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὑπό.md): prep., with G., from under, by (agent); with D., under, beneath (with verbs of rest); with A., under (with verbs of motion). HYPOTHESIS.
+[μάχομαι](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/μάχομαι.md): fight, give battle. Cf. μάχη.
+[μετά](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/μετά.md), prep.: with G., with ; with  A., after; as a prefix, often denotes change. METAPHOR.
 
 1 What uses of the genitive have you now had?
 

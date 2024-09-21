@@ -1,15 +1,15 @@
 # Chapter 12: READING 
 
 
-<quote><l>ὦ ταὶ λιπαραὶ καὶ ἰοστέφανοι καὶ ἀοίδιμοι,</l>
-<l>Ἑλλάδος ἔρεισμα, κλειναὶ Ἀθᾶναι.
-</l>
-</quote>
-<quote><l>City of light, with your violet crown, beloved of the poets,
-</l>
-<l>You are the bulwark of Greece; Athens, your fame is for ever.</l></quote>
+> ὦ ταὶ λιπαραὶ καὶ ἰοστέφανοι καὶ ἀοίδιμοι,
+>> Ἑλλάδος ἔρεισμα, κλειναὶ Ἀθᾶναι.
+
+
+> City of light, with your violet crown, beloved of the poets,
+
+>> You are the bulwark of Greece; Athens, your fame is for ever.
 <quote>Literally:
-O renowned Athens, brilliant, violet-crowned, and famed in song, stay of Greece.</quote>
+O renowned Athens, brilliant, violet-crowned, and famed in song, stay of Greece.
 >> Pindar, fragment.
 
 
@@ -66,19 +66,19 @@ the entire thought is clear.
 
 
 VOCABULARY
-<rs type="lemma">Ἀθῆναι</rs>, Ἀθηνῶν, αἱ: Athens.
-<rs type="lemma">ἀπ-έχω</rs>: be distant, be away.
+[Ἀθῆναι](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/Ἀθῆναι.md), Ἀθηνῶν, αἱ: Athens.
+[ἀπ-έχω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀπ-έχω.md): be distant, be away.
 
-<rs type="lemma">ἐπί</rs>: prep. with G., on, upon;1 with D., on, at, by; with A., upon, to, againsi, EPIDERMIS.<note>The difference between the genitive, dative, and accusative may be indicated by these phrases: on horseback, a city on the sea, he marches on the town. Compare παρά (§ 25).</note>
-<rs type="lemma">Ἀθηναῖος</rs>, Ἀθηναά, Ἀθηναῖον: Athenian.
-<rs type="lemma">ἑπτά</rs>: seven. HEPTAGON.
-<rs type="lemma">δρόμος</rs>, δρόμου, ὁ: a running, run, race, race course. HIPPODROME.
+[ἐπί](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐπί.md): prep. with G., on, upon;1 with D., on, at, by; with A., upon, to, againsi, EPIDERMIS.<note>The difference between the genitive, dative, and accusative may be indicated by these phrases: on horseback, a city on the sea, he marches on the town. Compare παρά (§ 25).</note>
+[Ἀθηναῖος](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/Ἀθηναῖος.md), Ἀθηναά, Ἀθηναῖον: Athenian.
+[ἑπτά](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἑπτά.md): seven. HEPTAGON.
+[δρόμος](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δρόμος.md), δρόμου, ὁ: a running, run, race, race course. HIPPODROME.
 
-<rs type="lemma">ἥκω</rs>, ἥξω: [No aorist in use] come, have come, arrive.
+[ἥκω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἥκω.md), ἥξω: [No aorist in use] come, have come, arrive.
 
-<rs type="lemma">ὀκτώ</rs>: eight. octopus.
+[ὀκτώ](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὀκτώ.md): eight. octopus.
 
-<rs type="lemma">σπεύδω</rs>, σπεύσω, ἔσπευσα: hasten.
+[σπεύδω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/σπεύδω.md), σπεύσω, ἔσπευσα: hasten.
 
 <div type="textpart" subtype="para" n="65">
 

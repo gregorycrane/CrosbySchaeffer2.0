@@ -4,7 +4,7 @@
 <quote>
 ἀρχὴ δὲ τοι ἥμισυ παντός.
 
-</quote>
+
 >  Well begun is half done.<br/>
 
 >  Literally: (The) beginning (is) half of everything.<br/>
@@ -103,6 +103,37 @@ Here we see half of a school tablet used by some Greek student more than
 2000 years ago. At the top the master has written two lines of verse, which
 the pupil has tried to reproduce twice in the space below. See if you can
 find mistakes in their work.
+
+
+The two lines above each contain a separate line in iambic trimeter. The first line (in modern, normalized Greek) is:
+
+>  σοφοῦ παρ’ ἀνδρὸς προσδέχου συμβουλίαν<br/>
+>  Accept advice from a wise man!<br/>
+>> [Menander(?)](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0541.tlg042.1st1K-grc2:61)
+
+
+We are not sure if the line actually comes from a play by Menander or if an ancient source made this attribution to increase the authority of the line. Both are middle 2nd person singular imperatives with the main verb, δέχου, preceded by a preverb (ἐκ, which we have aleady learned, or πρός, which will appear in lesson 18).
+
+
+> **Note**: the edition of this line in the Scaife viewer offers the variant ἐκδέχου rather than προσδέχου, but the difference has minimal, if any, effect on the translation.
+
+
+
+The second iambic trimeter line would be written as following:
+
+>  μὴ πᾶσιν εἰκῇ τοῖς φίλοις πιστεύεται<br/>
+>  S/he does not randomly trust all [his/her] friends.<br/>
+
+
+
+The form πιστεύεται may well be a mistake for πιστεύετε, which would be a second person plural imperative, "do [μὴ: not] put your trust in."
+
+
+
+Each line contains an improving maxim so that the students would internalize approved content as they practiced their handwriting. Education in Ancient Greece (as in many, if not most cultural contexts) was as much about character formation as about the acquisition of intellectual skills.
+
+
+The tablet above was discovered in Egypt and dates from the second century CE (c. 100-200). Transcriptions and bibliography for ([Add MS 34186.1](https://papyri.info/dclp/61495))this tablet  are available in [Papyri.info](https://papyri.info/), the digital library that papyrologists have developed to aggregate information in their field. (The object above is a wax tablet and not papyrus but Papyri.info includes it because of its focus on writings in ephemeral media from Egypt.)
 
 ## [§ 28](#para28). Exercises.
 

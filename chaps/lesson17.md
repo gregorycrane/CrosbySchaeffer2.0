@@ -82,29 +82,29 @@ a contrary to fact from a past particular condition (§ 85).
 
 VOCABULARY
 
-<rs type="lemma">ἄν</rs>, post-pos. particle belonging to certain types of conditional clauses but lacking an exact English eqnivalent.
+[ἄν](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἄν.md), post-pos. particle belonging to certain types of conditional clauses but lacking an exact English eqnivalent.
 
-<rs type="lemma">ἄπ-ειμι</rs>: be away, be absent.
+[ἄπ-ειμι](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἄπ-ειμι.md): be away, be absent.
 
-<rs type="lemma">εἰμί</rs> enclit.: be.
+[εἰμί](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/εἰμί.md) enclit.: be.
 
 <rs type="lemma" n="ἔξεστι">ἔξ-ἐστι(ν)</rs>,2 impersonal ; it is possible.
 
-<rs type="lemma">οὔπω</rs>, neg. adv. : not yet.
+[οὔπω](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/οὔπω.md), neg. adv. : not yet.
 
-<rs type="lemma">πάρ-ειμι</rs>: be present.
+[πάρ-ειμι](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πάρ-ειμι.md): be present.
 
-<rs type="lemma">πέντε</rs>, indeclinable : five. PENTAGON.
+[πέντε](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πέντε.md), indeclinable : five. PENTAGON.
 
-<rs type="lemma">στρατόπεδον</rs>: camp. Cf. στρατιά and πεδίον.
+[στρατόπεδον](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/στρατόπεδον.md): camp. Cf. στρατιά and πεδίον.
 
-<rs type="lemma">τόπος</rs>: place. TOPOGRAPUY.
+[τόπος](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/τόπος.md): place. TOPOGRAPUY.
 
-<rs type="lemma">τότε</rs>, adv.: then, at that time.
+[τότε](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/τότε.md), adv.: then, at that time.
 
-<rs type="lemma">φᾱσί(ν)</rs>,2 enclit.; they say.
+[φᾱσί(ν)](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φᾱσί(ν).md),2 enclit.; they say.
 
-<rs type="lemma">φησί(ν)</rs>,2 enclit.: he or she says, PROPHET.
+[φησί(ν)](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φησί(ν).md),2 enclit.: he or she says, PROPHET.
 
 
 
@@ -149,7 +149,7 @@ IN HOSTILE TERRITORY
 δι-ήρπασεν: ὡς (45) πολεμίαν. ἐντεῦθεν Κῦρος τὴν Κίλισσαν
 (the Cilician queen) εἰς τὴν Κιλικίαν ἀπο-πέμπει τὴν ταχίστην
 (quickest) ὁδόν·2 καὶ συν-έπεμψεν αὐτῇ στρατιώτας οὓς
-Μένων εἶχε καὶ αὐτόν.</quote> <quote xml:lang="eng"></quote> <bibl>Adapted from Xenophon, *Anabasis*, I. 2. 19-20.</bibl>
+Μένων εἶχε καὶ αὐτόν. <quote xml:lang="eng"> <bibl>Adapted from Xenophon, *Anabasis*, I. 2. 19-20.</bibl>
 
 
 

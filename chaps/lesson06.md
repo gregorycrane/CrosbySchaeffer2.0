@@ -2,31 +2,35 @@
 
 
 
-<quote>
-σκηνὴ πᾶς ὁ βίος.
-</quote>
->  All the world’s a stage.<br/>
->  Literally: All life is a tent (See § 35).<br/>
->> Greek Anthology.
+> σκηνὴ πᾶς ὁ βίος καὶ παίγνιον: ἢ μάθε παίζειν,
+>> τὴν σπουδὴν μεταθείς, ἢ φέρε τὰς ὀδύνας.
+
+> All life is a stage and  game: either learn to play
+>> shifting off your seriousness, or bear the weight or your sufferings.
+
+
+>> [Greek Anthology 10.72.](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0475%3Abook%3D10%3Achapter%3D72)
 
 
 
 
-<div type="textpart" subtype="para" n="29">
+## [§ 29](#para29). Α-Stem Feminines.
 
 
-Α-Stem Feminines. Α-declension nouns whose
+Α-declension nouns whose
 nominatives end in ᾱ or η are feminine. Because the
 feminine article shows η in the singular, nouns and adjectives in η are presented first.<note n="GRC">this makes no sense if you have not learned the next chapter -- it only works for teachers</note> Both types are the same
 in the plural
 
-ἡ καλὴ σκηνή the beautiful tent
+<foreign></foreign>ἡ καλὴ σκηνή the beautiful tent
 
 
-κώμη village
+<foreign></foreign>κώμη village
 
 
 In like manner inflect ἡ φυγή and ἡ μάχη.4
+
+
 
 What forms of the α-declension have the same ending as the corresponding form of the ο-declension? What have similar endings?
 
@@ -63,32 +67,52 @@ an adjective phrase accompanies a noun with a definite
 article, the adjective usually stands between the article
 and the noun, as in English:
 
-ὁ δίκαιος ἄνθρωπος the just man.
+| Greek | English | 
+| --- | -- | 
+|  ὁ δίκαιος ἄνθρωπος  |  the just man.  |
+
 
 Note that (unlike English) even a prepositional phrase
 may stand in this position:
 οἱ ἐν τῇ κώμῃ ἄνθρωποι or οἱ ἐν τῇ κώμῃ1 the men in the village.
 
+
+
 The adjective may also follow the noun and have the article repeated with it:
 ὁ ἄνθρωπος ὁ δίκαιος the Just man.
+
+
+
 
 In the above instances the adjective or phrase is said to
 have the attributive position.
 
+
+
+
 (b) When an adjective precedes the article or follows
 the article and the noun without the article being repeated, it is said to stand in the predicate position:
+
+
+
 
 δίκαιος ὁ ἄνθρωπος or ὁ ἄνθρωπος δίκαιος the man (is) just. 
 
 ## [§ 32](#para32). Dative of Possession.
 
 
-In English we say There is no lid to the box. The Latin says "Puero est gladius", *the boy has a sword*. So in Greek the dative is used to denote
+In English we say
+>  There is no lid to the box.<br/>
+
+The Latin says "Puero est gladius", *the boy has a sword*.
+So in Greek the dative is used to denote
 the possessor, while the thing possessed is subject of the
 verb to be:
 
-φυλακὴ οὐκ ἦν τῇ κώμῃ
-the village had no garrison,
+| Greek | English | 
+| --- | -- | 
+|  φυλακὴ οὐκ ἦν τῇ κώμῃ  |  the village had no garrison.  |
+
 
 
 
@@ -100,23 +124,24 @@ the village had no garrison,
 <pb n="17"/>
 
 
-<div type="textpart" subtype="para" n="33">
+## [§ 33](#para33). Vocabulary
 
 
-VOCABULARY
-<rs type="lemma">γάρ</rs>: postpositive conjunction : for.
-<rs type="lemma">σπονδή</rs>σπονδῆς, ἡ: libation; pl, σπονδή, σπονδαί, αἱ, treaty, truce. SPONDEE.
-<rs type="lemma">κώμη</rs>, κώμης, ἡ: village.
-<rs type="lemma">μάχη</rs>, μάχη, ἡ: battle. LOGOMACHY.
-<rs type="lemma">φεύγω</rs>: flee. Lat. fugio. FUGITIVE,
-<rs type="lemma">οὐ</rs> (before consonants), οὐκ (before smooth breathing), οὐχ (before rough breathing), proclit. adv.: not, UTOPIA. PROPHYLACTIC.
-<rs type="lemma">φυγή</rs>, φυγῆς, ἡ: flight, exile. Lat fuga.
 
-<rs type="lemma">φυλακή</rs>, φυλακῆς, ἡ: guard, garrison.
+| Lemma | Freq | Total | Gloss |
+| --- | --- | --- | -- |
+| γάρ | [452](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/γάρ.md) | 16098 | postpositive conjunction : for. 
+| σπονδή | [34](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/σπονδή.md) | 16132 | σπονδῆς, ἡ: libation; pl, σπονδή, σπονδαί, αἱ, treaty, truce. SPONDEE.
+| κώμη | [87](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/κώμη.md) | 16219 | κώμης, ἡ: village. 
+| μάχη | [33](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/μάχη.md) | 16252 | μάχη, ἡ: battle. LOGOMACHY. 
+| φεύγω | [71](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φεύγω.md) | 16323 | flee. Lat. fugio. FUGITIVE,
+| οὐ | [434](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/οὐ.md) | 16757 | (before consonants), οὐκ (before smooth breathing), οὐχ (before rough breathing), proclit. adv.: not, UTOPIA. PROPHYLACTIC.
+| φυγή | [7](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φυγή.md) | 16764 | φυγῆς, ἡ: flight, exile. Lat fuga.
+| φυλακή | [19](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φυλακή.md) | 16783 | φυλακῆς, ἡ: guard, garrison.
+| σκηνή | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/σκηνή.md) | 16797 | tent. SCENE. 
+| φυλάσσω | [35](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φυλάττω.md) | 16832 | guard (verb).
 
 
-<rs type="lemma">σκηνή</rs>: tent. SCENE.
-<rs type="lemma" n="φυλάσσω">φυλάττω</rs>: guard (verb).
 
 ## [§ 34](#para34). Exercises.
 

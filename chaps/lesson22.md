@@ -1,5 +1,5 @@
 # Chapter 22: πᾶς. READING
->  πάντων χρημάτων μέτρον ἄνθρωπος.</quote> <quote xml:lang="eng">Man is the measure of all things<br/> <bibl>Protagoras</bibl>
+>  πάντων χρημάτων μέτρον ἄνθρωπος. <quote xml:lang="eng">Man is the measure of all things<br/> <bibl>Protagoras</bibl>
 
 
 ## [§ 121](#para121). Inflection of πᾶς.
@@ -65,18 +65,18 @@ This uncouth deity of mountain and woodland was believed to have inspired the Pe
 
 VOCABULARY
 
-<rs type="lemma">εἶτα</rs>, adv.: then, next.
+[εἶτα](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/εἶτα.md), adv.: then, next.
 
 <rs type="lemma" n="οὕτως">οὕτω</rs> (before consonants), οὕτως (before vowels), adv. : thus, so, as afore- said. Cf. οὗτος.
 
-<rs type="lemma">πᾶς</rs>, πᾶσα, πᾶν: sing., every, whole ; pl. all. PANDEMONIUM.
+[πᾶς](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πᾶς.md), πᾶσα, πᾶν: sing., every, whole ; pl. all. PANDEMONIUM.
 
 
-<rs type="lemma">πρῶτος</rs>: first: πρῶτον, adv. at first. PROTOTYPE.
+[πρῶτος](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πρῶτος.md): first: πρῶτον, adv. at first. PROTOTYPE.
 
 
 
-<rs type="lemma">φόβος</rs>: fear. HYDROPHOBIA.
+[φόβος](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φόβος.md): fear. HYDROPHOBIA.
 
 
 
@@ -107,7 +107,7 @@ James Russell Lowell, Address on Books and Libraries.
 ἐκ δὲ τούτον οἱ στρατιῶται ἐλαύνοντες σὺν κραυγῇ ἀπὸ τοῦ
 αὐτομάτου (compare AUTOMATIC) ἔσπευσαν ἐπὶ τὴς σκηνάς,
 τοῖς δὲ βαρβάροις ἦν φόβος, ὥστε ἔφυγον καὶ ἡ Κίλισσα ἐπὶ
-τῆς ἁρμαμάξης καὶ οἱ ἐκ τῆς ἀγορᾶς τὰ χρήματα κατα-λιπόντες.<note>κατά in compound words often means behind.</note> οὕτως οὖν οἱ Ἑλληνες σὺν γέλωτι (laughter) ἐπὶ τὰς σκηνὰς ἧκον.</quote>  <bibl>Adapted from Xenophon, *Anabasis*, I, 2. 16-18.</bibl>
+τῆς ἁρμαμάξης καὶ οἱ ἐκ τῆς ἀγορᾶς τὰ χρήματα κατα-λιπόντες.<note>κατά in compound words often means behind.</note> οὕτως οὖν οἱ Ἑλληνες σὺν γέλωτι (laughter) ἐπὶ τὰς σκηνὰς ἧκον.  <bibl>Adapted from Xenophon, *Anabasis*, I, 2. 16-18.</bibl>
 
 
 
