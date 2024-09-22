@@ -1,0 +1,30 @@
+# ἄπειμι ADVn τυγχάνω:
+1 results
+## 1. [2.5.37](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:2.5.37?mode=syntax-trees) 994 ['9012669', '9012668']
+[Χειρίσοφος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Χειρίσοφος "Χειρίσοφος n-s---mn- Chirisophus") [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") **[ἐτύγχανεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τυγχάνω "τυγχάνω v3siia--- (with gen.) to hit the mark, to get; (with pple) to happen to, to actually")** **[ἀπὼν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄπειμι "ἄπειμι v-sppamn- be absent")** [ἐν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐν "ἐν r-------- in, among. c. dat.") [κώμῃ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=κώμη "κώμη n-s---fd- country town") [τινὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τις "τις a-s---cd- any one, any thing, some one, some thing") [ξὺν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύν "σύν r-------- along with, in company with, together with") [ἄλλοις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄλλος "ἄλλος a-p---nd- other, another") [ἐπισιτιζομένοις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐπισιτίζομαι "ἐπισιτίζομαι v-pppemd- to furnish oneself with food") [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
+
+
+tlg0032.tlg006_perseus-grc2_watson1854-eng.txt As for Cheirisophus, he happened to be absent at some village looking for provisions. 
+
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Cheirisophus, however, chanced to be away in a village in company with others who were getting provisions. 
+
+# ἄπειμι PNOMn εἰμί:
+1 results
+## 1. [5.3.1](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:5.3.1?mode=syntax-trees) 2189 ['9033413', '9033414']
+[ἐπεὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐπεί "ἐπεί c-------- after, since, when") [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [οὔτε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὔτε "οὔτε b-------- neither / nor") [Χειρίσοφος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Χειρίσοφος "Χειρίσοφος n-s---mn- Chirisophus") [ἧκεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἥκω "ἥκω v3siia--- to have come, be present, be here") [οὔτε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὔτε "οὔτε b-------- neither / nor") [πλοῖα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πλοῖον "πλοῖον n-p---nn- a floating vessel, a ship, vessel") [ἱκανὰ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἱκανός "ἱκανός a-p---nn- becoming, befitting, sufficing") [ἦν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰμί "εἰμί v3siia--- to be") [οὔτε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὔτε "οὔτε b-------- neither / nor") [τὰ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---na- the") [ἐπιτήδεια](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐπιτήδειος "ἐπιτήδειος a-p---na- suitable; useful, necessary; deserving; associate") [ἦν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰμί "εἰμί v3siia--- to be") [λαμβάνειν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λαμβάνω "λαμβάνω v--pna--- to take, seize, receive") [ἔτι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἔτι "ἔτι d-------- yet, as yet, still, besides") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ἐδόκει](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δοκέω "δοκέω v3siia--- seem, impers. it seems best..") **[ἀπιτέον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄπειμι "ἄπειμι a-s---nn- be absent")** **[εἶναι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰμί "εἰμί v--pna--- to be")** [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
+
+
+tlg0032.tlg006_perseus-grc2_watson1854-eng.txt As Cheirisophus did not return, and a sufficient number of vessels were not collected, and as there was no longer a possibility of getting supplies, it appeared that they must take their departure. 
+
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt And now, seeing that Cheirisophus was not returned and that it was no longer possible to get provisions, they resolved to depart by land. 
+
+# ἄπειμι PRED nohead:
+1 results
+## 1. [6.6.20](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:6.6.20?mode=syntax-trees) 3045 ['9047545']
+[οὐδεὶς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐδείς "οὐδείς a-s---mn- not one, nobody") [γὰρ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=γάρ "γάρ d-------- for") **[ἀπέσται](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄπειμι "ἄπειμι v3sfim--- be absent")** [ὅστις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅστις "ὅστις p-s---mn- indef. relative or indirect interrogative") [ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [ἡμῖν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐγώ "ἐγώ p-p---cd- I (first person pronoun)") [ἐθέλῃ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐθέλω "ἐθέλω v3spsa--- to will, wish, purpose") [πείθεσθαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πείθω "πείθω v--pne--- to prevail upon, win over, persuade") [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
+
+
+tlg0032.tlg006_perseus-grc2_watson1854-eng.txt for no man, who is willing to obey us, shall refuse to submit to yon." 
+
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt for no one who is ready to yield obedience to us will fail to present himself before you. 
+
