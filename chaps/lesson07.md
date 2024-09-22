@@ -47,15 +47,15 @@ They will be treated later.
 
 
 
-| ἀγορά | [35](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀγορά.md) | 16867 | ἀγορᾶς, ἡ: market, market-place. AGORAPHOBIA.
+| ἀγορά | [35](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀγορά.md) | 16832 | ἀγορᾶς, ἡ: market, market-place. AGORAPHOBIA.
 
-| ἀρχή | [22](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀρχή.md) | 16889 | ἀρχῆς, ἡ: beginning, rule, province.
+| ἀρχή | [22](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀρχή.md) | 16854 | ἀρχῆς, ἡ: beginning, rule, province.
 
-| δέκα | [23](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δέκα.md) | 16912 | ten. DECALOGUE.
+| δέκα | [23](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δέκα.md) | 16877 | ten. DECALOGUE.
 
-| διά | [159](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/διά.md) | 17071 | prep.: with G., through ; with A., on account of. DIAMETER.
+| διά | [159](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/διά.md) | 17036 | prep.: with G., through ; with A., on account of. DIAMETER.
 
-| ἐπιτήδειος | [96](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐπιτήδειος.md) | 17167 | ἐπιτηδεία, ἐπιτήδειον: fit, suitable ; τὰ ἐπιτήδεια 1: provisions.
+| ἐπιτήδειος | [96](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐπιτήδειος.md) | 17132 | ἐπιτηδεία, ἐπιτήδειον: fit, suitable ; τὰ ἐπιτήδεια 1: provisions.
 
 | ἡμέρα | [131](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἡμέρα.md) | 17298 | ἡμέρας, ἡ: day. EPHEMERAL.
 
