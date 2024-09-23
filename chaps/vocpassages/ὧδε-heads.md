@@ -1,4 +1,4 @@
-# ὧδε ADV λέγω:
+# ὧδε ADV λέγω, *to say, tell, speak; epic and arch.: pick, gather*
 13 results
 ## 1. [3.1.26](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:3.1.26?mode=syntax-trees) 1132 ['9015393', '9015392']
 [ὁ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---mn- the") [μέντοι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέντοι "μέντοι d-------- however, nevertheless; of course (answers)") [Ξενοφῶν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Ξενοφῶν "Ξενοφῶν n-s---mn- Xenophon") [μεταξὺ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μεταξύ "μεταξύ r-------- betwixt, between") [ὑπολαβὼν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὑπολαμβάνω "ὑπολαμβάνω v-sapamn- take up; understand, interpret; assume; reply, rejoin") **[ἔλεξεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λέγω "λέγω v3saia--- to say, tell, speak; epic and arch.: pick, gather")** **[ὧδε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὧδε "ὧδε d-------- in this wise, so, thus")** [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
@@ -104,7 +104,7 @@ tlg0032.tlg006_perseus-grc2_watson1854-eng.txt when Xenophon proceeded to speak 
 
 tlg0032.tlg006_perseus-grc2_perseus-eng2.txt After that Xenophon spoke as follows: 
 
-# ὧδε ADV ποιέω:
+# ὧδε ADV ποιέω, *to make, to do*
 3 results
 ## 1. [1.1.6](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.1.6?mode=syntax-trees) 14 ['8996215', '8996217']
 **[ὧδε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὧδε "ὧδε d-------- in this wise, so, thus")** [οὖν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὖν "οὖν d-------- so, then, therefore") **[ἐποιεῖτο](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ποιέω "ποιέω v3siie--- to make, to do")** [τὴν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---fa- the") [συλλογήν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=συλλογή "συλλογή n-s---fa- a gathering, collecting") [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
@@ -130,7 +130,7 @@ tlg0032.tlg006_perseus-grc2_watson1854-eng.txt Their entrance upon the territory
 
 tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Now they conducted their invasion of the country of the Carduchians in the following way, since they were seeking not only to escape observation, but at the same time to reach the heights before the enemy could take possession of them.] 
 
-# ὧδε ADV ἄρχω:
+# ὧδε ADV ἄρχω, *(to be first) to rule, to begin*
 3 results
 ## 1. [1.6.6](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.6.6?mode=syntax-trees) 359 ['9001870', '9001867']
 [ἔφη](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φημί "φημί v3siia--- to say, to claim") [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [Κῦρον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Κῦρος "Κῦρος n-s---ma- Cyrus") **[ἄρχειν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄρχω "ἄρχω v--pna--- (to be first) to rule, to begin")** [τοῦ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---mg- the") [λόγου](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λόγος "λόγος n-s---mg- the word") **[ὧδε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὧδε "ὧδε d-------- in this wise, so, thus")** [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
@@ -156,7 +156,7 @@ tlg0032.tlg006_perseus-grc2_watson1854-eng.txt When the ceremonies to the gods w
 
 tlg0032.tlg006_perseus-grc2_perseus-eng2.txt These ceremonies duly performed, Xenophon began again with these words: 
 
-# ὧδε ADV διαβαίνω:
+# ὧδε ADV διαβαίνω, *to cross (a river, etc.); to stand with feet apart*
 1 results
 ## 1. [1.5.10](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.5.10?mode=syntax-trees) 319 ['9001182', '9001181']
 [ἐκ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐκ "ἐκ r-------- from out of") [ταύτης](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὗτος "οὗτος a-s---fg- this; that") [οἱ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---mn- the") [στρατιῶται](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=στρατιώτης "στρατιώτης n-p---mn- a citizen bound to military service") [ἠγόραζον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀγοράζω "ἀγοράζω v3piia--- to be in the ἀγορά") [τὰ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---na- the") [ἐπιτήδεια](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐπιτήδειος "ἐπιτήδειος a-p---na- suitable; useful, necessary; deserving; associate") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [σχεδίαις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σχεδία "σχεδία n-p---fd- a raft, float") **[διαβαίνοντες](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=διαβαίνω "διαβαίνω v-pppamn- to cross (a river, etc.); to stand with feet apart")** **[ὧδε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὧδε "ὧδε d-------- in this wise, so, thus")** [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
@@ -166,7 +166,7 @@ tlg0032.tlg006_perseus-grc2_watson1854-eng.txt from this place the soldiers purc
 
 tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Here the soldiers made purchases of provisions, crossing the river on rafts in the following way: 
 
-# ὧδε ADV ἔρομαι:
+# ὧδε ADV ἔρομαι, *to ask, enquire*
 1 results
 ## 1. [1.7.9](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.7.9?mode=syntax-trees) 414 ['9002762', '9002764']
 [ἐν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐν "ἐν r-------- in, among. c. dat.") [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [τῷ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---md- the") [καιρῷ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καιρός "καιρός n-s---md- time; the right moment, opportunity") [τούτῳ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὗτος "οὗτος a-s---md- this; that") [Κλέαρχος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Κλέαρχος "Κλέαρχος n-s---mn- Clearchus") **[ὧδέ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὧδε "ὧδε d-------- in this wise, so, thus")** [πως](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πως "πως d-------- somehow, in some way") **[ἤρετο](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἔρομαι "ἔρομαι v3saim--- to ask, enquire")** [τὸν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---ma- the") [Κῦρον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Κῦρος "Κῦρος n-s---ma- Cyrus") [·](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=· "· u-------- NoDef") 
@@ -176,7 +176,7 @@ tlg0032.tlg006_perseus-grc2_watson1854-eng.txt About this time, also, Clearchus 
 
 tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Taking this opportunity Clearchus asked  Cyrus  a question like this: 
 
-# ὧδε ADV ἀπαμείβομαι:
+# ὧδε ADV ἀπαμείβομαι, *to reply, answer*
 1 results
 ## 1. [2.5.15](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:2.5.15?mode=syntax-trees) 954 ['9011832', '9011833']
 [Τισσαφέρνης](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Τισσαφέρνης "Τισσαφέρνης n-s---mn- Tissaphernes") [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") **[ὧδε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὧδε "ὧδε d-------- in this wise, so, thus")** **[ἀπημείφθη](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀπαμείβομαι "ἀπαμείβομαι v3saip--- to reply, answer")** [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
@@ -186,7 +186,7 @@ tlg0032.tlg006_perseus-grc2_watson1854-eng.txt Tissaphernes replied as follows:
 
 tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Tissaphernes replied as follows: 
 
-# ὧδε ADV ἐκτάσσω:
+# ὧδε ADV ἐκτάσσω, *to draw out in battle-order*
 1 results
 ## 1. [5.4.12](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:5.4.12?mode=syntax-trees) 2243 ['9034313', '9034312']
 [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [οἱ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---mn- the") [μὲν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand") [λαβόντες](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λαμβάνω "λαμβάνω v-papamn- to take, seize, receive") [τὰ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---na- the") [πλοῖα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πλοῖον "πλοῖον n-p---na- a floating vessel, a ship, vessel") [ἀπέπλευσαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀποπλέω "ἀποπλέω v3paia--- to sail away, sail off") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [οἱ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---mn- the") [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [μένοντες](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μένω "μένω v-pppamn- to stay at home, stay where one is, not stir") **[ἐξετάξαντο](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐκτάσσω "ἐκτάσσω v3paim--- to draw out in battle-order")** **[ὧδε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὧδε "ὧδε d-------- in this wise, so, thus")** [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
