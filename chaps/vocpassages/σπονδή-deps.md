@@ -1,4 +1,4 @@
-# σπονδή ATR ὁ
+# σπονδή ATR ὁ, the
 17 results
 ## 1. [1.9.8](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.9.8?mode=syntax-trees) 522 ['9004809', '9004808']
 [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [εἴ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰ "εἰ c-------- conj. if, whether; part. w/wishes, adv. w/imperatives") [τις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τις "τις a-s---cn- any one, any thing, some one, some thing") [πολέμιος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πολέμιος "πολέμιος a-s---mn- hostile; enemy") [ἐγένετο](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=γίγνομαι "γίγνομαι v3saim--- become, be born") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [σπεισαμένου](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σπένδω "σπένδω v-sapmmg- to pour a libation, (mid.) to make a treaty") [Κύρου](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Κῦρος "Κῦρος n-s---mg- Cyrus") [ἐπίστευε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3siia--- to trust, trust to") [μηδὲν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μηδείς "μηδείς a-s---na- (and not one); not one, no-one") [ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [παρὰ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=παρά "παρά r-------- from the side of, c. gen., beside, alongside of, c. dat., to the side of, motion alongside of, c. acc.") **[τὰς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---fa- the")** **[σπονδὰς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σπονδή "σπονδή n-p---fa- drink-offering; (pl.) truce, treaty")** [παθεῖν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πάσχω "πάσχω v--ana--- to experience, to suffer") [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
@@ -133,7 +133,7 @@ tlg0032.tlg006_perseus-grc2_watson1854-eng.txt Some of the people from the mount
 
 tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Meanwhile some of the people on the mountain came down and actually requested Xenophon himself to help them obtain the truce. 
 
-# σπονδή PUNCT ;
+# σπονδή PUNCT ;, NoDef
 1 results
 ## 1. [2.1.23](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:2.1.23?mode=syntax-trees) 684 ['9007642', '9007646']
 **[σπονδὰς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σπονδή "σπονδή n-p---fa- drink-offering; (pl.) truce, treaty")** [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [πόλεμον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πόλεμος "πόλεμος n-s---ma- battle, fight, war") [ἀπαγγελῶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀπαγγέλλω "ἀπαγγέλλω v1sfia--- to bring tidings, report, announce") **[;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef")** 
@@ -143,7 +143,7 @@ tlg0032.tlg006_perseus-grc2_watson1854-eng.txt " Is it a truce or war that I sha
 
 tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Shall I report truce or war? 
 
-# σπονδή PUNCT ,
+# σπονδή PUNCT ,, NoDef
 1 results
 ## 1. [2.1.23](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:2.1.23?mode=syntax-trees) 686 ['9007654', '9007657']
 **[σπονδαὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σπονδή "σπονδή n-p---fn- drink-offering; (pl.) truce, treaty")** [μὲν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand") [μένουσιν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μένω "μένω v3ppia--- to stay at home, stay where one is, not stir") **[,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef")** [ἀπιοῦσι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀπιόω "ἀπιόω v3ppia--- NoDef") [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [προϊοῦσι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=προιόω "προιόω v3ppia--- NoDef") [πόλεμος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πόλεμος "πόλεμος n-s---mn- battle, fight, war") [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
@@ -153,7 +153,7 @@ tlg0032.tlg006_perseus-grc2_watson1854-eng.txt "A truce, if we stay ; and if we 
 
 tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Truce if we remain, if we retire or advance, war. 
 
-# σπονδή PUNCT .
+# σπονδή PUNCT ., NoDef
 1 results
 ## 1. [2.1.23](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:2.1.23?mode=syntax-trees) 686 ['9007654', '9007663']
 **[σπονδαὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σπονδή "σπονδή n-p---fn- drink-offering; (pl.) truce, treaty")** [μὲν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand") [μένουσιν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μένω "μένω v3ppia--- to stay at home, stay where one is, not stir") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ἀπιοῦσι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀπιόω "ἀπιόω v3ppia--- NoDef") [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [προϊοῦσι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=προιόω "προιόω v3ppia--- NoDef") [πόλεμος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πόλεμος "πόλεμος n-s---mn- battle, fight, war") **[.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef")** 
@@ -163,7 +163,7 @@ tlg0032.tlg006_perseus-grc2_watson1854-eng.txt "A truce, if we stay ; and if we 
 
 tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Truce if we remain, if we retire or advance, war. 
 
-# σπονδή COa πόλεμος
+# σπονδή COa πόλεμος, battle, fight, war
 1 results
 ## 1. [2.1.23](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:2.1.23?mode=syntax-trees) 684 ['9007642', '9007644']
 **[σπονδὰς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σπονδή "σπονδή n-p---fa- drink-offering; (pl.) truce, treaty")** [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") **[πόλεμον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πόλεμος "πόλεμος n-s---ma- battle, fight, war")** [ἀπαγγελῶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀπαγγέλλω "ἀπαγγέλλω v1sfia--- to bring tidings, report, announce") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
@@ -173,7 +173,7 @@ tlg0032.tlg006_perseus-grc2_watson1854-eng.txt " Is it a truce or war that I sha
 
 tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Shall I report truce or war? 
 
-# σπονδή COg ὅμηρος
+# σπονδή COg ὅμηρος, a pledge for the maintenance of unity, a surety, a hostage
 1 results
 ## 1. [7.4.12](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:7.4.12?mode=syntax-trees) 3458 ['9054261', '9054263']
 [ἐκ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐκ "ἐκ r-------- from out of") [τούτου](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὗτος "οὗτος a-s---ng- this; that") [ἡμέραι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἡμέρα "ἡμέρα n-p---fn- day") [τ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τε "τε b-------- and") [οὐ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐ "οὐ d-------- not") [πολλαὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πολύς "πολύς a-p---fn- much, many") [διετρίβοντο](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=διατρίβω "διατρίβω v3piie--- to rub between, rub hard, rub away, consume, waste") [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [οἱ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---mn- the") [ἐκ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐκ "ἐκ r-------- from out of") [τοῦ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---ng- the") [ὄρους](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὄρος "ὄρος n-s---ng- a mountain, hill") [Θρᾷκες](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Θρᾷξ "Θρᾷξ n-p---mn- a Thracian") [καταβαίνοντες](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καταβαίνω "καταβαίνω v-pppamn- to step down, go") [πρὸς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πρός "πρός r-------- (w. gen.) from; (w. dat.) at, near, in addition to; (w. acc.) to, toward, regarding") [τὸν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---ma- the") [Σεύθην](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Σεύθης "Σεύθης n-s---ma- Seuthes") [περὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=περί "περί r-------- around, round about with gen., dat., and acc.") **[σπονδῶν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σπονδή "σπονδή n-p---fg- drink-offering; (pl.) truce, treaty")** [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") **[ὁμήρων](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅμηρος "ὅμηρος n-p---mg- a pledge for the maintenance of unity, a surety, a hostage")** [διεπράττοντο](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=διαπράσσω "διαπράσσω v3piie--- to pass over; bring about, accomplish") [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 

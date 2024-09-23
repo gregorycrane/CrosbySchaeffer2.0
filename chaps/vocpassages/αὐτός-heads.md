@@ -3088,16 +3088,6 @@ tlg0032.tlg006_perseus-grc2_watson1854-eng.txt for he will never consent, at lea
 
 tlg0032.tlg006_perseus-grc2_perseus-eng2.txt For never, if he can help it, will he choose to let us go back to  Greece  and report that we, few as we are, were victorious over the King at his very gates, and then laughed in his face and came home again. 
 
-# αὐτός ATR γέφυρα:
-1 results
-## 1. [2.4.19](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:2.4.19?mode=syntax-trees) 888 ['9010754', '9010756']
-[ἐὰν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐάν "ἐάν c-------- if") [μὲν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand") [οὖν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὖν "οὖν d-------- so, then, therefore") [νικῶσι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=νικάω "νικάω v3ppia--- to conquer, prevail, vanquish") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [τί](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---na- who? which?") [δεῖ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δεῖ "δεῖ v3spia--- it is necessary") [λύειν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λύω "λύω v--pna--- to loose") **[αὐτοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=αὐτός "αὐτός a-p---ma- unemph. 3rd pers.pronoun; -self; [the] same")** [τὴν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---fa- the") **[γέφυραν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=γέφυρα "γέφυρα n-s---fa- (Homer) a dyke, dam; (classical) bridge")** [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
-
-
-tlg0032.tlg006_perseus-grc2_watson1854-eng.txt if then they are to conquer us, why should they break down the bridge ? 
-
-tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Now if they are victorious, why should they need to destroy the bridge? 
-
 # αὐτός ATR οὐδείς:
 1 results
 ## 1. [2.5.9](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:2.5.9?mode=syntax-trees) 938 ['9011526', '9011524']
@@ -5535,6 +5525,24 @@ tlg0032.tlg006_perseus-grc2_watson1854-eng.txt I thought, my fellow-soldiers, th
 
 tlg0032.tlg006_perseus-grc2_perseus-eng2.txt I supposed, soldiers, that the more I helped this man to bear the poverty in which he then was, the more I should make him my friend when he should have gained power. 
 
+# αὐτός SBJa λύω:
+2 results
+## 1. [2.4.19](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:2.4.19?mode=syntax-trees) 888 ['9010754', '9010753']
+[ἐὰν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐάν "ἐάν c-------- if") [μὲν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand") [οὖν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὖν "οὖν d-------- so, then, therefore") [νικῶσι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=νικάω "νικάω v3ppia--- to conquer, prevail, vanquish") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [τί](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---na- who? which?") [δεῖ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δεῖ "δεῖ v3spia--- it is necessary") **[λύειν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λύω "λύω v--pna--- to loose")** **[αὐτοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=αὐτός "αὐτός a-p---ma- unemph. 3rd pers.pronoun; -self; [the] same")** [τὴν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---fa- the") [γέφυραν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=γέφυρα "γέφυρα n-s---fa- (Homer) a dyke, dam; (classical) bridge") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
+
+
+tlg0032.tlg006_perseus-grc2_watson1854-eng.txt if then they are to conquer us, why should they break down the bridge ? 
+
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Now if they are victorious, why should they need to destroy the bridge? 
+
+## 2. [3.4.36](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:3.4.36?mode=syntax-trees) 1415 ['9020707', '9020706']
+[οὐ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐ "οὐ d-------- not") [γὰρ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=γάρ "γάρ d-------- for") [ἐδόκει](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δοκέω "δοκέω v3siia--- seem, impers. it seems best..") **[λύειν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λύω "λύω v--pna--- to loose")** **[αὐτοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=αὐτός "αὐτός a-p---ma- unemph. 3rd pers.pronoun; -self; [the] same")** [νυκτὸς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=νύξ "νύξ n-s---fg- the night") [πορεύεσθαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πορεύω "πορεύω v--pne--- to make to go, carry, convey") [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [κατάγεσθαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=κατάγω "κατάγω v--pne--- to lead down") [ἐπὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐπί "ἐπί r-------- on, upon with gen., dat., and acc.") [τὸ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---na- the") [στρατόπεδον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=στρατόπεδον "στρατόπεδον n-s---na- the ground on which soldiers are encamped, a camp, encampment") [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
+
+
+tlg0032.tlg006_perseus-grc2_watson1854-eng.txt but, when it grew late, they went off, for they did not think it expedient to march and arrive at their camp 1 in the night. 
+
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt for they thought it did not pay to be on the march and arriving at their camp in the night. 
+
 # αὐτός SBJa μένω:
 2 results
 ## 1. [2.5.27](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:2.5.27?mode=syntax-trees) 976 ['9012287', '9012285']
@@ -5782,16 +5790,6 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt and every time they returned from a
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt As soon as the Greeks saw that they intended to retire, and were passing the order for doing so, proclamation was made among the Greeks, in the hearing of the enemy, that they were to collect their baggage; 
 
 tlg0032.tlg006_perseus-grc2_perseus-eng2.txt When the Greeks became aware that they were desirous of withdrawing and were passing the word along, the order to pack up luggage was proclaimed to the Greek troops within hearing of the enemy. 
-
-# αὐτός SBJa λύω:
-1 results
-## 1. [3.4.36](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:3.4.36?mode=syntax-trees) 1415 ['9020707', '9020706']
-[οὐ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐ "οὐ d-------- not") [γὰρ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=γάρ "γάρ d-------- for") [ἐδόκει](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δοκέω "δοκέω v3siia--- seem, impers. it seems best..") **[λύειν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λύω "λύω v--pna--- to loose")** **[αὐτοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=αὐτός "αὐτός a-p---ma- unemph. 3rd pers.pronoun; -self; [the] same")** [νυκτὸς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=νύξ "νύξ n-s---fg- the night") [πορεύεσθαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πορεύω "πορεύω v--pne--- to make to go, carry, convey") [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [κατάγεσθαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=κατάγω "κατάγω v--pne--- to lead down") [ἐπὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐπί "ἐπί r-------- on, upon with gen., dat., and acc.") [τὸ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---na- the") [στρατόπεδον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=στρατόπεδον "στρατόπεδον n-s---na- the ground on which soldiers are encamped, a camp, encampment") [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
-
-
-tlg0032.tlg006_perseus-grc2_watson1854-eng.txt but, when it grew late, they went off, for they did not think it expedient to march and arrive at their camp 1 in the night. 
-
-tlg0032.tlg006_perseus-grc2_perseus-eng2.txt for they thought it did not pay to be on the march and arriving at their camp in the night. 
 
 # αὐτός SBJa ἀναβαίνω:
 1 results
