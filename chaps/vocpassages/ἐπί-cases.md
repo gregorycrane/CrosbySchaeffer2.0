@@ -1,4 +1,4 @@
-ἐπί case g 70 instances 44 lemmas
+# ἐπί case g 70 instances 44 lemmas
 # ἵππος
 5 results
 ## 1. [3.2.19](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:3.2.19?mode=syntax-trees) 1226 ['9017321', '9017322']
@@ -647,7 +647,7 @@ tlg0032.tlg006_perseus-grc2_watson1854-eng.txt The wall was eight bricks of eart
 
 tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Now the wall had a thickness of eight earthen bricks. 
 
-ἐπί case d 121 instances 58 lemmas
+# ἐπί case d 121 instances 58 lemmas
 # οὗτος
 21 results
 ## 1. [1.3.1](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.3.1?mode=syntax-trees) 141 ['8998221', '8998222']
@@ -1732,7 +1732,7 @@ tlg0032.tlg006_perseus-grc2_watson1854-eng.txt Yet I call both you yourself, and
 
 tlg0032.tlg006_perseus-grc2_perseus-eng2.txt And yet I make your own self my witness, along with the gods, who know, that I have neither received anything from you that was intended for the soldiers, nor have ever asked what was theirs for my private use, nor demanded from you what you had promised me; 
 
-ἐπί case a 268 instances 104 lemmas
+# ἐπί case a 268 instances 104 lemmas
 # στρατόπεδον
 15 results
 ## 1. [1.10.5](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.10.5?mode=syntax-trees) 576 ['9005919', '9005921']
@@ -4082,4 +4082,4 @@ tlg0032.tlg006_perseus-grc2_watson1854-eng.txt Euclides then advised him to sacr
 
 tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Eucleides, accordingly, advised him to sacrifice just as he used to do, and said that it would be to his advantage. 
 
-ἐπί case - 0 instances 0 lemmas
+# ἐπί case - 0 instances 0 lemmas
