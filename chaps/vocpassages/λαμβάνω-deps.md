@@ -822,7 +822,7 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt There Xenophon and his men fell in 
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt Cyrus accordingly went up, taking with him Tissaphernes as a friend, and having also with him three hundred heavy-armed Greeks,1 and Xenias of Parrhasia,2 their captain. 
 
-tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Cyrus  accordingly went up under the command of Xenias of  Parrhasia . 
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Cyrus  accordingly went up to his father, taking with him Tissaphernes as a friend and accompanied by three hundred Greek hoplites, under the command of Xenias of  Parrhasia . 
 
 # λαμβάνω OBJa βασιλεύς, *a king, chief*
 1 results
@@ -3642,7 +3642,7 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt She said that if he should go by ni
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt Cyrus accordingly went up, taking with him Tissaphernes as a friend, and having also with him three hundred heavy-armed Greeks,1 and Xenias of Parrhasia,2 their captain. 
 
-tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Cyrus  accordingly went up under the command of Xenias of  Parrhasia . 
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Cyrus  accordingly went up to his father, taking with him Tissaphernes as a friend and accompanied by three hundred Greek hoplites, under the command of Xenias of  Parrhasia . 
 
 # λαμβάνω ADVa εἰμί, *to be*
 1 results

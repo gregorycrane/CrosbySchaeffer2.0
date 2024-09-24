@@ -554,7 +554,7 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt So after dinner he set forth, takin
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt Cyrus accordingly went up, taking with him Tissaphernes as a friend, and having also with him three hundred heavy-armed Greeks,1 and Xenias of Parrhasia,2 their captain. 
 
-tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Cyrus  accordingly went up under the command of Xenias of  Parrhasia . 
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Cyrus  accordingly went up to his father, taking with him Tissaphernes as a friend and accompanied by three hundred Greek hoplites, under the command of Xenias of  Parrhasia . 
 
 # φίλος ADVa παρά, *from the side of, c. gen., beside, alongside of, c. dat., to the side of, motion alongside of, c. acc.*
 1 results
