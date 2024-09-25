@@ -167,6 +167,8 @@ verb to be:
 
 
 Every Greek settlement of any consequence had its theater. The one at Delphi is remarkably well preserved.
+![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/DelphiTheater.jpg?raw=true)
+![text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Delfoi8.jpg/1280px-Delfoi8.jpg)
 Here in 1927 the *Prometheus Bound* of Aeschylus was revived in great splendor.
 
 
