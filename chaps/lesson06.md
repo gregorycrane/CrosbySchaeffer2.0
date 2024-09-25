@@ -120,7 +120,7 @@ the article and the noun without the article being repeated, it is said to stand
 
 
 
-Examples of the attributive and predicate position in the Anabasis are available <ref n="r">here.</ref>
+Examples of the attributive and predicate position in the Anabasis are available [here.](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/vocpassages/attribsdelc12.md)
 
 ## [§ 32](#para32). Dative of Possession.
 
