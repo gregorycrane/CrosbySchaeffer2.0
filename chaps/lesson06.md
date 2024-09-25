@@ -175,6 +175,9 @@ Here in 1927 the *Prometheus Bound* of Aeschylus was revived in great splendor.
 GRC: This alludes to the production by [Angelos Sikelianos](https://en.wikipedia.org/wiki/Angelos_Sikelianos) ![text](https://upload.wikimedia.org/wikipedia/commons/8/8d/Sikelianos.jpg) and his wife [Eva Palmer](https://en.wikipedia.org/wiki/Eva_Palmer-Sikelianos) ![text](https://press.princeton.edu/sites/default/files/styles/hero_square/public/image/2021-02/Eva%20Palmer%20Sikelianos%20Hero.png?itok=mOJELVUg). The two producers created a documentary of this production ([described in IMDB](https://www.imdb.com/title/tt0232478) and [available at the Internet Archive](https://archive.org/details/prometheus-2020)).
 
 
+![text](https://www.bsa.ac.uk/wp-content/uploads/2018/11/Eleni-Sikelianos-From-Delphi-1927.jpeg) Zeus sexually pursued the priestess [Io](https://en.wikipedia.org/wiki/Io_(mythology)) and transformed her into a heifer to hide her from his wife Hera. ![text](https://apolloncamping.gr/images/speasyimagegallery/albums/13/images/aeschylus-prometheus-bound.-first-delphic-festivals-1927.jpeg)
+
+
 
 ## [§ 34](#para34). Exercises.
 
