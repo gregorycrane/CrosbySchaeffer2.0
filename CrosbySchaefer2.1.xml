@@ -1342,10 +1342,24 @@ nominatives end in ᾱ or η are feminine. Because the
 feminine article shows η in the singular, nouns and adjectives in η are presented first.<note n="GRC">this makes no sense if you have not learned the next chapter -- it only works for teachers</note> Both types are the same
 in the plural
 
-<foreign></foreign>ἡ καλὴ σκηνή the beautiful tent
+<foreign>ἡ καλὴ σκηνή</foreign> <gloss>the beautiful tent</gloss>
 
+<table>
+  <row role="label"><cell>Sg.</cell><cell>Pl.</cell></row>
+  <row><cell>ἡ καλὴ σκηνή</cell><cell>αἱ καλαὶ σκηναί</cell></row>
+  <row><cell>τῆς καλῆς σκηνῆς</cell><cell>τῶν καλῶν σκηνῶν</cell></row>
+  <row><cell>τῇ καλῇ σκηνῇ</cell><cell>ταῖς καλαῖς σκηναῖς</cell></row>
+  <row><cell>τὴν καλὴν σκηνήν</cell><cell>τὰς καλὰς σκηνάς</cell></row>
+</table>
 
-<foreign></foreign>κώμη village
+<foreign>κώμη</foreign> <gloss>village</gloss>
+<table>
+  <row role="label"><cell>Sg.</cell><cell>Pl.</cell></row>
+  <row><cell>κώμη</cell><cell>κῶμαι</cell></row>
+  <row><cell>κώμης</cell><cell>κωμῶν</cell></row>
+  <row><cell>κώμῃ</cell><cell>κώμαις</cell></row>
+  <row><cell>κώμην</cell><cell>κώμας</cell></row>
+</table>
 
 
 In like manner inflect ἡ φυγή and ἡ μάχη.4
@@ -1438,6 +1452,13 @@ verb to be:
 <item><rs type="lemma">σκηνή</rs>: tent. SCENE. </item>
 <item><rs type="lemma" n="φυλάσσω">φυλάττω</rs> guard (verb).</item>
 </list>
+</p></div>
+
+<div type="textpart" subtype="para" n="33q"><head>The Delphi Theater</head>
+<p>Every Greek settlement of any consequence had its theater. The one at Delphi is remarkably well preserved. 
+Here in 1927 the <title>Prometheus Bound</title> of Aeschylus was revived in great splendor.</p>
+<p>GRC: This alludes to the production by <ref n="https://en.wikipedia.org/wiki/Angelos_Sikelianos">Angelos Sikelianos</ref> <graphic url="https://upload.wikimedia.org/wikipedia/commons/8/8d/Sikelianos.jpg"/> and his wife <ref n="https://en.wikipedia.org/wiki/Eva_Palmer-Sikelianos">Eva Palmer</ref> <graphic url="https://press.princeton.edu/sites/default/files/styles/hero_square/public/image/2021-02/Eva%20Palmer%20Sikelianos%20Hero.png?itok=mOJELVUg"/>. The two producers created a documentary of this production (<ref n="https://www.imdb.com/title/tt0232478">described in IMDB</ref> and <ref n="https://archive.org/details/prometheus-2020">available at the Internet Archive</ref>).
+
 </p></div>
 
 <div type="textpart" subtype="para" n="34"><head>Exercises.</head>

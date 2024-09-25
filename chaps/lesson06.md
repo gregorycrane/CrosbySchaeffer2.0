@@ -22,10 +22,30 @@ nominatives end in ᾱ or η are feminine. Because the
 feminine article shows η in the singular, nouns and adjectives in η are presented first.<note n="GRC">this makes no sense if you have not learned the next chapter -- it only works for teachers</note> Both types are the same
 in the plural
 
-<foreign></foreign>ἡ καλὴ σκηνή the beautiful tent
+| Greek | English | 
+| --- | -- | 
+|  ἡ καλὴ σκηνή  |  the beautiful tent  |
 
 
-<foreign></foreign>κώμη village
+| Sg. | Pl. | 
+| --- | --- 
+| ἡ καλὴ σκηνή | αἱ καλαὶ σκηναί | 
+| τῆς καλῆς σκηνῆς | τῶν καλῶν σκηνῶν | 
+| τῇ καλῇ σκηνῇ | ταῖς καλαῖς σκηναῖς | 
+| τὴν καλὴν σκηνήν | τὰς καλὰς σκηνάς | 
+
+
+| Greek | English | 
+| --- | -- | 
+|  κώμη  |  village  |
+
+| Sg. | Pl. | 
+| --- | --- 
+| κώμη | κῶμαι | 
+| κώμης | κωμῶν | 
+| κώμῃ | κώμαις | 
+| κώμην | κώμας | 
+
 
 
 In like manner inflect ἡ φυγή and ἡ μάχη.4

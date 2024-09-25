@@ -102,9 +102,9 @@ VOCABULARY
 
 <rs type="lemma">τότε</rs>, adv.: then, at that time.
 
-<rs type="lemma">φᾱσί(ν)</rs>,2 enclit.; they say.
+<rs type="form">φᾱσί(ν)</rs>,2 enclit.; they say.
 
-<rs type="lemma">φησί(ν)</rs>,2 enclit.: he or she says, PROPHET.
+<rs type="form">φησί(ν)</rs>,2 enclit.: he or she says, PROPHET.
 
 
 
