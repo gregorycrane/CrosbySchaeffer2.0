@@ -118,6 +118,10 @@ the article and the noun without the article being repeated, it is said to stand
 
 δίκαιος ὁ ἄνθρωπος or ὁ ἄνθρωπος δίκαιος the man (is) just. 
 
+
+
+Examples of the attributive and predicate position in the Anabasis are available <ref n="r">here.</ref>
+
 ## [§ 32](#para32). Dative of Possession.
 
 
@@ -138,6 +142,10 @@ verb to be:
 
 1 With an expression like this ἄνθρωποι is implied.
 2 This is our fourth use of the dative. What were the other three?
+
+
+
+Automatically extracted examples of the dative of possession in the Anabasis are available [here](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/vocpassages/datposs.md).
 
 
 
