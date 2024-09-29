@@ -1531,7 +1531,7 @@ was but a step to σκηνή meaning the scene of an action.</p>
   <cit>
     <quote>λύπης ἰᾱτρός ἐστιν ἀνθρώποις λόγος.</quote>
     <quote xml:lang="eng">Literally: Reason is for men a physician of grief.</quote>
-    <bibl>Menander, fragment. 
+    <bibl>Menander, fragment 559 Kock (available with translation in <ref n="https://archive.org/details/menanderprincipa00menauoft/page/494/mode/2up">Allinson's edition</ref>). 
     </bibl>
   </cit>
 
@@ -1540,118 +1540,119 @@ was but a step to σκηνή meaning the scene of an action.</p>
 <div type="textpart" subtype="para" n="36"><head>Feminines in ᾱ.</head>
 <p>If ε, ι, or ρ immediately precedes
 the final vowel of the stem, words of the α-declension have
-ᾱ, not η, throughout the singular.2
+ᾱ, not η, throughout the singular.</p>
+<p>[A few feminines have short α in the nominative and accusative singular.
+  They will be treated later.]</p><p>
+<foreign>ἡ μικρὰ στρατιά</foreign> <gloss>the small army</gloss>
 
-ἡ μικρὰ στρατιά the small army</p></div>
+<table>
+  <row role="label"><cell>Sg.</cell><cell>Pl.</cell></row>
+  <row><cell>ἡ μικρὰ στρατιά</cell><cell>αἱ μικραὶ στρατιαί</cell></row>
+  <row><cell>τῆς μικρᾶς στρατιᾶς</cell><cell>τῶν μικρῶν στρατιῶν</cell></row>
+  <row><cell>τῇ μικρᾷ στρατιᾷ</cell><cell>ταῖς μικραῖς στρατιαῖς</cell></row>
+  <row><cell>τὴν μικρὰν στρατιάν</cell><cell>τὰς μικρὰς στρατιάς</cell></row>
+</table>
+ </p></div>
 
 <div type="textpart" subtype="para" n="37"><head>Accusative of Extent.</head>
 <p>The accusative denotes extent
 of space or duration of time :
 
-διώξει τοὺς πολεμίους δέκα σταδίους  
-he will pursue the enemy ten stades.
-
-διώξει τοὺς πολεμίους δέκα ἡμέρᾱς  
-he will pursue the enemy ten days.
+<foreign>διώξει τοὺς πολεμίους δέκα σταδίους</foreign>  <gloss>he will pursue the enemy ten stades.</gloss>
 
 
+<foreign>διώξει τοὺς πολεμίους δέκα ἡμέρᾱς</foreign> <gloss>he will pursue the enemy ten days.</gloss>
+
+
+</p><p>This is our third use of the accusative. What were the other two ?
 
 
 
-2 A few feminines have short α in the nominative and accusative singular.
-They will be treated later.
-
-3 This is our third use of the accusative. What were the other two ?
 </p></div>
 
 <pb n="20"/>
 
 <div type="textpart" subtype="para" n="38"><head>Vocabulary</head>
 <p>
-<list>
+<list type="vocab">
 <item><rs type="lemma">ἀγορά</rs>, ἀγορᾶς, ἡ: market, market-place. AGORAPHOBIA.</item>
-
 <item><rs type="lemma">ἀρχή</rs>, ἀρχῆς, ἡ: beginning, rule, province.</item>
-
 <item><rs type="lemma">δέκα</rs>: ten. DECALOGUE.</item>
-
 <item><rs type="lemma">διά</rs>, prep.: with G., through ; with A., on account of. DIAMETER.</item>
-
-<item><rs type="lemma">ἐπιτήδειος</rs>, ἐπιτηδεία, ἐπιτήδειον: fit, suitable ; τὰ ἐπιτήδεια 1: provisions.</item>
-
+<item><rs type="lemma">ἐπιτήδειος</rs>, ἐπιτηδεία, ἐπιτήδειον: fit, suitable ; τὰ ἐπιτήδεια *: provisions.</item>
 <item><rs type="lemma">ἡμέρᾱ</rs>, ἡμέρας, ἡ: day. EPHEMERAL.</item>
-
 <item><rs type="lemma">στρατιά</rs>, στρατιᾶς, ἡ: army. Cf. στρατηγός.</item>
-
-
 <item><rs type="lemma">φιλία</rs>, φιλίας, ἡ: friendship. Cf. φίλος.</item>
-
 <item><rs type="lemma">φίλιος</rs>, φιλία, φίλιον: friendly.</item>
-
 <item><rs type="lemma">χώρᾱ</rs>, χώρας, ἡ country.</item>
+</list>
+* Many Greek adjectives when preceded by the article are used as nouns, Compare English, <gloss>the blind</gloss>, <gloss>a word to the wise</gloss>; and the Greek, οἱ πολέμιοι.
+</p></div>
+
+<div type="textpart" subtype="para" n="38a"><head><ref n="https://en.wikipedia.org/wiki/Gate_of_Athena_Archegetis">Gate of Athena Archegetis.</ref></head>
+<p><graphic url="images/gateathena.jpg"/></p><p>
+  <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_Gate_of_Athena_Archegetis_in_Athens_on_May_6%2C_2021.jpg/1280px-The_Gate_of_Athena_Archegetis_in_Athens_on_May_6%2C_2021.jpg"/>View from the the other direct.</p><p>This gate dates from the Roman period. Constructed in 11 BCE by donations from Julius Caesar and Augustus, the gate was made of an architrave standing on four Doric columns and a base, all of Pentelic marble. [<ref n="https://en.wikipedia.org/wiki/Gate_of_Athena_Archegetis">From the Wikipedia entry.</ref>.] It reflects the status that Athens achieved as a cultural center and icon under Roman rule.
+  </p></div>
+
+  <div type="textpart" subtype="para" n="39"><head>Exercises.</head>
+  <p>
+(a) Translate :
+<list>
+<item n="1">ἦν ἡ ἀγορὰ ἐπιτηδεία τῇ στρατιᾷ ;*</item>
+<item n="2">φεύγουσι διὰ τοῦ πεδίου.</item>
+<item n="3">ἐθέλετε γὰρ τὴν στρατιὰν ἄγειν δέκα σταδίους.</item>
+<item n="4">τῇ δὲ κώμῃ οὐκ ἦν τὰ ἐπιτήδεια.</item>
+<item n="5">καὶ τὴν στρατιὰν ἄγομὲν διὰ τῆς ἀγορᾶς.</item>
+<item n="6">διὰ τὴν φιλίαν ἔχουσιν ἀγορὰν καὶ τὰ ἐπιτήδεια. </item>
+<item n="7">ἡ δὲ στρατιὰ φιλία ἦν τῇ ἀρχῇ.</item>
+<item n="8">τὸν δ᾽ ἀδελφὸν πέμπει εἰς τὴν χώρᾱν.</item>
+</list>
+* As in English, Greek questions are sometimes introduced by an interrogative pronoun or adverb, but often the mark of interrogation at the end of a printed sentence is the only clue. This mark of interrogation in Greek is the same as the English semicolon (;).
+
+
+(b) Complete:
+<list>
+<item n="1">ἡ δὲ κώμη ἐπιτηδει-- ἦν τ-- στρατηγ--- (singular). </item>
+<item n="2">δέκα ἡμερ--- ἡ στρατιὰ ἦν ἐν τ--- ἀγορ--- (singular). </item>
+<item n="3">πέμπει δὲ τ--- ἐπιτηδει--- τ--- φιλ--- (plural).</item>
+</list>
+<pb n="21"/>
+(c) Write in Greek :
+<list>
+<item n="1">The messenger had (use ἦν) a horse. </item>
+<item n="2">The truce was long. </item>
+<item n="3">The men in the village are not guarding the tents.</item>
+<item n="4">The flight was not evident to the general. </item>
+<item n="5">The garrison did not have (use ἦσαν) tents.</item>
 </list>
 </p></div>
 
-<div type="textpart" subtype="para" n="39"><head>Exercises.</head>
+<div type="textpart" subtype="para" n="39a"><head>The Acropolis.</head>
 <p>
-
-(a) Translate :
-
-1. ἦν ἡ ἀγορὰ ἐπιτηδεία τῇ στρατιᾷ ;2
-2. φεύγουσι διὰ τοῦ πεδίου.
-3. ἐθέλετε γὰρ τὴν στρατιὰν ἄγειν δέκα σταδίους.
-4. τῇ δὲ κώμῃ οὐκ ἦν τὰ ἐπιτήδεια.
-
-5. καὶ τὴν στρατιὰν ἄγομὲν διὰ τῆς ἀγορᾶς.
-6. διὰ τὴν φιλίαν ἔχουσιν ἀγορὰν καὶ τὰ ἐπιτήδεια. 
-7. ἡ δὲ στρατιὰ φιλία ἦν τῇ ἀρχῇ.
-
-8. τὸν δ᾽ ἀδελφὸν πέμπει εἰς τὴν χώρᾱν.
-
-Gate OF ATHENA ARCHEGETIS
-
-(b) Complete:
-1. ἡ δὲ κώμη ἐπιτηδει-- ἦν τ-- στρατηγ--- (singular). 
-2. δέκα ἡμερ--- ἡ στρατιὰ ἦν ἐν τ--- ἀγορ--- (singular). 
-
-
-
-
-
-
-
-1 Many Greek adjectives when preceded by the article are used as nouns, Compare English, the blind, a word to the wise; and the Greek, οἱ πολέμιοι.
-2 As in English, Greek questions are sometimes introduced by an interrogative pronoun or adverb, but often the mark of interrogation at the end of a printed sentence is the only clue. This mark of interrogation in Greek is the same as the English semicolon (;).
-
-
-<pb n="21"/>
-3. πέμπει δὲ τ--- ἐπιτηδει--- τ--- φιλ--- (plural).
-
-(c) Write in Greek :
-
-1. The messenger had (use ἦν) a horse. 
-2. The truce was long. 
-3. The men in the village are not guarding the tents.
-4. The flight was not evident to the general. 
-5. The garrison did not have (use ἦσαν) tents.
-
-<figure><head>THE ACROPOLIS</head>
-
-<p>Although many Greek cities had a fortified hill, or acropolis, most people
+  <graphic url="images/acropolis.jpg"/>
+  <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Classic_view_of_Acropolis.jpg/1280px-Classic_view_of_Acropolis.jpg"/>
+Although many Greek cities had a fortified hill, or acropolis, most people
 associate that word with the famous hi!l in the heart of Athens. At first the
 home of the early kings, it came to be devoted to the gods and heroes of the
 state. Its glorious temples were visible from the agora, as indeed for miles
-around in all directions.</p></figure></p></div>
+around in all directions.</p></div>
 
 <div type="textpart" subtype="para" n="40"><head>Word-formation.</head>
 <p>(a) A very common means of
 forming adjectives is by adding to the stem of a noun
 the suffix -ιος, -ίᾱ, -ιον, which appears frequently in English as -ian. O-stems drop the o before this suffix, α-stems retain the α to form the diphthong αι:
 
-φίλος friend, φίλιος friendly;
-but Ἀθῆναι Athens, Ἀθηναῖος Athenian.
+<foreign>φίλος</foreign> <gloss>friend</gloss> 
+<foreign>φίλιος</foreign> <gloss>friendly</gloss> 
+but
 
-(2) From δίκαιον and πολέμιος construct the corresponding nouns; from ἵππος and ἀγορά construct the corresponding adjectives.</p>
+<foreign>Ἀθῆναι</foreign> <gloss>Athens</gloss> 
+<foreign>Ἀθηναῖος</foreign> <gloss>Athenian</gloss> 
+
+
+</p><p>
+
+(2) From δίκαιος and πολέμιος construct the corresponding nouns; from ἵππος and ἀγορά construct the corresponding adjectives.</p>
 
 <pb n="22"/>
 
@@ -1743,19 +1744,21 @@ belongs, awakens universal admiration.</p></figure>
 
 <pb n="24"/>
 
-<div type="textpart" subtype="para" n="46">
-<p>VOCABULARY
-<rs type="lemma">ἀθροίζω</rs>: collect. 
-
-<rs type="lemma">ἀλλά</rs>, conj.: but, however. Stronger than δέ. Final a is often elided.
-<rs type="lemma">ἁρπάζω</rs>: seize,carry off. HARPY. 
-<rs type="lemma">ἀρχαῖος</rs>, ἀρχαία, ἀρχαῖον: original, ancient. Cf. ἀρχή. = ARCHAIC. 
-<rs type="lemma">βάρβαρος</rs>, βαρβάρου, ὁ: foreigner, barbarian.
-<rs type="lemma">ἔργον</rs>, ἔργου, τό: work, deed, ENERGY.
-<rs type="lemma">κραυγή</rs>, κραυγῆς, ἡ: outcry, shout.
-<rs type="lemma">λόγος</rs>, λόγου, ὁ: word, speech. PROLOGUE.
-<rs type="lemma">μέν</rs>: coord. conj. (§ 45).
-<rs type="lemma">σῑγή</rs>, σιγῆς, ἡ: silence.</p></div>
+<div type="textpart" subtype="para" n="46"><head>Vocabulary.</head>
+<p>
+  <list type="vocab">
+<item><rs type="lemma">ἀθροίζω</rs>: collect. </item>
+<item><rs type="lemma">ἀλλά</rs>, conj.: but, however. Stronger than δέ. Final a is often elided.</item>
+<item><rs type="lemma">ἁρπάζω</rs>: seize,carry off. HARPY. </item>
+<item><rs type="lemma">ἀρχαῖος</rs>, ἀρχαία, ἀρχαῖον: original, ancient. Cf. ἀρχή. = ARCHAIC. </item>
+<item><rs type="lemma">βάρβαρος</rs>, βαρβάρου, ὁ: foreigner, barbarian.</item>
+<item><rs type="lemma">ἔργον</rs>, ἔργου, τό: work, deed, ENERGY.</item>
+<item><rs type="lemma">κραυγή</rs>, κραυγῆς, ἡ: outcry, shout.</item>
+<item><rs type="lemma">λόγος</rs>, λόγου, ὁ: word, speech. PROLOGUE.</item>
+<item><rs type="lemma">μέν</rs>: coord. conj. (§ 45).</item>
+<item><rs type="lemma">σῑγή</rs>, σιγῆς, ἡ: silence.</item>
+</list>
+</p></div>
 
 <div type="textpart" subtype="para" n="47"><head>Exercises.</head>
 <p> 

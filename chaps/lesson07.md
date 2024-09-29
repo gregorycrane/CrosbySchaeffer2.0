@@ -3,7 +3,7 @@
 
 >  λύπης ἰᾱτρός ἐστιν ἀνθρώποις λόγος.<br/>
 >  Literally: Reason is for men a physician of grief.<br/>
-<bibl>Menander, fragment.
+<bibl>Menander, fragment 559 Kock (available with translation in [Allinson's edition](https://archive.org/details/menanderprincipa00menauoft/page/494/mode/2up)).
 </bibl>
 
 
@@ -14,9 +14,26 @@
 
 If ε, ι, or ρ immediately precedes
 the final vowel of the stem, words of the α-declension have
-ᾱ, not η, throughout the singular.2
+ᾱ, not η, throughout the singular.
 
-ἡ μικρὰ στρατιά the small army
+
+[A few feminines have short α in the nominative and accusative singular.
+They will be treated later.]
+
+
+| Greek | English | 
+| --- | -- | 
+|  ἡ μικρὰ στρατιά  |  the small army  |
+
+
+| Sg. | Pl. | 
+| --- | --- 
+| ἡ μικρὰ στρατιά | αἱ μικραὶ στρατιαί | 
+| τῆς μικρᾶς στρατιᾶς | τῶν μικρῶν στρατιῶν | 
+| τῇ μικρᾷ στρατιᾷ | ταῖς μικραῖς στρατιαῖς | 
+| τὴν μικρὰν στρατιάν | τὰς μικρὰς στρατιάς | 
+
+
 
 ## [§ 37](#para37). Accusative of Extent.
 
@@ -24,20 +41,22 @@ the final vowel of the stem, words of the α-declension have
 The accusative denotes extent
 of space or duration of time :
 
-διώξει τοὺς πολεμίους δέκα σταδίους
-he will pursue the enemy ten stades.
-
-διώξει τοὺς πολεμίους δέκα ἡμέρᾱς
-he will pursue the enemy ten days.
+| Greek | English | 
+| --- | -- | 
+|  διώξει τοὺς πολεμίους δέκα σταδίους  |  he will pursue the enemy ten stades.  |
 
 
+| Greek | English | 
+| --- | -- | 
+|  διώξει τοὺς πολεμίους δέκα ἡμέρᾱς  |  he will pursue the enemy ten days.  |
 
 
 
-2 A few feminines have short α in the nominative and accusative singular.
-They will be treated later.
 
-3 This is our third use of the accusative. What were the other two ?
+This is our third use of the accusative. What were the other two ?
+
+
+
 
 
 <pb n="20"/>
@@ -46,79 +65,74 @@ They will be treated later.
 
 
 
-
+| Lemma | Freq | Total | Gloss |
+| --- | --- | --- | -- |
 | ἀγορά | [35](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀγορά.md) | 16867 | ἀγορᾶς, ἡ: market, market-place. AGORAPHOBIA.
-
 | ἀρχή | [22](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀρχή.md) | 16889 | ἀρχῆς, ἡ: beginning, rule, province.
-
 | δέκα | [23](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δέκα.md) | 16912 | ten. DECALOGUE.
-
 | διά | [159](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/διά.md) | 17071 | prep.: with G., through ; with A., on account of. DIAMETER.
-
-| ἐπιτήδειος | [96](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐπιτήδειος.md) | 17167 | ἐπιτηδεία, ἐπιτήδειον: fit, suitable ; τὰ ἐπιτήδεια 1: provisions.
-
+| ἐπιτήδειος | [96](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐπιτήδειος.md) | 17167 | ἐπιτηδεία, ἐπιτήδειον: fit, suitable ; τὰ ἐπιτήδεια *: provisions.
 | ἡμέρα | [131](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἡμέρα.md) | 17298 | ἡμέρας, ἡ: day. EPHEMERAL.
-
 | στρατιά | [75](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/στρατιά.md) | 17373 | στρατιᾶς, ἡ: army. Cf. στρατηγός.
-
-
 | φιλία | [30](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φιλία.md) | 17403 | φιλίας, ἡ: friendship. Cf. φίλος.
-
 | φίλιος | [5](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φίλιος.md) | 17408 | φιλία, φίλιον: friendly.
-
 | χώρα | [106](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/χώρα.md) | 17514 | χώρας, ἡ country.
 
+* Many Greek adjectives when preceded by the article are used as nouns, Compare English, *the blind*, *a word to the wise*; and the Greek, οἱ πολέμιοι.
+
+
+## [§ 38a](#para38a). [Gate of Athena Archegetis.](https://en.wikipedia.org/wiki/Gate_of_Athena_Archegetis)
+
+
+![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/gateathena.jpg?raw=true)
+
+
+![text](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_Gate_of_Athena_Archegetis_in_Athens_on_May_6%2C_2021.jpg/1280px-The_Gate_of_Athena_Archegetis_in_Athens_on_May_6%2C_2021.jpg)View from the the other direct.
+
+This gate dates from the Roman period. Constructed in 11 BCE by donations from Julius Caesar and Augustus, the gate was made of an architrave standing on four Doric columns and a base, all of Pentelic marble. [[From the Wikipedia entry.](https://en.wikipedia.org/wiki/Gate_of_Athena_Archegetis).] It reflects the status that Athens achieved as a cultural center and icon under Roman rule.
 
 
 ## [§ 39](#para39). Exercises.
 
 
 
-
 (a) Translate :
 
-1. ἦν ἡ ἀγορὰ ἐπιτηδεία τῇ στρατιᾷ ;2
+1. ἦν ἡ ἀγορὰ ἐπιτηδεία τῇ στρατιᾷ ;*
 2. φεύγουσι διὰ τοῦ πεδίου.
 3. ἐθέλετε γὰρ τὴν στρατιὰν ἄγειν δέκα σταδίους.
 4. τῇ δὲ κώμῃ οὐκ ἦν τὰ ἐπιτήδεια.
-
 5. καὶ τὴν στρατιὰν ἄγομὲν διὰ τῆς ἀγορᾶς.
-6. διὰ τὴν φιλίαν ἔχουσιν ἀγορὰν καὶ τὰ ἐπιτήδεια.
+6. διὰ τὴν φιλίαν ἔχουσιν ἀγορὰν καὶ τὰ ἐπιτήδεια. 
 7. ἡ δὲ στρατιὰ φιλία ἦν τῇ ἀρχῇ.
-
 8. τὸν δ᾽ ἀδελφὸν πέμπει εἰς τὴν χώρᾱν.
 
-Gate OF ATHENA ARCHEGETIS
+* As in English, Greek questions are sometimes introduced by an interrogative pronoun or adverb, but often the mark of interrogation at the end of a printed sentence is the only clue. This mark of interrogation in Greek is the same as the English semicolon (;).
+
 
 (b) Complete:
-1. ἡ δὲ κώμη ἐπιτηδει-- ἦν τ-- στρατηγ--- (singular).
-2. δέκα ἡμερ--- ἡ στρατιὰ ἦν ἐν τ--- ἀγορ--- (singular).
 
-
-
-
-
-
-
-1 Many Greek adjectives when preceded by the article are used as nouns, Compare English, the blind, a word to the wise; and the Greek, οἱ πολέμιοι.
-2 As in English, Greek questions are sometimes introduced by an interrogative pronoun or adverb, but often the mark of interrogation at the end of a printed sentence is the only clue. This mark of interrogation in Greek is the same as the English semicolon (;).
-
-
-<pb n="21"/>
+1. ἡ δὲ κώμη ἐπιτηδει-- ἦν τ-- στρατηγ--- (singular). 
+2. δέκα ἡμερ--- ἡ στρατιὰ ἦν ἐν τ--- ἀγορ--- (singular). 
 3. πέμπει δὲ τ--- ἐπιτηδει--- τ--- φιλ--- (plural).
 
+<pb n="21"/>
 (c) Write in Greek :
 
-1. The messenger had (use ἦν) a horse.
-2. The truce was long.
+1. The messenger had (use ἦν) a horse. 
+2. The truce was long. 
 3. The men in the village are not guarding the tents.
-4. The flight was not evident to the general.
+4. The flight was not evident to the general. 
 5. The garrison did not have (use ἦσαν) tents.
 
-# Chapter 7: Figure: THE ACROPOLIS
+
+
+## [§ 39a](#para39a). The Acropolis.
 
 
 
+![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/acropolis.jpg?raw=true)
+![text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Classic_view_of_Acropolis.jpg/1280px-Classic_view_of_Acropolis.jpg)
 Although many Greek cities had a fortified hill, or acropolis, most people
 associate that word with the famous hi!l in the heart of Athens. At first the
 home of the early kings, it came to be devoted to the gods and heroes of the
@@ -132,10 +146,23 @@ around in all directions.
 forming adjectives is by adding to the stem of a noun
 the suffix -ιος, -ίᾱ, -ιον, which appears frequently in English as -ian. O-stems drop the o before this suffix, α-stems retain the α to form the diphthong αι:
 
-φίλος friend, φίλιος friendly;
-but Ἀθῆναι Athens, Ἀθηναῖος Athenian.
+| Greek | English | 
+| --- | -- | 
+|  φίλος  |  friend  |
+|  φίλιος  |  friendly  |
+but
 
-(2) From δίκαιον and πολέμιος construct the corresponding nouns; from ἵππος and ἀγορά construct the corresponding adjectives.
+| Greek | English | 
+| --- | -- | 
+|  Ἀθῆναι  |  Athens  |
+|  Ἀθηναῖος  |  Athenian  |
+
+
+
+
+
+
+(2) From δίκαιος and πολέμιος construct the corresponding nouns; from ἵππος and ἀγορά construct the corresponding adjectives.
 
 <pb n="22"/>
 
