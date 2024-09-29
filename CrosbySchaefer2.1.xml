@@ -1591,7 +1591,7 @@ of space or duration of time :
 
 <div type="textpart" subtype="para" n="38a"><head><ref n="https://en.wikipedia.org/wiki/Gate_of_Athena_Archegetis">Gate of Athena Archegetis.</ref></head>
 <p><graphic url="images/gateathena.jpg"/></p><p>
-  <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_Gate_of_Athena_Archegetis_in_Athens_on_May_6%2C_2021.jpg/1280px-The_Gate_of_Athena_Archegetis_in_Athens_on_May_6%2C_2021.jpg"/>View from the the other direct.</p><p>This gate dates from the Roman period. Constructed in 11 BCE by donations from Julius Caesar and Augustus, the gate was made of an architrave standing on four Doric columns and a base, all of Pentelic marble. [<ref n="https://en.wikipedia.org/wiki/Gate_of_Athena_Archegetis">From the Wikipedia entry.</ref>.] It reflects the status that Athens achieved as a cultural center and icon under Roman rule.
+  <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_Gate_of_Athena_Archegetis_in_Athens_on_May_6%2C_2021.jpg/1280px-The_Gate_of_Athena_Archegetis_in_Athens_on_May_6%2C_2021.jpg"/>View from the the other direct.</p><p>This gate dates from the Roman period. Constructed in 11 BCE by donations from Julius Caesar and Augustus, the gate was made of an architrave standing on four Doric columns and a base, all of Pentelic marble. [<ref n="https://en.wikipedia.org/wiki/Gate_of_Athena_Archegetis">From the Wikipedia entry</ref>.] It reflects the status that Athens achieved as a cultural center and icon under Roman rule.
   </p></div>
 
   <div type="textpart" subtype="para" n="39"><head>Exercises.</head>
@@ -1602,7 +1602,7 @@ of space or duration of time :
 <item n="2">φεύγουσι διὰ τοῦ πεδίου.</item>
 <item n="3">ἐθέλετε γὰρ τὴν στρατιὰν ἄγειν δέκα σταδίους.</item>
 <item n="4">τῇ δὲ κώμῃ οὐκ ἦν τὰ ἐπιτήδεια.</item>
-<item n="5">καὶ τὴν στρατιὰν ἄγομὲν διὰ τῆς ἀγορᾶς.</item>
+<item n="5">καὶ τὴν στρατιὰν ἄγομεν διὰ τῆς ἀγορᾶς.</item>
 <item n="6">διὰ τὴν φιλίαν ἔχουσιν ἀγορὰν καὶ τὰ ἐπιτήδεια. </item>
 <item n="7">ἡ δὲ στρατιὰ φιλία ἦν τῇ ἀρχῇ.</item>
 <item n="8">τὸν δ᾽ ἀδελφὸν πέμπει εἰς τὴν χώρᾱν.</item>
@@ -1644,6 +1644,8 @@ the suffix -ιος, -ίᾱ, -ιον, which appears frequently in English as -ian
 
 <foreign>φίλος</foreign> <gloss>friend</gloss> 
 <foreign>φίλιος</foreign> <gloss>friendly</gloss> 
+
+
 but
 
 <foreign>Ἀθῆναι</foreign> <gloss>Athens</gloss> 
@@ -1667,7 +1669,7 @@ but
   </l></quote>
   <quote>Work is no disgrace, but idleness is a disgrace.
   </quote>
-  <bibl>Hesiod, Works and Days, 311.</bibl>
+  <bibl><ref n="https://scaife-dev.perseus.org/reader/urn:cts:greekLit:tlg0020.tlg002.perseus-grc2:311?right=perseus-eng2">Hesiod, Works and Days, 311</ref>.</bibl>
 </cit>
 
 
@@ -1675,11 +1677,19 @@ but
 <p>This tense denotes action
 continued, repeated, customary, or attempted in past time:
 
-ἔπαυον I was stopping, I kept stopping, I used to stop, I tried to stop.
-
+<foreign>ἔπαυον</foreign> <gloss>I was stopping, I kept stopping, I used to stop, I tried to stop.</gloss>
+ 
+</p><p>
 IMPERFECT INDICATIVE ACTIVE
 
-παύω I stop ἄγω lead</p></div>
+
+
+<table>
+  <row role="label"><cell></cell><cell><gloss>παύω</gloss> <gloss>I stop </gloss></cell><cell><gloss>ἄγω</gloss> <gloss>I lead</gloss></cell></row>
+  <row><cell>1st sg</cell><cell>ἔπαυον</cell><cell>ἦγον</cell></row>
+</table>
+
+</p></div>
 
 <div type="textpart" subtype="para" n="42"><head>Formation.</head>
 <p>The imperfect tense is built on the

@@ -89,7 +89,7 @@ This is our third use of the accusative. What were the other two ?
 
 ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_Gate_of_Athena_Archegetis_in_Athens_on_May_6%2C_2021.jpg/1280px-The_Gate_of_Athena_Archegetis_in_Athens_on_May_6%2C_2021.jpg)View from the the other direct.
 
-This gate dates from the Roman period. Constructed in 11 BCE by donations from Julius Caesar and Augustus, the gate was made of an architrave standing on four Doric columns and a base, all of Pentelic marble. [[From the Wikipedia entry.](https://en.wikipedia.org/wiki/Gate_of_Athena_Archegetis).] It reflects the status that Athens achieved as a cultural center and icon under Roman rule.
+This gate dates from the Roman period. Constructed in 11 BCE by donations from Julius Caesar and Augustus, the gate was made of an architrave standing on four Doric columns and a base, all of Pentelic marble. [[From the Wikipedia entry](https://en.wikipedia.org/wiki/Gate_of_Athena_Archegetis).] It reflects the status that Athens achieved as a cultural center and icon under Roman rule.
 
 
 ## [§ 39](#para39). Exercises.
@@ -102,7 +102,7 @@ This gate dates from the Roman period. Constructed in 11 BCE by donations from J
 2. φεύγουσι διὰ τοῦ πεδίου.
 3. ἐθέλετε γὰρ τὴν στρατιὰν ἄγειν δέκα σταδίους.
 4. τῇ δὲ κώμῃ οὐκ ἦν τὰ ἐπιτήδεια.
-5. καὶ τὴν στρατιὰν ἄγομὲν διὰ τῆς ἀγορᾶς.
+5. καὶ τὴν στρατιὰν ἄγομεν διὰ τῆς ἀγορᾶς.
 6. διὰ τὴν φιλίαν ἔχουσιν ἀγορὰν καὶ τὰ ἐπιτήδεια. 
 7. ἡ δὲ στρατιὰ φιλία ἦν τῇ ἀρχῇ.
 8. τὸν δ᾽ ἀδελφὸν πέμπει εἰς τὴν χώρᾱν.
@@ -150,6 +150,8 @@ the suffix -ιος, -ίᾱ, -ιον, which appears frequently in English as -ian
 | --- | -- | 
 |  φίλος  |  friend  |
 |  φίλιος  |  friendly  |
+
+
 but
 
 | Greek | English | 
