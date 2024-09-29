@@ -223,10 +223,19 @@ GRC: This alludes to the production by [Angelos Sikelianos](https://en.wikipedia
 3. (article) ἐν τῷ πεδίῳ ----- (negative adverb) ἐθέλουσι τὰς σπονδὰς λῡ--.
 
 <pb n="18"/>
-THe THEATER OF Dionysus
 
+
+## [§ 35a](#para35a). [The Theater of Dionysus](https://en.wikipedia.org/wiki/Theatre_of_Dionysus).
+
+
+
+
+![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/theatdion.jpg?raw=true)
 This is probably the earliest extant theater in the world. It is built on the
-southern slope of the acropolis at Athens. Here th
+southern slope of the acropolis at Athens. Here the Greek dramas had their first performance. It seated about 17,000.
+
+
+![text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Athen_Akropolis_%2818512008726%29.jpg/1024px-Athen_Akropolis_%2818512008726%29.jpg)View of the Theatre and Sanctuary of Dionysus from the west (Wikipedia).
 
 ## [§ 35](#para35). Word-formation.
 
