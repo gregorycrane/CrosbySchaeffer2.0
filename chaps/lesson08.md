@@ -73,7 +73,6 @@ Verbs with an initial vowel or diphthong lengthen the initial vowel.
 
 | base | augmented | 
 | --- | --- 
-
 | α | η | 
 | ε | η | 
 | ο | ω | 

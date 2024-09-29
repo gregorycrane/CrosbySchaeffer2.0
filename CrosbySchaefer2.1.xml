@@ -1720,8 +1720,7 @@ by way of augment; an initial ῥ is doubled after ἐ.
 Verbs with an initial vowel or diphthong lengthen the initial vowel.
 
 <table>
-  <row role="label"><cell>base</cell><cell>augmented</cell></row>
-
+<row role="label"><cell>base</cell><cell>augmented</cell></row>
 <row><cell>α</cell><cell>η</cell></row>
 <row><cell>ε</cell><cell>η</cell></row>
 <row><cell>ο</cell><cell>ω</cell></row>
@@ -1731,13 +1730,17 @@ Verbs with an initial vowel or diphthong lengthen the initial vowel.
 <row><cell>αυ</cell><cell>ηυ</cell></row>
 <row><cell>οι</cell><cell>ῳ</cell></row>
 </table>
+
 </p><p>
 Inflect the imperfect indicative active of <rs type="lemma">πέμπω</rs> and ἀθροίζω.</p></div>
 
 <div type="textpart" subtype="para" n="44"><head>Dative of Manner.</head>
-<p>The dative may denote manner :2
+<p>The dative may denote manner 
 
-φεύγουσι σιγῇ they flee in silence.</p></div>
+  <foreign>φεύγουσι σιγῇ</foreign> <gloss>they flee in silence.</gloss>
+ </p>
+ <p>This is our fifth use of the dative. What are the other four?</p>
+</div>
 
 <div type="textpart" subtype="para" n="45"><head>Balanced Structure.</head>
 <p>μέν ... δέ are used with
