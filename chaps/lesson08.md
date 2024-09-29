@@ -179,37 +179,37 @@ Compare etc. = <foreign xml:lang="lat">et cetera</foreign>.
 (a) What do the portions in heavy type tell as to person
 and number of the subject?
 
-ἦγ-ον
-ἔλῡ-ε
-ἐγράφ-ομεν
-ἤθροιζ-ες
-ἠθέλ-ετε
+1. ἦγ-ον
+2. ἔλῡ-ε
+3. ἐγράφ-ομεν 
+4. ἤθροιζ-ες
+5. ἠθέλ-ετε
 
 Which personal endings of the imperfect are identical?
 Vhich resemble endings of the present ?
 
 (b) Translate :
 
-1. ἠθροιζες λίθους παρὰ τὸν ποταμόν;
-2. ἀλλ᾽ ἐπέμπομεν τὴν φυλακὴν παρὰ τὸν ἀδελφον.
-3. ἡ στρατιὰ ἦν ἐν τῇ κώμῃ καὶ τὰ ἐπιτήδεια ἥρπαζεν.
-4. οἱ μὲν γὰρ κραυγῇ ἐκ τῆς ἀγορᾶς ἔφευγον. οἱ δὲ σιγῇ τὰς σκηνὰς ἐφύλαττον.
+1. ἠθροιζες λίθους παρὰ τὸν ποταμόν; 
+2. ἀλλ᾽ ἐπέμπομεν τὴν φυλακὴν παρὰ τὸν ἀδελφον. 
+3. ἡ στρατιὰ ἦν ἐν τῇ κώμῃ καὶ τὰ ἐπιτήδεια ἥρπαζεν. 
+4. οἱ μὲν γὰρ κραυγῇ ἐκ τῆς ἀγορᾶς ἔφευγον. οἱ δὲ σιγῇ τὰς σκηνὰς ἐφύλαττον. 
 5. οἱ δὲ ἀρχαῖοι εἶχον1 κώμας μικρᾶς.
-6. καλὰ μὲν ἦν τὰ δῶρα, μικρὰ δέ.
+6. καλὰ μὲν ἦν τὰ δῶρα, μικρὰ δέ. 
 7. τὰ μὲν ἔργα τὰ τοῦ βαρβάρου ἦν καλά, οἱ δὲ λόγοι φίλιοι.
 
 (c) Complete :
 
 1. ἠγ-- (2d plural) τὸν ἔπτπ--- ἐκ τ--- πεδι --- (singular).
-2. καὶ τὸ ἐργ- δηλ-- ἦν τ--- πολεμι--.
+2. καὶ τὸ ἐργ- δηλ-- ἦν τ--- πολεμι--. 
 3. ὁ δὲ κραυγ--- ἐφευγ -- εἰς τ-- κωμ---- (singular).
 
 (d) Write in Greek:
 
-1. The army was friendly to the country.
-2. They guard the provisions for ten days.
-3. On account of the treaty we do not wish to destroy the village.
-4. The garrison flees ten stades.?
+1. The army was friendly to the country. 
+2. They guard the provisions for ten days. 
+3. On account of the treaty we do not wish to destroy the village. 
+4. The garrison flees ten stades.? 
 5. There were provisions in the tent.
 
 1 Page 23, note 1.
@@ -223,31 +223,46 @@ Vhich resemble endings of the present ?
 ## [§ 48](#para48). Greek as a World Language.
 
 
-(a) The international language of the first century of our era was Greek. To carry its message to the world, therefore, the New Testament was written in Greek. The following passage is from St. Luke,
-6. 45:
+(a) The international language of the first century of our era was Greek. To carry its message to the world, therefore, the New Testament was written in Greek. The following passage is from the Gospel attributed to Luke:
 
-
-ὁ μὲν ἀγαθὸς ἄνθρωπος ἐκ
+<quote>ὁ μὲν ἀγαθὸς ἄνθρωπος ἐκ
 τοῦ ἀγαθοῦ θησαυροῦ (treasure) τῆς καρδίας (compare
 CARDIAC) προφέρει (brings
-forth) τὸ ἀγαθόν,1 ὁ δὲ πονη-
-ρὸς 1 (evil) ἐκ τοῦ πονηροῦ 1 τὸ
+forth) τὸ ἀγαθόν,1 ὁ δὲ πονηρὸς 1 (evil) ἐκ τοῦ πονηροῦ 1 τὸ
 πονηρον.1
+>> [Luke 6.45](https://scaife-dev.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg003.perseus-grc2:6.45?right=perseus-eng2)
+
+
+
+
+
+* Recall the note about adjectives as substantives at <ref n="38">38</ref> above.
+
+
+
 
 (b) Word-formation. The Christian religion not only was transmitted through Greek. Its theology was shaped by Greek philosophy and its language and thought by Greek words.
 
-Hundreds of ecclesiastical terms now in use came from Greek : Christ, Bible, Episcopalian, anthem, hierarchy, cathedral, liturgy, Pentatench, atheist, apostate, martyr, menphiyte, hypocrite, laity, CANON.
+
+
+Hundreds of ecclesiastical terms now in use came from Greek : Christ, Bible, Episcopalian, anthem, hierarchy, cathedral, liturgy, Pentatench, atheist, apostate, martyr, neophyte, hypocrite, laity, CANON.
 and the like,
+
+
 
 How many similar derivatives can you supply from the Greek words that you have already had ?
 
-Try these:
+
+
+GRC: In the nineteenth century American professors of Greek and Latin were often trained in Germany and they followed the German tradition of separating Classical Greek and Latin from Christian Greek and Latin. Students of Classical Greek at an institution such as Harvard would commonly have no experience with the New Testament Greek program in the Divinity School. This textbook, however, makes a consistent effort to integrate the New Testament and Christian Greek, thus reflecting the much different culture of secondary schools in the early 20th century (at least secondary schools that taught Greek).
+
+
+
+See if you can identify other English cognates using these terms:
 
 λόγος (combine with φίλος, and δέκα), ἀπό, ἐξ (combine with ὁδός road), παρά, ἄγγελος, διά.
 
 
-
-1 Page 20, note 1.
 
 <pb n="26"/>
 
