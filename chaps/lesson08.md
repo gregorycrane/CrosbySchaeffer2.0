@@ -25,10 +25,12 @@ continued, repeated, customary, or attempted in past time:
 IMPERFECT INDICATIVE ACTIVE
 
 
+*παύω* *I stop *
+*ἄγω* *I lead*
 
 
-| <cell>*παύω* *I stop *</cell><cell>*ἄγω* *I lead*</cell>
-| --- <cell><gloss>παύω</gloss> <gloss>I stop </gloss></cell><cell><gloss>ἄγω</gloss> <gloss>I lead</gloss></cell>
+| pers num | παύω | ἄγω | 
+| --- | --- | --- 
 | 1st sg | ἔπαυον | ἦγον | 
 
 

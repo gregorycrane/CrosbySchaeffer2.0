@@ -1683,10 +1683,17 @@ continued, repeated, customary, or attempted in past time:
 IMPERFECT INDICATIVE ACTIVE
 
 
+<gloss>παύω</gloss> <gloss>I stop </gloss>
+<gloss>ἄγω</gloss> <gloss>I lead</gloss>
 
 <table>
-  <row role="label"><cell></cell><cell><gloss>παύω</gloss> <gloss>I stop </gloss></cell><cell><gloss>ἄγω</gloss> <gloss>I lead</gloss></cell></row>
+  <row role="label"><cell>pers num</cell><cell>παύω</cell><cell>ἄγω</cell></row>
   <row><cell>1st sg</cell><cell>ἔπαυον</cell><cell>ἦγον</cell></row>
+  <row><cell>2nd sg</cell><cell>ἔπαυες</cell><cell>ἦγες</cell></row>
+  <row><cell>3rd sg</cell><cell>ἔπαυε</cell><cell>ἦγε</cell></row>
+  <row><cell>1st pl</cell><cell>ἐπαύομεν</cell><cell>ἤγομεν</cell></row>
+  <row><cell>2nd pl</cell><cell>ἐπαύετε</cell><cell>ἤγετε</cell></row>
+  <row><cell>3rd pl</cell><cell>ἔπαυον</cell><cell>ἦγον</cell></row>
 </table>
 
 </p></div>
@@ -1702,26 +1709,29 @@ in the indicative.</p></div>
 <p>All secondary tenses of the indicative
 may be recognized by what is called augment. This is of
 two kinds:
-
+</p><p>
 1. Syllabic. Verbs with an initial consonant prefix ἐ
 by way of augment; an initial ῥ is doubled after ἐ.
 
 <pb n="23"/>
-
+</p><p>
 2. Temporal.
 
 Verbs with an initial vowel or diphthong lengthen the initial vowel.
 
+<table>
+  <row role="label"><cell>base</cell><cell>augmented</cell></row>
 
-α - η
-ε - η
-ο - ω
-ι - ῑ
-υ - ῡ
-αι  - ῃ
-αυ  - ηυ
-οι  - ῳ
-
+<row><cell>α</cell><cell>η</cell></row>
+<row><cell>ε</cell><cell>η</cell></row>
+<row><cell>ο</cell><cell>ω</cell></row>
+<row><cell>ι</cell><cell>ῑ</cell></row>
+<row><cell>υ</cell><cell>ῡ</cell></row>
+<row><cell>αι</cell><cell>ῃ</cell></row>
+<row><cell>αυ</cell><cell>ηυ</cell></row>
+<row><cell>οι</cell><cell>ῳ</cell></row>
+</table>
+</p><p>
 Inflect the imperfect indicative active of <rs type="lemma">πέμπω</rs> and ἀθροίζω.</p></div>
 
 <div type="textpart" subtype="para" n="44"><head>Dative of Manner.</head>
@@ -1735,22 +1745,34 @@ two words or phrases or
 clauses that are compared
 or contrasted: 
 
-ὁ (ἡ, τὸ) μέν . . ὁ (ἡ, τὸ) δέ the one . . . the other; 
+<foreign>ὁ (ἡ, τὸ) μέν . . ὁ (ἡ, τὸ) δέ</foreign> <gloss> the one . . . the other;</gloss>
+<foreign>οἱ (αἱ, τὰ) μέν. .. οἱ (αἱ, τὰ) δέ</foreign> <gloss>some . . . others;</gloss>
+<foreign>ὁ δέ, ἡ δέ, κ.τ.λ.</foreign> <gloss>but (and) he, she, etc.,</gloss>
 
-οἱ (αἱ, τὰ) μέν. .. οἱ (αἱ, τὰ) δέ some . . . others; 
-ὁ δέ, ἡ δέ, κ.τ.λ. but (and) he, she, etc., 
-indicating change of subject. μέν is rarely to be translated but is a valuable warning that a comparison or contrast is coming. It is one of the many little words, often untranslatable, that make Greek so effective for expressing important shades of meaning.
+  
+indicating change of subject.</p>
+<p>Translators often do not translate μέν but many students of Greek find it helpful to represent it as "on the one hand" or a similar phrase indicating a contrast or comparison is coming. It is one of the many little words, often difficult to translate into English, that make Greek so effective for expressing important shades of meaning.
+</p></div>
 
-<figure><head>An Ionic Column</head>
+<div type="textpart" subtype="para" n="44"><head>Dative of Manner.</head>
+  <p><graphic url="images/ioniccolumn.jpg"/>The delicate workmanship of the
+    Erechtheum, to which this column
+    belongs, awakens universal admiration.</p></div>
 
-<p>The delicate workmanship of the
-Erechtheum, to which this column
-belongs, awakens universal admiration.</p></figure>
+<div type="textpart" subtype="para" n="44"><head>Dative of Manner.</head>
+<p>
+
+
 
 1 Certain verbs beginning with ε change ε to ει when augmented : ἔχω, εἶχον.
-
+</p><p>
 2 This is our fifth use of the dative. What were the other four?
-3. κ.τ.λ. = καὶ τὰ λοιπά and the rest. Compare etc. = et cetera.</p></div>
+</p><p>
+3. κ.τ.λ. = 
+
+<foreign>καὶ τὰ λοιπά</foreign> <gloss>and the rest.</gloss> 
+
+Compare etc. = <foreign xml:lang="lat">et cetera</foreign>.</p></div>
 
 <pb n="24"/>
 
