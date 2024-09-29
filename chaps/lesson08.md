@@ -32,6 +32,11 @@ IMPERFECT INDICATIVE ACTIVE
 | pers num | παύω | ἄγω | 
 | --- | --- | --- 
 | 1st sg | ἔπαυον | ἦγον | 
+| 2nd sg | ἔπαυες | ἦγες | 
+| 3rd sg | ἔπαυε | ἦγε | 
+| 1st pl | ἐπαύομεν | ἤγομεν | 
+| 2nd pl | ἐπαύετε | ἤγετε | 
+| 3rd pl | ἔπαυον | ἦγον | 
 
 
 
@@ -52,24 +57,34 @@ All secondary tenses of the indicative
 may be recognized by what is called augment. This is of
 two kinds:
 
+
+
 1. Syllabic. Verbs with an initial consonant prefix ἐ
 by way of augment; an initial ῥ is doubled after ἐ.
 
 <pb n="23"/>
+
+
 
 2. Temporal.
 
 Verbs with an initial vowel or diphthong lengthen the initial vowel.
 
 
-α - η
-ε - η
-ο - ω
-ι - ῑ
-υ - ῡ
-αι  - ῃ
-αυ  - ηυ
-οι  - ῳ
+| base | augmented | 
+| --- | --- 
+
+| α | η | 
+| ε | η | 
+| ο | ω | 
+| ι | ῑ | 
+| υ | ῡ | 
+| αι | ῃ | 
+| αυ | ηυ | 
+| οι | ῳ | 
+
+
+
 
 Inflect the imperfect indicative active of <rs type="lemma">πέμπω</rs> and ἀθροίζω.
 
@@ -88,24 +103,52 @@ two words or phrases or
 clauses that are compared
 or contrasted:
 
-ὁ (ἡ, τὸ) μέν . . ὁ (ἡ, τὸ) δέ the one . . . the other;
-
-οἱ (αἱ, τὰ) μέν. .. οἱ (αἱ, τὰ) δέ some . . . others;
-ὁ δέ, ἡ δέ, κ.τ.λ. but (and) he, she, etc.,
-indicating change of subject. μέν is rarely to be translated but is a valuable warning that a comparison or contrast is coming. It is one of the many little words, often untranslatable, that make Greek so effective for expressing important shades of meaning.
-
-# Chapter 8: Figure: An Ionic Column
+| Greek | English | 
+| --- | -- | 
+|  ὁ (ἡ, τὸ) μέν . . ὁ (ἡ, τὸ) δέ  |   the one . . . the other;  |
+|  οἱ (αἱ, τὰ) μέν. .. οἱ (αἱ, τὰ) δέ  |  some . . . others;  |
+|  ὁ δέ, ἡ δέ, κ.τ.λ.  |  but (and) he, she, etc.,  |
 
 
+indicating change of subject.
 
-The delicate workmanship of the
+
+Translators often do not translate μέν but many students of Greek find it helpful to represent it as "on the one hand" or a similar phrase indicating a contrast or comparison is coming. It is one of the many little words, often difficult to translate into English, that make Greek so effective for expressing important shades of meaning.
+
+
+## [§ 44](#para44). Dative of Manner.
+
+
+![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/ioniccolumn.jpg?raw=true)![text](https://www.classicist.org/wp-content/uploads/2011/01/_pagebody/Figure-3-Erechtheum-column-British-Museum-Loth.jpg)The delicate workmanship of the
 Erechtheum, to which this column
-belongs, awakens universal admiration.
+belongs, has provided an enormously infuential model for architets over time.
+
+The following is a [drawing](https://archive.org/details/antiqvitiesAthe1Stua/page/n57/mode/2up) from <bibl>James Stuart,  Nicholas Revett, et al., *The Antiquities of Athens*, vol. 1, (London 1762)</bibl>
+![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/ioniccolumn-stuart-revett.jpg?raw=true)
+
+
+## [§ 44](#para44). Dative of Manner.
+
+
+
+
+
 
 1 Certain verbs beginning with ε change ε to ει when augmented : ἔχω, εἶχον.
 
+
+
 2 This is our fifth use of the dative. What were the other four?
-3. κ.τ.λ. = καὶ τὰ λοιπά and the rest. Compare etc. = et cetera.
+
+
+
+3. κ.τ.λ. =
+
+| Greek | English | 
+| --- | -- | 
+|  καὶ τὰ λοιπά  |  and the rest.  |
+
+Compare etc. = <foreign xml:lang="lat">et cetera</foreign>.
 
 <pb n="24"/>
 
