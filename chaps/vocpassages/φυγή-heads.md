@@ -36,7 +36,8 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt As for the enemy, once the peltasts
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt When this flight of the enemy took place, Cyrus's six hundred became dispersed in the eagerness of pursuit; 
 
-missing sentence 496 in tlg0032.tlg006_perseus-grc2_perseus-eng2.txt
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt and attacking with his six hundred, he was victorious over the forces stationed in front of the King and put to flight the six thousand, slaying with his own hand, it is said, their commander Artagerses. 
+
 # φυγή OBJg ἐθέλω, *to will, wish, purpose*
 1 results
 ## 1. [3.2.17](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:3.2.17?mode=syntax-trees) 1222 ['9017235', '9017234']

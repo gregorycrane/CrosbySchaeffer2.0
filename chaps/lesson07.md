@@ -80,6 +80,32 @@ This is our third use of the accusative. What were the other two ?
 
 * Many Greek adjectives when preceded by the article are used as nouns, Compare English, *the blind*, *a word to the wise*; and the Greek, οἱ πολέμιοι.
 
+## [§ 38](#para38). Vocabulary
+
+| | lemma | freq | CS1-24 | def | 
+| --- | --- | --- | --- | --- 
+| 1 | [ἡμέρα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἡμέρα) | [131](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἡμέρα.md) | 7 | day | 
+| 2 | [χώρα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=χώρα) | [106](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/χώρα.md) | 7 | land | 
+| 3 | [κώμη](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=κώμη) | [87](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/κώμη.md) | 6 | country town | 
+| 4 | [στρατιά](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=στρατιά) | [75](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/στρατιά.md) | 7 | army | 
+| 5 | [ἀγορά](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀγορά) | [35](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀγορά.md) | 7 | an assembly of the people | 
+| 6 | [σπονδή](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σπονδή) | [34](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/σπονδή.md) | 6 | drink-offering; (pl.) truce, treaty | 
+| 7 | [μάχη](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μάχη) | [33](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/μάχη.md) | 6 | battle, fight, combat | 
+| 8 | [οἰκία](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οἰκία) | [32](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/οἰκία.md) | NA | a building, house, dwelling | 
+| 9 | [ἀνάγκη](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀνάγκη) | [31](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀνάγκη.md) | NA | force, constraint, necessity | 
+| 10 | [φιλία](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φιλία) | [30](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φιλία.md) | 7 | friendly love, affection, friendship | 
+| 11 | [πορεία](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πορεία) | [30](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πορεία.md) | NA | a walking, mode of walking | 
+| 12 | [γυνή](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=γυνή) | [29](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/γυνή.md) | NA | a woman | 
+| 13 | [δίκη](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δίκη) | [24](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δίκη.md) | NA | (custom, usage) justice, lawsuit, penalty | 
+| 14 | [ἀρχή](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀρχή) | [22](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀρχή.md) | 7 | a beginning, rule, office, empire | 
+| 15 | [πύλη](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πύλη) | [21](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πύλη.md) | NA | one wing of a pair of double gates | 
+| 16 | [φυλακή](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φυλακή) | [19](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φυλακή.md) | 6 | a watching | 
+| 17 | [γνώμη](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=γνώμη) | [18](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/γνώμη.md) | NA | a means of knowing, a mark, token | 
+| 18 | [ὥρα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὥρα) | [17](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὥρα.md) | NA | [sacrificial victim] | 
+| 19 | [σωτηρία](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σωτηρία) | [16](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/σωτηρία.md) | NA | a saving, deliverance, preservation, safety | 
+| 20 | [δεξιά](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δεξιά) | [15](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δεξιά.md) | NA | the right hand | 
+
+
 
 ## [§ 38a](#para38a). [Gate of Athena Archegetis.](https://en.wikipedia.org/wiki/Gate_of_Athena_Archegetis)
 

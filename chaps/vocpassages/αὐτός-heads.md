@@ -2781,7 +2781,8 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt and then followed a struggle betwee
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt When this flight of the enemy took place, Cyrus's six hundred became dispersed in the eagerness of pursuit; 
 
-missing sentence 496 in tlg0032.tlg006_perseus-grc2_perseus-eng2.txt
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt and attacking with his six hundred, he was victorious over the forces stationed in front of the King and put to flight the six thousand, slaying with his own hand, it is said, their commander Artagerses. 
+
 ## 2. [5.6.8](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:5.6.8?mode=syntax-trees) 2366 ['9036579', '9036578']
 [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [νῦν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=νῦν "νῦν d-------- now at this very time") [οὗτοι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὗτος "οὗτος a-p---mn- this; that") [οὐ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐ "οὐ d-------- not") [παρεγένοντο](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=παραγίγνομαι "παραγίγνομαι v3paim--- to come near, attend upon") [βασιλεῖ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=βασιλεύς "βασιλεύς n-s---md- a king, chief") [καλοῦντι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καλέω "καλέω v-sppamd- to call, summon") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ἀλλὰ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀλλά "ἀλλά b-------- otherwise, but") [μεῖζον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέγας "μέγας a-s---nac big, great") [φρονεῖ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φρονέω "φρονέω v3spia--- to think, to have understanding, to be sage, wise, prudent") [ὁ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---mn- the") **[ἄρχων](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄρχων "ἄρχων n-s---mn- a ruler, commander, chief, captain")** **[αὐτῶν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=αὐτός "αὐτός a-p---mg- unemph. 3rd pers.pronoun; -self; [the] same")** [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
 
@@ -7431,7 +7432,8 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt At this moment  Cyrus  rode along t
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt When this flight of the enemy took place, Cyrus's six hundred became dispersed in the eagerness of pursuit; 
 
-missing sentence 496 in tlg0032.tlg006_perseus-grc2_perseus-eng2.txt
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt and attacking with his six hundred, he was victorious over the forces stationed in front of the King and put to flight the six thousand, slaying with his own hand, it is said, their commander Artagerses. 
+
 # αὐτός ADVn φημί, *to say, to claim*
 1 results
 ## 1. [1.8.26](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.8.26?mode=syntax-trees) 499 ['9004384', '9004387']

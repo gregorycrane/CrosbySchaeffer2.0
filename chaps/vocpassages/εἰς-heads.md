@@ -1555,7 +1555,7 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt And afterwards, when the two men fi
 [αἱ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---fn- the") [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [κῶμαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=κώμη "κώμη n-p---fn- country town") [ἐν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐν "ἐν r-------- in, among. c. dat.") [αἷς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅς "ὅς p-p---fd- who, that, which: relative pronoun") [ἐσκήνουν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σκηνόω "σκηνόω v3piia--- to pitch tents, encamp") [Παρυσάτιδος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Παρύσατις "Παρύσατις n-s---fg- Parysatis") [ἦσαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰμί "εἰμί v3piia--- to be") **[εἰς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰς "εἰς r-------- into, to c. acc.")** [ζώνην](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ζώνη "ζώνη n-s---fa- a belt, girdle") **[δεδομέναι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δίδωμι "δίδωμι v-prpefn- to give")** [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
 
 
-tlg0032.tlg006_perseus-grc2_watson1854-eng.txt The villages, in which they fixed their quarters, belonged to Parysatis, having been given her for her girdle.! 
+tlg0032.tlg006_perseus-grc2_watson1854-eng.txt The villages, in which they fixed their quarters, belonged to Parysatis, having been given her for her girdle.1 
 
 tlg0032.tlg006_perseus-grc2_perseus-eng2.txt And the villages in which the troops encamped belonged to Parysatis, for they had been given her for girdle-money. 
 
@@ -2677,7 +2677,8 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Since, then, there was no one in hi
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt When this flight of the enemy took place, Cyrus's six hundred became dispersed in the eagerness of pursuit; 
 
-missing sentence 496 in tlg0032.tlg006_perseus-grc2_perseus-eng2.txt
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt and attacking with his six hundred, he was victorious over the forces stationed in front of the King and put to flight the six thousand, slaying with his own hand, it is said, their commander Artagerses. 
+
 # εἰς AuxP ὁρμάω, *to set in motion, urge*
 1 results
 ## 1. [1.8.25](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.8.25?mode=syntax-trees) 497 ['9004323', '9004326']

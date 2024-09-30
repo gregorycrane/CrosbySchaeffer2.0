@@ -2538,7 +2538,8 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt and in the centre  Cyrus  and his h
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt When this flight of the enemy took place, Cyrus's six hundred became dispersed in the eagerness of pursuit; 
 
-missing sentence 496 in tlg0032.tlg006_perseus-grc2_perseus-eng2.txt
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt and attacking with his six hundred, he was victorious over the forces stationed in front of the King and put to flight the six thousand, slaying with his own hand, it is said, their commander Artagerses. 
+
 # λέγω CO ἐπιδείκνυμι, *to exhibit as a specimen*
 1 results
 ## 1. [1.9.10](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.9.10?mode=syntax-trees) 525 ['9004844', '9004842']

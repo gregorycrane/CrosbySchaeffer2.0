@@ -1464,7 +1464,8 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt And yet,  Cyrus , there are those w
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt When this flight of the enemy took place, Cyrus's six hundred became dispersed in the eagerness of pursuit; 
 
-missing sentence 496 in tlg0032.tlg006_perseus-grc2_perseus-eng2.txt
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt and attacking with his six hundred, he was victorious over the forces stationed in front of the King and put to flight the six thousand, slaying with his own hand, it is said, their commander Artagerses. 
+
 ## 8. [1.8.27](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.8.27?mode=syntax-trees) 501 ['9004421', '9004400']
 **[καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also")** [ἐνταῦθα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐνταῦθα "ἐνταῦθα d-------- here, there; at that juncture") [μαχόμενοι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μάχομαι "μάχομαι v-pppemn- to fight") [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [βασιλεὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=βασιλεύς "βασιλεύς n-s---mn- a king, chief") [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [Κῦρος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Κῦρος "Κῦρος n-s---mn- Cyrus") [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [οἱ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---mn- the") [ἀμφ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀμφί "ἀμφί r-------- on both sides") [αὐτοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=αὐτός "αὐτός a-p---ma- unemph. 3rd pers.pronoun; -self; [the] same") [ὑπὲρ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὑπέρ "ὑπέρ r-------- over, above, w. gen, over, beyond, w. acc.") [ἑκατέρου](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἑκάτερος "ἑκάτερος a-s---ng- each of two, either, each singly") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ὁπόσοι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁπόσος "ὁπόσος p-p---mn- as many as") [μὲν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand") [τῶν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---mg- the") [ἀμφὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀμφί "ἀμφί r-------- on both sides") [βασιλέα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=βασιλεύς "βασιλεύς n-s---ma- a king, chief") [ἀπέθνῃσκον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀποθνῄσκω "ἀποθνῄσκω v3piia--- to die, be killed") [Κτησίας](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Κτησίας "Κτησίας n-s---mn- Ctesias") **[λέγει](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λέγω "λέγω v3spia--- to say, tell, speak; epic and arch.: pick, gather")** [·](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=· "· u-------- NoDef") 
 
@@ -7959,7 +7960,8 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt and  Cyrus  pulled up his horse and
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt When this flight of the enemy took place, Cyrus's six hundred became dispersed in the eagerness of pursuit; 
 
-missing sentence 496 in tlg0032.tlg006_perseus-grc2_perseus-eng2.txt
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt and attacking with his six hundred, he was victorious over the forces stationed in front of the King and put to flight the six thousand, slaying with his own hand, it is said, their commander Artagerses. 
+
 # λέγω ADVn μάχομαι, *to fight*
 1 results
 ## 1. [1.8.27](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.8.27?mode=syntax-trees) 501 ['9004421', '9004402']
@@ -8586,7 +8588,8 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Tissaphernes was said to be in comm
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt When this flight of the enemy took place, Cyrus's six hundred became dispersed in the eagerness of pursuit; 
 
-missing sentence 496 in tlg0032.tlg006_perseus-grc2_perseus-eng2.txt
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt and attacking with his six hundred, he was victorious over the forces stationed in front of the King and put to flight the six thousand, slaying with his own hand, it is said, their commander Artagerses. 
+
 # λέγω OBJ ὁράω, *to see*
 1 results
 ## 1. [1.8.26](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.8.26?mode=syntax-trees) 499 ['9004358', '9004361']

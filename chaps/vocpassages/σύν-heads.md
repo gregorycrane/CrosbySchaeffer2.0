@@ -826,7 +826,8 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt When  Cyrus  saw that the Greeks we
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt When this flight of the enemy took place, Cyrus's six hundred became dispersed in the eagerness of pursuit; 
 
-missing sentence 496 in tlg0032.tlg006_perseus-grc2_perseus-eng2.txt
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt and attacking with his six hundred, he was victorious over the forces stationed in front of the King and put to flight the six thousand, slaying with his own hand, it is said, their commander Artagerses. 
+
 # σύν AuxP παιδεύω, *to bring up*
 1 results
 ## 1. [1.9.2](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.9.2?mode=syntax-trees) 510 ['9004555', '9004553']

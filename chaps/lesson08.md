@@ -85,14 +85,22 @@ Verbs with an initial vowel or diphthong lengthen the initial vowel.
 
 
 
+
 Inflect the imperfect indicative active of <rs type="lemma">πέμπω</rs> and ἀθροίζω.
 
 ## [§ 44](#para44). Dative of Manner.
 
 
-The dative may denote manner :2
+The dative may denote manner
 
-φεύγουσι σιγῇ they flee in silence.
+| Greek | English | 
+| --- | -- | 
+|  φεύγουσι σιγῇ  |  they flee in silence.  |
+
+
+
+This is our fifth use of the dative. What are the other four?
+
 
 ## [§ 45](#para45). Balanced Structure.
 

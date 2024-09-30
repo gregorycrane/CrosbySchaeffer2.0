@@ -916,7 +916,7 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Thereupon the Greeks pursued with a
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt Cyrus, in consequence, fearing that he might take the Greeks in the rear, and cut them in pieces, moved directly upon him, and charging with his six hundred horse, routed the troops that were stationed in front of the king, and put the guard of six thousand to flight, and is said to have killed with his own hand Artagerses, their commander. 
 
-tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Thereupon  Cyrus , seized with fear lest he might get in the rear of the Greek troops and cut them to pieces, charged to meet him; and attacking with his six hundred, he was victorious over the forces stationed in front of the King and put to flight the six thousand, slaying with his own hand, it is said, their commander Artagerses. 
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Thereupon  Cyrus , seized with fear lest he might get in the rear of the Greek troops and cut them to pieces, charged to meet him; 
 
 # δή AuxY διαδίδωμι, *to give from hand to hand, to pass on, hand over*
 1 results

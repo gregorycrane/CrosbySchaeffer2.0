@@ -278,7 +278,8 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt still, I think that for me to be pr
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt When this flight of the enemy took place, Cyrus's six hundred became dispersed in the eagerness of pursuit; 
 
-missing sentence 496 in tlg0032.tlg006_perseus-grc2_perseus-eng2.txt
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt and attacking with his six hundred, he was victorious over the forces stationed in front of the King and put to flight the six thousand, slaying with his own hand, it is said, their commander Artagerses. 
+
 # ἄρχων APOSn Προκλῆς, *Procles*
 1 results
 ## 1. [2.1.3](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:2.1.3?mode=syntax-trees) 614 ['9006589', '9006586']

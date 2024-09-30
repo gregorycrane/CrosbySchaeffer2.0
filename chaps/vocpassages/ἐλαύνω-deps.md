@@ -50,7 +50,7 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt After descending he marched through
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt Cyrus, in consequence, fearing that he might take the Greeks in the rear, and cut them in pieces, moved directly upon him, and charging with his six hundred horse, routed the troops that were stationed in front of the king, and put the guard of six thousand to flight, and is said to have killed with his own hand Artagerses, their commander. 
 
-tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Thereupon  Cyrus , seized with fear lest he might get in the rear of the Greek troops and cut them to pieces, charged to meet him; and attacking with his six hundred, he was victorious over the forces stationed in front of the King and put to flight the six thousand, slaying with his own hand, it is said, their commander Artagerses. 
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Thereupon  Cyrus , seized with fear lest he might get in the rear of the Greek troops and cut them to pieces, charged to meet him; 
 
 # ἐλαύνω ADVn ἀντίος, *set against*
 1 results
@@ -60,7 +60,7 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Thereupon  Cyrus , seized with fear
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt Cyrus, in consequence, fearing that he might take the Greeks in the rear, and cut them in pieces, moved directly upon him, and charging with his six hundred horse, routed the troops that were stationed in front of the king, and put the guard of six thousand to flight, and is said to have killed with his own hand Artagerses, their commander. 
 
-tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Thereupon  Cyrus , seized with fear lest he might get in the rear of the Greek troops and cut them to pieces, charged to meet him; and attacking with his six hundred, he was victorious over the forces stationed in front of the King and put to flight the six thousand, slaying with his own hand, it is said, their commander Artagerses. 
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Thereupon  Cyrus , seized with fear lest he might get in the rear of the Greek troops and cut them to pieces, charged to meet him; 
 
 # ἐλαύνω ADVn τάσσω, *to arrange, put in order*
 1 results
@@ -320,7 +320,7 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt he ordered his hoplites to remain w
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt Cyrus, in consequence, fearing that he might take the Greeks in the rear, and cut them in pieces, moved directly upon him, and charging with his six hundred horse, routed the troops that were stationed in front of the king, and put the guard of six thousand to flight, and is said to have killed with his own hand Artagerses, their commander. 
 
-tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Thereupon  Cyrus , seized with fear lest he might get in the rear of the Greek troops and cut them to pieces, charged to meet him; and attacking with his six hundred, he was victorious over the forces stationed in front of the King and put to flight the six thousand, slaying with his own hand, it is said, their commander Artagerses. 
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Thereupon  Cyrus , seized with fear lest he might get in the rear of the Greek troops and cut them to pieces, charged to meet him; 
 
 # ἐλαύνω AuxY τε, *and*
 1 results
@@ -360,7 +360,7 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt he ordered his hoplites to remain w
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt Cyrus, in consequence, fearing that he might take the Greeks in the rear, and cut them in pieces, moved directly upon him, and charging with his six hundred horse, routed the troops that were stationed in front of the king, and put the guard of six thousand to flight, and is said to have killed with his own hand Artagerses, their commander. 
 
-tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Thereupon  Cyrus , seized with fear lest he might get in the rear of the Greek troops and cut them to pieces, charged to meet him; and attacking with his six hundred, he was victorious over the forces stationed in front of the King and put to flight the six thousand, slaying with his own hand, it is said, their commander Artagerses. 
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Thereupon  Cyrus , seized with fear lest he might get in the rear of the Greek troops and cut them to pieces, charged to meet him; 
 
 # ἐλαύνω SBJn Λύκιος, *(adj) Lycian; (n.) Lycius*
 1 results
@@ -468,7 +468,7 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Thence he marched two stages, ten p
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt Cyrus, in consequence, fearing that he might take the Greeks in the rear, and cut them in pieces, moved directly upon him, and charging with his six hundred horse, routed the troops that were stationed in front of the king, and put the guard of six thousand to flight, and is said to have killed with his own hand Artagerses, their commander. 
 
-tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Thereupon  Cyrus , seized with fear lest he might get in the rear of the Greek troops and cut them to pieces, charged to meet him; and attacking with his six hundred, he was victorious over the forces stationed in front of the King and put to flight the six thousand, slaying with his own hand, it is said, their commander Artagerses. 
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt Thereupon  Cyrus , seized with fear lest he might get in the rear of the Greek troops and cut them to pieces, charged to meet him; 
 
 # ἐλαύνω ADV εἶτα, *then, next*
 1 results

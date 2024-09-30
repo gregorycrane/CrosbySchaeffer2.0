@@ -56,7 +56,8 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt For a while the Greeks fought as th
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt When this flight of the enemy took place, Cyrus's six hundred became dispersed in the eagerness of pursuit; 
 
-missing sentence 496 in tlg0032.tlg006_perseus-grc2_perseus-eng2.txt
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt and attacking with his six hundred, he was victorious over the forces stationed in front of the King and put to flight the six thousand, slaying with his own hand, it is said, their commander Artagerses. 
+
 ## 2. [6.1.13](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:6.1.13?mode=syntax-trees) 2637 ['9041095', '9041093']
 [οἱ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---mn- the") [δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [ἔλεγον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λέγω "λέγω v3piia--- to say, tell, speak; epic and arch.: pick, gather") [ὅτι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅτι "ὅτι c-------- adv. + superl., as...as possible; ὅτι μή except") [αὗται](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὗτος "οὗτος a-p---fn- this; that") **[καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also")** [αἱ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---fn- the") **[τρεψάμεναι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τρέπω "τρέπω v-papmfn- to turn")** [εἶεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰμί "εἰμί v3ppoa--- to be") [βασιλέα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=βασιλεύς "βασιλεύς n-s---ma- a king, chief") [ἐκ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐκ "ἐκ r-------- from out of") [τοῦ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---ng- the") [στρατοπέδου](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=στρατόπεδον "στρατόπεδον n-s---ng- the ground on which soldiers are encamped, a camp, encampment") [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
 
@@ -117,7 +118,8 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt When Xenophon saw what was taking p
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt When this flight of the enemy took place, Cyrus's six hundred became dispersed in the eagerness of pursuit; 
 
-missing sentence 496 in tlg0032.tlg006_perseus-grc2_perseus-eng2.txt
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt and attacking with his six hundred, he was victorious over the forces stationed in front of the King and put to flight the six thousand, slaying with his own hand, it is said, their commander Artagerses. 
+
 # τρέπω AuxP διά, *through c. gen.; because of c. acc.*
 1 results
 ## 1. [3.5.15](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:3.5.15?mode=syntax-trees) 1488 ['9021854', '9021848']
@@ -174,7 +176,8 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt For a while the Greeks fought as th
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt When this flight of the enemy took place, Cyrus's six hundred became dispersed in the eagerness of pursuit; 
 
-missing sentence 496 in tlg0032.tlg006_perseus-grc2_perseus-eng2.txt
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt and attacking with his six hundred, he was victorious over the forces stationed in front of the King and put to flight the six thousand, slaying with his own hand, it is said, their commander Artagerses. 
+
 # τρέπω CO πολεμέω, *to be at war*
 1 results
 ## 1. [2.6.5](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:2.6.5?mode=syntax-trees) 1014 ['9013057', '9013066']
@@ -299,7 +302,8 @@ tlg0032.tlg006_perseus-grc2_perseus-eng2.txt For a while the Greeks fought as th
 
 tlg0032.tlg006_perseus-grc2_watson1854-eng.txt When this flight of the enemy took place, Cyrus's six hundred became dispersed in the eagerness of pursuit; 
 
-missing sentence 496 in tlg0032.tlg006_perseus-grc2_perseus-eng2.txt
+tlg0032.tlg006_perseus-grc2_perseus-eng2.txt and attacking with his six hundred, he was victorious over the forces stationed in front of the King and put to flight the six thousand, slaying with his own hand, it is said, their commander Artagerses. 
+
 # τρέπω OBJa γνώμη, *a means of knowing, a mark, token*
 1 results
 ## 1. [3.1.41](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:3.1.41?mode=syntax-trees) 1166 ['9016028', '9016030']
