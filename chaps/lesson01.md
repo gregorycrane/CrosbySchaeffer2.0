@@ -128,16 +128,16 @@ The top 10 o-stem lemmas with identical endings and accent.
 
 | | lemma | freq. | gloss | 
 | --- | --- | --- | --- 
-| 1 | [στρατηγός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=στρατηγός) | [151](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/στρατηγός.md) | the leader | 
-| 2 | [ποταμός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ποταμός) | [99](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ποταμός.md) | a river, stream | 
-| 3 | [λοχαγός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λοχαγός) | [90](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/λοχαγός.md) | the leader of an armed band; commander of a company | 
-| 4 | [θεός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=θεός) | [89](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/θεός.md) | god | 
-| 5 | [σταθμός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σταθμός) | [55](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/σταθμός.md) | a standing place, weight | 
-| 6 | [μισθός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μισθός) | [40](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/μισθός.md) | wages, pay, hire | 
-| 7 | [ἀδελφός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀδελφός) | [20](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀδελφός.md) | (of the same mother) brother; adj brotherly, sisterly, akin | 
-| 8 | [καιρός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καιρός) | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/καιρός.md) | time; the right moment, opportunity | 
-| 9 | [Μυσός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Μυσός) | [10](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/Μυσός.md) | a Mysian | 
-| 10 | [ἀριθμός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀριθμός) | [9](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀριθμός.md) | number | 
+| 1 | [στρατηγός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=στρατηγός) | [151](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/στρατηγός.md) | the leader | 
+| 2 | [ποταμός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ποταμός) | [99](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ποταμός.md) | a river, stream | 
+| 3 | [λοχαγός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λοχαγός) | [90](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/λοχαγός.md) | the leader of an armed band; commander of a company | 
+| 4 | [θεός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=θεός) | [89](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/θεός.md) | god | 
+| 5 | [σταθμός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σταθμός) | [55](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σταθμός.md) | a standing place, weight | 
+| 6 | [μισθός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μισθός) | [40](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/μισθός.md) | wages, pay, hire | 
+| 7 | [ἀδελφός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀδελφός) | [20](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀδελφός.md) | (of the same mother) brother; adj brotherly, sisterly, akin | 
+| 8 | [καιρός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καιρός) | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/καιρός.md) | time; the right moment, opportunity | 
+| 9 | [Μυσός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Μυσός) | [10](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/Μυσός.md) | a Mysian | 
+| 10 | [ἀριθμός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀριθμός) | [9](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀριθμός.md) | number | 
 | | All forms | 749 |  | 
 
 
