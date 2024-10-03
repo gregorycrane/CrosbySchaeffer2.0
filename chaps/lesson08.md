@@ -186,11 +186,11 @@ Compare etc. = <foreign xml:lang="lat">et cetera</foreign>.
 (a) What do the portions in heavy type tell as to person
 and number of the subject?
 
-1. ἦγ-ον
-2. ἔλῡ-ε
-3. ἐγράφ-ομεν 
-4. ἤθροιζ-ες
-5. ἠθέλ-ετε
+1. ἦγ-**ον**
+2. ἔλῡ-**ε**
+3. ἐγράφ-**ομεν **
+4. ἤθροιζ-**ες**
+5. ἠθέλ-**ετε**
 
 Which personal endings of the imperfect are identical?
 Vhich resemble endings of the present ?
@@ -198,12 +198,18 @@ Vhich resemble endings of the present ?
 (b) Translate :
 
 1. ἠθροιζες λίθους παρὰ τὸν ποταμόν; 
-2. ἀλλ᾽ ἐπέμπομεν τὴν φυλακὴν παρὰ τὸν ἀδελφον. 
+2. ἀλλ᾽ ἐπέμπομεν τὴν φυλακὴν παρὰ τὸν ἀδελφόν. 
 3. ἡ στρατιὰ ἦν ἐν τῇ κώμῃ καὶ τὰ ἐπιτήδεια ἥρπαζεν. 
 4. οἱ μὲν γὰρ κραυγῇ ἐκ τῆς ἀγορᾶς ἔφευγον. οἱ δὲ σιγῇ τὰς σκηνὰς ἐφύλαττον. 
-5. οἱ δὲ ἀρχαῖοι εἶχον1 κώμας μικρᾶς.
+5. οἱ δὲ ἀρχαῖοι εἶχον* κώμας μικράς.
 6. καλὰ μὲν ἦν τὰ δῶρα, μικρὰ δέ. 
 7. τὰ μὲν ἔργα τὰ τοῦ βαρβάρου ἦν καλά, οἱ δὲ λόγοι φίλιοι.
+
+* In the verb ἔχω, the augment is not η but ει. Thus we get, εἶχον, *I was holding, I was possessing, I used to have.* The verb stem ἐχ-/σχ- derives from *σ(ε)χ- and we get the impf. εἶχον  from *ἔεχον (Cambridge Grammar of Classical Greek 11.40). This is the only verb we have encountered so far that has this irregular augment.
+
+
+
+
 
 (c) Complete :
 
@@ -219,7 +225,7 @@ Vhich resemble endings of the present ?
 4. The garrison flees ten stades.? 
 5. There were provisions in the tent.
 
-1 Page 23, note 1.
+
 2 Page 11, note 3.
 
 

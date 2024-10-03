@@ -1827,11 +1827,11 @@ Compare etc. = <foreign xml:lang="lat">et cetera</foreign>.</p></div>
 (a) What do the portions in heavy type tell as to person
 and number of the subject?
 <list>
-<item n="1">ἦγ-ον</item>
-<item n="2">ἔλῡ-ε</item>
-<item n="3">ἐγράφ-ομεν </item>
-<item n="4">ἤθροιζ-ες</item> 
-<item n="5">ἠθέλ-ετε</item>
+<item n="1">ἦγ-<emph>ον</emph></item>
+<item n="2">ἔλῡ-<emph>ε</emph></item>
+<item n="3">ἐγράφ-<emph>ομεν </emph></item>
+<item n="4">ἤθροιζ-<emph>ες</emph></item> 
+<item n="5">ἠθέλ-<emph>ετε</emph></item>
 </list>
 Which personal endings of the imperfect are identical?
 Vhich resemble endings of the present ?
@@ -1839,13 +1839,17 @@ Vhich resemble endings of the present ?
 (b) Translate :
 <list>
 <item n="1">ἠθροιζες λίθους παρὰ τὸν ποταμόν; </item>
-<item n="2">ἀλλ᾽ ἐπέμπομεν τὴν φυλακὴν παρὰ τὸν ἀδελφον. </item>
+<item n="2">ἀλλ᾽ ἐπέμπομεν τὴν φυλακὴν παρὰ τὸν ἀδελφόν. </item>
 <item n="3">ἡ στρατιὰ ἦν ἐν τῇ κώμῃ καὶ τὰ ἐπιτήδεια ἥρπαζεν. </item>
 <item n="4">οἱ μὲν γὰρ κραυγῇ ἐκ τῆς ἀγορᾶς ἔφευγον. οἱ δὲ σιγῇ τὰς σκηνὰς ἐφύλαττον. </item>
-<item n="5">οἱ δὲ ἀρχαῖοι εἶχον1 κώμας μικρᾶς.</item>
+<item n="5">οἱ δὲ ἀρχαῖοι εἶχον* κώμας μικράς.</item>
 <item n="6">καλὰ μὲν ἦν τὰ δῶρα, μικρὰ δέ. </item>
 <item n="7">τὰ μὲν ἔργα τὰ τοῦ βαρβάρου ἦν καλά, οἱ δὲ λόγοι φίλιοι.</item>
 </list>
+* In the verb ἔχω, the augment is not η but ει. Thus we get, εἶχον, <gloss>I was holding, I was possessing, I used to have.</gloss> The verb stem ἐχ-/σχ- derives from *σ(ε)χ- and we get the impf. εἶχον  from *ἔεχον (Cambridge Grammar of Classical Greek 11.40). This is the only verb we have encountered so far that has this irregular augment. 
+
+
+</p><p> 
 (c) Complete :
 <list>
 <item n="1">ἠγ-- (2d plural) τὸν ἔπτπ--- ἐκ τ--- πεδι --- (singular).</item>
@@ -1860,7 +1864,7 @@ Vhich resemble endings of the present ?
 <item n="4">The garrison flees ten stades.? </item>
 <item n="5">There were provisions in the tent.</item>
 </list>
-1 Page 23, note 1. 
+
 2 Page 11, note 3.
 </p></div>
 </div>
