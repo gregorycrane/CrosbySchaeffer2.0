@@ -1916,25 +1916,38 @@ See if you can identify other English cognates using these terms:
   </quote>
   <bibl>Periander</bibl>
 </cit>
-
+<p><ref n="https://en.wikipedia.org/wiki/Periander">Periander (died c. 555 BCE)</ref> (see also the <ref n="https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=periander-bio-1">Smith encyclopedia entry</ref>, which has links to primary sources) lived in the seventh and sixth century BCE and is rememberd in very different ways. Herodotus ([5.92-5.92G](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-eng2:5.92-5.92G/)) represents him as a man who becomes a brutal tyrant of Corinth. But Periander also often appears as one of the Seven Wise Men of early Greece and the saying quoted above is attributed to him in this capacity (see the <title>Lives of the Philosophers</title> by <ref n="https://en.wikipedia.org/wiki/Diogenes_Laertius">Diogenes Laertius (3rd century CE)</ref>, <ref n="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0004.tlg001.perseus-grc2:1.7/">1.7</ref>).</p>
+<p><graphic url="https://upload.wikimedia.org/wikipedia/commons/4/48/Periander_Pio-Clementino_Inv276.jpg"/>Bust of Periander bearing the inscription “Periander, son of Cypselus, Corinthian”. Marble, Roman copy after a Greek original from the 4th century (from <ref n="https://en.wikipedia.org/wiki/Periander#/media/File:Periander_Pio-Clementino_Inv276.jpg">Wikipedia</ref>).</p>
 
 <div type="textpart" subtype="para" n="49"><head>The Future Tense.</head>
 <p>This tense has the same personal endings as the present. It differs from the present only as to stem, which it forms by adding -σ- to the verb stem. In the case of verbs whose stem ends in a mute, the σ is the occasion of certain changes:
+<list>
+<item n="1">A labial (π, β, φ) unites with σ to form -ψ- (πσ) ;</item>
+<item n="2">A palatal (κ, γ, χ) unites with σ to form -ξ- (κσ);</item>
+<item n="3">A dental (τ, δ, θ) before σ is dropped:</item>
+</list></p>
+<p>
+πέμπω becomes πέμψω; </p>
+<p>ἄγω becomes ἄξω; </p>
+<p>
+ἀθροίζω (which is from ἀθροιδ-ιω) becomes ἀθροίσω.</p>
 
-1. A labial (π, β, φ) unites with σ to form -ψ- (πσ) ;
-
-2. A palatal (κ, γ, χ) unites with σ to form -ξ- (κσ);
-
-3. A dental (τ, δ, θ) before σ is dropped:
-
-πέμπω, πέμψω; 
-ἄγω, ἄξω; 
-ἀθροίζω (ἀθροιδ-), ἀθροίσω.
-
-In most instances, the stem is readily recognized in the
+<p>In most instances, the stem is readily recognized in the
 present tense, but verbs with stems in ζ are palatals and most verbs with stems in fare dentals. In case of doubt, consult the general vocabulary at the back of the book.
+</p>
 
+<p>
 Future Indicative of παύω I stop
+
+<table>
+  <row role="label"><cell>pers/num</cell><cell>prsent</cell><cell>future</cell></row>
+  <row><cell>1st sg</cell><cell>πέμπ-ω</cell><cell>πεμ-<emph>ψ</emph>-ω</cell></row>
+  <row><cell>2nd sg</cell><cell>πέμπ-εις</cell><cell>πεμ-<emph>ψ</emph>-εις</cell></row>
+  <row><cell>3rd sg</cell><cell>πέμπ-ει</cell><cell>πεμ-<emph>ψ</emph>-ει</cell></row>
+  <row><cell>1st pl</cell><cell>πέμπ-εις</cell><cell>πεμ-<emph>ψ</emph>-εις</cell></row>
+  <row><cell>2nd pl</cell><cell>πέμπ-εις</cell><cell>πεμ-<emph>ψ</emph>-εις</cell></row>
+  <row><cell>3rd pl</cell><cell>πέμπ-ουσι</cell><cell>πεμ-<emph>ψ</emph>-ουσι</cell></row>
+</table>
 
 In like manner inflect λύω, γράφω, ἄρχω, πείθω.</p></div>
 
@@ -1943,11 +1956,12 @@ In like manner inflect λύω, γράφω, ἄρχω, πείθω.</p></div>
 
 <pb n="27"/>
 
-may be stated indirectly 
-I believe the general to be sending
-(to have sent), or 
-I believe that the general is sending (sent).
-
+may be stated indirectly:
+<list>
+<item>I believe the general to be sending
+(to have sent), or </item>
+<item>I believe that the general is sending (sent).</item>
+</list>
 (b) In Latin the main verb in the quoted statement
 is always infinitive. The same construction is frequently found in Greek.1
 
@@ -1961,23 +1975,18 @@ which case the subject
 of the infinitive is omitted and any word in 
 agreement with that unxpressed subject is nominative:
 
-νομίζω τὸν στρατηγὸν διώξειν
-I think the general will pursue ;
+<foreign>νομίζω τὸν στρατηγὸν διώξειν</foreign> <gloss>I think the general will pursue ;</gloss>
 
-νομίζω διώξειν
-I think I shall pursue.
-
+<foreign>νομίζω διώξειν</foreign> <gloss>I think I shall pursue.</gloss>
+</p><p>
 (d) The tense of the
 infinitive in the quoted statement, regardless of the tense of the introductory verb, is the same as that used in the original statement:
 
-οἱ πολέμιοι διώκουσι
-the enemy are pursuing ;
+<foreign>οἱ πολέμιοι διώκουσι</foreign> <gloss>the enemy are pursuing ;</gloss>
 
-νομίζει τοὺς πολεμίους διώκειν
-he thinks the enemy are pursuing;
+<foreign>νομίζει τοὺς πολεμίους διώκειν</foreign> <gloss>he thinks the enemy are pursuing;</gloss>
 
-ἐνόμιζε τοὺς πολεμίους διώκειν
-he thought that the enemy were pursuing.
+<foreign>ἐνόμιζε τοὺς πολεμίους διώκειν</foreign> <gloss>he thought that the enemy were pursuing.</gloss>
 
 1 But in Greek other constructions appear, depending on the introductory verb employed.
 
@@ -1988,25 +1997,28 @@ The gateway to the Acropolis.
 
 <pb n="28"/>
 
-<div type="textpart" subtype="para" n="51">
-<p>VOCABULARY
-<rs type="lemma">ἄρχω</rs>, ἄρξω:1 begin, rule, command,  with G. ARCHBISHOP.
+<div type="textpart" subtype="para" n="51"><head>Vocabulary.</head>
+<p>
+  <list type="vocab">
+<item><rs type="lemma">ἄρχω</rs>, ἄρξω:1 begin, rule, command,  with G. ARCHBISHOP.</item>
 
-<rs type="lemma">μέλλω</rs>, μελλήσω: intend, delay, be about to, usually with fut. inf.
+<item><rs type="lemma">μέλλω</rs>, μελλήσω: intend, delay, be about to, usually with fut. inf.</item>
 
-<rs type="lemma">διώκω</rs>, διώξω: pursue. 
+<item><rs type="lemma">διώκω</rs>, διώξω: pursue. </item>
 
-<rs type="lemma">θύρα</rs>, θύρα, ἡ: door; αἱ θύραι: often used of military head-quarters or of the king's court (compare Sublime Porte). THYROID.
+<item><rs type="lemma">θύρα</rs>, θύρα, ἡ: door; αἱ θύραι: often used of military head-quarters or of the king's court (compare Sublime Porte). THYROID.</item>
 
-<rs type="lemma">νομίζω</rs>:1 believe, think, with inf.
+<item><rs type="lemma">νομίζω</rs>:1 believe, think, with inf.</item>
 
-<rs type="lemma">ὁδός</rs>, ὁδοῦ, ὁ: road, route. EXODUS.
+<item><rs type="lemma">ὁδός</rs>, ὁδοῦ, ὁ: road, route. EXODUS.</item>
 
-<rs type="lemma">πείθω</rs>, πείσω: persuade.
+<item><rs type="lemma">πείθω</rs>, πείσω: persuade.</item>
 
-<rs type="lemma">ὑπ-οπτεύω</rs>, ὑπ-οπτεύσω: suspect (ὑπό, under + ὀπτεύω, look), with inf. HYPODERMIC. OPTIC.
+<item><rs type="lemma">ὑπ-οπτεύω</rs>, ὑπ-οπτεύσω: suspect (ὑπό, under + ὀπτεύω, look), with inf. HYPODERMIC. OPTIC.</item>
 
-<rs type="lemma">ἰσχυρός</rs>, ἰσχυρά, ἰσχυρόν: strong. </p></div>
+<item><rs type="lemma">ἰσχυρός</rs>, ἰσχυρά, ἰσχυρόν: strong. </item>
+</list>
+</p></div>
 
 <div type="textpart" subtype="para" n="52"><head>Exercises.</head>
 <p>
@@ -2158,20 +2170,20 @@ face, "This is the city of Hadrian, not of Theseus."
 <pb n="33"/>
 
 
-<div type="textpart" subtype="para" n="58">
-<p>VOCABULARY
-<rs type="lemma">ἐνταῦθα</rs>: adv., there, at that place. 
+<div type="textpart" subtype="para" n="58"><head>Vocabulary.</head>
+<p>
+  <list type="vocab">
+<item><rs type="lemma">ἐνταῦθα</rs>: adv., there, at that place. </item>
 
-<rs type="lemma">λοιπός</rs>, λοιπή, λοιπόν: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.
-<rs type="lemma">ἐντεῦθεν</rs>, adv. : from there, thence. 
-<rs type="lemma">ἐπιστολή</rs>, ἐπιστολῆς, ἡ: letter. EPISTLE. 
-<rs type="lemma">οἰκία</rs>, οἰκίας, ἡ: house. ECONOMY.
-<rs type="lemma">ἔχω</rs>, ἕξω: have; ἔσχον1: got. 
-<rs type="lemma">πύλη</rs>, πύλης, ἡ: gate; pl., pass. PYLON. THERMOPYLA.
-<rs type="lemma">λείπω</rs>, λείψω, ἔλιπον: leave. ECLIPSE.</p></div>
-
-
-
+<item><rs type="lemma">λοιπός</rs>, λοιπή, λοιπόν: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.</item>
+<item><rs type="lemma">ἐντεῦθεν</rs>, adv. : from there, thence. </item>
+<item><rs type="lemma">ἐπιστολή</rs>, ἐπιστολῆς, ἡ: letter. EPISTLE. </item>
+<item><rs type="lemma">οἰκία</rs>, οἰκίας, ἡ: house. ECONOMY.</item>
+<item><rs type="lemma">ἔχω</rs>, ἕξω: have; ἔσχον1: got. </item>
+<item><rs type="lemma">πύλη</rs>, πύλης, ἡ: gate; pl., pass. PYLON. THERMOPYLA.</item>
+<item><rs type="lemma">λείπω</rs>, λείψω, ἔλιπον: leave. ECLIPSE.</item>
+  </list>
+</p></div>
 <div type="textpart" subtype="para" n="59"><head>Exercises.</head>
 <p>
 
@@ -2346,22 +2358,23 @@ the entire thought is clear.
 
 7. Translate into clear and accurate English.</p></div>
 
-<div type="textpart" subtype="para" n="64">
-<p>VOCABULARY
-<rs type="lemma">Ἀθῆναι</rs>, Ἀθηνῶν, αἱ: Athens. 
-<rs type="lemma">ἀπ-έχω</rs>: be distant, be away. 
+<div type="textpart" subtype="para" n="64"><head>Vocabulary</head>
+<p><list type="vocab">
+<item><rs type="lemma">Ἀθῆναι</rs>, Ἀθηνῶν, αἱ: Athens. </item>
+<item><rs type="lemma">ἀπ-έχω</rs>: be distant, be away. </item>
 
-<rs type="lemma">ἐπί</rs>: prep. with G., on, upon;1 with D., on, at, by; with A., upon, to, againsi, EPIDERMIS.<note>The difference between the genitive, dative, and accusative may be indicated by these phrases: on horseback, a city on the sea, he marches on the town. Compare παρά (§ 25).</note>
-<rs type="lemma">Ἀθηναῖος</rs>, Ἀθηναά, Ἀθηναῖον: Athenian. 
-<rs type="lemma">ἑπτά</rs>: seven. HEPTAGON.
-<rs type="lemma">δρόμος</rs>, δρόμου, ὁ: a running, run, race, race course. HIPPODROME.
+<item><rs type="lemma">ἐπί</rs>: prep. with G., on, upon;1 with D., on, at, by; with A., upon, to, againsi, EPIDERMIS.<note>The difference between the genitive, dative, and accusative may be indicated by these phrases: on horseback, a city on the sea, he marches on the town. Compare παρά (§ 25).</note></item>
+<item><rs type="lemma">Ἀθηναῖος</rs>, Ἀθηναά, Ἀθηναῖον: Athenian. </item>
+<item><rs type="lemma">ἑπτά</rs>: seven. HEPTAGON.</item>
+<item><rs type="lemma">δρόμος</rs>, δρόμου, ὁ: a running, run, race, race course. HIPPODROME.</item>
 
-<rs type="lemma">ἥκω</rs>, ἥξω: [No aorist in use] come, have come, arrive.  
+<item><rs type="lemma">ἥκω</rs>, ἥξω: [No aorist in use] come, have come, arrive.  </item>
 
-<rs type="lemma">ὀκτώ</rs>: eight. octopus.
+<item><rs type="lemma">ὀκτώ</rs>: eight. octopus.</item>
 
-<rs type="lemma">σπεύδω</rs>, σπεύσω, ἔσπευσα: hasten.</p></div>
-
+<item><rs type="lemma">σπεύδω</rs>, σπεύσω, ἔσπευσα: hasten.</item>
+</list>
+</p></div>
 <div type="textpart" subtype="para" n="65">
 <p>MARATHON</p>
 
