@@ -80,8 +80,6 @@ add that belong to this group?
 
 (d) Give the Greek for:
 
-
-
 1. she is writing
 2. you (singular) lead
 3. we stop

@@ -93,7 +93,6 @@ face, "This is the city of Hadrian, not of Theseus."
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
 | ἐνταῦθα | [126](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐνταῦθα.md) | 19285 | adv., there, at that place. 
-
 | λοιπός | [28](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/λοιπός.md) | 19313 | λοιπή, λοιπόν: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.
 | ἐντεῦθεν | [80](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐντεῦθεν.md) | 19393 | adv. : from there, thence. 
 | ἐπιστολή | [5](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐπιστολή.md) | 19398 | ἐπιστολῆς, ἡ: letter. EPISTLE. 

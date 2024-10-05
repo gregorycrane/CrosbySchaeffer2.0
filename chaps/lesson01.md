@@ -498,10 +498,6 @@ The following example includes a predicate nominative and a genitive.
 
 ### (b) Read aloud in Greek and translate into English :
 
-
-
-
-
 1. ἦν στρατηγός.
 2. ἔχει ἀδελφούς.
 3. παύουσι τὸν στρατηγόν.
@@ -512,7 +508,6 @@ The following example includes a predicate nominative and a genitive.
 
 
 ### (c) Complete these sentences, adding endings and accents :
-
 
 1. ὁ στρατηγ--- ἔχει ἀδελφ-- (singular). 
 2. ἦσαν ποταμ---.
