@@ -62,23 +62,23 @@ the entire thought is clear.
 
 7. Translate into clear and accurate English.
 
-<div type="textpart" subtype="para" n="64">
+## [§ 64](#para64). Vocabulary
+| Lemma | Freq | Total | Gloss |
+| --- | --- | --- | -- |
+| Ἀθῆναι | [2](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/Ἀθῆναι.md) | 19910 | Ἀθηνῶν, αἱ: Athens. 
+| ἀπέχω | [24](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀπέχω.md) | 19934 | be distant, be away. 
 
+| ἐπί | [461](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐπί.md) | 20395 | prep. with G., on, upon;1 with D., on, at, by; with A., upon, to, againsi, EPIDERMIS.<note>The difference between the genitive, dative, and accusative may be indicated by these phrases: on horseback, a city on the sea, he marches on the town. Compare παρά (§ 25).</note>
+| Ἀθηναῖος | [26](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/Ἀθηναῖος.md) | 20421 | Ἀθηναά, Ἀθηναῖον: Athenian. 
+| ἑπτά | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἑπτά.md) | 20435 | seven. HEPTAGON.
+| δρόμος | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δρόμος.md) | 20449 | δρόμου, ὁ: a running, run, race, race course. HIPPODROME.
 
-VOCABULARY
-<rs type="lemma">Ἀθῆναι</rs>, Ἀθηνῶν, αἱ: Athens.
-<rs type="lemma">ἀπ-έχω</rs>: be distant, be away.
+| ἥκω | [91](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἥκω.md) | 20540 | ἥξω: [No aorist in use] come, have come, arrive.  
 
-<rs type="lemma">ἐπί</rs>: prep. with G., on, upon;1 with D., on, at, by; with A., upon, to, againsi, EPIDERMIS.<note>The difference between the genitive, dative, and accusative may be indicated by these phrases: on horseback, a city on the sea, he marches on the town. Compare παρά (§ 25).</note>
-<rs type="lemma">Ἀθηναῖος</rs>, Ἀθηναά, Ἀθηναῖον: Athenian.
-<rs type="lemma">ἑπτά</rs>: seven. HEPTAGON.
-<rs type="lemma">δρόμος</rs>, δρόμου, ὁ: a running, run, race, race course. HIPPODROME.
+| ὀκτώ | [10](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὀκτώ.md) | 20550 | eight. octopus.
 
-<rs type="lemma">ἥκω</rs>, ἥξω: [No aorist in use] come, have come, arrive.
+| σπεύδω | [9](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/σπεύδω.md) | 20559 | σπεύσω, ἔσπευσα: hasten.
 
-<rs type="lemma">ὀκτώ</rs>: eight. octopus.
-
-<rs type="lemma">σπεύδω</rs>, σπεύσω, ἔσπευσα: hasten.
 
 <div type="textpart" subtype="para" n="65">
 
