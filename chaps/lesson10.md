@@ -51,7 +51,7 @@ There is usually no difference of meaning between
 first and second aorist, the terms signifying merely differ-
 ence in formation:
 
-ἔπαυσοα (first aorist) I stopped ; ἔλιπον (second aorist) I left.
+ἔπαυσα (first aorist) I stopped ; ἔλιπον (second aorist) I left.
 
 ## [§ 57](#para57). Tenses of the Infinitive.
 

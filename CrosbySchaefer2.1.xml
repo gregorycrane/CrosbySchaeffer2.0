@@ -1910,7 +1910,19 @@ See if you can identify other English cognates using these terms:
   <bibl>Periander</bibl>
 </cit>
 <p><ref n="https://en.wikipedia.org/wiki/Periander">Periander (died c. 555 BCE)</ref> (see also the <ref n="https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=periander-bio-1">Smith encyclopedia entry</ref>, which has links to primary sources) lived in the seventh and sixth century BCE and is rememberd in very different ways. Herodotus ([5.92-5.92G](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-eng2:5.92-5.92G/)) represents him as a man who becomes a brutal tyrant of Corinth. But Periander also often appears as one of the Seven Wise Men of early Greece and the saying quoted above is attributed to him in this capacity (see the <title>Lives of the Philosophers</title> by <ref n="https://en.wikipedia.org/wiki/Diogenes_Laertius">Diogenes Laertius (3rd century CE)</ref>, <ref n="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0004.tlg001.perseus-grc2:1.7/">1.7</ref>).</p>
-<p><graphic url="https://upload.wikimedia.org/wikipedia/commons/4/48/Periander_Pio-Clementino_Inv276.jpg"/>Bust of Periander bearing the inscription “Periander, son of Cypselus, Corinthian”. Marble, Roman copy after a Greek original from the 4th century (from <ref n="https://en.wikipedia.org/wiki/Periander#/media/File:Periander_Pio-Clementino_Inv276.jpg">Wikipedia</ref>).</p>
+<p><graphic url="https://upload.wikimedia.org/wikipedia/commons/4/48/Periander_Pio-Clementino_Inv276.jpg"/>Bust of Periander bearing the inscription “Periander, son of Cypselus, Corinthian”. Marble, Roman copy after a Greek original from the 4th century (from <ref n="https://en.wikipedia.org/wiki/Periander#/media/File:Periander_Pio-Clementino_Inv276.jpg">Wikipedia</ref>).</p></div>
+
+<div type="textpart" subtype="para" n="49a"><head>Principle Parts of a Greek Verb.</head>
+<p>There are six different variations on the stem of a Greek verb -- what are called the principal parts. When a verb is regular, we can generate all six of these stems from the present. Verbs such as παύω and λύω are popular in textbooks of Ancient Greek because they are short and regular. The next two chapters introduce the second and third principle parts. Because we are engaging already with authentic Greek sources, we will survey all six principal parts now. In 2024, every major reading environment for Greek texts should be able to give you the morphological analysis of any Greek verb form. The goal here is to cultivate general sense of what all six principal parts do while practicing active command of those principals that we cover in this text book.</p>
+<table>
+  <row role="label"><cell>label</cell><cell>regular</cell><cell>(most) irregular</cell></row>
+  <row role="label"><cell>present</cell><cell>λύω</cell><cell>φέρω</cell></row>
+  <row role="label"><cell>future</cell><cell>λύσω</cell><cell>οἴσω</cell></row>
+  <row role="label"><cell>aorist</cell><cell>ἔλυσα</cell><cell>ἤνεγκον</cell></row>
+  <row role="label"><cell>perfect active</cell><cell>λέλυκα</cell><cell>ἐνήνοχα</cell></row>
+  <row role="label"><cell>perfect middle/passive</cell><cell>λέλυμαι</cell><cell>ἐνήνεγμαι</cell></row>
+  <row role="label"><cell>aorist passive</cell><cell>ἐλύθην</cell><cell>ἐνέχθην</cell></row>
+</table>
 
 <div type="textpart" subtype="para" n="49"><head>The Future Tense.</head>
 <p>This tense has the same personal endings as the present. It differs from the present only as to stem, which it forms by adding -σ- to the verb stem. In the case of verbs whose stem ends in a mute, the σ is the occasion of certain changes:
@@ -2123,7 +2135,7 @@ Inflect λύω and φεύγω in the aorist indicative and infinitive.</p></div>
 first and second aorist, the terms signifying merely differ-
 ence in formation:
 
-ἔπαυσοα (first aorist) I stopped ; ἔλιπον (second aorist) I left.</p></div>
+ἔπαυσα (first aorist) I stopped ; ἔλιπον (second aorist) I left.</p></div>
 
 <div type="textpart" subtype="para" n="57"><head>Tenses of the Infinitive.</head>
 <p>The infinitive, except in

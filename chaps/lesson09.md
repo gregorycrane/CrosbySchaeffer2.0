@@ -14,6 +14,27 @@
 
 ![text](https://upload.wikimedia.org/wikipedia/commons/4/48/Periander_Pio-Clementino_Inv276.jpg)Bust of Periander bearing the inscription “Periander, son of Cypselus, Corinthian”. Marble, Roman copy after a Greek original from the 4th century (from [Wikipedia](https://en.wikipedia.org/wiki/Periander#/media/File:Periander_Pio-Clementino_Inv276.jpg)).
 
+## [§ 49a](#para49a). Principle Parts of a Greek Verb.
+
+
+There are six different variations on the stem of a Greek verb -- what are called the principal parts. When a verb is regular, we can generate all six of these stems from the present. Verbs such as παύω and λύω are popular in textbooks of Ancient Greek because they are short and regular. The next two chapters introduce the second and third principle parts. Because we are engaging already with authentic Greek sources, we will survey all six principal parts now. In 2024, every major reading environment for Greek texts should be able to give you the morphological analysis of any Greek verb form. The goal here is to cultivate general sense of what all six principal parts do while practicing active command of those principals that we cover in this text book.
+
+| label | regular | (most) irregular | 
+| --- | --- | --- 
+| present | λύω | φέρω | 
+| --- | --- | --- 
+| future | λύσω | οἴσω | 
+| --- | --- | --- 
+| aorist | ἔλυσα | ἤνεγκον | 
+| --- | --- | --- 
+| perfect active | λέλυκα | ἐνήνοχα | 
+| --- | --- | --- 
+| perfect middle/passive | λέλυμαι | ἐνήνεγμαι | 
+| --- | --- | --- 
+| aorist passive | ἐλύθην | ἐνέχθην | 
+| --- | --- | --- 
+
+
 ## [§ 49](#para49). The Future Tense.
 
 
@@ -44,10 +65,13 @@ present tense, but verbs with stems in ζ are palatals and most verbs with stems
 
 
 
-Future Indicative of παύω I stop
+| Greek | English | 
+| --- | -- | 
+|  πέμπω  |  I will send  |
+|  πέμψω (πέμπ-**σ**-ω)  |  I will send  |
 
 
-| pers/num | prsent | future | 
+| pers/num | present | future | 
 | --- | --- | --- 
 | 1st sg | πέμπ-ω | πεμ-**ψ**-ω | 
 | 2nd sg | πέμπ-εις | πεμ-**ψ**-εις | 
@@ -126,20 +150,13 @@ The gateway to the Acropolis.
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
 | ἄρχω | [78](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἄρχω.md) | 18823 | ἄρξω:1 begin, rule, command,  with G. ARCHBISHOP.
-
 | μέλλω | [36](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/μέλλω.md) | 18859 | μελλήσω: intend, delay, be about to, usually with fut. inf.
-
 | διώκω | [48](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/διώκω.md) | 18907 | διώξω: pursue. 
-
 | θύρα | [10](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/θύρα.md) | 18917 | θύρα, ἡ: door; αἱ θύραι: often used of military head-quarters or of the king's court (compare Sublime Porte). THYROID.
-
 | νομίζω | [69](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/νομίζω.md) | 18986 | 1 believe, think, with inf.
-
 | ὁδός | [75](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὁδός.md) | 19061 | ὁδοῦ, ὁ: road, route. EXODUS.
-
 | πείθω | [64](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πείθω.md) | 19125 | πείσω: persuade.
-
-οπτεύω | [11](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὑποπτεύω.md) | 19136 | ὑπ-οπτεύσω: suspect (ὑπό, under + ὀπτεύω, look), with inf. HYPODERMIC. OPTIC.
+| ὑποπτεύω | [11](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὑποπτεύω.md) | 19136 | ὑπ-οπτεύσω: suspect (ὑπό, under + ὀπτεύω, look), with inf. HYPODERMIC. OPTIC.
 | ἰσχυρός | [23](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἰσχυρός.md) | 19159 | ἰσχυρά, ἰσχυρόν: strong. 
 
 
