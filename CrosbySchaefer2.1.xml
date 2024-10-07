@@ -1915,13 +1915,13 @@ See if you can identify other English cognates using these terms:
 <div type="textpart" subtype="para" n="49a"><head>Principle Parts of a Greek Verb.</head>
 <p>There are six different variations on the stem of a Greek verb -- what are called the principal parts. When a verb is regular, we can generate all six of these stems from the present. Verbs such as παύω and λύω are popular in textbooks of Ancient Greek because they are short and regular. The next two chapters introduce the second and third principle parts. Because we are engaging already with authentic Greek sources, we will survey all six principal parts now. In 2024, every major reading environment for Greek texts should be able to give you the morphological analysis of any Greek verb form. The goal here is to cultivate general sense of what all six principal parts do while practicing active command of those principals that we cover in this text book.</p><p>The following table compares the principal parts of λύω with those of φέρω, <gloss>to bear, to carry</gloss>, the most irregular Greek verb. The present of this verb comes from <ref n="https://en.wiktionary.org/wiki/%CF%86%CE%AD%CF%81%CF%89">Proto-Indo-European *bʰéreti</ref> and this form survives also in English "to bear" (as it does in Latin <foreign xml:lang="lat">fero</foreign>). Stems from other words, however, were used to fill out the paradigm. If you can't see a linguistic connection between φέρω, οἴσω and ἤνεγκον, you are quite correct. These are three unrelated stems combined to fill out one verb in Greek. It is very very helpful to learn the principal parts of many verbs if you wish to read Greek quickly but you can almost always query a digital reading environment to parse a form that you cannot figure out on your own.</p>
 <table>
-  <row role="label"><cell>label</cell><cell>regular</cell><cell>(most) irregular</cell></row>
-  <row><cell>present</cell><cell><emph>λύ</emph>-ω</cell><cell>φέρω</cell></row>
-  <row><cell>future</cell><cell><emph>λύ</emph>-σω</cell><cell>οἴσω</cell></row>
-  <row><cell>aorist</cell><cell>ἔ-<emph>λυ</emph>-σα</cell><cell>ἤνεγκον</cell></row>
-  <row><cell>perfect active</cell><cell>λέ-<emph>λυ</emph>-κα</cell><cell>ἐνήνοχα</cell></row>
-  <row><cell>perfect middle/passive</cell><cell>λέ-<emph>λυ</emph>-μαι</cell><cell>ἐνήνεγμαι</cell></row>
-  <row ><cell>aorist passive</cell><cell>ἐ-<emph>λύ</emph>-θην</cell><cell>ἐνέχθην</cell></row>
+  <row role="label"><cell>label</cell><cell>regular</cell><cell>(most) irregular</cell><cell>Freq.</cell></row>
+  <row><cell>present</cell><cell><emph>λύ</emph>-ω</cell><cell>φέρω</cell><cell>6227</cell></row>
+  <row><cell>future</cell><cell><emph>λύ</emph>-σω</cell><cell>οἴσω</cell><cell>308</cell></row>
+  <row><cell>aorist</cell><cell>ἔ-<emph>λυ</emph>-σα</cell><cell>ἤνεγκον</cell><cell>3361</cell></row>
+  <row><cell>perfect active</cell><cell>λέ-<emph>λυ</emph>-κα</cell><cell>ἐνήνοχα</cell><cell>267</cell></row>
+  <row><cell>perfect middle/passive</cell><cell>λέ-<emph>λυ</emph>-μαι</cell><cell>ἐνήνεγμαι</cell><cell>249</cell></row>
+  <row ><cell>aorist passive</cell><cell>ἐ-<emph>λύ</emph>-θην</cell><cell>ἐνέχθην</cell><cell>609</cell></row>
 </table>
 <p>While the accent changes depending on the length of the ending, the stem of λύω (-λύ-) does not change. The third and sixth principal parts add an augment (just as the imperfect did) but they use different endings. The third principal and sixth principal parts designate the simple past (which will be covered in the next lesson).
 </p><p>The fourth and fifth principal parts cover the perfect tense. In essense, the perfect describes an event that happened in the past and remains in effect in the present. Crosby and Schaeffer cover the fourth, fifth and sixth principal parts in lessons 52-54. 
@@ -2119,7 +2119,7 @@ and so had few good roads.</p></figure>
     <row><cell>16</cell><cell>aorist participle middle</cell><cell>177</cell></row>
     <row><cell>17</cell><cell>present subjunctive active</cell><cell>166</cell></row>
     <row><cell>18</cell><cell>aorist indicative passive</cell><cell>152</cell></row>
-    <row><cell>19</cell><cell>future indicative active</cell><cell>146</cell></row>
+    <row><cell>19</cell><cell><emph>future indicative active</emph></cell><cell>146</cell></row>
     <row><cell>20</cell><cell>present optative middle-passive</cell><cell>145</cell></row>
     <row><cell>21</cell><cell>aorist infinitive middle</cell><cell>143</cell></row>
     <row><cell>22</cell><cell>aorist optative active</cell><cell>139</cell></row>
@@ -2130,7 +2130,7 @@ and so had few good roads.</p></figure>
     <row><cell>27</cell><cell>aorist participle passive</cell><cell>78</cell></row>
     <row><cell>28</cell><cell>future participle active</cell><cell>70</cell></row>
     <row><cell>29</cell><cell>present imperative active</cell><cell>65</cell></row>
-    <row><cell>30</cell><cell>future infinitive active</cell><cell>61</cell></row>
+    <row><cell>30</cell><cell><emph>future infinitive active</emph></cell><cell>61</cell></row>
     <row><cell>31</cell><cell>aorist optative middle</cell><cell>54</cell></row>
     <row><cell>32</cell><cell>pluperfect indicative active</cell><cell>53</cell></row>
     <row><cell>33</cell><cell>future infinitive middle</cell><cell>49</cell></row>

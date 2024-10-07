@@ -21,14 +21,14 @@ There are six different variations on the stem of a Greek verb -- what are calle
 
 The following table compares the principal parts of λύω with those of φέρω, *to bear, to carry*, the most irregular Greek verb. The present of this verb comes from [Proto-Indo-European *bʰéreti](https://en.wiktionary.org/wiki/%CF%86%CE%AD%CF%81%CF%89) and this form survives also in English "to bear" (as it does in Latin <foreign xml:lang="lat">fero</foreign>). Stems from other words, however, were used to fill out the paradigm. If you can't see a linguistic connection between φέρω, οἴσω and ἤνεγκον, you are quite correct. These are three unrelated stems combined to fill out one verb in Greek. It is very very helpful to learn the principal parts of many verbs if you wish to read Greek quickly but you can almost always query a digital reading environment to parse a form that you cannot figure out on your own.
 
-| label | regular | (most) irregular | 
-| --- | --- | --- 
-| present | **λύ**-ω | φέρω | 
-| future | **λύ**-σω | οἴσω | 
-| aorist | ἔ-**λυ**-σα | ἤνεγκον | 
-| perfect active | λέ-**λυ**-κα | ἐνήνοχα | 
-| perfect middle/passive | λέ-**λυ**-μαι | ἐνήνεγμαι | 
-| aorist passive | ἐ-**λύ**-θην | ἐνέχθην | 
+| label | regular | (most) irregular | Freq. | 
+| --- | --- | --- | --- 
+| present | **λύ**-ω | φέρω | 6227 | 
+| future | **λύ**-σω | οἴσω | 308 | 
+| aorist | ἔ-**λυ**-σα | ἤνεγκον | 3361 | 
+| perfect active | λέ-**λυ**-κα | ἐνήνοχα | 267 | 
+| perfect middle/passive | λέ-**λυ**-μαι | ἐνήνεγμαι | 249 | 
+| aorist passive | ἐ-**λύ**-θην | ἐνέχθην | 609 | 
 
 
 

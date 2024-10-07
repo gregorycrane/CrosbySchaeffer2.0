@@ -28,7 +28,7 @@ With this chapter, we will have encountered five of the ten most common verb par
 | 16 | aorist participle middle | 177 | 
 | 17 | present subjunctive active | 166 | 
 | 18 | aorist indicative passive | 152 | 
-| 19 | future indicative active | 146 | 
+| 19 | **future indicative active** | 146 | 
 | 20 | present optative middle-passive | 145 | 
 | 21 | aorist infinitive middle | 143 | 
 | 22 | aorist optative active | 139 | 
@@ -39,7 +39,7 @@ With this chapter, we will have encountered five of the ten most common verb par
 | 27 | aorist participle passive | 78 | 
 | 28 | future participle active | 70 | 
 | 29 | present imperative active | 65 | 
-| 30 | future infinitive active | 61 | 
+| 30 | **future infinitive active** | 61 | 
 | 31 | aorist optative middle | 54 | 
 | 32 | pluperfect indicative active | 53 | 
 | 33 | future infinitive middle | 49 | 
