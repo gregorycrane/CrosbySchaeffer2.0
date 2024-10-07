@@ -3,7 +3,72 @@
 
 >  ὅ τι καλὸν φίλον ἀεί.<br/>
 >  A thing of beauty is a joy forever.<quote xml:lang="eng">Literally: Whatever is beautiful is ever dear.<br/><bibl>Euripides, Bacchae, 881.</bibl>
+## [§ 54a](#para54a). Paradigms.
 
+
+With this chapter, we will have encountered five of the ten most common verb paradigms. The list may look -- and is indeed -- long, with 59 different combinations of tense, mood, and voice. So far we have only looked at the indicative mood and the active voice but already we can unerstand a large number of verb forms. We have not looked at every variation of the paradigms we have covered -- there are omega verbs with stems ending in a vowel that have contractions in Attic an there are archaic verbs that end in -μι, but these forms are all annotated in the text of the Anabasis that we are reading. By the end of lesson 26, we will have covered participles and middle-passive forms and we have the seen the majority paradigms.
+
+| | paradigm | Anabasis Frequency | 
+| --- | --- | --- 
+| 1 | **imperfect indicative active** | 1892 | 
+| 2 | present participle active | 1348 | 
+| 3 | **present indicative active** | 1195 | 
+| 4 | **present infinitive active** | 1112 | 
+| 5 | **aorist indicative active** | 1082 | 
+| 6 | aorist participle active | 758 | 
+| 7 | imperfect indicative middle-passive | 699 | 
+| 8 | present participle middle-passive | 495 | 
+| 9 | **aorist infinitive active** | 440 | 
+| 10 | present indicative middle-passive | 431 | 
+| 11 | present infinitive middle-passive | 400 | 
+| 12 | present optative active | 362 | 
+| 13 | aorist indicative middle | 346 | 
+| 14 | future indicative middle | 204 | 
+| 15 | perfect participle middle-passive | 194 | 
+| 16 | aorist participle middle | 177 | 
+| 17 | present subjunctive active | 166 | 
+| 18 | aorist indicative passive | 152 | 
+| 19 | future indicative active | 146 | 
+| 20 | present optative middle-passive | 145 | 
+| 21 | aorist infinitive middle | 143 | 
+| 22 | aorist optative active | 139 | 
+| 23 | aorist subjunctive active | 128 | 
+| 24 | perfect participle active | 104 | 
+| 25 | perfect indicative active | 104 | 
+| 26 | present subjunctive middle-passive | 82 | 
+| 27 | aorist participle passive | 78 | 
+| 28 | future participle active | 70 | 
+| 29 | present imperative active | 65 | 
+| 30 | future infinitive active | 61 | 
+| 31 | aorist optative middle | 54 | 
+| 32 | pluperfect indicative active | 53 | 
+| 33 | future infinitive middle | 49 | 
+| 34 | aorist subjunctive middle | 43 | 
+| 35 | aorist infinitive passive | 42 | 
+| 36 | future participle middle | 37 | 
+| 37 | perfect infinitive active | 35 | 
+| 38 | aorist imperative active | 34 | 
+| 39 | pluperfect indicative middle | 32 | 
+| 40 | perfect indicative middle-passive | 30 | 
+| 41 | present imperative middle-passive | 26 | 
+| 42 | aorist optative passive | 24 | 
+| 43 | perfect infinitive middle-passive | 22 | 
+| 44 | future optative middle | 18 | 
+| 45 | aorist subjunctive passive | 17 | 
+| 46 | aorist imperative middle | 17 | 
+| 47 | perfect imperative active | 14 | 
+| 48 | perfect subjunctive active | 8 | 
+| 49 | future optative active | 7 | 
+| 50 | future indicative passive | 5 | 
+| 51 | future participle passive | 3 | 
+| 52 | aorist imperative passive | 3 | 
+| 53 | perfect imperative middle-passive | 2 | 
+| 54 | perfect optative active | 2 | 
+| 55 | future perfect infinitive middle-passive | 1 | 
+| 56 | perfect optative middle-passive | 1 | 
+| 57 | present indicative passive | 1 | 
+| 58 | imperfect indicative passive | 1 | 
+| 59 | future infinitive passive | 1 | 
 
 ## [§ 54](#para54). The Aorist.
 

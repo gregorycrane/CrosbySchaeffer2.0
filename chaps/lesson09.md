@@ -19,20 +19,24 @@
 
 There are six different variations on the stem of a Greek verb -- what are called the principal parts. When a verb is regular, we can generate all six of these stems from the present. Verbs such as παύω and λύω are popular in textbooks of Ancient Greek because they are short and regular. The next two chapters introduce the second and third principle parts. Because we are engaging already with authentic Greek sources, we will survey all six principal parts now. In 2024, every major reading environment for Greek texts should be able to give you the morphological analysis of any Greek verb form. The goal here is to cultivate general sense of what all six principal parts do while practicing active command of those principals that we cover in this text book.
 
+The following table compares the principal parts of λύω with those of φέρω, *to bear, to carry*, the most irregular Greek verb. The present of this verb comes from [Proto-Indo-European *bʰéreti](https://en.wiktionary.org/wiki/%CF%86%CE%AD%CF%81%CF%89) and this form survives also in English "to bear" (as it does in Latin <foreign xml:lang="lat">fero</foreign>). Stems from other words, however, were used to fill out the paradigm. If you can't see a linguistic connection between φέρω, οἴσω and ἤνεγκον, you are quite correct. These are three unrelated stems combined to fill out one verb in Greek. It is very very helpful to learn the principal parts of many verbs if you wish to read Greek quickly but you can almost always query a digital reading environment to parse a form that you cannot figure out on your own.
+
 | label | regular | (most) irregular | 
 | --- | --- | --- 
-| present | λύω | φέρω | 
-| --- | --- | --- 
-| future | λύσω | οἴσω | 
-| --- | --- | --- 
-| aorist | ἔλυσα | ἤνεγκον | 
-| --- | --- | --- 
-| perfect active | λέλυκα | ἐνήνοχα | 
-| --- | --- | --- 
-| perfect middle/passive | λέλυμαι | ἐνήνεγμαι | 
-| --- | --- | --- 
-| aorist passive | ἐλύθην | ἐνέχθην | 
-| --- | --- | --- 
+| present | **λύ**-ω | φέρω | 
+| future | **λύ**-σω | οἴσω | 
+| aorist | ἔ-**λυ**-σα | ἤνεγκον | 
+| perfect active | λέ-**λυ**-κα | ἐνήνοχα | 
+| perfect middle/passive | λέ-**λυ**-μαι | ἐνήνεγμαι | 
+| aorist passive | ἐ-**λύ**-θην | ἐνέχθην | 
+
+
+
+While the accent changes depending on the length of the ending, the stem of λύω (-λύ-) does not change. The third and sixth principal parts add an augment (just as the imperfect did) but they use different endings. The third principal and sixth principal parts designate the simple past (which will be covered in the next lesson).
+
+
+The fourth and fifth principal parts cover the perfect tense. In essense, the perfect describes an event that happened in the past and remains in effect in the present. Crosby and Schaeffer cover the fourth, fifth and sixth principal parts in lessons 52-54.
+
 
 
 ## [§ 49](#para49). The Future Tense.

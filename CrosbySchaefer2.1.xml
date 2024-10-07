@@ -1913,16 +1913,20 @@ See if you can identify other English cognates using these terms:
 <p><graphic url="https://upload.wikimedia.org/wikipedia/commons/4/48/Periander_Pio-Clementino_Inv276.jpg"/>Bust of Periander bearing the inscription “Periander, son of Cypselus, Corinthian”. Marble, Roman copy after a Greek original from the 4th century (from <ref n="https://en.wikipedia.org/wiki/Periander#/media/File:Periander_Pio-Clementino_Inv276.jpg">Wikipedia</ref>).</p></div>
 
 <div type="textpart" subtype="para" n="49a"><head>Principle Parts of a Greek Verb.</head>
-<p>There are six different variations on the stem of a Greek verb -- what are called the principal parts. When a verb is regular, we can generate all six of these stems from the present. Verbs such as παύω and λύω are popular in textbooks of Ancient Greek because they are short and regular. The next two chapters introduce the second and third principle parts. Because we are engaging already with authentic Greek sources, we will survey all six principal parts now. In 2024, every major reading environment for Greek texts should be able to give you the morphological analysis of any Greek verb form. The goal here is to cultivate general sense of what all six principal parts do while practicing active command of those principals that we cover in this text book.</p>
+<p>There are six different variations on the stem of a Greek verb -- what are called the principal parts. When a verb is regular, we can generate all six of these stems from the present. Verbs such as παύω and λύω are popular in textbooks of Ancient Greek because they are short and regular. The next two chapters introduce the second and third principle parts. Because we are engaging already with authentic Greek sources, we will survey all six principal parts now. In 2024, every major reading environment for Greek texts should be able to give you the morphological analysis of any Greek verb form. The goal here is to cultivate general sense of what all six principal parts do while practicing active command of those principals that we cover in this text book.</p><p>The following table compares the principal parts of λύω with those of φέρω, <gloss>to bear, to carry</gloss>, the most irregular Greek verb. The present of this verb comes from <ref n="https://en.wiktionary.org/wiki/%CF%86%CE%AD%CF%81%CF%89">Proto-Indo-European *bʰéreti</ref> and this form survives also in English "to bear" (as it does in Latin <foreign xml:lang="lat">fero</foreign>). Stems from other words, however, were used to fill out the paradigm. If you can't see a linguistic connection between φέρω, οἴσω and ἤνεγκον, you are quite correct. These are three unrelated stems combined to fill out one verb in Greek. It is very very helpful to learn the principal parts of many verbs if you wish to read Greek quickly but you can almost always query a digital reading environment to parse a form that you cannot figure out on your own.</p>
 <table>
   <row role="label"><cell>label</cell><cell>regular</cell><cell>(most) irregular</cell></row>
-  <row role="label"><cell>present</cell><cell>λύω</cell><cell>φέρω</cell></row>
-  <row role="label"><cell>future</cell><cell>λύσω</cell><cell>οἴσω</cell></row>
-  <row role="label"><cell>aorist</cell><cell>ἔλυσα</cell><cell>ἤνεγκον</cell></row>
-  <row role="label"><cell>perfect active</cell><cell>λέλυκα</cell><cell>ἐνήνοχα</cell></row>
-  <row role="label"><cell>perfect middle/passive</cell><cell>λέλυμαι</cell><cell>ἐνήνεγμαι</cell></row>
-  <row role="label"><cell>aorist passive</cell><cell>ἐλύθην</cell><cell>ἐνέχθην</cell></row>
+  <row><cell>present</cell><cell><emph>λύ</emph>-ω</cell><cell>φέρω</cell></row>
+  <row><cell>future</cell><cell><emph>λύ</emph>-σω</cell><cell>οἴσω</cell></row>
+  <row><cell>aorist</cell><cell>ἔ-<emph>λυ</emph>-σα</cell><cell>ἤνεγκον</cell></row>
+  <row><cell>perfect active</cell><cell>λέ-<emph>λυ</emph>-κα</cell><cell>ἐνήνοχα</cell></row>
+  <row><cell>perfect middle/passive</cell><cell>λέ-<emph>λυ</emph>-μαι</cell><cell>ἐνήνεγμαι</cell></row>
+  <row ><cell>aorist passive</cell><cell>ἐ-<emph>λύ</emph>-θην</cell><cell>ἐνέχθην</cell></row>
 </table>
+<p>While the accent changes depending on the length of the ending, the stem of λύω (-λύ-) does not change. The third and sixth principal parts add an augment (just as the imperfect did) but they use different endings. The third principal and sixth principal parts designate the simple past (which will be covered in the next lesson).
+</p><p>The fourth and fifth principal parts cover the perfect tense. In essense, the perfect describes an event that happened in the past and remains in effect in the present. Crosby and Schaeffer cover the fourth, fifth and sixth principal parts in lessons 52-54. 
+
+</p>
 
 <div type="textpart" subtype="para" n="49"><head>The Future Tense.</head>
 <p>This tense has the same personal endings as the present. It differs from the present only as to stem, which it forms by adding -σ- to the verb stem. In the case of verbs whose stem ends in a mute, the σ is the occasion of certain changes:
@@ -2093,8 +2097,70 @@ and so had few good roads.</p></figure>
 
 <cit><quote xml:lang="grc">ὅ τι καλὸν φίλον ἀεί.</quote>
   <quote xml:lang="eng">A thing of beauty is a joy forever.</quote><quote xml:lang="eng">Literally: Whatever is beautiful is ever dear.</quote><bibl>Euripides, Bacchae, 881.</bibl></cit>
-
-
+  <div type="textpart" subtype="para" n="54a"><head>Paradigms.</head>
+    <p>With this chapter, we will have encountered five of the ten most common verb paradigms. The list may look -- and is indeed -- long, with 59 different combinations of tense, mood, and voice. So far we have only looked at the indicative mood and the active voice but already we can unerstand a large number of verb forms. We have not looked at every variation of the paradigms we have covered -- there are omega verbs with stems ending in a vowel that have contractions in Attic an there are archaic verbs that end in -μι, but these forms are all annotated in the text of the Anabasis that we are reading. By the end of lesson 26, we will have covered participles and middle-passive forms and we have the seen the majority paradigms.</p>
+  <table>
+    <row role="label"><cell></cell><cell>paradigm</cell><cell>Anabasis Frequency</cell></row>
+    <row><cell>1</cell><cell><emph>imperfect indicative active</emph></cell><cell>1892</cell></row>
+    <row><cell>2</cell><cell>present participle active</cell><cell>1348</cell></row>
+    <row><cell>3</cell><cell><emph>present indicative active</emph></cell><cell>1195</cell></row>
+    <row><cell>4</cell><cell><emph>present infinitive active</emph></cell><cell>1112</cell></row>
+    <row><cell>5</cell><cell><emph>aorist indicative active</emph></cell><cell>1082</cell></row>
+    <row><cell>6</cell><cell>aorist participle active</cell><cell>758</cell></row>
+    <row><cell>7</cell><cell>imperfect indicative middle-passive</cell><cell>699</cell></row>
+    <row><cell>8</cell><cell>present participle middle-passive</cell><cell>495</cell></row>
+    <row><cell>9</cell><cell><emph>aorist infinitive active</emph></cell><cell>440</cell></row>
+    <row><cell>10</cell><cell>present indicative middle-passive</cell><cell>431</cell></row>
+    <row><cell>11</cell><cell>present infinitive middle-passive</cell><cell>400</cell></row>
+    <row><cell>12</cell><cell>present optative active</cell><cell>362</cell></row>
+    <row><cell>13</cell><cell>aorist indicative middle</cell><cell>346</cell></row>
+    <row><cell>14</cell><cell>future indicative middle</cell><cell>204</cell></row>
+    <row><cell>15</cell><cell>perfect participle middle-passive</cell><cell>194</cell></row>
+    <row><cell>16</cell><cell>aorist participle middle</cell><cell>177</cell></row>
+    <row><cell>17</cell><cell>present subjunctive active</cell><cell>166</cell></row>
+    <row><cell>18</cell><cell>aorist indicative passive</cell><cell>152</cell></row>
+    <row><cell>19</cell><cell>future indicative active</cell><cell>146</cell></row>
+    <row><cell>20</cell><cell>present optative middle-passive</cell><cell>145</cell></row>
+    <row><cell>21</cell><cell>aorist infinitive middle</cell><cell>143</cell></row>
+    <row><cell>22</cell><cell>aorist optative active</cell><cell>139</cell></row>
+    <row><cell>23</cell><cell>aorist subjunctive active</cell><cell>128</cell></row>
+    <row><cell>24</cell><cell>perfect participle active</cell><cell>104</cell></row>
+    <row><cell>25</cell><cell>perfect indicative active</cell><cell>104</cell></row>
+    <row><cell>26</cell><cell>present subjunctive middle-passive</cell><cell>82</cell></row>
+    <row><cell>27</cell><cell>aorist participle passive</cell><cell>78</cell></row>
+    <row><cell>28</cell><cell>future participle active</cell><cell>70</cell></row>
+    <row><cell>29</cell><cell>present imperative active</cell><cell>65</cell></row>
+    <row><cell>30</cell><cell>future infinitive active</cell><cell>61</cell></row>
+    <row><cell>31</cell><cell>aorist optative middle</cell><cell>54</cell></row>
+    <row><cell>32</cell><cell>pluperfect indicative active</cell><cell>53</cell></row>
+    <row><cell>33</cell><cell>future infinitive middle</cell><cell>49</cell></row>
+    <row><cell>34</cell><cell>aorist subjunctive middle</cell><cell>43</cell></row>
+    <row><cell>35</cell><cell>aorist infinitive passive</cell><cell>42</cell></row>
+    <row><cell>36</cell><cell>future participle middle</cell><cell>37</cell></row>
+    <row><cell>37</cell><cell>perfect infinitive active</cell><cell>35</cell></row>
+    <row><cell>38</cell><cell>aorist imperative active</cell><cell>34</cell></row>
+    <row><cell>39</cell><cell>pluperfect indicative middle</cell><cell>32</cell></row>
+    <row><cell>40</cell><cell>perfect indicative middle-passive</cell><cell>30</cell></row>
+    <row><cell>41</cell><cell>present imperative middle-passive</cell><cell>26</cell></row>
+    <row><cell>42</cell><cell>aorist optative passive</cell><cell>24</cell></row>
+    <row><cell>43</cell><cell>perfect infinitive middle-passive</cell><cell>22</cell></row>
+    <row><cell>44</cell><cell>future optative middle</cell><cell>18</cell></row>
+    <row><cell>45</cell><cell>aorist subjunctive passive</cell><cell>17</cell></row>
+    <row><cell>46</cell><cell>aorist imperative middle</cell><cell>17</cell></row>
+    <row><cell>47</cell><cell>perfect imperative active</cell><cell>14</cell></row>
+    <row><cell>48</cell><cell>perfect subjunctive active</cell><cell>8</cell></row>
+    <row><cell>49</cell><cell>future optative active</cell><cell>7</cell></row>
+    <row><cell>50</cell><cell>future indicative passive</cell><cell>5</cell></row>
+    <row><cell>51</cell><cell>future participle passive</cell><cell>3</cell></row>
+    <row><cell>52</cell><cell>aorist imperative passive</cell><cell>3</cell></row>
+    <row><cell>53</cell><cell>perfect imperative middle-passive</cell><cell>2</cell></row>
+    <row><cell>54</cell><cell>perfect optative active</cell><cell>2</cell></row>
+    <row><cell>55</cell><cell>future perfect infinitive middle-passive</cell><cell>1</cell></row>
+    <row><cell>56</cell><cell>perfect optative middle-passive</cell><cell>1</cell></row>
+    <row><cell>57</cell><cell>present indicative passive</cell><cell>1</cell></row>
+    <row><cell>58</cell><cell>imperfect indicative passive</cell><cell>1</cell></row>
+    <row><cell>59</cell><cell>future infinitive passive</cell><cell>1</cell></row>
+    </table></div>
 <div type="textpart" subtype="para" n="54"><head>The Aorist.</head>
 <p>Aorist is the name of a tense of the
 Greek verb. The name is not used in the inflection of
