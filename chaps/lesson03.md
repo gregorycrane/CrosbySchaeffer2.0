@@ -89,18 +89,18 @@ he was hostile to the general.
 ## [§ 17](#para17). Vocabulary
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| ἀγαθός | [121](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀγαθός.md) | 8240 | ἀγαθή, ἀγαθόν: good, brave. AGATHA. 
-| ἄγγελος | [10](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἄγγελος.md) | 8250 | ἀγγέλου, ὁ: messenger. ANGEL.
-| ἄγω | [111](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἄγω.md) | 8361 | lead, Lat. ago. 
-| γράφω | [5](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/γράφω.md) | 8366 | write. TELEGRAPH. LITHOGRAPH.
-| ἐθέλω | [62](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐθέλω.md) | 8428 | wish, be willing. 
-| ἵππος | [66](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἵππος.md) | 8494 | ἵππου, ὁ: horse. ANALYSIS. HIPPOPOTAMUS, 
-| καί | [3388](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/καί.md) | 11882 | conj.: and, also, even.
-| καλός | [109](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/καλός.md) | 11991 | καλή, καλόν: beautiful, honorable, fine.
-| κίνδυνος | [10](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/κίνδυνος.md) | 12001 | κινδύνου, ὁ: danger.
-| λίθος | [22](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/λίθος.md) | 12023 | λίθος, ὁ: stone.
-| λύω | [17](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/λύω.md) | 12040 | loose, break, destroy.
-| παύω | [22](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/παύω.md) | 12062 | stop (trans,). PAUSE.
+| ἀγαθός | [121](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀγαθός.md) | 8240 | ἀγαθή, ἀγαθόν: good, brave. AGATHA.
+| ἄγγελος | [10](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἄγγελος.md) | 8250 | ἀγγέλου, ὁ: messenger. ANGEL.
+| ἄγω | [111](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἄγω.md) | 8361 | lead, Lat. ago.
+| γράφω | [5](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/γράφω.md) | 8366 | write. TELEGRAPH. LITHOGRAPH.
+| ἐθέλω | [62](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐθέλω.md) | 8428 | wish, be willing.
+| ἵππος | [66](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἵππος.md) | 8494 | ἵππου, ὁ: horse. ANALYSIS. HIPPOPOTAMUS,
+| καί | [3388](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/καί.md) | 11882 | conj.: and, also, even.
+| καλός | [109](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/καλός.md) | 11991 | καλή, καλόν: beautiful, honorable, fine.
+| κίνδυνος | [10](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/κίνδυνος.md) | 12001 | κινδύνου, ὁ: danger.
+| λίθος | [22](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/λίθος.md) | 12023 | λίθος, ὁ: stone.
+| λύω | [17](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/λύω.md) | 12040 | loose, break, destroy.
+| παύω | [22](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/παύω.md) | 12062 | stop (trans,). PAUSE.
 
 
 ## [§ 18](#para18). Vocabulary Notes
@@ -139,10 +139,10 @@ The inscription is ΗΕΡΜΟΓΕΝΕΣ ΚΑΛΟΣ, which is Ἑρμογένης
 (a) What do the portions in heavy type tell as to the person
 and number of the subject ?
 
-1. ἄγ-**ουσι** 
-2. λύο-**μεν** 
-3. ἔχ-**ετε** 
-4. ἐθέλ-**ω** 
+1. ἄγ-**ουσι**
+2. λύο-**μεν**
+3. ἔχ-**ετε**
+4. ἐθέλ-**ω**
 5. γράφ-**εις**
 
 
@@ -150,13 +150,13 @@ and number of the subject ?
 
 (b) Translate:
 
-1. ἔχομεν τοὺς καλοὺς λίθους. 
-2. ἐθέλω τῷ ἀγαθῷ ἀνθρώπῳ γράφειν. 
-3. καὶ ὁ στρατηγὸς τὸν ἄγγελον ἄγει ἀπὸ τοῦ Ἑλλησπόντου. 
-4. οἱ ἀδελφοὶ ἐθέλουσι τοὺς ἵππους παύειν. 
+1. ἔχομεν τοὺς καλοὺς λίθους.
+2. ἐθέλω τῷ ἀγαθῷ ἀνθρώπῳ γράφειν.
+3. καὶ ὁ στρατηγὸς τὸν ἄγγελον ἄγει ἀπὸ τοῦ Ἑλλησπόντου.
+4. οἱ ἀδελφοὶ ἐθέλουσι τοὺς ἵππους παύειν.
 5. ὁ ἄγγελος ἔχει ἀγαθὸν ἵππον.
-6. τοὺς φίλους ἐθέλομεν ἄγειν ἐκ τοῦ κινδύνου. 
-7. οἱ πολέμιοι λύουσι τοὺς τῶν στρατηγῶν ἵππους. 
+6. τοὺς φίλους ἐθέλομεν ἄγειν ἐκ τοῦ κινδύνου.
+7. οἱ πολέμιοι λύουσι τοὺς τῶν στρατηγῶν ἵππους.
 8. ὁ στρατηγὸς πολέμιος ἦν τοῖς ἀγγέλοις,
 
 <pb n="9"/>
@@ -165,7 +165,7 @@ and number of the subject ?
 
 (c)
 
-1. οἱ ἀδελφοὶ ἐθέλουσι γραφ--. 
+1. οἱ ἀδελφοὶ ἐθέλουσι γραφ--.
 2. ἐθέλομεν τοὺς ἵππους ἀγ-- ἐκ τοῦ ποταμ--.
 3. οἱ ἄγγελοι πολέμιοι ἦσαν τι-- στρατηγ- (singular).
 
@@ -197,10 +197,10 @@ This is one of the precious bits of sculpture from the eastern pediment of the P
 
 (b) Write in Greek :
 
-1. The brothers were small. 
-2. They are sending the man to the general. 
+1. The brothers were small.
+2. They are sending the man to the general.
 3. The general is sending the enemy away from the river.
-4. He sends the man out of the river. 
+4. He sends the man out of the river.
 5. They were brothers of the general.
 
 

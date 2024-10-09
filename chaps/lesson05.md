@@ -55,7 +55,7 @@ Test your knowledge by reference to the list in § 549.
 10. misanthrope
 11. monolith
 12. paralysis
-13. phonograph. 
+13. phonograph.
 
 
 
@@ -68,7 +68,7 @@ add that belong to this group?
 (c) What are the possible meanings suggested by the endings
 
 1. ον
-2. ῳ 
+2. ῳ
 3. ου
 4. ους
 5. οι
@@ -141,7 +141,7 @@ The tablet above was discovered in Egypt and dates from the second century CE (c
 
 1. ὁ τ-- στρατηγ-- (singular) κίνῡῦνος ἦν μῖκρ--
 2. δωρ-- (plural) πέμπομεν παρὰ τ-- φιλ-- (plura).
-3. οἱ δ᾽ ἀδελφ-- ἦσαν δικαι--. 
+3. οἱ δ᾽ ἀδελφ-- ἦσαν δικαι--.
 4. ἐθέλετε γραφ--.
 5. τὰ δενδρ--  ---- (linking verb) ἐν τ-- πεδι-- (singular),
 6. ὁ ἄγγελος πολέμιος ἦν τ ἀνθρωπ-- (singular).
@@ -150,10 +150,10 @@ The tablet above was discovered in Egypt and dates from the second century CE (c
 
 (b) Write in Greek:
 
-1. But the messenger is leading the horses out of the Hellespont. 
+1. But the messenger is leading the horses out of the Hellespont.
 2. The trees in the plain were small.
-3. And you (plural) wish to have beautiful gifts. 
-4. We are sending the men into the stadium. 
+3. And you (plural) wish to have beautiful gifts.
+4. We are sending the men into the stadium.
 5. The fine gifts were from (the side of) friends of the general.
 
 

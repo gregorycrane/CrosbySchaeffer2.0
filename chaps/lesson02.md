@@ -122,17 +122,17 @@ GRC: The [Battle of Leuctra](https://en.wikipedia.org/wiki/Battle_of_Leuctra) in
 
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| ἄνθρωπος | [75](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἄνθρωπος.md) | 7312 | ἀνθρώπου, ὁ: person, human being. When used with the feminine article, this noun can explicitly designate a female person. ANTHROPOLOGY
-| ἄξιος | [23](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἄξιος.md) | 7335 | worthy, worth. AXIOM
-| ἀπό | [111](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀπό.md) | 7446 | prep. with G.: from, away from, Lat. ab. APOSTLE. 
-| δίκαιος | [32](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/δίκαιος.md) | 7478 | just. 
-| Ἑλλήσποντος | [3](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/Ἑλλήσποντος.md) | 7481 | Ἑλλησπόντου, ὁ: Hellespont, the Dardanelles.
-| ἐκ | [249](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐκ.md) | 7730 | (before consonants), ἐξ (before vowels), proclit. prep. with G. out of, from. Lat. ex. ECLECTIC. 
-| μακρός | [11](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/μακρός.md) | 7741 | large. MACRON. MACROECONOMICS.
-| μικρός | [15](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/μικρός.md) | 7756 | [μῑκρός] small. MICROSCOPIC. MICROECONOMICS
-| πόλεμος | [37](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πόλεμος.md) | 7793 | war.
-| πολέμιος | [235](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πολέμιος.md) | 8028 | hostile, i.e., people with whom you have a war; οἱ πολέμιοι: the enemy (people with whom you are at war -- we will learn another word for personal enemies). POLEMIC.
-| φίλος | [91](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φίλος.md) | 8119 | friend. PHILANTHROPIST.
+| ἄνθρωπος | [75](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἄνθρωπος.md) | 7312 | ἀνθρώπου, ὁ: person, human being. When used with the feminine article, this noun can explicitly designate a female person. ANTHROPOLOGY
+| ἄξιος | [23](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἄξιος.md) | 7335 | worthy, worth. AXIOM
+| ἀπό | [111](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀπό.md) | 7446 | prep. with G.: from, away from, Lat. ab. APOSTLE.
+| δίκαιος | [32](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/δίκαιος.md) | 7478 | just.
+| Ἑλλήσποντος | [3](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/Ἑλλήσποντος.md) | 7481 | Ἑλλησπόντου, ὁ: Hellespont, the Dardanelles.
+| ἐκ | [249](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐκ.md) | 7730 | (before consonants), ἐξ (before vowels), proclit. prep. with G. out of, from. Lat. ex. ECLECTIC.
+| μακρός | [11](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/μακρός.md) | 7741 | large. MACRON. MACROECONOMICS.
+| μικρός | [15](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/μικρός.md) | 7756 | [μῑκρός] small. MICROSCOPIC. MICROECONOMICS
+| πόλεμος | [37](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πόλεμος.md) | 7793 | war.
+| πολέμιος | [235](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πολέμιος.md) | 8028 | hostile, i.e., people with whom you have a war; οἱ πολέμιοι: the enemy (people with whom you are at war -- we will learn another word for personal enemies). POLEMIC.
+| φίλος | [91](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/φίλος.md) | 8119 | friend. PHILANTHROPIST.
 
 
 On μακρός and μικρός: Adjectives in -ρος usually have the acute on the last syllable.
@@ -177,13 +177,13 @@ the matchless Parthenon.
 
 (a) Translate :
 
-1. τοὺς πολεμίους παύουσιν.1 
-2. τὸν ἄνθρωπον πέμπει ἀπὸ τοῦ Ἑλλησπόντου. 
-3. οἱ ἀδελφοὶ ἦσαν μῑκροί. 
+1. τοὺς πολεμίους παύουσιν.1
+2. τὸν ἄνθρωπον πέμπει ἀπὸ τοῦ Ἑλλησπόντου.
+3. οἱ ἀδελφοὶ ἦσαν μῑκροί.
 4. τοὺς φίλους πέμπουσιν1 ἐκ τοῦ ποταμοῦ.
 5. ὁ πόλεμος ἦν δίκαιος.
-6. οἱ πολέμιοι ἀξίους στρατηγοὺς ἔχουσιν. 
-7. ὁ στρατηγὸς τοὺς ἀνθρώπους πέμπει τῷ ἀδελφῷ. 
+6. οἱ πολέμιοι ἀξίους στρατηγοὺς ἔχουσιν.
+7. ὁ στρατηγὸς τοὺς ἀνθρώπους πέμπει τῷ ἀδελφῷ.
 8. οἱ ἄνθρωποι ἔχουσιν ἀξίους ἀδελφούς.
 
 Note 1: -ν is usually added to words ending in -σι before a word beginning with a vowel or at the end of the sentence. This is call the ν-movable.
@@ -194,7 +194,7 @@ Note 1: -ν is usually added to words ending in -σι before a word beginning wi
 
 
 1. οἱ πολεμ--- ἦσαν μακρ---.
-2. τὸν ἀδελφ-- πέμπει ἐκ τ--- ποταμ- (singular). 
+2. τὸν ἀδελφ-- πέμπει ἐκ τ--- ποταμ- (singular).
 3. οἱ στρατηγοὶ τοὺς φίλους πεμπ-- τῷ ἀνθρωπ--.
 
 

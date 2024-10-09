@@ -157,14 +157,14 @@ face, "This is the city of Hadrian, not of Theseus."
 
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| ἐνταῦθα | [126](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐνταῦθα.md) | 19285 | adv., there, at that place. 
-| λοιπός | [28](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/λοιπός.md) | 19313 | λοιπή, λοιπόν: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.
-| ἐντεῦθεν | [80](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐντεῦθεν.md) | 19393 | adv. : from there, thence. 
-| ἐπιστολή | [5](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἐπιστολή.md) | 19398 | ἐπιστολῆς, ἡ: letter. EPISTLE. 
-| οἰκία | [32](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/οἰκία.md) | 19430 | οἰκίας, ἡ: house. ECONOMY.
-| ἔχω | [438](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἔχω.md) | 19868 | ἕξω: have; ἔσχον1: got. 
-| πύλη | [21](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/πύλη.md) | 19889 | πύλης, ἡ: gate; pl., pass. PYLON. THERMOPYLA.
-| λείπω | [19](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/λείπω.md) | 19908 | λείψω, ἔλιπον: leave. ECLIPSE.
+| ἐνταῦθα | [126](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐνταῦθα.md) | 19285 | adv., there, at that place.
+| λοιπός | [28](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/λοιπός.md) | 19313 | λοιπή, λοιπόν: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.
+| ἐντεῦθεν | [80](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐντεῦθεν.md) | 19393 | adv. : from there, thence.
+| ἐπιστολή | [5](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐπιστολή.md) | 19398 | ἐπιστολῆς, ἡ: letter. EPISTLE.
+| οἰκία | [32](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/οἰκία.md) | 19430 | οἰκίας, ἡ: house. ECONOMY.
+| ἔχω | [438](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἔχω.md) | 19868 | ἕξω: have; ἔσχον1: got.
+| πύλη | [21](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πύλη.md) | 19889 | πύλης, ἡ: gate; pl., pass. PYLON. THERMOPYLA.
+| λείπω | [19](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/λείπω.md) | 19908 | λείψω, ἔλιπον: leave. ECLIPSE.
 
 
 ## [§ 59](#para59). Exercises.

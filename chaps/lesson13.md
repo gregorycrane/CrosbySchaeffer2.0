@@ -40,7 +40,7 @@ the messenger whom you sent wishes to flee.
 
 
 - Following the article, αὐτός means
-same : ἡ αὐτὴ κώμη the same village, 
+same : ἡ αὐτὴ κώμη the same village,
 - modifying a noun or pronoun, but not following
 the article, it means self; Κῦρος αὐτός Cyrus himself; ἡ κώμη αὐτή the village itself ;
 αὐτὸς ἔφυγεν he himself fled ;

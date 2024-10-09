@@ -165,16 +165,16 @@ Compare etc. = <foreign xml:lang="lat">et cetera</foreign>.
 
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| ἀθροίζω | [8](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀθροίζω.md) | 17522 | collect. 
-| ἀλλά | [284](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀλλά.md) | 17806 | conj.: but, however. Stronger than δέ. Final a is often elided.
-| ἁρπάζω | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἁρπάζω.md) | 17820 | seize,carry off. HARPY. 
-| ἀρχαῖος | [7](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀρχαῖος.md) | 17827 | ἀρχαία, ἀρχαῖον: original, ancient. Cf. ἀρχή. = ARCHAIC. 
-| βάρβαρος | [76](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/βάρβαρος.md) | 17903 | βαρβάρου, ὁ: foreigner, barbarian.
-| ἔργον | [13](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἔργον.md) | 17916 | ἔργου, τό: work, deed, ENERGY.
-| κραυγή | [13](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/κραυγή.md) | 17929 | κραυγῆς, ἡ: outcry, shout.
-| λόγος | [26](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/λόγος.md) | 17955 | λόγου, ὁ: word, speech. PROLOGUE.
-| μέν | [787](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/μέν.md) | 18742 | coord. conj. (§ 45).
-| σιγή | [3](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/σιγή.md) | 18745 | σιγῆς, ἡ: silence.
+| ἀθροίζω | [8](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀθροίζω.md) | 17522 | collect.
+| ἀλλά | [284](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀλλά.md) | 17806 | conj.: but, however. Stronger than δέ. Final a is often elided.
+| ἁρπάζω | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἁρπάζω.md) | 17820 | seize,carry off. HARPY.
+| ἀρχαῖος | [7](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀρχαῖος.md) | 17827 | ἀρχαία, ἀρχαῖον: original, ancient. Cf. ἀρχή. = ARCHAIC.
+| βάρβαρος | [76](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/βάρβαρος.md) | 17903 | βαρβάρου, ὁ: foreigner, barbarian.
+| ἔργον | [13](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἔργον.md) | 17916 | ἔργου, τό: work, deed, ENERGY.
+| κραυγή | [13](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/κραυγή.md) | 17929 | κραυγῆς, ἡ: outcry, shout.
+| λόγος | [26](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/λόγος.md) | 17955 | λόγου, ὁ: word, speech. PROLOGUE.
+| μέν | [787](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/μέν.md) | 18742 | coord. conj. (§ 45).
+| σιγή | [3](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σιγή.md) | 18745 | σιγῆς, ἡ: silence.
 
 
 
@@ -197,12 +197,12 @@ Vhich resemble endings of the present ?
 
 (b) Translate :
 
-1. ἠθροιζες λίθους παρὰ τὸν ποταμόν; 
-2. ἀλλ᾽ ἐπέμπομεν τὴν φυλακὴν παρὰ τὸν ἀδελφόν. 
-3. ἡ στρατιὰ ἦν ἐν τῇ κώμῃ καὶ τὰ ἐπιτήδεια ἥρπαζεν. 
-4. οἱ μὲν γὰρ κραυγῇ ἐκ τῆς ἀγορᾶς ἔφευγον. οἱ δὲ σιγῇ τὰς σκηνὰς ἐφύλαττον. 
+1. ἠθροιζες λίθους παρὰ τὸν ποταμόν;
+2. ἀλλ᾽ ἐπέμπομεν τὴν φυλακὴν παρὰ τὸν ἀδελφόν.
+3. ἡ στρατιὰ ἦν ἐν τῇ κώμῃ καὶ τὰ ἐπιτήδεια ἥρπαζεν.
+4. οἱ μὲν γὰρ κραυγῇ ἐκ τῆς ἀγορᾶς ἔφευγον. οἱ δὲ σιγῇ τὰς σκηνὰς ἐφύλαττον.
 5. οἱ δὲ ἀρχαῖοι εἶχον* κώμας μικράς.
-6. καλὰ μὲν ἦν τὰ δῶρα, μικρὰ δέ. 
+6. καλὰ μὲν ἦν τὰ δῶρα, μικρὰ δέ.
 7. τὰ μὲν ἔργα τὰ τοῦ βαρβάρου ἦν καλά, οἱ δὲ λόγοι φίλιοι.
 
 * In the verb ἔχω, the augment is not η but ει. Thus we get, εἶχον, *I was holding, I was possessing, I used to have.* The verb stem ἐχ-/σχ- derives from *σ(ε)χ- and we get the impf. εἶχον  from *ἔεχον (Cambridge Grammar of Classical Greek 11.40). This is the only verb we have encountered so far that has this irregular augment.
@@ -214,15 +214,15 @@ Vhich resemble endings of the present ?
 (c) Complete :
 
 1. ἠγ-- (2d plural) τὸν ἔπτπ--- ἐκ τ--- πεδι --- (singular).
-2. καὶ τὸ ἐργ- δηλ-- ἦν τ--- πολεμι--. 
+2. καὶ τὸ ἐργ- δηλ-- ἦν τ--- πολεμι--.
 3. ὁ δὲ κραυγ--- ἐφευγ -- εἰς τ-- κωμ---- (singular).
 
 (d) Write in Greek:
 
-1. The army was friendly to the country. 
-2. They guard the provisions for ten days. 
-3. On account of the treaty we do not wish to destroy the village. 
-4. The garrison flees ten stades.? 
+1. The army was friendly to the country.
+2. They guard the provisions for ten days.
+3. On account of the treaty we do not wish to destroy the village.
+4. The garrison flees ten stades.?
 5. There were provisions in the tent.
 
 

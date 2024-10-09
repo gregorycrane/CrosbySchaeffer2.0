@@ -158,16 +158,16 @@ Automatically extracted examples of the dative of possession in the Anabasis are
 
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| γάρ | [452](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/γάρ.md) | 16098 | postpositive conjunction : for. 
-| σπονδή | [34](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/σπονδή.md) | 16132 | σπονδῆς, ἡ: libation; pl, σπονδή, σπονδαί, αἱ, treaty, truce. SPONDEE.
-| κώμη | [87](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/κώμη.md) | 16219 | κώμης, ἡ: village. 
-| μάχη | [33](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/μάχη.md) | 16252 | μάχη, ἡ: battle. LOGOMACHY. 
-| φεύγω | [71](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φεύγω.md) | 16323 | flee. Lat. fugio. FUGITIVE,
-| οὐ | [434](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/οὐ.md) | 16757 | (before consonants), οὐκ (before smooth breathing), οὐχ (before rough breathing), proclit. adv.: not, UTOPIA. PROPHYLACTIC.
-| φυγή | [7](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φυγή.md) | 16764 | φυγῆς, ἡ: flight, exile. Lat fuga.
-| φυλακή | [19](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φυλακή.md) | 16783 | φυλακῆς, ἡ: guard, garrison.
-| σκηνή | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/σκηνή.md) | 16797 | tent. SCENE. 
-| φυλάσσω | [35](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/φυλάττω.md) | 16832 | guard (verb).
+| γάρ | [452](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/γάρ.md) | 16098 | postpositive conjunction : for.
+| σπονδή | [34](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σπονδή.md) | 16132 | σπονδῆς, ἡ: libation; pl, σπονδή, σπονδαί, αἱ, treaty, truce. SPONDEE.
+| κώμη | [87](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/κώμη.md) | 16219 | κώμης, ἡ: village.
+| μάχη | [33](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/μάχη.md) | 16252 | μάχη, ἡ: battle. LOGOMACHY.
+| φεύγω | [71](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/φεύγω.md) | 16323 | flee. Lat. fugio. FUGITIVE,
+| οὐ | [434](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/οὐ.md) | 16757 | (before consonants), οὐκ (before smooth breathing), οὐχ (before rough breathing), proclit. adv.: not, UTOPIA. PROPHYLACTIC.
+| φυγή | [7](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/φυγή.md) | 16764 | φυγῆς, ἡ: flight, exile. Lat fuga.
+| φυλακή | [19](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/φυλακή.md) | 16783 | φυλακῆς, ἡ: guard, garrison.
+| σκηνή | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σκηνή.md) | 16797 | tent. SCENE.
+| φυλάσσω | [35](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/φυλάττω.md) | 16832 | guard (verb).
 
 
 
@@ -194,24 +194,24 @@ GRC: This alludes to the production by [Angelos Sikelianos](https://en.wikipedia
 
 (a) What use of the word do portions in heavy type suggest ?
 
-1. σπονδ-ῶν 
-2. φυγ-ῇ 
-3. μάχ-ην 
-4. κώμ-αις 
-5. σκην-άς 
-6. φυλακ-ῆς 
-7. σπονδ-αί 
-8. σκην-ή 
+1. σπονδ-ῶν
+2. φυγ-ῇ
+3. μάχ-ην
+4. κώμ-αις
+5. σκην-άς
+6. φυλακ-ῆς
+7. σπονδ-αί
+8. σκην-ή
 
 (b) Translate:
 
-1. οὐ φεύγομεν ἐν ταῖς μάχαις. 
+1. οὐ φεύγομεν ἐν ταῖς μάχαις.
 2. τῇ γὰρ φυλακῇ ἦν σκηνὴ καλή.
 3. οἱ δ᾽ ἐν τῇ κώμῃ φυλάττουσι τοὺς ἵππους.
-4. οὐκ ἦσαν σπονδαὶ τοῖς ἐν τῷ πεδίῳ. 
-5. τῇ δὲ φυλακῇ πέμπεις δῶρα καλά. 
+4. οὐκ ἦσαν σπονδαὶ τοῖς ἐν τῷ πεδίῳ.
+5. τῇ δὲ φυλακῇ πέμπεις δῶρα καλά.
 6. ἡ τοῦ στρατηγοῦ φυγὴ οὐκ ἦν καλή.
-7. ἐκ τῆς κώμης ἄγει τοὺς πολεμίους. 
+7. ἐκ τῆς κώμης ἄγει τοὺς πολεμίους.
 8. αἱ δὲ σκηναὶ δῆλαι ἧσαν.
 
 

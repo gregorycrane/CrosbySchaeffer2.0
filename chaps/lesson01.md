@@ -112,7 +112,7 @@ The table above is often called a paradigm, an English word derived from the Gre
 
 
 
-1. The same ending appears with both acute (ποταμός) and grave (ποταμὸς) accents. The shift from acute to grave (discussed below) happens when another accented word follows. You can see that, in the corpus, the grave accent is used 697 times and that the acute accent (which the textbook shows you) only appears 271 out of 968 times (27%). A word like ποταμός usually has another accented word following it and appears as ποταμὸς. 
+1. The same ending appears with both acute (ποταμός) and grave (ποταμὸς) accents. The shift from acute to grave (discussed below) happens when another accented word follows. You can see that, in the corpus, the grave accent is used 697 times and that the acute accent (which the textbook shows you) only appears 271 out of 968 times (27%). A word like ποταμός usually has another accented word following it and appears as ποταμὸς.
 - You can see that Greek does have instances where we get forms in thedual ("two rivers"), but there are only 3 instances of the dual number.
 - The textbook leaves out one Greek case: the vocative. The vocative is used when a speaker directly addresses someone. The vocative form ποταμὲ means "O River!" but it only occurs 1 time in 20 million tokens. While this low number reflects the fact that people do not typically address an anonymous river, vocative forms are not very common -- and they are easy (in o-stem nows, just shorten the -ος ending to -ε).
 
@@ -128,16 +128,16 @@ The top 10 o-stem lemmas with identical endings and accent.
 
 | | lemma | freq. | gloss | 
 | --- | --- | --- | --- 
-| 1 | [στρατηγός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=στρατηγός) | [151](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/στρατηγός.md) | the leader | 
-| 2 | [ποταμός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ποταμός) | [99](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ποταμός.md) | a river, stream | 
-| 3 | [λοχαγός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λοχαγός) | [90](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/λοχαγός.md) | the leader of an armed band; commander of a company | 
-| 4 | [θεός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=θεός) | [89](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/θεός.md) | god | 
-| 5 | [σταθμός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σταθμός) | [55](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σταθμός.md) | a standing place, weight | 
-| 6 | [μισθός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μισθός) | [40](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/μισθός.md) | wages, pay, hire | 
-| 7 | [ἀδελφός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀδελφός) | [20](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀδελφός.md) | (of the same mother) brother; adj brotherly, sisterly, akin | 
-| 8 | [καιρός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καιρός) | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/καιρός.md) | time; the right moment, opportunity | 
-| 9 | [Μυσός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Μυσός) | [10](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/Μυσός.md) | a Mysian | 
-| 10 | [ἀριθμός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀριθμός) | [9](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀριθμός.md) | number | 
+| 1 | [στρατηγός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=στρατηγός) | [151](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//στρατηγός.md) | the leader | 
+| 2 | [ποταμός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ποταμός) | [99](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//ποταμός.md) | a river, stream | 
+| 3 | [λοχαγός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λοχαγός) | [90](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//λοχαγός.md) | the leader of an armed band; commander of a company | 
+| 4 | [θεός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=θεός) | [89](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//θεός.md) | god | 
+| 5 | [σταθμός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σταθμός) | [55](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//σταθμός.md) | a standing place, weight | 
+| 6 | [μισθός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μισθός) | [40](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//μισθός.md) | wages, pay, hire | 
+| 7 | [ἀδελφός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀδελφός) | [20](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//ἀδελφός.md) | (of the same mother) brother; adj brotherly, sisterly, akin | 
+| 8 | [καιρός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καιρός) | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//καιρός.md) | time; the right moment, opportunity | 
+| 9 | [Μυσός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Μυσός) | [10](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//Μυσός.md) | a Mysian | 
+| 10 | [ἀριθμός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀριθμός) | [9](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//ἀριθμός.md) | number | 
 | | All forms | 749 |  | 
 
 
@@ -384,18 +384,18 @@ In the vocabulary we calculate how often each word appears in Xenophon's Anabasi
 Because we have not yet studied Greek verbs, this lesson gives us six isolated verb forms so that we can start to generate sentences. Four of thses verb forms show up fairly often. Two of them, however, - "s/he stops" and "they stop" -- do not appear ever in the Anabasis. The verb "to stop" does appear but not very oten in the active voice and never in the forms <foreign>παύει</foreign> and <foreign>παύουσι</foreign>. Textbooks use verbs like <foreign>παύει</foreign>, "I stop," because these verbs are morphologically easy to generate. 
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| ἀδελφός | [20](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ἀδελφός.md) | 20 | ἀδελφοῦ, ὁ: brother.  PHILADELPHIA.
+| ἀδελφός | [20](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀδελφός.md) | 20 | ἀδελφοῦ, ὁ: brother.  PHILADELPHIA.
 | ἔχει | 16 | 36 | he, she, or it has,
 | ἔχουσι | 1 | 37 | they have.
 | ἦν | 280 | 317 | he, she, it was;  there was.
 | ἦσαν | 132 | 449 | they or there were.
-| ὁ | [6522](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ὁ.md) | 6971 | ἡ, τό: the.
+| ὁ | [6522](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ὁ.md) | 6971 | ἡ, τό: the.
 | παύει | 0 | 6971 | he, she, or it stops (transitive).
 | παύουσι | 0 | 6971 | they stop (transitive).
 | πέμπει | 9 | 6980 | he, she, or it sends (transitive).
 | πέμπουσι | 7 | 6987 | they send (transitive).
-| ποταμός | [99](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/ποταμός.md) | 7086 | ποταμοῦ, ὁ: river, HIPPOPOTAMUS.
-| στρατηγός | [151](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/στρατηγός.md) | 7237 | στρατηγοῦ, ὁ: general. STRATEGY.
+| ποταμός | [99](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ποταμός.md) | 7086 | ποταμοῦ, ὁ: river, HIPPOPOTAMUS.
+| στρατηγός | [151](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/στρατηγός.md) | 7237 | στρατηγοῦ, ὁ: general. STRATEGY.
 
 
 
@@ -501,15 +501,15 @@ The following example includes a predicate nominative and a genitive.
 1. ἦν στρατηγός.
 2. ἔχει ἀδελφούς.
 3. παύουσι τὸν στρατηγόν.
-4. οἱ στρατηγοὶ ἦσαν ἀδελφοί. 
-5. ἦν ποταμὸς. 
+4. οἱ στρατηγοὶ ἦσαν ἀδελφοί.
+5. ἦν ποταμὸς.
 6. τῷ στρατηγῷ πέμπει τοὺς ἀδελφούς.
 7. παύει τοὺς στρατηγούς.
 
 
 ### (c) Complete these sentences, adding endings and accents :
 
-1. ὁ στρατηγ--- ἔχει ἀδελφ-- (singular). 
+1. ὁ στρατηγ--- ἔχει ἀδελφ-- (singular).
 2. ἦσαν ποταμ---.
 3. τοῖς στρατηγ--- πέμπουσι τοὺς ἀδελφ--.
 

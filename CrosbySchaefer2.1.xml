@@ -310,7 +310,7 @@ In like manner inflect ὁ ἀδελφός.</p>
 </p>
 <p>
   <list>
-    <item n="1">The same ending appears with both acute (ποταμός) and grave (ποταμὸς) accents. The shift from acute to grave (discussed below) happens when another accented word follows. You can see that, in the corpus, the grave accent is used 697 times and that the acute accent (which the textbook shows you) only appears 271 out of 968 times (27%). A word like ποταμός usually has another accented word following it and appears as ποταμὸς. </item>
+    <item n="1">The same ending appears with both acute (ποταμός) and grave (ποταμὸς) accents. The shift from acute to grave (discussed below) happens when another accented word follows. You can see that, in the corpus, the grave accent is used 697 times and that the acute accent (which the textbook shows you) only appears 271 out of 968 times (27%). A word like ποταμός usually has another accented word following it and appears as ποταμὸς.</item>
     <item>You can see that Greek does have instances where we get forms in thedual ("two rivers"), but there are only 3 instances of the dual number.</item>
     <item>The textbook leaves out one Greek case: the vocative. The vocative is used when a speaker directly addresses someone. The vocative form ποταμὲ means "O River!" but it only occurs 1 time in 20 million tokens. While this low number reflects the fact that people do not typically address an anonymous river, vocative forms are not very common -- and they are easy (in o-stem nows, just shorten the -ος ending to -ε).</item>
   </list>
@@ -616,14 +616,14 @@ NB: μεταπεμψάμενος is a compound of a preverb μετά and the ver
 <item n="1">ἦν στρατηγός.</item>
 <item n="2">ἔχει ἀδελφούς.</item>
 <item n="3">παύουσι τὸν στρατηγόν.</item>
-<item n="4">οἱ στρατηγοὶ ἦσαν ἀδελφοί. </item>
-<item n="5">ἦν ποταμὸς. </item>
+<item n="4">οἱ στρατηγοὶ ἦσαν ἀδελφοί.</item>
+<item n="5">ἦν ποταμὸς.</item>
 <item n="6">τῷ στρατηγῷ πέμπει τοὺς ἀδελφούς.</item>
 <item n="7">παύει τοὺς στρατηγούς.</item>
 </list>
 
 <list><head>(c) Complete these sentences, adding endings and accents :</head>
-<item n="1">ὁ στρατηγ--- ἔχει ἀδελφ-- (singular). </item>
+<item n="1">ὁ στρατηγ--- ἔχει ἀδελφ-- (singular).</item>
 <item n="2">ἦσαν ποταμ---.</item>
 <item n="3">τοῖς στρατηγ--- πέμπουσι τοὺς ἀδελφ--.</item>
 </list>
@@ -732,10 +732,10 @@ many prepositions denotes place from which. This is our second use of the geniti
 <list type="vocab">
 <item><rs type="lemma">ἄνθρωπος</rs>, ἀνθρώπου, ὁ: person, human being. When used with the feminine article, this noun can explicitly designate a female person. ANTHROPOLOGY</item>
 <item><rs type="lemma">ἄξιος</rs>: worthy, worth. AXIOM</item>
-<item><rs type="lemma">ἀπό</rs>: prep. with G.: from, away from, Lat. ab. APOSTLE. </item>
-<item><rs type="lemma">δίκαιος</rs> : just. </item>
+<item><rs type="lemma">ἀπό</rs>: prep. with G.: from, away from, Lat. ab. APOSTLE.</item>
+<item><rs type="lemma">δίκαιος</rs> : just.</item>
 <item><rs type="lemma">Ἑλλήσποντος</rs>, Ἑλλησπόντου, ὁ: Hellespont, the Dardanelles.</item>
-<item><rs type="lemma">ἐκ</rs>: (before consonants), ἐξ (before vowels), proclit. prep. with G. out of, from. Lat. ex. ECLECTIC. </item>
+<item><rs type="lemma">ἐκ</rs>: (before consonants), ἐξ (before vowels), proclit. prep. with G. out of, from. Lat. ex. ECLECTIC.</item>
 <item><rs type="lemma">μακρός</rs>: large. MACRON. MACROECONOMICS.</item>
 <item><rs type="lemma">μικρός</rs>: [μῑκρός] small. MICROSCOPIC. MICROECONOMICS</item>
 <item><rs type="lemma">πόλεμος</rs>: war.</item>
@@ -773,13 +773,13 @@ the matchless Parthenon.</p></figure>
 <div type="textpart" subtype="para" n="12"><head>Exercises</head><p>
 (a) Translate :
 <list>
-<item n="1">τοὺς πολεμίους παύουσιν.1 </item>
-<item n="2">τὸν ἄνθρωπον πέμπει ἀπὸ τοῦ Ἑλλησπόντου. </item>
-<item n="3">οἱ ἀδελφοὶ ἦσαν μῑκροί. </item>
+<item n="1">τοὺς πολεμίους παύουσιν.1</item>
+<item n="2">τὸν ἄνθρωπον πέμπει ἀπὸ τοῦ Ἑλλησπόντου.</item>
+<item n="3">οἱ ἀδελφοὶ ἦσαν μῑκροί.</item>
 <item n="4">τοὺς φίλους πέμπουσιν1 ἐκ τοῦ ποταμοῦ.</item>
 <item n="5">ὁ πόλεμος ἦν δίκαιος.</item>
-<item n="6">οἱ πολέμιοι ἀξίους στρατηγοὺς ἔχουσιν. </item>
-<item n="7">ὁ στρατηγὸς τοὺς ἀνθρώπους πέμπει τῷ ἀδελφῷ. </item>
+<item n="6">οἱ πολέμιοι ἀξίους στρατηγοὺς ἔχουσιν.</item>
+<item n="7">ὁ στρατηγὸς τοὺς ἀνθρώπους πέμπει τῷ ἀδελφῷ.</item>
 <item n="8">οἱ ἄνθρωποι ἔχουσιν ἀξίους ἀδελφούς.</item>
 </list>
 Note 1: -ν is usually added to words ending in -σι before a word beginning with a vowel or at the end of the sentence. This is call the ν-movable.
@@ -788,7 +788,7 @@ Note 1: -ν is usually added to words ending in -σι before a word beginning wi
 
 <list>
 <item n="1">οἱ πολεμ--- ἦσαν μακρ---.</item>
-<item n="2">τὸν ἀδελφ-- πέμπει ἐκ τ--- ποταμ- (singular). </item>
+<item n="2">τὸν ἀδελφ-- πέμπει ἐκ τ--- ποταμ- (singular).</item>
 <item n="3">οἱ στρατηγοὶ τοὺς φίλους πεμπ-- τῷ ἀνθρωπ--.</item>
 </list>
 </p>
@@ -868,12 +868,12 @@ he was hostile to the general.</p></div>
 
 <div type="textpart" subtype="para" n="17"><head>Vocabulary</head>
   <list type="vocab">
-<item><rs type="lemma">ἀγαθός</rs>, ἀγαθή, ἀγαθόν: good, brave. AGATHA. </item>
+<item><rs type="lemma">ἀγαθός</rs>, ἀγαθή, ἀγαθόν: good, brave. AGATHA.</item>
 <item><rs type="lemma">ἄγγελος</rs>, ἀγγέλου, ὁ: messenger. ANGEL.</item>
-<item><rs type="lemma">ἄγω</rs>: lead, Lat. ago. </item>
+<item><rs type="lemma">ἄγω</rs>: lead, Lat. ago.</item>
 <item><rs type="lemma">γράφω</rs>: write. TELEGRAPH. LITHOGRAPH.</item>
-<item><rs type="lemma">ἐθέλω</rs>: wish, be willing. </item>
-<item><rs type="lemma">ἵππος</rs>, ἵππου, ὁ: horse. ANALYSIS. HIPPOPOTAMUS, </item>
+<item><rs type="lemma">ἐθέλω</rs>: wish, be willing.</item>
+<item><rs type="lemma">ἵππος</rs>, ἵππου, ὁ: horse. ANALYSIS. HIPPOPOTAMUS,</item>
 <item><rs type="lemma">καί</rs>: conj.: and, also, even.</item>
 <item><rs type="lemma">καλός</rs>, καλή, καλόν: beautiful, honorable, fine.</item>
 <item><rs type="lemma">κίνδυνος</rs>, κινδύνου, ὁ: danger.</item>
@@ -906,29 +906,29 @@ he was hostile to the general.</p></div>
 (a) What do the portions in heavy type tell as to the person
 and number of the subject ?
 <list>
-<item n="1">ἄγ-<emph>ουσι</emph> </item>
-<item n="2">λύο-<emph>μεν</emph> </item>
-<item n="3">ἔχ-<emph>ετε</emph> </item>
-<item n="4">ἐθέλ-<emph>ω</emph> </item>
+<item n="1">ἄγ-<emph>ουσι</emph></item>
+<item n="2">λύο-<emph>μεν</emph></item>
+<item n="3">ἔχ-<emph>ετε</emph></item>
+<item n="4">ἐθέλ-<emph>ω</emph></item>
 <item n="5">γράφ-<emph>εις</emph></item>
 </list>
 </p><p>
 (b) Translate:
 <list>
-<item n="1">ἔχομεν τοὺς καλοὺς λίθους. </item>
-<item n="2">ἐθέλω τῷ ἀγαθῷ ἀνθρώπῳ γράφειν. </item>
-<item n="3">καὶ ὁ στρατηγὸς τὸν ἄγγελον ἄγει ἀπὸ τοῦ Ἑλλησπόντου. </item>
-<item n="4">οἱ ἀδελφοὶ ἐθέλουσι τοὺς ἵππους παύειν. </item>
+<item n="1">ἔχομεν τοὺς καλοὺς λίθους.</item>
+<item n="2">ἐθέλω τῷ ἀγαθῷ ἀνθρώπῳ γράφειν.</item>
+<item n="3">καὶ ὁ στρατηγὸς τὸν ἄγγελον ἄγει ἀπὸ τοῦ Ἑλλησπόντου.</item>
+<item n="4">οἱ ἀδελφοὶ ἐθέλουσι τοὺς ἵππους παύειν.</item>
 <item n="5">ὁ ἄγγελος ἔχει ἀγαθὸν ἵππον.</item>
-<item n="6">τοὺς φίλους ἐθέλομεν ἄγειν ἐκ τοῦ κινδύνου. </item>
-<item n="7">οἱ πολέμιοι λύουσι τοὺς τῶν στρατηγῶν ἵππους. </item>
+<item n="6">τοὺς φίλους ἐθέλομεν ἄγειν ἐκ τοῦ κινδύνου.</item>
+<item n="7">οἱ πολέμιοι λύουσι τοὺς τῶν στρατηγῶν ἵππους.</item>
 <item n="8">ὁ στρατηγὸς πολέμιος ἦν τοῖς ἀγγέλοις,</item>
 </list>
 <pb n="9"/>
 </p><p>
 (c)
 <list>
-<item n="1">οἱ ἀδελφοὶ ἐθέλουσι γραφ--. </item>
+<item n="1">οἱ ἀδελφοὶ ἐθέλουσι γραφ--.</item>
 <item n="2">ἐθέλομεν τοὺς ἵππους ἀγ-- ἐκ τοῦ ποταμ--.</item>
 <item n="3">οἱ ἄγγελοι πολέμιοι ἦσαν τι-- στρατηγ- (singular).</item>
 </list>
@@ -952,10 +952,10 @@ and number of the subject ?
 </p><p>
 (b) Write in Greek :
 <list>
-<item n="1">The brothers were small. </item>
-<item n="2">They are sending the man to the general. </item>
+<item n="1">The brothers were small.</item>
+<item n="2">They are sending the man to the general.</item>
 <item n="3">The general is sending the enemy away from the river.</item>
-<item n="4">He sends the man out of the river. </item>
+<item n="4">He sends the man out of the river.</item>
 <item n="5">They were brothers of the general.</item>
 </list>
 
@@ -1072,13 +1072,13 @@ with many prepositions denotes <term>place to which</term> :1
 <list type="vocab">
 <item><rs type="lemma">δέ</rs>: (δ᾽ before vowels), postpositive conj: but, and.</item>
 <item><rs type="lemma">ἐν</rs>: proclitic prep. with D. : in (Lat. in). ENCLITIC.</item>
-<item><rs type="lemma">δένδρον</rs>, δένδρου, τό: tree. RHODODENDRON. </item>
+<item><rs type="lemma">δένδρον</rs>, δένδρου, τό: tree. RHODODENDRON.</item>
 <item><rs type="lemma">παρά</rs>: prep., with G., from the side of; with D., by the side of; with A., to the side of, to, alongside. PARALLEL.</item>
-<item><rs type="lemma">δῆλος</rs>, δήλη, δῆλον: plain, evident. </item>
-<item><rs type="lemma">δῶρον</rs>, δώρου, τό: gift. THEODORE, </item>
+<item><rs type="lemma">δῆλος</rs>, δήλη, δῆλον: plain, evident.</item>
+<item><rs type="lemma">δῶρον</rs>, δώρου, τό: gift. THEODORE,</item>
 <item><rs type="lemma">εἰς</rs>: proclit. prep. with A.: into  (Lat. in).</item>
 <item><rs type="lemma">πεδίον</rs>, πεδίου, τό: plain, flat area.</item>
-<item><rs type="lemma">στάδιον</rs>, σταδίου, τό: stadium (race course); stade (600 ft.).3 </item>
+<item><rs type="lemma">στάδιον</rs>, σταδίου, τό: stadium (race course); stade (600 ft.).3</item>
 </list>
 </div>
 
@@ -1137,28 +1137,28 @@ with many prepositions denotes <term>place to which</term> :1
 
 (b) Translate :
 <list>
-<item n="1">ἐν τῷ πεδίῳ δῆλα ἦν τὰ δένδρα. </item>
-<item n="2">στάδιον ἦν παρὰ τῷ ποταμῷ. </item>
+<item n="1">ἐν τῷ πεδίῳ δῆλα ἦν τὰ δένδρα.</item>
+<item n="2">στάδιον ἦν παρὰ τῷ ποταμῷ.</item>
 <item n="3">καὶ εἰς τὸ στάδιον ἄγουσι δῶρα καλά.</item>
-<item n="4">οἱ δ' ἀδελφοὶ ἐθέλουσιν ἵππους πέμπειν παρὰ τοὺς 1 φίλους. </item>
+<item n="4">οἱ δ' ἀδελφοὶ ἐθέλουσιν ἵππους πέμπειν παρὰ τοὺς 1 φίλους.</item>
 <pb n="12"/>
-<item n="5">παρὰ τοῦ στρατηγοῦ ἦν τὰ δῶρα. </item>
-<item n="6">ἐκ τοῦ πεδίου ἄγομεν τοὺς πολεμίους. </item>
+<item n="5">παρὰ τοῦ στρατηγοῦ ἦν τὰ δῶρα.</item>
+<item n="6">ἐκ τοῦ πεδίου ἄγομεν τοὺς πολεμίους.</item>
 <item n="7">ὁ δ' ἄνθρωπος ἄξιος ἦν δώρων 2 καλῶν.</item>
 </list>
 (c) Complete :
 <list>
-<item n="1">τὰ δὲ δένδρα (linking verb) μῑκρά. </item>
-<item n="2">ἵππους δ᾽ ἄγετε εἰς τ-- ποταμ-- (singular). </item>
+<item n="1">τὰ δὲ δένδρα (linking verb) μῑκρά.</item>
+<item n="2">ἵππους δ᾽ ἄγετε εἰς τ-- ποταμ-- (singular).</item>
 <item n="3">ἐν τ-- σταδι-- (singular) ἦσαν οἱ ἀδελφ--.</item>
 </list>
 (d) Write in Greek :
 
 
 <list>
-<item n="1">The stones were beautiful. </item>
-<item n="2">The brave messenger was hostile to the general. </item>
-<item n="3">The friends have fine horses. </item>
+<item n="1">The stones were beautiful.</item>
+<item n="2">The brave messenger was hostile to the general.</item>
+<item n="3">The friends have fine horses.</item>
 <item n="4">He wishes to lead the men out of danger.</item>
 <item n="5">The brothers were hostile to the messenger.</item>
 </list>
@@ -1227,7 +1227,7 @@ Test your knowledge by reference to the list in § 549.
 <item n="10">misanthrope</item>
 <item n="11">monolith</item>
 <item n="12">paralysis</item>
-<item n="13">phonograph. </item>
+<item n="13">phonograph.</item>
 </list>
 </p><p>
 What other English derivatives can you
@@ -1236,7 +1236,7 @@ add that belong to this group?
 (c) What are the possible meanings suggested by the endings 
 <list>
 <item n="1">ον</item>
-<item n="2">ῳ </item>
+<item n="2">ῳ</item>
 <item n="3">ου</item>
 <item n="4">ους</item>
 <item n="5">οι</item>
@@ -1291,7 +1291,7 @@ add that belong to this group?
 <list>
 <item n="1">ὁ τ-- στρατηγ-- (singular) κίνῡῦνος ἦν μῖκρ--</item>
 <item n="2">δωρ-- (plural) πέμπομεν παρὰ τ-- φιλ-- (plura).</item>
-<item n="3">οἱ δ᾽ ἀδελφ-- ἦσαν δικαι--. </item>
+<item n="3">οἱ δ᾽ ἀδελφ-- ἦσαν δικαι--.</item>
 <item n="4">ἐθέλετε γραφ--.</item>
 <item n="5">τὰ δενδρ--  ---- (linking verb) ἐν τ-- πεδι-- (singular),</item>
 <item n="6">ὁ ἄγγελος πολέμιος ἦν τ ἀνθρωπ-- (singular).</item>
@@ -1300,10 +1300,10 @@ add that belong to this group?
 
 (b) Write in Greek:
 <list>
-<item n="1">But the messenger is leading the horses out of the Hellespont. </item>
+<item n="1">But the messenger is leading the horses out of the Hellespont.</item>
 <item n="2">The trees in the plain were small.</item>
-<item n="3">And you (plural) wish to have beautiful gifts. </item>
-<item n="4">We are sending the men into the stadium. </item>
+<item n="3">And you (plural) wish to have beautiful gifts.</item>
+<item n="4">We are sending the men into the stadium.</item>
 <item n="5">The fine gifts were from (the side of) friends of the general.</item>
 </list>
 </p>
@@ -1438,15 +1438,15 @@ verb to be:
 <div type="textpart" subtype="para" n="33"><head>Vocabulary</head>
 <p>
   <list type="vocab">
-    <item><rs type="lemma">γάρ</rs>: postpositive conjunction : for. </item>
+    <item><rs type="lemma">γάρ</rs>: postpositive conjunction : for.</item>
 <item><rs type="lemma">σπονδή</rs> σπονδῆς, ἡ: libation; pl, σπονδή, σπονδαί, αἱ, treaty, truce. SPONDEE.</item>
-<item><rs type="lemma">κώμη</rs>, κώμης, ἡ: village. </item>
-<item><rs type="lemma">μάχη</rs>, μάχη, ἡ: battle. LOGOMACHY. </item>
+<item><rs type="lemma">κώμη</rs>, κώμης, ἡ: village.</item>
+<item><rs type="lemma">μάχη</rs>, μάχη, ἡ: battle. LOGOMACHY.</item>
 <item><rs type="lemma">φεύγω</rs>: flee. Lat. fugio. FUGITIVE,</item>
 <item><rs type="lemma">οὐ</rs> (before consonants), οὐκ (before smooth breathing), οὐχ (before rough breathing), proclit. adv.: not, UTOPIA. PROPHYLACTIC.</item>
 <item><rs type="lemma">φυγή</rs>, φυγῆς, ἡ: flight, exile. Lat fuga.</item>
 <item><rs type="lemma">φυλακή</rs>, φυλακῆς, ἡ: guard, garrison.</item>
-<item><rs type="lemma">σκηνή</rs>: tent. SCENE. </item>
+<item><rs type="lemma">σκηνή</rs>: tent. SCENE.</item>
 <item><rs type="lemma" n="φυλάσσω">φυλάττω</rs> guard (verb).</item>
 </list>
 </p></div>
@@ -1466,24 +1466,24 @@ Here in 1927 the <title>Prometheus Bound</title> of Aeschylus was revived in gre
 
 (a) What use of the word do portions in heavy type suggest ?
 <list>
-<item n="1">σπονδ-ῶν </item>
-<item n="2">φυγ-ῇ </item>
-<item n="3">μάχ-ην </item>
-<item n="4">κώμ-αις </item>
-<item n="5">σκην-άς </item>
-<item n="6">φυλακ-ῆς </item>
-<item n="7">σπονδ-αί </item>
-<item n="8">σκην-ή </item>
+<item n="1">σπονδ-ῶν</item>
+<item n="2">φυγ-ῇ</item>
+<item n="3">μάχ-ην</item>
+<item n="4">κώμ-αις</item>
+<item n="5">σκην-άς</item>
+<item n="6">φυλακ-ῆς</item>
+<item n="7">σπονδ-αί</item>
+<item n="8">σκην-ή</item>
 </list>
 (b) Translate:
 <list>
-<item n="1">οὐ φεύγομεν ἐν ταῖς μάχαις. </item>
+<item n="1">οὐ φεύγομεν ἐν ταῖς μάχαις.</item>
 <item n="2">τῇ γὰρ φυλακῇ ἦν σκηνὴ καλή.</item>
 <item n="3">οἱ δ᾽ ἐν τῇ κώμῃ φυλάττουσι τοὺς ἵππους.</item>
-<item n="4">οὐκ ἦσαν σπονδαὶ τοῖς ἐν τῷ πεδίῳ. </item>
-<item n="5">τῇ δὲ φυλακῇ πέμπεις δῶρα καλά. </item>
+<item n="4">οὐκ ἦσαν σπονδαὶ τοῖς ἐν τῷ πεδίῳ.</item>
+<item n="5">τῇ δὲ φυλακῇ πέμπεις δῶρα καλά.</item>
 <item n="6">ἡ τοῦ στρατηγοῦ φυγὴ οὐκ ἦν καλή.</item>
-<item n="7">ἐκ τῆς κώμης ἄγει τοὺς πολεμίους. </item>
+<item n="7">ἐκ τῆς κώμης ἄγει τοὺς πολεμίους.</item>
 <item n="8">αἱ δὲ σκηναὶ δῆλαι ἧσαν.</item>
 </list>
 </p><p>(c) Complete
@@ -1620,7 +1620,7 @@ of space or duration of time :
 <item n="3">ἐθέλετε γὰρ τὴν στρατιὰν ἄγειν δέκα σταδίους.</item>
 <item n="4">τῇ δὲ κώμῃ οὐκ ἦν τὰ ἐπιτήδεια.</item>
 <item n="5">καὶ τὴν στρατιὰν ἄγομεν διὰ τῆς ἀγορᾶς.</item>
-<item n="6">διὰ τὴν φιλίαν ἔχουσιν ἀγορὰν καὶ τὰ ἐπιτήδεια. </item>
+<item n="6">διὰ τὴν φιλίαν ἔχουσιν ἀγορὰν καὶ τὰ ἐπιτήδεια.</item>
 <item n="7">ἡ δὲ στρατιὰ φιλία ἦν τῇ ἀρχῇ.</item>
 <item n="8">τὸν δ᾽ ἀδελφὸν πέμπει εἰς τὴν χώρᾱν.</item>
 </list>
@@ -1629,17 +1629,17 @@ of space or duration of time :
 
 (b) Complete:
 <list>
-<item n="1">ἡ δὲ κώμη ἐπιτηδει-- ἦν τ-- στρατηγ--- (singular). </item>
-<item n="2">δέκα ἡμερ--- ἡ στρατιὰ ἦν ἐν τ--- ἀγορ--- (singular). </item>
+<item n="1">ἡ δὲ κώμη ἐπιτηδει-- ἦν τ-- στρατηγ--- (singular).</item>
+<item n="2">δέκα ἡμερ--- ἡ στρατιὰ ἦν ἐν τ--- ἀγορ--- (singular).</item>
 <item n="3">πέμπει δὲ τ--- ἐπιτηδει--- τ--- φιλ--- (plural).</item>
 </list>
 <pb n="21"/>
 (c) Write in Greek :
 <list>
-<item n="1">The messenger had (use ἦν) a horse. </item>
-<item n="2">The truce was long. </item>
+<item n="1">The messenger had (use ἦν) a horse.</item>
+<item n="2">The truce was long.</item>
 <item n="3">The men in the village are not guarding the tents.</item>
-<item n="4">The flight was not evident to the general. </item>
+<item n="4">The flight was not evident to the general.</item>
 <item n="5">The garrison did not have (use ἦσαν) tents.</item>
 </list>
 </p></div>
@@ -1801,10 +1801,10 @@ Compare etc. = <foreign xml:lang="lat">et cetera</foreign>.</p></div>
 <div type="textpart" subtype="para" n="46"><head>Vocabulary.</head>
 <p>
   <list type="vocab">
-<item><rs type="lemma">ἀθροίζω</rs>: collect. </item>
+<item><rs type="lemma">ἀθροίζω</rs>: collect.</item>
 <item><rs type="lemma">ἀλλά</rs>, conj.: but, however. Stronger than δέ. Final a is often elided.</item>
-<item><rs type="lemma">ἁρπάζω</rs>: seize,carry off. HARPY. </item>
-<item><rs type="lemma">ἀρχαῖος</rs>, ἀρχαία, ἀρχαῖον: original, ancient. Cf. ἀρχή. = ARCHAIC. </item>
+<item><rs type="lemma">ἁρπάζω</rs>: seize,carry off. HARPY.</item>
+<item><rs type="lemma">ἀρχαῖος</rs>, ἀρχαία, ἀρχαῖον: original, ancient. Cf. ἀρχή. = ARCHAIC.</item>
 <item><rs type="lemma">βάρβαρος</rs>, βαρβάρου, ὁ: foreigner, barbarian.</item>
 <item><rs type="lemma">ἔργον</rs>, ἔργου, τό: work, deed, ENERGY.</item>
 <item><rs type="lemma">κραυγή</rs>, κραυγῆς, ἡ: outcry, shout.</item>
@@ -1831,12 +1831,12 @@ Vhich resemble endings of the present ?
 
 (b) Translate :
 <list>
-<item n="1">ἠθροιζες λίθους παρὰ τὸν ποταμόν; </item>
-<item n="2">ἀλλ᾽ ἐπέμπομεν τὴν φυλακὴν παρὰ τὸν ἀδελφόν. </item>
-<item n="3">ἡ στρατιὰ ἦν ἐν τῇ κώμῃ καὶ τὰ ἐπιτήδεια ἥρπαζεν. </item>
-<item n="4">οἱ μὲν γὰρ κραυγῇ ἐκ τῆς ἀγορᾶς ἔφευγον. οἱ δὲ σιγῇ τὰς σκηνὰς ἐφύλαττον. </item>
+<item n="1">ἠθροιζες λίθους παρὰ τὸν ποταμόν;</item>
+<item n="2">ἀλλ᾽ ἐπέμπομεν τὴν φυλακὴν παρὰ τὸν ἀδελφόν.</item>
+<item n="3">ἡ στρατιὰ ἦν ἐν τῇ κώμῃ καὶ τὰ ἐπιτήδεια ἥρπαζεν.</item>
+<item n="4">οἱ μὲν γὰρ κραυγῇ ἐκ τῆς ἀγορᾶς ἔφευγον. οἱ δὲ σιγῇ τὰς σκηνὰς ἐφύλαττον.</item>
 <item n="5">οἱ δὲ ἀρχαῖοι εἶχον* κώμας μικράς.</item>
-<item n="6">καλὰ μὲν ἦν τὰ δῶρα, μικρὰ δέ. </item>
+<item n="6">καλὰ μὲν ἦν τὰ δῶρα, μικρὰ δέ.</item>
 <item n="7">τὰ μὲν ἔργα τὰ τοῦ βαρβάρου ἦν καλά, οἱ δὲ λόγοι φίλιοι.</item>
 </list>
 * In the verb ἔχω, the augment is not η but ει. Thus we get, εἶχον, <gloss>I was holding, I was possessing, I used to have.</gloss> The verb stem ἐχ-/σχ- derives from *σ(ε)χ- and we get the impf. εἶχον  from *ἔεχον (Cambridge Grammar of Classical Greek 11.40). This is the only verb we have encountered so far that has this irregular augment. 
@@ -1846,15 +1846,15 @@ Vhich resemble endings of the present ?
 (c) Complete :
 <list>
 <item n="1">ἠγ-- (2d plural) τὸν ἔπτπ--- ἐκ τ--- πεδι --- (singular).</item>
-<item n="2">καὶ τὸ ἐργ- δηλ-- ἦν τ--- πολεμι--. </item>
+<item n="2">καὶ τὸ ἐργ- δηλ-- ἦν τ--- πολεμι--.</item>
 <item n="3">ὁ δὲ κραυγ--- ἐφευγ -- εἰς τ-- κωμ---- (singular).</item>
 </list>
 (d) Write in Greek:
 <list>
-<item n="1">The army was friendly to the country. </item>
-<item n="2">They guard the provisions for ten days. </item>
-<item n="3">On account of the treaty we do not wish to destroy the village. </item>
-<item n="4">The garrison flees ten stades.? </item>
+<item n="1">The army was friendly to the country.</item>
+<item n="2">They guard the provisions for ten days.</item>
+<item n="3">On account of the treaty we do not wish to destroy the village.</item>
+<item n="4">The garrison flees ten stades.?</item>
 <item n="5">There were provisions in the tent.</item>
 </list>
 
@@ -1954,8 +1954,8 @@ present tense, but verbs with stems in ζ are palatals and most verbs with stems
   <row><cell>1st sg</cell><cell>πέμπ-ω</cell><cell>πεμ-<emph>ψ</emph>-ω</cell></row>
   <row><cell>2nd sg</cell><cell>πέμπ-εις</cell><cell>πεμ-<emph>ψ</emph>-εις</cell></row>
   <row><cell>3rd sg</cell><cell>πέμπ-ει</cell><cell>πεμ-<emph>ψ</emph>-ει</cell></row>
-  <row><cell>1st pl</cell><cell>πέμπ-εις</cell><cell>πεμ-<emph>ψ</emph>-εις</cell></row>
-  <row><cell>2nd pl</cell><cell>πέμπ-εις</cell><cell>πεμ-<emph>ψ</emph>-εις</cell></row>
+  <row><cell>1st pl</cell><cell>πέμπ-ομεν</cell><cell>πεμ-<emph>ψ</emph>-ομεν</cell></row>
+  <row><cell>2nd pl</cell><cell>πέμπ-ετε</cell><cell>πεμ-<emph>ψ</emph>-ετε</cell></row>
   <row><cell>3rd pl</cell><cell>πέμπ-ουσι</cell><cell>πεμ-<emph>ψ</emph>-ουσι</cell></row>
 </table>
 
@@ -1969,7 +1969,7 @@ In like manner inflect λύω, γράφω, ἄρχω, πείθω.</p></div>
 may be stated indirectly:
 <list>
 <item>I believe the general to be sending
-(to have sent), or </item>
+(to have sent), or</item>
 <item>I believe that the general is sending (sent).</item>
 </list>
 (b) In Latin the main verb in the quoted statement
@@ -2012,13 +2012,13 @@ The gateway to the Acropolis.
   <list type="vocab">
 <item><rs type="lemma">ἄρχω</rs>, ἄρξω:1 begin, rule, command,  with G. ARCHBISHOP.</item>
 <item><rs type="lemma">μέλλω</rs>, μελλήσω: intend, delay, be about to, usually with fut. inf.</item>
-<item><rs type="lemma">διώκω</rs>, διώξω: pursue. </item>
+<item><rs type="lemma">διώκω</rs>, διώξω: pursue.</item>
 <item><rs type="lemma">θύρα</rs>, θύρα, ἡ: door; αἱ θύραι: often used of military head-quarters or of the king's court (compare Sublime Porte). THYROID.</item>
 <item><rs type="lemma">νομίζω</rs>:1 believe, think, with inf.</item>
 <item><rs type="lemma">ὁδός</rs>, ὁδοῦ, ὁ: road, route. EXODUS.</item>
 <item><rs type="lemma">πείθω</rs>, πείσω: persuade.</item>
 <item><rs type="lemma">ὑπ-οπτεύω</rs>, ὑπ-οπτεύσω: suspect (ὑπό, under + ὀπτεύω, look), with inf. HYPODERMIC. OPTIC.</item>
-<item><rs type="lemma">ἰσχυρός</rs>, ἰσχυρά, ἰσχυρόν: strong. </item>
+<item><rs type="lemma">ἰσχυρός</rs>, ἰσχυρά, ἰσχυρόν: strong.</item>
 </list>
 </p></div>
 
@@ -2026,42 +2026,43 @@ The gateway to the Acropolis.
 <p>
 
 (a) Identify the person and number of the following forms and give the corresponding forms of the present:
-
-πέμψουσι, 
-ἄξομεν, 
-γράψει, 
-φυλάξεις, 
-ἀθροίσω, 
-ἄρξετε, 
-λύσεις
-
+<list>
+<item n="1">πέμψουσι,</item>
+<item n="2">ἄξομεν,</item>
+<item n="3">γράψει,</item>
+<item n="4">φυλάξεις,</item>
+<item n="5">ἀθροίσω,</item>
+<item n="6">ἄρξετε,</item>
+<item n="7">λύσεις</item>
+</list>
 (2) Translate :
-
-1. οἱ βάρβαροι ὑπ-οπτεύσουσι τὰ ἔργα. 
-2. ἐνομίζομεν τοὺς βαρβάρους οὐχ ὑπ-οπτεύειν τὰ δῶρα. 
-3. μέλλει τῆς χώρᾶς ἄρξειν. 
-4. τὴν δὲ στρατιὰν πείσεις τὴν μακρὰν ὁδὸν φυλάττειν. 
-5. οἱ δὲ πολέμιοι τὴν ἰσχυρὰν φυλακὴν λύσουσιν. 
-6. διώξομεν τὸν ἄγγελον παρὰ τὰς τοῦ στρατηγοῦ θύρας.
-7. ἀλλ᾽ οἱ μὲν τοὺς πολεμίους παύσουσιν, οἱ δὲ τὰ ἐπιτήδεια ἀθροίσουσιν. 
-8. ὁ δὲ νομίζει καλὴν ὁδὸν ἄγειν διὰ τῆς ἀρχῆς.
-
+<list>
+<item n="1">οἱ βάρβαροι ὑπ-οπτεύσουσι τὰ ἔργα.</item>
+<item n="2">ἐνομίζομεν τοὺς βαρβάρους οὐχ ὑπ-οπτεύειν τὰ δῶρα.</item>
+<item n="3">μέλλει τῆς χώρᾶς ἄρξειν.</item>
+<item n="4">τὴν δὲ στρατιὰν πείσεις τὴν μακρὰν ὁδὸν φυλάττειν.</item>
+<item n="5">οἱ δὲ πολέμιοι τὴν ἰσχυρὰν φυλακὴν λύσουσιν.</item>
+<item n="6">διώξομεν τὸν ἄγγελον παρὰ τὰς τοῦ στρατηγοῦ θύρας.</item>
+<item n="7">ἀλλ᾽ οἱ μὲν τοὺς πολεμίους παύσουσιν, οἱ δὲ τὰ ἐπιτήδεια ἀθροίσουσιν.</item>
+<item n="8">ὁ δὲ νομίζει καλὴν ὁδὸν ἄγειν διὰ τῆς ἀρχῆς.</item>
+</list>
 (c) Complete:
-
-1. ὑπ-οπτευσ--- οἱ πολέμιοι τὸν στρατηγ--- λῦ-- τὰς σπονδάς. 
-2. μέλλεις λῦ--- - τὴν ὁδ--- ;
-3. οἱ μὲν (will pursue) τοὺς πολεμίους, οἱ δὲ -----  (will seize) τὰ ἐπιτήδεια.
-
+<list>
+<item n="1">ὑπ-οπτευσ--- οἱ πολέμιοι τὸν στρατηγ--- λῦ-- τὰς σπονδάς.</item>
+<item n="2">μέλλεις λῦ---- τὴν ὁδ--- ;</item>
+<item n="3">οἱ μὲν (will pursue) τοὺς πολεμίους, οἱ δὲ -----  (will seize) τὰ ἐπιτήδεια.</item>
+</list>
 <pb n="29"/>
 
 (d) Write in Greek :
-1, But the barbarians were collecting the horses in silence
-2. With a shout we were seizing the provisions. 
-3. The man used to write to his1 brother. 
-4. The works were ancient, but beautiful. 
-5. They were brave in speech.
+<list>
+<item n="1">But the barbarians were collecting the horses in silence.</item>
+<item n="2">With a shout we were seizing the provisions.</item>
+<item n="3">The man used to write to his1 brother.</item>
+<item n="4">The works were ancient, but beautiful.</item>
+<item n="5">They were brave in speech.</item>
 
-
+</list>
 
   </p></div>
 
@@ -2237,12 +2238,12 @@ face, "This is the city of Hadrian, not of Theseus."
 <div type="textpart" subtype="para" n="58"><head>Vocabulary.</head>
 <p>
   <list type="vocab">
-<item><rs type="lemma">ἐνταῦθα</rs>: adv., there, at that place. </item>
+<item><rs type="lemma">ἐνταῦθα</rs>: adv., there, at that place.</item>
 <item><rs type="lemma">λοιπός</rs>, λοιπή, λοιπόν: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.</item>
-<item><rs type="lemma">ἐντεῦθεν</rs>, adv. : from there, thence. </item>
-<item><rs type="lemma">ἐπιστολή</rs>, ἐπιστολῆς, ἡ: letter. EPISTLE. </item>
+<item><rs type="lemma">ἐντεῦθεν</rs>, adv. : from there, thence.</item>
+<item><rs type="lemma">ἐπιστολή</rs>, ἐπιστολῆς, ἡ: letter. EPISTLE.</item>
 <item><rs type="lemma">οἰκία</rs>, οἰκίας, ἡ: house. ECONOMY.</item>
-<item><rs type="lemma">ἔχω</rs>, ἕξω: have; ἔσχον1: got. </item>
+<item><rs type="lemma">ἔχω</rs>, ἕξω: have; ἔσχον1: got.</item>
 <item><rs type="lemma">πύλη</rs>, πύλης, ἡ: gate; pl., pass. PYLON. THERMOPYLA.</item>
 <item><rs type="lemma">λείπω</rs>, λείψω, ἔλιπον: leave. ECLIPSE.</item>
   </list>
@@ -2423,13 +2424,13 @@ the entire thought is clear.
 
 <div type="textpart" subtype="para" n="64"><head>Vocabulary</head>
 <p><list type="vocab">
-<item><rs type="lemma">Ἀθῆναι</rs>, Ἀθηνῶν, αἱ: Athens. </item>
-<item><rs type="lemma">ἀπ-έχω</rs>: be distant, be away. </item>
+<item><rs type="lemma">Ἀθῆναι</rs>, Ἀθηνῶν, αἱ: Athens.</item>
+<item><rs type="lemma">ἀπ-έχω</rs>: be distant, be away.</item>
 <item><rs type="lemma">ἐπί</rs>: prep. with G., on, upon;1 with D., on, at, by; with A., upon, to, againsi, EPIDERMIS.<note>The difference between the genitive, dative, and accusative may be indicated by these phrases: on horseback, a city on the sea, he marches on the town. Compare παρά (§ 25).</note></item>
-<item><rs type="lemma">Ἀθηναῖος</rs>, Ἀθηναά, Ἀθηναῖον: Athenian. </item>
+<item><rs type="lemma">Ἀθηναῖος</rs>, Ἀθηναά, Ἀθηναῖον: Athenian.</item>
 <item><rs type="lemma">ἑπτά</rs>: seven. HEPTAGON.</item>
 <item><rs type="lemma">δρόμος</rs>, δρόμου, ὁ: a running, run, race, race course. HIPPODROME.</item>
-<item><rs type="lemma">ἥκω</rs>, ἥξω: [No aorist in use] come, have come, arrive.  </item>
+<item><rs type="lemma">ἥκω</rs>, ἥξω: [No aorist in use] come, have come, arrive.</item>
 <item><rs type="lemma">ὀκτώ</rs>: eight. octopus.</item>
 <item><rs type="lemma">σπεύδω</rs>, σπεύσω, ἔσπευσα: hasten.</item>
 </list>
@@ -2595,7 +2596,7 @@ the messenger whom you sent wishes to flee.</p></div>
 <div type="textpart" subtype="para" n="70"><head>Uses of αὐτός.</head>
 <p><list>
   <item>Following the article, αὐτός means
-same : ἡ αὐτὴ κώμη the same village, </item>
+same : ἡ αὐτὴ κώμη the same village,</item>
 <item>modifying a noun or pronoun, but not following
 the article, it means self; Κῦρος αὐτός Cyrus himself; ἡ κώμη αὐτή the village itself ;
 αὐτὸς ἔφυγεν he himself fled ;
