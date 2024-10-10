@@ -153,16 +153,17 @@ The gateway to the Acropolis.
 
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| ἄρχω | [78](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἄρχω.md) | 18823 | ἄρξω:1 begin, rule, command,  with G. ARCHBISHOP.
+| ἄρχω | [78](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἄρχω.md) | 18823 | ἄρξω, ἦρξα:1 begin, rule, command,  with G. ARCHBISHOP.
 | μέλλω | [36](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/μέλλω.md) | 18859 | μελλήσω: intend, delay, be about to, usually with fut. inf.
-| διώκω | [48](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/διώκω.md) | 18907 | διώξω: pursue.
+| διώκω | [48](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/διώκω.md) | 18907 | διώξω, ἐδίωξα: pursue.
 | θύρα | [10](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/θύρα.md) | 18917 | θύρα, ἡ: door; αἱ θύραι: often used of military head-quarters or of the king's court (compare Sublime Porte). THYROID.
-| νομίζω | [69](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/νομίζω.md) | 18986 | 1 believe, think, with inf.
-| ὁδός | [75](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ὁδός.md) | 19061 | ὁδοῦ, ὁ: road, route. EXODUS.
+| νομίζω | [69](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/νομίζω.md) | 18986 | [νομιῶ*], ἐνόμισα: believe, think, with inf.
+| ὁδός | [75](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ὁδός.md) | 19061 | ὁδοῦ, ἡ: road, route. EXODUS.
 | πείθω | [64](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πείθω.md) | 19125 | πείσω: persuade.
 | ὑποπτεύω | [11](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ὑποπτεύω.md) | 19136 | ὑπ-οπτεύσω: suspect (ὑπό, under + ὀπτεύω, look), with inf. HYPODERMIC. OPTIC.
 | ἰσχυρός | [23](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἰσχυρός.md) | 19159 | ἰσχυρά, ἰσχυρόν: strong.
 
+* The future of νομίζω (1) does not have a sigma and (2) instead lengthens the ending (usually reflected by a circumflex). The textbook addresses this later and the excercises do not expect you to know the future of νομίζω.
 
 
 ## [§ 52](#para52). Exercises.
