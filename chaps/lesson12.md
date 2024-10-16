@@ -71,8 +71,7 @@ at the start.
 | σπεύδω | [9](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σπεύδω.md) | 20559 | σπεύσω, ἔσπευσα: hasten.
 
 
-<div type="textpart" subtype="para" n="65">
-# Chapter 12: MARATHON
+## [§ 65](#para65). Marathon
 
 
 
