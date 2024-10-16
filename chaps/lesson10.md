@@ -96,15 +96,25 @@ augment and secondary endings (§§ 42, 43).
 suffix -σα- (-σε in the third singular), which obeys the same
 phonetic laws as the -σ- of the future (§ 49).
 
-(c) The first aorist infinitive active is always accented on the penult:1 ἀθροῖσαι, ἁρπάσαι.
+(c) The first aorist infinitive active is always accented on the penult:<note>See § V, f.</note>
+
+<foreign>ἀθροῖσαι</foreign>,
+<foreign>ἁρπάσαι</foreign>.
+
+
 
 (d) Some verbs lack a first aorist. Such verbs often have a second aorist, a distinguishing feature of which is a
 weakening of the vowel element of thestem, The second aorist indicative is inflected like the imperfect, and the corresponding infinitive has an ending like that of the present infinitive, but it is accented irregularly on the ultima:
-ἄγω, ἤγαγον, ἀγαγεῖν;
-λείπω, ἔλιπον, λιπεῖν;
-φεύγω, ἔφυγον, φυγεῖν.
+
+- ἄγω, ἤγαγον, ἀγαγεῖν;
+- λείπω, ἔλιπον, λιπεῖν;
+- φεύγω, ἔφυγον, φυγεῖν.
+
+
+
+
 (e) The third form in the principal parts of a normal
-verb shows by the presence of -σα (-α)2 or -ον whether the
+verb shows by the presence of -σα (-α)<note>The type of verbs that have only -α and not -σα in the first aorist will be presented later.</note>  or -ον whether the
 aorist is first or second.
 
 Inflect λύω and φεύγω in the aorist indicative and infinitive.
@@ -116,29 +126,32 @@ There is usually no difference of meaning between
 first and second aorist, the terms signifying merely differ-
 ence in formation:
 
-ἔπαυσα (first aorist) I stopped ; ἔλιπον (second aorist) I left.
+<foreign></foreign>ἔπαυσα *(first aorist) I stopped ; *
+<foreign></foreign>ἔλιπον *(second aorist) I left.*
+
 
 ## [§ 57](#para57). Tenses of the Infinitive.
 
 
 The infinitive, except in
 
-indirect discourse, has no time value. The present infinitive denotes continuance or repetition (a motion picture),
+indirect discourse,<note>§ 50d</note> has no time value. The present infinitive denotes continuance or repetition (a motion picture),
 while the aorist infinitive denotes a single occurrence (a snap-shot):
 
-ἐθέλει φεύγειν he wishes to keep on fleeing ;
-ἐθέλει φυγεῖν he wishes to flee.
+<foreign>ἐθέλει φεύγειν</foreign> *he wishes to keep on fleeing *;
+| Greek | English | 
+| --- | -- | 
+|  ἐθέλει φυγεῖν  |  he wishes to flee.  |
 
 
 
-1 See § V, f.
-2 The type of verbs that have only -α and not -σα in the first aorist will be presented later.
-3 50, d
+
+
 
 <pb n="32"/>
 
-The Arch of Hadrian
 
+## [§ 57a](#para57a). The Arch of Hadrian.
 
 
 Hadrian, one of the "good” emperors of Rome, showed his love for
@@ -158,11 +171,12 @@ face, "This is the city of Hadrian, not of Theseus."
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
 | ἐνταῦθα | [126](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐνταῦθα.md) | 19285 | adv., there, at that place.
-| λοιπός | [28](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/λοιπός.md) | 19313 | λοιπή, λοιπόν: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.
+- <rs type="lemma">λοιπός</rs>, λοιπή, λοιπόν
+<note>An example of vowel change (§ 53).</note>: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.
 | ἐντεῦθεν | [80](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐντεῦθεν.md) | 19393 | adv. : from there, thence.
 | ἐπιστολή | [5](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐπιστολή.md) | 19398 | ἐπιστολῆς, ἡ: letter. EPISTLE.
 | οἰκία | [32](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/οἰκία.md) | 19430 | οἰκίας, ἡ: house. ECONOMY.
-| ἔχω | [438](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἔχω.md) | 19868 | ἕξω: have; ἔσχον1: got.
+| ἔχω | [438](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἔχω.md) | 19868 | ἕξω: have; ἔσχον<note>ἔσχον is aorist. Sigma was lost in the present and replaced by breathing in the future.</note>: got.
 | πύλη | [21](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πύλη.md) | 19889 | πύλης, ἡ: gate; pl., pass. PYLON. THERMOPYLA.
 | λείπω | [19](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/λείπω.md) | 19908 | λείψω, ἔλιπον: leave. ECLIPSE.
 
@@ -175,32 +189,37 @@ face, "This is the city of Hadrian, not of Theseus."
 (a) Translate:
 
 1. διὰ τὴν φιλίαν ὁ στρατηγὸς ἐθέλει ἐπιστολὴν γράψαι.
-2. οἱ λοιποὶ ἄνθρωποι ὑπ-ώπτευσαν3 τὸν ἄγγελον.
+2. οἱ λοιποὶ ἄνθρωποι ὑπ-ώπτευσαν<note>The augment of compounds follows the prefix.</note> τὸν ἄγγελον. 
 3. ἐνόμίσα τοὺς λοιποὺς ὑπ-οπτεῦσαι τοὺς τοῦ ἀγγέλου λόγους.
-4. ἔπεισε τοὺς φίλους τὰς οἰκίας λῦσαι.
-5. ἐνταῦθα ἐλέπετε τοὺς ἵππους.
-6. ἐντεῦθεν ἐπέμψαμεν τὸν ἄγγελον παρὰ τὰς τοῦ στρατηγοῦ θύρας.
-7. ὑπ-οπτεύομεν τὴν φυλακὴν φεύγειν ἐκ τῶν οἰκιῶν.
+4. ἔπεισε τοὺς φίλους τὰς οἰκίας λῦσαι. 
+5. ἐνταῦθα ἐλέπετε τοὺς ἵππους. 
+6. ἐντεῦθεν ἐπέμψαμεν τὸν ἄγγελον παρὰ τὰς τοῦ στρατηγοῦ θύρας. 
+7. ὑπ-οπτεύομεν τὴν φυλακὴν φεύγειν ἐκ τῶν οἰκιῶν. 
 8. διὰ τῶν πυλῶν ἔφευγον οἱ λοιποὶ πολέμιοι.
+
+
+
 
 (b) Complete:
 
-1. ἐνταῦθα ἐσχ--- (1st singular) δωρ--- ἀξι---.
-2. οὐκ ἐθέλει ὁ στρατηγὸς τὰς πυλ--- λιπ---.
+1. ἐνταῦθα ἐσχ--- (1st singular) δωρ--- ἀξι---. 
+2. οὐκ ἐθέλει ὁ στρατηγὸς τὰς πυλ--- λιπ---. 
 3. τ-- στρατι--- (singular) ἐνομίσατε ἐν τ--- μαχ--- (singular) φυγ---.
+
+
+
 
 (c) Write in Greek :
 
-1. We shall seize the horses in the country.
-2. He thinks that the enemy are guarding the road.
-3. Do you intend to pursue the guard ?
-4. I think that the messenger will persuade the general.
+1. We shall seize the horses in the country. 
+2. He thinks that the enemy are guarding the road. 
+3. Do you intend to pursue the guard ? 
+4. I think that the messenger will persuade the general. 
 5. With a shout they will break the strong door.
 
-1 ἔσχον is aorist. Sigma was lost in the present and replaced by breathing in the future.
 
-2 An example of vowel change (§ 53).
-3 The angment of compounds follows the prefix.
+
+
 
 <pb n="34"/>
 

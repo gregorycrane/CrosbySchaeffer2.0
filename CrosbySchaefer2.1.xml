@@ -2185,15 +2185,21 @@ augment and secondary endings (§§ 42, 43).
 suffix -σα- (-σε in the third singular), which obeys the same
 phonetic laws as the -σ- of the future (§ 49).
 
-(c) The first aorist infinitive active is always accented on the penult:1 ἀθροῖσαι, ἁρπάσαι.
+(c) The first aorist infinitive active is always accented on the penult:<note>See § V, f.</note>
 
+<foreign>ἀθροῖσαι</foreign>, 
+<foreign>ἁρπάσαι</foreign>.
+</p><p>
 (d) Some verbs lack a first aorist. Such verbs often have a second aorist, a distinguishing feature of which is a
 weakening of the vowel element of thestem, The second aorist indicative is inflected like the imperfect, and the corresponding infinitive has an ending like that of the present infinitive, but it is accented irregularly on the ultima: 
-ἄγω, ἤγαγον, ἀγαγεῖν;
-λείπω, ἔλιπον, λιπεῖν;
-φεύγω, ἔφυγον, φυγεῖν.
+<list>
+<item>ἄγω, ἤγαγον, ἀγαγεῖν;</item>
+<item>λείπω, ἔλιπον, λιπεῖν;</item>
+<item>φεύγω, ἔφυγον, φυγεῖν.</item>
+</list>
+</p><p>
 (e) The third form in the principal parts of a normal
-verb shows by the presence of -σα (-α)2 or -ον whether the
+verb shows by the presence of -σα (-α)<note>The type of verbs that have only -α and not -σα in the first aorist will be presented later.</note>  or -ον whether the
 aorist is first or second.
 
 Inflect λύω and φεύγω in the aorist indicative and infinitive.</p></div>
@@ -2203,30 +2209,29 @@ Inflect λύω and φεύγω in the aorist indicative and infinitive.</p></div>
 first and second aorist, the terms signifying merely differ-
 ence in formation:
 
-ἔπαυσα (first aorist) I stopped ; ἔλιπον (second aorist) I left.</p></div>
+<foreign></foreign>ἔπαυσα <gloss>(first aorist) I stopped ; </gloss>
+<foreign></foreign>ἔλιπον <gloss>(second aorist) I left.</gloss>
+</p></div>
 
 <div type="textpart" subtype="para" n="57"><head>Tenses of the Infinitive.</head>
 <p>The infinitive, except in
 
-indirect discourse, has no time value. The present infinitive denotes continuance or repetition (a motion picture),
+indirect discourse,<note>§ 50d</note> has no time value. The present infinitive denotes continuance or repetition (a motion picture),
 while the aorist infinitive denotes a single occurrence (a snap-shot): 
 
-ἐθέλει φεύγειν he wishes to keep on fleeing ;
-ἐθέλει φυγεῖν he wishes to flee.
+<foreign>ἐθέλει φεύγειν</foreign> <gloss>he wishes to keep on fleeing </gloss>;
+<foreign>ἐθέλει φυγεῖν</foreign> <gloss>he wishes to flee.</gloss>
 
 
 
-1 See § V, f.
-2 The type of verbs that have only -α and not -σα in the first aorist will be presented later. 
-3 50, d
+
+
 
 <pb n="32"/>
+</p></div>
 
-The Arch of Hadrian
-
-
-
-Hadrian, one of the "good” emperors of Rome, showed his love for
+<div type="textpart" subtype="para" n="57a"><head>The Arch of Hadrian.</head>
+<p>Hadrian, one of the "good” emperors of Rome, showed his love for
 Athens by beautifying the city. This arch bears on its western face the
 legend, "This is the Athens of Theseus, the former city,” and on the eastern
 face, "This is the city of Hadrian, not of Theseus."
@@ -2240,11 +2245,12 @@ face, "This is the city of Hadrian, not of Theseus."
 <p>
   <list type="vocab">
 <item><rs type="lemma">ἐνταῦθα</rs>: adv., there, at that place.</item>
-<item><rs type="lemma">λοιπός</rs>, λοιπή, λοιπόν: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.</item>
+<item><rs type="lemma">λοιπός</rs>, λοιπή, λοιπόν
+  <note>An example of vowel change (§ 53).</note>: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.</item>
 <item><rs type="lemma">ἐντεῦθεν</rs>, adv. : from there, thence.</item>
 <item><rs type="lemma">ἐπιστολή</rs>, ἐπιστολῆς, ἡ: letter. EPISTLE.</item>
 <item><rs type="lemma">οἰκία</rs>, οἰκίας, ἡ: house. ECONOMY.</item>
-<item><rs type="lemma">ἔχω</rs>, ἕξω: have; ἔσχον1: got.</item>
+<item><rs type="lemma">ἔχω</rs>, ἕξω: have; ἔσχον<note>ἔσχον is aorist. Sigma was lost in the present and replaced by breathing in the future.</note>: got.</item>
 <item><rs type="lemma">πύλη</rs>, πύλης, ἡ: gate; pl., pass. PYLON. THERMOPYLA.</item>
 <item><rs type="lemma">λείπω</rs>, λείψω, ἔλιπον: leave. ECLIPSE.</item>
   </list>
@@ -2253,34 +2259,35 @@ face, "This is the city of Hadrian, not of Theseus."
 <p>
 
 (a) Translate:
-
-1. διὰ τὴν φιλίαν ὁ στρατηγὸς ἐθέλει ἐπιστολὴν γράψαι.
-2. οἱ λοιποὶ ἄνθρωποι ὑπ-ώπτευσαν3 τὸν ἄγγελον. 
-3. ἐνόμίσα τοὺς λοιποὺς ὑπ-οπτεῦσαι τοὺς τοῦ ἀγγέλου λόγους.
-4. ἔπεισε τοὺς φίλους τὰς οἰκίας λῦσαι. 
-5. ἐνταῦθα ἐλέπετε τοὺς ἵππους. 
-6. ἐντεῦθεν ἐπέμψαμεν τὸν ἄγγελον παρὰ τὰς τοῦ στρατηγοῦ θύρας. 
-7. ὑπ-οπτεύομεν τὴν φυλακὴν φεύγειν ἐκ τῶν οἰκιῶν. 
-8. διὰ τῶν πυλῶν ἔφευγον οἱ λοιποὶ πολέμιοι.
-
+<list>
+<item n="1">διὰ τὴν φιλίαν ὁ στρατηγὸς ἐθέλει ἐπιστολὴν γράψαι.</item>
+<item n="2">οἱ λοιποὶ ἄνθρωποι ὑπ-ώπτευσαν<note>The augment of compounds follows the prefix.</note> τὸν ἄγγελον. </item>
+<item n="3">ἐνόμίσα τοὺς λοιποὺς ὑπ-οπτεῦσαι τοὺς τοῦ ἀγγέλου λόγους.</item>
+<item n="4">ἔπεισε τοὺς φίλους τὰς οἰκίας λῦσαι. </item>
+<item n="5">ἐνταῦθα ἐλέπετε τοὺς ἵππους. </item>
+<item n="6">ἐντεῦθεν ἐπέμψαμεν τὸν ἄγγελον παρὰ τὰς τοῦ στρατηγοῦ θύρας. </item>
+<item n="7">ὑπ-οπτεύομεν τὴν φυλακὴν φεύγειν ἐκ τῶν οἰκιῶν. </item>
+<item n="8">διὰ τῶν πυλῶν ἔφευγον οἱ λοιποὶ πολέμιοι.</item>
+</list>
+</p><p>
 (b) Complete:
-
-1. ἐνταῦθα ἐσχ--- (1st singular) δωρ--- ἀξι---. 
-2. οὐκ ἐθέλει ὁ στρατηγὸς τὰς πυλ--- λιπ---. 
-3. τ-- στρατι--- (singular) ἐνομίσατε ἐν τ--- μαχ--- (singular) φυγ---.
-
+<list>
+<item n="1">ἐνταῦθα ἐσχ--- (1st singular) δωρ--- ἀξι---. </item>
+<item n="2">οὐκ ἐθέλει ὁ στρατηγὸς τὰς πυλ--- λιπ---. </item>
+<item n="3">τ-- στρατι--- (singular) ἐνομίσατε ἐν τ--- μαχ--- (singular) φυγ---.</item>
+</list>
+</p><p>
 (c) Write in Greek :
+<list>
+<item n="1">We shall seize the horses in the country. </item>
+<item n="2">He thinks that the enemy are guarding the road. </item>
+<item n="3">Do you intend to pursue the guard ? </item>
+<item n="4">I think that the messenger will persuade the general. </item>
+<item n="5">With a shout they will break the strong door.</item>
+</list>
+ 
 
-1. We shall seize the horses in the country. 
-2. He thinks that the enemy are guarding the road. 
-3. Do you intend to pursue the guard ? 
-4. I think that the messenger will persuade the general. 
-5. With a shout they will break the strong door.
 
-1 ἔσχον is aorist. Sigma was lost in the present and replaced by breathing in the future. 
-
-2 An example of vowel change (§ 53).
-3 The angment of compounds follows the prefix.
 </p>
 <pb n="34"/>
 
@@ -2289,139 +2296,153 @@ face, "This is the city of Hadrian, not of Theseus."
 </div>
 <div type="textpart" subtype="lesson" n="11">
 <head>REVIEW</head>
-
+<p>
 <cit>
-  <quote><l part="F">σοφῷ γὰρ αἰσχρὸν ἐξαμαρτάνειν.</l> 
+  <quote><l part="F">πιθοῦ· σοφῷ γὰρ αἰσχρὸν ἐξαμαρτάνειν.</l> 
   </quote>
-  <quote>‘Tis shameful for a wise man to make mistakes.
-  </quote>
-  <bibl>Aeschylus, Prometheus, 1039.</bibl>
+  <quote>Agree! It is shameful for a wise person to make mistakes</quote>
+  <bibl n="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:1039/">Aeschylus, Prometheus, 1039.</bibl>
 </cit>
+</p>
 
+<div type="textpart" subtype="para" n="60"><head>Assignments</head>
+<p>
 
-<div type="textpart" subtype="para" n="60">
-<p>ASSIGNMENTS
-
-(a) Review all words in the vocabularies of Lessons
-VI-X. Follow suggestions given in § 27, a.
-
+(a) Review all words in the vocabularies of Lessons VI-X. Follow suggestions given in § 27, a.
+</p><p>
 (6) Name and define the Greek words suggested by
-scenic, spondaic, prophylaxis, logomachy, archangel, pylon,
-diaphanous, barbaric, archetype, erg, ecliptic, cathode,
-pyloric, energize, thyrectomy.
-
+<list>
+<item>scenic, </item>
+<item>spondaic, </item>
+<item>prophylaxis, </item>
+<item>logomachy, </item>
+<item>archangel, </item>
+<item>pylon,</item>
+<item>diaphanous, </item>
+<item>barbaric, </item>
+<item>archetype, </item>
+<item>erg, </item>
+<item>ecliptic, </item>
+<item>cathode,</item>
+<item>pyloric, </item>
+<item>energize, </item>
+<item>thyrectomy.</item>
+</list>
+</p><p>
 (c) Add ten other derivatives to this group. 
-
+</p><p>
 (d) Inflect παύω, διώκω, ἁρπάξω, and λείπω in all tenses
-of indicative and infinitive thus far studied.2
-
+of indicative and infinitive thus far studied.<note>Consult the vocabulary at the back of the printed book to see which of these verbs have first and which second aorist.</note>
+</p><p>
 (e) Give the forms of ἄξιος and ἀγαθός that should be
 used with στρατηγῷ, χώρᾳ, δῶρα, φυγήν, φιλίας (singular),
 φιλίας (plural), ἀγγέλων, κώμαις.
-
+</p><p>
 (f) What time facts are indicated by the heavy type ?
-
-ἔπεμπε ἄξομεν ἐλύσαμεν γράψειν ἔλιπες
-
+<list>
+<item><emph>ἔ</emph>πεμπε</item>
+<item>ἄ<emph>ξ</emph>ομεν</item> 
+<item><emph>ἐ</emph>λύ<emph>σα</emph>μεν</item> 
+<item>γρά<emph>ψ</emph>ειν</item> 
+<item><emph>ἔ</emph>λ<emph>ιπ</emph><emph>ες</emph></item>
+</list>
+</p><p>(g) What uses of the genitive have you thus far had?
 Of the dative? Of the accusative ?</p></div>
 
 <div type="textpart" subtype="para" n="61"><head>Exercises.</head>
 <p>
 (a) Complete:
-
-1. τ--- στρατηγ--- (singular) ὑπ-ὠπτευσαν λῡ--- (present) τὰς σπονδάς. 
-2. πείσει τοὺς βαρβάρους τὰ ἐπιτήδεια ἄρπα--- (single act). 
-
-2 Consult the vocabulary at the back of the book to see which of these verbs have first and which second aorist.
+<list>
+<item n="1">τ--- στρατηγ--- (singular) ὑπ-ὠπτευσαν λῡ--- (present) τὰς σπονδάς. </item>
+<item n="2">πείσει τοὺς βαρβάρους τὰ ἐπιτήδεια ἄρπα--- (single act). </item>
 
 <pb n="35"/>
 
-3. τὴν στρατιὰν ἐνόμιζε λειπ--- τ-- ἀγορ--- (singular). 
-4. διὰ τ--- χωρ--- ἔφυγον δέκα σταδι---. 
-4. ἡ δὲ κώμη πολεμι--- ἦν τ--- στρατι--- (singular). 
-5. οἱ μὲν σιγῇ ἐφύλαττον τὰς σκηνάς, --- δὲ κραυγ--- ἔφευγον.
-7. ἀγορὰ οὐκ ἦν τ--- λοιτπ--- στρατι--- (singular).
-
+<item n="3">τὴν στρατιὰν ἐνόμιζε λειπ--- τ-- ἀγορ--- (singular). </item>
+<item n="4">διὰ τ--- χωρ--- ἔφυγον δέκα σταδι---. </item>
+<item n="5">ἡ δὲ κώμη πολεμι--- ἦν τ--- στρατι--- (singular). </item>
+<item n="6">οἱ μὲν σιγῇ ἐφύλαττον τὰς σκηνάς, --- δὲ κραυγ--- ἔφευγον.</item>
+<item n="7">ἀγορὰ οὐκ ἦν τ--- λοιτπ--- στρατι--- (singular).</item>
+</list>
 (b) Write in Greek: 
+<list>
+<item n="1">They suspected that the garrison would not guard the pass. </item>
+<item n="2">The men from the country had the letters. </item>
+<item n="3">The village was not friendly to the foreigners. </item>
+<item n="4">On account of our<note>Use the article.</note> friendship we shall not break the truce. </item>
+<item n="5">Some were brave in deed, others in speech.</item>
+</list></p></div>
 
-1. They suspected that the garrison would not guard the pass. 
-2. The men from the country had the letters. 
-3. The village was not friendly to the foreigners. 
-4. On account of our! friendship we shall not break the truce. 
-5. Some were brave in deed, others in speech.
+<div type="textpart" subtype="para" n="61"><head>The Lincoln Memorial.</head>
+<p>
 
-THE Lincoln MEMORIAL
 
 The influence of Greek architecture is visible throughout the world, but rarely
 with more pleasing effect than in this memorial at Washington, D. C.
 
-1 Use article.
+
 
 <pb n="36"/>
 </p>
 
+</div>
 </div>
 
 <div type="textpart" subtype="lesson" n="12">
 <head>READING </head>
 
 <cit>
-  <quote><l>ὦ ταὶ λιπαραὶ καὶ ἰοστέφανοι καὶ ἀοίδιμοι,</l>
-    <l>Ἑλλάδος ἔρεισμα, κλειναὶ Ἀθᾶναι.
-    </l>
+  <quote xml:lang="grc"><l>ὦ ταὶ λιπαραὶ καὶ ἰοστέφανοι καὶ ἀοίδιμοι,</l>
+    <l>Ἑλλάδος ἔρεισμα, κλειναὶ Ἀθᾶναι.</l>
   </quote>
-  <quote><l>City of light, with your violet crown, beloved of the poets,
+  <quote><l>City of light, with your violet crown, worthy object of song,
   </l>
-<l>You are the bulwark of Greece; Athens, your fame is for ever.</l></quote>
-<quote>Literally: 
-  O renowned Athens, brilliant, violet-crowned, and famed in song, stay of Greece.</quote>
+<l>Bulwark of Greece, famous Athens.</l></quote>
+
   <bibl>Pindar, fragment.</bibl>
 </cit>
 
 </div>
  
 
-<div type="textpart" subtype="para" n="62"><head>The Value of Transiation.</head>
-<p>"There is no better wav
-for the student to train himself in the choice of the very
-word that will fit his thought than by translation from
-Latin and Greek. Thus he develops habits of analysis,
+<div type="textpart" subtype="para" n="62"><head>The Value of Translation.</head>
+<p>"There is no better way
+for students to train themselves in the choice of the very
+word that will fit their thought than by translation from
+Latin and Greek. Thus they develop habits of analysis,
 habits of discriminating choice of words, habits of accurate
 apprehension of the meaning which another has sought to
 convey by written words, which lead to power of expression
 and to power of clear thinking. Such habits are worth
 more to the lawyer than all the information which a modern
 school may hope to impart.” <note>Roscoe Pound, Dean of the Law School, Harvard University, as reported
-in Value of the Classics, page 49.</note></p></div>
+in Value of the Classics, page 49, with pronouns updated to be gender neutral. Whatever Pound's individual thoughts, the point made still applies and applies to any student of Greek.</note></p></div>
 
 <div type="textpart" subtype="para" n="63"><head>The Process of Translation.</head>
 <p>From the very beginning, cultivate right habits, The time thus saved will in
 the end repay you for any time that may seem to be lost
 at the start.
 
-1. Read aloud and distinctly each Greek sentence as Greek,
-without conscious effort at translation.
+<list>
 
-2. Note familiar words; in unfamiliar words look for familiar
-roots or suggestions as to meaning contained in the context,
+<item n="1">Read aloud and distinctly each Greek sentence as Greek, without conscious effort at translation.</item>
+
+<item n="2">Note familiar words; in unfamiliar words look for familiar roots or suggestions as to meaning contained in the context,</item>
 
 
 <pb n="37"/>
 
-3. Note carefully word groups and relations of words as indicated by inflectional changes.
+<item n="3">Note carefully word groups and relations of words as indicated by inflectional changes.</item>
 
-4. Do not jump about in the sentence, but try to grasp the
-thoughts as they follow in logical sequence, observing that
-emphatic words are likely to occur at the beginning or end of
-clauses or sentences, 
+<item n="4">Do not jump about in the sentence, but try to grasp the thoughts as they follow in logical sequence, observing that emphatic words are likely to occur at the beginning or end of clauses or sentences, </item>
 
-5. If the meaning of any words is still unknown, consult the
-vocabulary.
+<item n="5">If the meaning of any words is still unknown, consult the vocabulary.</item>
 
-6. If relations of words are still obscure, reread aloud until
-the entire thought is clear.
+<item n="6">If relations of words are still obscure, reread aloud until the entire thought is clear.</item>
 
-7. Translate into clear and accurate English.</p></div>
+<item n="7">Translate into clear and accurate English.</item>
+</list>
+</p></div>
 
 <div type="textpart" subtype="para" n="64"><head>Vocabulary</head>
 <p><list type="vocab">
@@ -2437,11 +2458,11 @@ the entire thought is clear.
 </list>
 </p></div>
 <div type="textpart" subtype="para" n="65">
-<p>MARATHON</p>
+<head>MARATHON</head>
 
-<p>“That man is little to be envied whose patriotism would not gain force upon the plain of Marathon.” 
-Samuel Johnson
+<p><cit><quote>That man is little to be envied whose patriotism would not gain force upon the plain of Marathon.</quote> <bibl>Samuel Johnson</bibl></cit> 
 
+</p><p>
 Δαρεῖος βασιλεὺς <note>Predicate nominative in agreement with Δαρεῖος.</note> (king) ἦν τῶν Περσῶν καὶ ἦρχε πάντων
 (all) τῶν ἐν τῇ Ἀσίᾳ ἀνθρώπων. τοὺς δὲ φίλους ἔπεμψε
 στρατηγοὺς σὺν (with) στρατιᾷ πολλῇ (large) καὶ πολλῷ ναυτικῷ (compare NAUTICAL) ἐπὶ Ἀθήνας. οἱ δὲ στρατηγοὶ ἦγον
@@ -2455,72 +2476,70 @@ Samuel Johnson
 ἡ μὲν μάχη ἡ ἐν τῷ Μαραθῶνι ἦν μακρά, τέλος ( finally) δὲ
 τοὺς βαρβάρους οἱ Ἀθηναῖοι ἐδίωκον εἰς τὴν θάλατταν (sea)
 καὶ τῶν νεῶν (ships) ἥρπασαν ἑπτά.
-
+</p><p>
 Adapted from Herodotus, Book VI.
 
 <note>For information regarding Herodotus and other personages referred to in
-this book, consult Dictionary of Proper Names, page 335.</note>
+this book, consult Dictionary of Proper Names in the print volume, page 335.</note>
+</p></div>
+<div type="textpart" subtype="para" n="65a">
+<head>The Funeral Mound at Marathon</head>
 
-The Funeral Mound at MARATHON
 
-This is an artificial knoll, about forty feet high, erected over the bodies of
+<p>This is an artificial knoll, about forty feet high, erected over the bodies of
 the Athenians slain at Marathon. No simpler memorial could be imagined
 for the most heroic exploit in Athenian history.</p></div>
 
-<div type="textpart" subtype="para" n="66">
-<p>PRONUNCIATION OF ANGLICIZED GREEK PROPER NAMES
-
-(a) Every educated person should know how to pronounce correctly the many Greek proper names that have
-passed into English literature and English speech. Especially is this to be expected of every person who has been
-privileged to study Greek.
-
-(4) Here are a few simple rules which will help:
-
-1. Because most Greek proper names have come into English via Latin, custom demands first that the Greek letters shall
+<div type="textpart" subtype="para" n="66"><head>Pronunciation of Anglicized Greek Proper Names</head>
+<p>Here are a few simple rules which will help pronounce Greek proper names that appear in English:
+</p><p>
+1. Because most Greek proper names have come into English via Latin, we typically replace Greek letters 
 
 
 <pb n="39"/>
+by their Latin equivalents.
 
-be replaced by their Latin equivalents.
-
-
+</p><p>
 
 These can be learned from
 
-§§ I and II, but note especially that 
-αι passes into  or e, 
-ει into î or ê, 
-οι into oe or ê 
-(when final, οι becomes î), 
-ου into û, 
-υ into y (except in diphthongs), 
-ος into us:
+  §§ I and II, but note especially that 
+  <list>
 
-θησεῖον Theseum, 
-Φοῖβος Phoebus,
-Φίλιπποι Philippi, 
-Ἐπίκουρος Epicurus,
+<item>αι passes into oe or e, </item>
+<item>ει into î or ê, </item>
+<item>οι into oe or ê (when final, οι becomes î), </item>
+<item>ου into û, </item>
+<item>υ into y (except in diphthongs), </item>
+<item>ος into us:</item>
+</list>
+</p>
+<p><list>
+<item>θησεῖον Theseum, </item>
+<item>Φοῖβος Phoebus,</item>
+<item>Φίλιπποι Philippi, </item>
+<item>Ἐπίκουρος Epicurus,</item>
 
-Αἴσχυλος Aischylus, 
-Αἰθιοπία Ethiopia, 
-Ἀριστείδης Aristides,
-Κύκλωψ Cyclops,
+<item>Αἴσχυλος Aischylus, </item>
+<item>Αἰθιοπία Ethiopia, </item>
+<item>Ἀριστείδης Aristides,</item>
+<item>Κύκλωψ Cyclops,</item>
 
-Φοῖνιξ Phoenician
-
+<item>Φοῖνιξ Phoenician</item>
+</list></p><p>
 2. Use the ordinary English sounds for the letters, remembering that c (for k) and g are “soft” before e or i sounds.
-
+</p><p>
 3. Names that have become  very common in English are likely to have lost or changed their inflectional endings:
+<list>
+<item>Ἀθῆναι Athens,  </item>
+<item>Συράκουσαι Syracuse, </item>
+<item>Ὅμηρος Homer, </item>
+<item>Πλάτων Plato, </item>
+<item>Ἀλέξανδρος Alexander.</item>
+</list>
+</p>
 
-Ἀθῆναι Athens,  
-Συράκουσαι Syracuse, 
-Ὅμηρος Homer, 
-Πλάτων Plato, 
-Ἀλέξανδρος Alexander.
-
-Bronze Boy FROM MARATHON
-
-This head belongs to a beautiful statue found in almost perfect condition by a fisherman in the Bay of Marathon in 1925.
+<p>
 
 4. The anglicized form is to
 be accented according to the
@@ -2528,39 +2547,41 @@ Latin rules: two-syllabled
 words accent the penult; poly-syllables accent the penult, if
 long, otherwise the antepenult:
 A'thens, Ody'sseus, Pene'lope.1
-
+</p><p>
 (c) Transliterate into English and pronounce :
-
-Κυθέρεια 
-Ἀγαμέμνων 
-Βορέᾱς 
-Κῦρος
-Ἡρόδοτος 
-Ἀφροδίτη <note>Final η, when transliterated inta é, is regularly sounded.</note>
-θουκυδίδης 
-Ἀπόλλων
-Ζεύς 
-Χάρων 
-Σωκράτης 
-Λυκοῦργος
-
+<list>
+<item>Κυθέρεια </item>
+<item>Ἀγαμέμνων </item>
+<item>Βορέᾱς </item>
+<item>Κῦρος</item>
+<item>Ἡρόδοτος </item>
+<item>Ἀφροδίτη <note>Final η, when transliterated inta é, is regularly sounded.</note></item>
+<item>θουκυδίδης </item>
+<item>Ἀπόλλων</item>
+<item>Ζεύς </item>
+<item>Χάρων </item>
+<item>Σωκράτης </item>
+<item>Λυκοῦργος</item>
+</list>
 (a) Words other than proper names have suffered still greater changes as to ending:
+<list>
+<item>φιλοσοφία philosophy</item>
 
-φιλοσοφία philosophy
-
-ἄγγελος angel, 
-ὠκεανός ocean,
-
-
-σπασμός spasm,
+<item>ἄγγελος angel, </item>
+<item>ὠκεανός ocean,</item>
 
 
+<item>σπασμός spasm,</item>
 
-φιλόσοφος philosopher.
-
+<item>φιλόσοφος philosopher.</item>
+</list>
 <pb n="40"/>
 </p>
-</div></div>
+</div>
+<div type="textpart" subtype="para" n="66a"><head>Bronze Boy from Marathon</head>
+<p>
+
+  This head belongs to a beautiful statue found in almost perfect condition by a fisherman in the Bay of Marathon in 1925.</p></div>
 
 <div type="textpart" subtype="lesson" n="13">
 <head>PRONOUNS</head>
