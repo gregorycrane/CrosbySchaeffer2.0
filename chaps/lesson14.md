@@ -71,21 +71,23 @@ The dative indicates the means whereby an act is done: [note: The dative has thr
 τὸν ποταμὸν διαβαίνει πλοίῳ
 he crosses the river in (by means of) a boat.
 
-<div type="textpart" subtype="para" n="78">
+## [§ 78](#para78). Vocabulary
+| Lemma | Freq | Total | Gloss |
+| --- | --- | --- | -- |
+| ἀδιάβατος | [2](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀδιάβατος.md) | 22578 | 2 uncrossable. 
+| διαβαίνω | [87](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/διαβαίνω.md) | 22665 | [note: Future and aorist will be given later.] cross. 
+| διαβατός | [4](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/διαβατός.md) | 22669 | 2 crossable.
+| ἐκεῖνος | [86](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐκεῖνος.md) | 22755 | that. 
+| συμβουλεύω | [28](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/συμβουλεύω.md) | 22783 | [note: σύν- changes to σύμ- before β for the sake of euphony.] advise, with D. of
+| μεστός | [11](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/μεστός.md) | 22794 | full, full of, the person. with G. 
+| ὅδε | [43](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ὅδε.md) | 22837 | ἤδε, τόδε: this (as follows). 
+| οὗτος | [1037](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/οὗτος.md) | 23874 | αὕτη, τοῦτο: this (as aforesaid).
+| πλοῖον | [60](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πλοῖον.md) | 23934 | πλοίου, τό: boat.
+| σῖτος | [22](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σῖτος.md) | 23956 | του, ὁ : grain, food.  PARASITE.
+| σύν | [168](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σύν.md) | 24124 | prep. with D.: with. SYNOD.
 
 
-VOCABULARY
-<rs type="lemma">ἀ-διά-βατος</rs>:2 uncrossable.
-<rs type="lemma">δια-βαίνω</rs>:[note: Future and aorist will be given later.] cross.
-<rs type="lemma">δια-βατός</rs>:2 crossable.
-<rs type="lemma">ἐκεῖνος</rs>: that.
-<rs type="lemma">συμ-βουλεύω</rs> :[note: σύν- changes to σύμ- before β for the sake of euphony.] advise, with D. of
-<rs type="lemma">μεστός</rs>: full, full of, the person. with G.
-<rs type="lemma">ὅδε</rs>, ἤδε, τόδε: this (as follows).
-<rs type="lemma">οὗτος</rs>, αὕτη, τοῦτο: this (as aforesaid).
-<rs type="lemma">πλοῖον</rs>, πλοίου, τό: boat.
-<rs type="lemma">σῖτος</rs>, του, ὁ : grain, food.  PARASITE.
-<rs type="lemma">σύν</rs>, prep. with D.: with. SYNOD.
+
 
 2 Masculine and feminine are alike in form. See paradigm (§510, 6). Compare Latin omnis.
 
