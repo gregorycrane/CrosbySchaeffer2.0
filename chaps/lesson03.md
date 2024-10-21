@@ -83,8 +83,10 @@ on the penult if the ultima is long -
 
 The dative is used with many adjectives expressing friendliness, hostility, association, fitness, and the like: 1
 
-πολέμιος ἦν τῷ στρατηγῷ
-he was hostile to the general.
+| Greek | English | 
+| --- | -- | 
+|  πολέμιος ἦν τῷ στρατηγῷ  |  he was hostile to the general.  |
+
 
 ## [§ 17](#para17). Vocabulary
 | Lemma | Freq | Total | Gloss |

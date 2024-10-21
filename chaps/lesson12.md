@@ -57,6 +57,17 @@ at the start.
 
 
 
+## [§ 64](#para64). Datives (review)
+
+1. § 4: Dative as Indirect Oboject:  πέμπομεν τὰ δῶρα τῷ στρατηγῷ.
+2. § 16: Dative with the Adjective: πολέμιος ἦν τῷ στρατηγῷ.
+3. § 23: Dative of Place Where: ἐν τῷ πεδίῳ, παρὰ τῷ στρατηγῶ.
+4. § 32: Dative of Poessession: φυλακὴ οὐκ ἦν τῇ κώμῃ.
+5. § 44: Dative of Manner: φεύγουσι σιγῇ.
+6. § 77: Dative of Means (lesson 14, below): τὸν ποταμὸν διαβαίνει πλοίῳ.
+
+
+
 ## [§ 64](#para64). Vocabulary
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
@@ -75,7 +86,7 @@ at the start.
 
 
 
- >  That man is little to be envied whose patriotism would not gain force upon the plain of Marathon.<br/> <bibl>Samuel Johnson</bibl>
+ >  That man is little to be envied whose patriotism would not gain force upon the plain of Marathon.<br/>>> [Samuel Johnson, Footsteps of Dr. Johnson (London 1890), p. 231.](https://en.wikisource.org/wiki/Page:Footsteps_of_Dr._Johnson.djvu/295)
 
 
 
