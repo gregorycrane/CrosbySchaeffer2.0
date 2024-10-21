@@ -215,7 +215,7 @@ This is one of the precious bits of sculpture from the eastern pediment of the P
 
 
 
-This is the famous refrain of the frog chorus in Aristophanes’ comedy, The Frogs. In unison with this unceasing chant Dionysus rows Charon’s boat across the Styx. It is the basis of Yale’s well-known yell. <note>GRC: The "it is" is the America of the 1920s. This Greek phrase was the basis of the Yale "Long Cheer," first publicly used in 1884 and continued through the 1960s: basic information in the [Wikipedia Entry on the Frogs](https://en.wikipedia.org/wiki/The_Frogs) with links to Yale Alumni Magazines with details.</note>
+This is the famous refrain of the frog chorus in Aristophanes’ comedy, The Frogs. In unison with this unceasing chant Dionysus rows Charon’s boat across the Styx. It is the basis of Yale’s well-known yell. [note: GRC: The "it is" is the America of the 1920s. This Greek phrase was the basis of the Yale "Long Cheer," first publicly used in 1884 and continued through the 1960s: basic information in the [Wikipedia Entry on the Frogs](https://en.wikipedia.org/wiki/The_Frogs) with links to Yale Alumni Magazines with details.]
 
 <pb n="10"/>
 

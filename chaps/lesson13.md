@@ -144,7 +144,7 @@ figures beneath the cornice represent the eight winds.
 <div type="textpart" subtype="para" n="73">
 
 
-SOME AXIOMS OF EUCLID<note>Consult Dictionary of Proper Names for the facts about Euclid.</note>
+SOME AXIOMS OF EUCLID[note: Consult Dictionary of Proper Names for the facts about Euclid.]
 
 1. τὰ τοῦ αὐτοῦ ἴσα καὶ ἀλλήλοις ἐστὶν (are) ἴσα.
 2. καὶ ἐὰν (if) ἴσοις ἴσα προσ-τεθῇ (be added), τὰ ὅλα (wholes, compare Holocaust) ἐστὶν ἴσα.

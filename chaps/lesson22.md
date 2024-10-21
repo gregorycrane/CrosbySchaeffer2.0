@@ -97,9 +97,9 @@ James Russell Lowell, Address on Books and Libraries.
 <div type="textpart" subtype="para" n="126">
 # Chapter 22: THE REVIEW OF AN ARMY
 
-<quote xml:lang="grc">ἐνταῦθα οὖν θεωρία (review) ἦν τῆς Κύρου στρατιᾶς.<note>Objective genitive, being the object of the action involved in θεωρία.</note>
+<quote xml:lang="grc">ἐνταῦθα οὖν θεωρία (review) ἦν τῆς Κύρου στρατιᾶς.[note: Objective genitive, being the object of the action involved in θεωρία.]
 καὶ πρῶτον μὲν παρ-ήλαυνον οἱ βάρβαροι. εἶτα δὲ τοὺς
-Ἕλληνας (compare Ἑλλάς) παρήλαυνον ὁ Κῦρος ἐφ᾽<note>ἐπί. A word that suffers elision ronghens its mute before a rough breathing.</note>
+Ἕλληνας (compare Ἑλλάς) παρήλαυνον ὁ Κῦρος ἐφ᾽[note: ἐπί. A word that suffers elision ronghens its mute before a rough breathing.]
 ἅρματος καὶ ἡ Κίλισσα ἐφ᾽ ἁρμαμάξης (carriage). εἶχον
 δὲ πάντες ὅπλα καλά, παριελάσας δὲ τούτους κήρῡκα
 ἔπεμψε παρὰ τοὺς στρατηγοὺς τῶν ᾿Ελλήνων, ὃς ἐκέλευσεν
@@ -107,7 +107,7 @@ James Russell Lowell, Address on Books and Libraries.
 ἐκ δὲ τούτον οἱ στρατιῶται ἐλαύνοντες σὺν κραυγῇ ἀπὸ τοῦ
 αὐτομάτου (compare AUTOMATIC) ἔσπευσαν ἐπὶ τὴς σκηνάς,
 τοῖς δὲ βαρβάροις ἦν φόβος, ὥστε ἔφυγον καὶ ἡ Κίλισσα ἐπὶ
-τῆς ἁρμαμάξης καὶ οἱ ἐκ τῆς ἀγορᾶς τὰ χρήματα κατα-λιπόντες.<note>κατά in compound words often means behind.</note> οὕτως οὖν οἱ Ἑλληνες σὺν γέλωτι (laughter) ἐπὶ τὰς σκηνὰς ἧκον.  <bibl>Adapted from Xenophon, *Anabasis*, I, 2. 16-18.</bibl>
+τῆς ἁρμαμάξης καὶ οἱ ἐκ τῆς ἀγορᾶς τὰ χρήματα κατα-λιπόντες.[note: κατά in compound words often means behind.] οὕτως οὖν οἱ Ἑλληνες σὺν γέλωτι (laughter) ἐπὶ τὰς σκηνὰς ἧκον.  <bibl>Adapted from Xenophon, *Anabasis*, I, 2. 16-18.</bibl>
 
 
 

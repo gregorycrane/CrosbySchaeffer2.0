@@ -96,7 +96,7 @@ augment and secondary endings (§§ 42, 43).
 suffix -σα- (-σε in the third singular), which obeys the same
 phonetic laws as the -σ- of the future (§ 49).
 
-(c) The first aorist infinitive active is always accented on the penult:<note>See § V, f.</note>
+(c) The first aorist infinitive active is always accented on the penult:[note: See § V, f.]
 
 <foreign>ἀθροῖσαι</foreign>,
 <foreign>ἁρπάσαι</foreign>.
@@ -114,7 +114,7 @@ weakening of the vowel element of thestem, The second aorist indicative is infle
 
 
 (e) The third form in the principal parts of a normal
-verb shows by the presence of -σα (-α)<note>The type of verbs that have only -α and not -σα in the first aorist will be presented later.</note>  or -ον whether the
+verb shows by the presence of -σα (-α)[note: The type of verbs that have only -α and not -σα in the first aorist will be presented later.]  or -ον whether the
 aorist is first or second.
 
 Inflect λύω and φεύγω in the aorist indicative and infinitive.
@@ -135,7 +135,7 @@ ence in formation:
 
 The infinitive, except in
 
-indirect discourse,<note>§ 50d</note> has no time value. The present infinitive denotes continuance or repetition (a motion picture),
+indirect discourse,[note: § 50d] has no time value. The present infinitive denotes continuance or repetition (a motion picture),
 while the aorist infinitive denotes a single occurrence (a snap-shot):
 
 <foreign>ἐθέλει φεύγειν</foreign> *he wishes to keep on fleeing *;
@@ -172,11 +172,11 @@ face, "This is the city of Hadrian, not of Theseus."
 | --- | --- | --- | -- |
 | ἐνταῦθα | [126](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐνταῦθα.md) | 19285 | adv., there, at that place.
 - <rs type="lemma">λοιπός</rs>, λοιπή, λοιπόν
-<note>An example of vowel change (§ 53).</note>: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.
+[note: An example of vowel change (§ 53).]: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.
 | ἐντεῦθεν | [80](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐντεῦθεν.md) | 19393 | adv. : from there, thence.
 | ἐπιστολή | [5](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐπιστολή.md) | 19398 | ἐπιστολῆς, ἡ: letter. EPISTLE.
 | οἰκία | [32](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/οἰκία.md) | 19430 | οἰκίας, ἡ: house. ECONOMY.
-| ἔχω | [438](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἔχω.md) | 19868 | ἕξω: have; ἔσχον<note>ἔσχον is aorist. Sigma was lost in the present and replaced by breathing in the future.</note>: got.
+| ἔχω | [438](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἔχω.md) | 19868 | ἕξω: have; ἔσχον[note: ἔσχον is aorist. Sigma was lost in the present and replaced by breathing in the future.]: got.
 | πύλη | [21](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πύλη.md) | 19889 | πύλης, ἡ: gate; pl., pass. PYLON. THERMOPYLA.
 | λείπω | [19](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/λείπω.md) | 19908 | λείψω, ἔλιπον: leave. ECLIPSE.
 
@@ -189,7 +189,7 @@ face, "This is the city of Hadrian, not of Theseus."
 (a) Translate:
 
 1. διὰ τὴν φιλίαν ὁ στρατηγὸς ἐθέλει ἐπιστολὴν γράψαι.
-2. οἱ λοιποὶ ἄνθρωποι ὑπ-ώπτευσαν<note>The augment of compounds follows the prefix.</note> τὸν ἄγγελον. 
+2. οἱ λοιποὶ ἄνθρωποι ὑπ-ώπτευσαν[note: The augment of compounds follows the prefix.] τὸν ἄγγελον. 
 3. ἐνόμίσα τοὺς λοιποὺς ὑπ-οπτεῦσαι τοὺς τοῦ ἀγγέλου λόγους.
 4. ἔπεισε τοὺς φίλους τὰς οἰκίας λῦσαι. 
 5. ἐνταῦθα ἐλέπετε τοὺς ἵππους. 

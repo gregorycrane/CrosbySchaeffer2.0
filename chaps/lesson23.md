@@ -95,7 +95,7 @@ VOCABULARY
 5. ἡμῖν δὴ ἔδοξε δόρατα αἰτεῖν.
 6. ταύτης δὲ ἐπι-βουλὴν ὑπ-οπτευούσης οὐκ ἔστι φυγεῖν.
 7. ἀγαθὸς γὰρ ὢν τοὺς ἀγαθοὺς φιλεῖς.
-8. εἰ δὲ τὴν Ἑλλάδα ἐφιλεῖτε, τοῖς βαρβάροις<note>Dative of Association (§ 236).</note>  ἂν ἐπολεμεῖτε.
+8. εἰ δὲ τὴν Ἑλλάδα ἐφιλεῖτε, τοῖς βαρβάροις[note: Dative of Association (§ 236).]  ἂν ἐπολεμεῖτε.
 
 
 (b) Complete:
@@ -119,7 +119,7 @@ Love led Orpheus to seek Eurydice in Hades. On the way out, he turned to look α
 HUMAN FRAILTY
 <quote xml:lang="grc">Πόθεν (whence) πόλεμοι καὶ πόθεν μάχαι ἐν ὑμῖν; οὐκ
 ἐντεῦθεν, ἐκ τῶν ἡδονῶν (pleasures) ὑμῶν... ; ἐπιθυμεῖτε
-(desire), καὶ οὐκ ἔχετε· . . . μάχεσθε (you fight) καὶ πολεμεῖτε. . .. αἰτεῖτε καὶ οὐ λαμβάνετε, διότι (because) κακῶς <note>Adverb.</note> αἰτεῖσθε (= αἰτεῖτε) <quote xml:lang="eng"> <bibl>St. James, IV. 1-3.</bibl>
+(desire), καὶ οὐκ ἔχετε· . . . μάχεσθε (you fight) καὶ πολεμεῖτε. . .. αἰτεῖτε καὶ οὐ λαμβάνετε, διότι (because) κακῶς [note: Adverb.] αἰτεῖσθε (= αἰτεῖτε) <quote xml:lang="eng"> <bibl>St. James, IV. 1-3.</bibl>
 
 
 

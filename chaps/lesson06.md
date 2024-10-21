@@ -19,7 +19,7 @@
 
 Α-declension nouns whose
 nominatives end in ᾱ or η are feminine. Because the
-feminine article shows η in the singular, nouns and adjectives in η are presented first.<note n="GRC">this makes no sense if you have not learned the next chapter -- it only works for teachers</note> Both types are the same
+feminine article shows η in the singular, nouns and adjectives in η are presented first.<note n="GRC">this makes no sense if you have not learned the next chapter -- it only works for teachers] Both types are the same
 in the plural
 
 | Greek | English | 

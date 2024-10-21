@@ -26,8 +26,8 @@ apprehension of the meaning which another has sought to
 convey by written words, which lead to power of expression
 and to power of clear thinking. Such habits are worth
 more to the lawyer than all the information which a modern
-school may hope to impart.” <note>Roscoe Pound, Dean of the Law School, Harvard University, as reported
-in Value of the Classics, page 49, with pronouns updated to be gender neutral. Whatever Pound's individual thoughts, the point made still applies and applies to any student of Greek.</note>
+school may hope to impart.” [note: Roscoe Pound, Dean of the Law School, Harvard University, as reported
+in Value of the Classics, page 49, with pronouns updated to be gender neutral. Whatever Pound's individual thoughts, the point made still applies and applies to any student of Greek.]
 
 ## [§ 63](#para63). The Process of Translation.
 
@@ -73,7 +73,7 @@ at the start.
 | --- | --- | --- | -- |
 | Ἀθῆναι | [2](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/Ἀθῆναι.md) | 19910 | Ἀθηνῶν, αἱ: Athens.
 | ἀπέχω | [24](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀπέχω.md) | 19934 | be distant, be away.
-| ἐπί | [461](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐπί.md) | 20395 | prep. with G., on, upon;1 with D., on, at, by; with A., upon, to, againsi, EPIDERMIS.<note>The difference between the genitive, dative, and accusative may be indicated by these phrases: on horseback, a city on the sea, he marches on the town. Compare παρά (§ 25).</note>
+| ἐπί | [461](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐπί.md) | 20395 | prep. with G., on, upon;1 with D., on, at, by; with A., upon, to, againsi, EPIDERMIS.[note: The difference between the genitive, dative, and accusative may be indicated by these phrases: on horseback, a city on the sea, he marches on the town. Compare παρά (§ 25).]
 | Ἀθηναῖος | [26](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/Ἀθηναῖος.md) | 20421 | Ἀθηναά, Ἀθηναῖον: Athenian.
 | ἑπτά | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἑπτά.md) | 20435 | seven. HEPTAGON.
 | δρόμος | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/δρόμος.md) | 20449 | δρόμου, ὁ: a running, run, race, race course. HIPPODROME.
@@ -91,7 +91,7 @@ at the start.
 
 
 
-Δαρεῖος βασιλεὺς <note>Predicate nominative in agreement with Δαρεῖος.</note> (king) ἦν τῶν Περσῶν καὶ ἦρχε πάντων
+Δαρεῖος βασιλεὺς [note: Predicate nominative in agreement with Δαρεῖος.] (king) ἦν τῶν Περσῶν καὶ ἦρχε πάντων
 (all) τῶν ἐν τῇ Ἀσίᾳ ἀνθρώπων. τοὺς δὲ φίλους ἔπεμψε
 στρατηγοὺς σὺν (with) στρατιᾷ πολλῇ (large) καὶ πολλῷ ναυτικῷ (compare NAUTICAL) ἐπὶ Ἀθήνας. οἱ δὲ στρατηγοὶ ἦγον
 τοὺς Πέρσας εἰς τὸν Μαραθῶνα, εἰς ὃ (which) πεδίον καὶ οἱ
@@ -100,7 +100,7 @@ at the start.
 
 <pb n="38"/>
 
-ἐνόμιζον μανίᾶν (compare MANIAC) εἶναι<note>Present infinitive in Indirect Discourse (§ 50) = to be.</note> τοῖς Ἀθηναίοις.
+ἐνόμιζον μανίᾶν (compare MANIAC) εἶναι[note: Present infinitive in Indirect Discourse (§ 50) = to be.] τοῖς Ἀθηναίοις.
 ἡ μὲν μάχη ἡ ἐν τῷ Μαραθῶνι ἦν μακρά, τέλος ( finally) δὲ
 τοὺς βαρβάρους οἱ Ἀθηναῖοι ἐδίωκον εἰς τὴν θάλατταν (sea)
 καὶ τῶν νεῶν (ships) ἥρπασαν ἑπτά.
@@ -109,8 +109,8 @@ at the start.
 
 Adapted from Herodotus, Book VI.
 
-<note>For information regarding Herodotus and other personages referred to in
-this book, consult Dictionary of Proper Names in the print volume, page 335.</note>
+[note: For information regarding Herodotus and other personages referred to in
+this book, consult Dictionary of Proper Names in the print volume, page 335.]
 
 <div type="textpart" subtype="para" n="65a">
 # Chapter 12: The Funeral Mound at Marathon
@@ -203,7 +203,7 @@ A'thens, Ody'sseus, Pene'lope.1
 - Βορέᾱς 
 - Κῦρος
 - Ἡρόδοτος 
-- Ἀφροδίτη <note>Final η, when transliterated inta é, is regularly sounded.</note>
+- Ἀφροδίτη [note: Final η, when transliterated inta é, is regularly sounded.]
 - θουκυδίδης 
 - Ἀπόλλων
 - Ζεύς 

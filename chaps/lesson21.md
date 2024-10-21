@@ -72,7 +72,7 @@ is called the circumstantial participle. It may denote time,
 manner, means, cause, condition, concession, or any attendant
 circumstances of an action.
 
-φεύγοντες δια-βαίνομεν τὸν ποταμόν in flight<note>in fleeing: GRC</note> we cross the river ;
+φεύγοντες δια-βαίνομεν τὸν ποταμόν in flight[note: in fleeing: GRC] we cross the river ;
 ἔχων χρήματα εἶχες ἂν φίλους if you had money, you would have friends.
 
 <div type="textpart" subtype="para" n="117">
@@ -93,7 +93,7 @@ of a real life after death. Cicero was initiated into these Mysteries.</head>
 
 VOCABULARY
 <rs type="lemma">ἐλπίς</rs>, ἐλπίδος, ἡ: hope, expectation.
-<rs type="lemma">κωλύω</rs>, κωλύσω, ἐκώλῦσα: prevent. KOLYNOS.<note>is this referring to https://en.wikipedia.org/wiki/Kolynos?</note>
+<rs type="lemma">κωλύω</rs>, κωλύσω, ἐκώλῦσα: prevent. KOLYNOS.[note: is this referring to https://en.wikipedia.org/wiki/Kolynos?]
 <rs type="lemma">πιστεύω</rs>, πιστεύσω, ἐπίστευσα: trust, with D.
 
 <rs type="lemma">τρέπω</rs>, τρέψω, ἔτρεψα, erpea: turn.

@@ -27,7 +27,7 @@ longs to him, ov in such a way as to benefit, injure, or other-
 wise affect himself or his interests +
 
 παρέχομαι I supply for myself;
-λύομαι τοὺς ἵππους I loose my (own) horses. <note>GRC: If memory serves, there is a nice alternation of luw/luomai with Circe or Calypso and Od</note>
+λύομαι τοὺς ἵππους I loose my (own) horses. [note: GRC: If memory serves, there is a nice alternation of luw/luomai with Circe or Calypso and Od]
 
 <div type="textpart" subtype="para" n="135">
 

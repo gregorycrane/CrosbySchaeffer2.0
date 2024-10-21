@@ -67,7 +67,7 @@ have the predicate position (§ 31, 2):
 ## [§ 77](#para77). Dative of Means.
 
 
-The dative indicates the means whereby an act is done: <note>The dative has three distinct divisions as to use, corresponding to English phrases with to or for, with, and in.</note>
+The dative indicates the means whereby an act is done: [note: The dative has three distinct divisions as to use, corresponding to English phrases with to or for, with, and in.]
 τὸν ποταμὸν διαβαίνει πλοίῳ
 he crosses the river in (by means of) a boat.
 
@@ -76,10 +76,10 @@ he crosses the river in (by means of) a boat.
 
 VOCABULARY
 <rs type="lemma">ἀ-διά-βατος</rs>:2 uncrossable.
-<rs type="lemma">δια-βαίνω</rs>:<note>Future and aorist will be given later.</note> cross.
+<rs type="lemma">δια-βαίνω</rs>:[note: Future and aorist will be given later.] cross.
 <rs type="lemma">δια-βατός</rs>:2 crossable.
 <rs type="lemma">ἐκεῖνος</rs>: that.
-<rs type="lemma">συμ-βουλεύω</rs> :<note>σύν- changes to σύμ- before β for the sake of euphony.</note> advise, with D. of
+<rs type="lemma">συμ-βουλεύω</rs> :[note: σύν- changes to σύμ- before β for the sake of euphony.] advise, with D. of
 <rs type="lemma">μεστός</rs>: full, full of, the person. with G.
 <rs type="lemma">ὅδε</rs>, ἤδε, τόδε: this (as follows).
 <rs type="lemma">οὗτος</rs>, αὕτη, τοῦτο: this (as aforesaid).
@@ -107,7 +107,7 @@ VOCABULARY
 4. αὕτη μὲν ἡ χώρα αὐτοῖς ἣν φιλία, ὁ δὲ σῖτος οὐκ ἀγαθός.
 5. οἱ σὺν αὐτῷ ταῦτα τὰ ἐπιτήδεια ἥρπασαν.
 6. οἵδε οἱ ποταμοὶ δια-βατοὶ ἦσαν.
-7. συμ-βουλεύομεν ἐκείνοις ἄγειν ταῦτα ταὐτά.<note>τὰ αὐτά usually blend into ταὐτά.</note>
+7. συμ-βουλεύομεν ἐκείνοις ἄγειν ταῦτα ταὐτά.[note: τὰ αὐτά usually blend into ταὐτά.]
 
 (b) Complete:
 
@@ -126,12 +126,12 @@ VOCABULARY
 
 
 Paul’s Cathedral, London, writes:
-“The Christian Church was the last great creative achievement of classical culture.”<note>Legacy of Greece, page 30.
-</note> The λόγος of St. John’s
+“The Christian Church was the last great creative achievement of classical culture.”[note: Legacy of Greece, page 30.
+] The λόγος of St. John’s
 Gospel is one of many evidences of this.
 
 
-<quote>ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς <note>in the presence of</note> ὃ τὸν θεόν
+<quote>ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς [note: in the presence of] ὃ τὸν θεόν
 (compare THEOLOGY), καὶ θεὸς ἦν ὁ λόγος. οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.
 >> St. John, 1. 1-2.
 

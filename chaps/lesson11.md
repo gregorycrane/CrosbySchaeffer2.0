@@ -45,7 +45,7 @@
 
 
 (d) Inflect παύω, διώκω, ἁρπάξω, and λείπω in all tenses
-of indicative and infinitive thus far studied.<note>Consult the vocabulary at the back of the printed book to see which of these verbs have first and which second aorist.</note>
+of indicative and infinitive thus far studied.[note: Consult the vocabulary at the back of the printed book to see which of these verbs have first and which second aorist.]
 
 
 
@@ -90,7 +90,7 @@ Of the dative? Of the accusative ?
 1. They suspected that the garrison would not guard the pass. 
 2. The men from the country had the letters. 
 3. The village was not friendly to the foreigners. 
-4. On account of our<note>Use the article.</note> friendship we shall not break the truce. 
+4. On account of our[note: Use the article.] friendship we shall not break the truce. 
 5. Some were brave in deed, others in speech.
 
 
