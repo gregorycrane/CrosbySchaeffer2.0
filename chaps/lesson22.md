@@ -118,7 +118,7 @@ James Russell Lowell, Address on Books and Libraries.
 
 
 
-<head>Figure: A Panathenaic Amphora</head>
+# Chapter 22: Figure: A Panathenaic Amphora
 
 
 <pb n="71"/>

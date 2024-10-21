@@ -102,7 +102,7 @@ Indo-European
 
 
 
-<head>Figure: The ARCADIAN GATE</head>
+# Chapter 2: Figure: The ARCADIAN GATE
 
 The walls of Messene still testify to the engineering skill and daring of the victor of Leuctra. Note particularly the central doorpost of this great gate. It is nearly nineteen feet long.
 

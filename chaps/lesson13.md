@@ -18,10 +18,12 @@ where it has the same endings as the article.
 
 ὅς who, which
 
+PARADIGM OF FORMS
+
 <div type="textpart" subtype="para" n="68">
 
 
-αὐτός self, and ἄλλος other, are inflected similarly
+αὐτός *self*, and ἄλλος *other*, are inflected similarly
 except that ἄλλος has the accent on the penult. Inflect
 them and compare with paradigms (§§ 519 and 520).
 
@@ -30,27 +32,52 @@ them and compare with paradigms (§§ 519 and 520).
 
 A relative pronoun, as in English and in Latin,
 agrees with its antecedent in gender, number, and person,
-but its case depends on the construction in its own clause:
+but its case depends on the construction in its own clause.
 
-ὁ ἄγγελος ὃν ἔπεμψας ἐθέλει φυγεῖν
-the messenger whom you sent wishes to flee.
+
+
+In English, "who" is the nominative and "whom" is (still) the accusative (although the distinction is fading).
+
+Thus, we say: "I saw the woman (object and would be accusative if we had an accusative) **who** (nominative) was teaching the class."
+
+
+
+But we would say (in traditional English): "I saw the woman **whom** we both know."
+
+
+
+In Greek we find:
+| Greek | English | 
+| --- | -- | 
+|  ὁ ἄγγελος ὃν ἔπεμψας ἐθέλει φυγεῖν  |  the messenger whom you sent wishes to flee.  |
+
 
 ## [§ 70](#para70). Uses of αὐτός.
 
 
 
-- Following the article, αὐτός means
-same : ἡ αὐτὴ κώμη the same village,
-- modifying a noun or pronoun, but not following
-the article, it means self; Κῦρος αὐτός Cyrus himself; ἡ κώμη αὐτή the village itself ;
-αὐτὸς ἔφυγεν he himself fled ;
+Following the article, αὐτός means
+same :
+
+| Greek | English | 
+| --- | -- | 
+|  ἡ αὐτὴ κώμη  |  the same village,  |
+When modifying a noun or pronoun, but not following
+the article, αὐτός is an intensifier and can be translated as *self*;
+| Greek | English | 
+| --- | -- | 
+|  Κῦρος αὐτός  |  Cyrus himself;   |
+|  ἡ κώμη αὐτή  |  the village itself;  |
+|  αὐτὸς ἔφυγεν  |  he himself fled;  |
 >  αὐτὸς γὰρ Θρασύμαχος ὁμολογεῖ τοὺς μὲν ἄρχοντας ἐνίοτε ἑαυτοῖς κακὰ προστάττειν, τοῖς δὲ δίκαιον εἶναι ταῦτα ποιεῖν<br/> <bibl>Plat. Rep. 340a</bibl>
 
-- standing alone, except in the
-nominative, it is a personal pronoun of the third person:
-αὐτῷ ἔγραψα I wrote to him,
 
-αὐτοὺς ἀθροίζει he collects them.
+
+standing alone, except in the
+nominative, it is a personal pronoun of the third person:
+<foreign>αὐτῷ ἔγραψα</foreign> I wrote to him,
+
+<foreign>αὐτοὺς ἀθροίζει</foreign> he collects them.
 
 <pb n="41"/>
 
@@ -60,33 +87,20 @@ nominative, it is a personal pronoun of the third person:
 
 
 
-<div type="textpart" subtype="para" n="71">
+## [§ 71](#para71). Vocabulary
+| Lemma | Freq | Total | Gloss |
+| --- | --- | --- | -- |
+| ἄλλος | [345](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἄλλος.md) | 20960 | other, another; if preceded by the article, the other, the rest of. ALLOPATHY.
+| αὐτός | [899](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/αὐτός.md) | 21859 | same, self, he, she, it, they, etc. AUTOMATON.
+| βουλεύω | [42](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/βουλεύω.md) | 21901 | βουλεύσω, ἐβούλευσα :  plan,
+| βουλή | [1](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/βουλή.md) | 21902 | plan, BOULE.
+| ἐπιβουλεύω | [16](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐπιβουλεύω.md) | 21918 | plot against, with D.
+| ἐπιβουλή | [6](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐπιβουλή.md) | 21924 | plot.
+| ἴσος | [5](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἴσος.md) | 21929 | equal, ISOSCELES.
+| κελεύω | [124](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/κελεύω.md) | 22053 | κελεύσω, ἐκέλευσα : order, command,
+| ὅς | [506](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ὅς.md) | 22559 | ἥ, ὅ: rel. pron, : who, which, that.
+| ὥρα | [17](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ὥρα.md) | 22576 | hour, season. HOUR.
 
-
-VOCABULARY
-
-
-<rs type="lemma">ἀλλήλων</rs>:1 of one another. PARALLEL.
-
-<rs type="lemma">ἄλλος</rs>: other, another; if preceded by the article, the other, the rest of. ALLOPATHY.
-
-<rs type="lemma">αὐτός</rs>: same, self, he, she, it, they, etc. AUTOMATON.
-
-<rs type="lemma">βουλεύω</rs>, βουλεύσω, ἐβούλευσα :  plan,
-
-<rs type="lemma">βουλή</rs>: plan, BOULE.
-
-<rs type="lemma">ἐπι-βουλεύω</rs>: plot against, with D.
-
-<rs type="lemma">ἐπι-βουλή</rs>: plot.
-
-<rs type="lemma">ἴσος</rs>: equal, ISOSCELES.
-
-<rs type="lemma">κελεύω</rs>, κελεύσω, ἐκέλευσα : order, command,
-
-<rs type="lemma">ὅς</rs>, ἥ, ὅ: rel. pron, : who, which, that.
-
-<rs type="lemma">ὥρᾱ</rs>: hour, season. HOUR.
 
 ## [§ 72](#para72). Exercises.
 

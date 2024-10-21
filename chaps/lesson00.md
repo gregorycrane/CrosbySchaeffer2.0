@@ -1,4 +1,4 @@
-<head>Introduction</head>
+# Chapter 0: Introduction
 <div type="textpart" subtype="para" n="pref01">
 
 | ![text](https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/apobates.jpg?raw=true) | ![text](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg/1280px-Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg) | 

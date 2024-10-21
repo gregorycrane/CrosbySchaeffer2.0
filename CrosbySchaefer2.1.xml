@@ -1,86 +1,86 @@
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
-    <fileDesc>
-      <titleStmt>
-        <title type="work">Homeric Greek: a book for beginners</title>
-        
-        <author>Clyde Pharr</author>
-        
-        <sponsor>Perseus Project, Tufts University</sponsor>
-        <principal>Gregory Crane</principal>
-        <respStmt>
-          <persName>Gregory Crane</persName>
-          <resp>Editor-in-Chief, Perseus Digital Library</resp>
-        </respStmt>
-        <respStmt>
-          <resp>Prepared under the supervision of</resp>
-          <name>Gregory Crane</name>
-        </respStmt>
-        <funder>GRC as volunteer.</funder>
-      </titleStmt>
-      <extent>About 1MB</extent>
-      <publicationStmt>
-        <publisher>Trustees of Tufts University</publisher>
-        <pubPlace>Medford, MA</pubPlace>
-        <authority>Perseus Project</authority>
-      </publicationStmt>
-      <sourceDesc>
-        <biblStruct>
-          <monogr>
-            <author>Clyde Pharr</author>
-            <title xml:lang="lat">Homeric Greek: a book for beginners</title>
-            <imprint>
-              <pubPlace>Boston</pubPlace>
-              <publisher>D. C. Heath and Co.</publisher>
-              <date>1920</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <refsDecl n="CTS">
-        <cRefPattern n="line" matchPattern="(.+)"
-          replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:sp/tei:l[@n='$1'])">
-          <p>This pointer pattern extracts line</p>
-        </cRefPattern>
-        
-      </refsDecl>
-      
-      <!-- <refsDecl n="CTS">
-                
-                <cRefPattern n="card" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
-                <p>This pointer pattern extracts cards</p>
-                </cRefPattern>
-                
-                </refsDecl>-->
-    </encodingDesc>
-    <profileDesc>
-      <langUsage>
-        <language ident="eng">English</language>
-        <language ident="grc">Greek</language>
-        <language ident="lat">Latin</language>
-      </langUsage>
-    </profileDesc>
-    <revisionDesc>
-      
-      <change when="2020-05-30" who="GRC">An initial rough clean-up of OCR through lesson 45 was done in summer 2019. The first rough XML version was begun on May 30, 2020.</change>
-      
-    </revisionDesc>
-  </teiHeader>
-  
-  
-  <text>
-    <body>
+<teiHeader xml:lang="eng">
+<fileDesc>
+<titleStmt>
+<title type="work">Homeric Greek: a book for beginners</title>
+
+<author>Clyde Pharr</author>
+
+<sponsor>Perseus Project, Tufts University</sponsor>
+<principal>Gregory Crane</principal>
+<respStmt>
+<persName>Gregory Crane</persName>
+<resp>Editor-in-Chief, Perseus Digital Library</resp>
+</respStmt>
+<respStmt>
+<resp>Prepared under the supervision of</resp>
+<name>Gregory Crane</name>
+</respStmt>
+<funder>GRC as volunteer.</funder>
+</titleStmt>
+<extent>About 1MB</extent>
+<publicationStmt>
+<publisher>Trustees of Tufts University</publisher>
+<pubPlace>Medford, MA</pubPlace>
+<authority>Perseus Project</authority>
+</publicationStmt>
+<sourceDesc>
+<biblStruct>
+<monogr>
+<author>Clyde Pharr</author>
+<title xml:lang="lat">Homeric Greek: a book for beginners</title>
+<imprint>
+<pubPlace>Boston</pubPlace>
+<publisher>D. C. Heath and Co.</publisher>
+<date>1920</date>
+</imprint>
+</monogr>
+</biblStruct>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<refsDecl n="CTS">
+<cRefPattern n="line" matchPattern="(.+)"
+replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:sp/tei:l[@n='$1'])">
+<p>This pointer pattern extracts line</p>
+</cRefPattern>
+
+</refsDecl>
+
+<!-- <refsDecl n="CTS">
+
+<cRefPattern n="card" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+<p>This pointer pattern extracts cards</p>
+</cRefPattern>
+
+</refsDecl>-->
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language ident="eng">English</language>
+<language ident="grc">Greek</language>
+<language ident="lat">Latin</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+
+<change when="2020-05-30" who="GRC">An initial rough clean-up of OCR through lesson 45 was done in summer 2019. The first rough XML version was begun on May 30, 2020.</change>
+
+</revisionDesc>
+</teiHeader>
+
+
+<text>
+<body>
 <pb n="1"/>
 
 
 <div type="textpart" subtype="lesson" n="0">
-  <head>Introduction</head>
-  <div type="textpart" subtype="para" n="pref01">
-  <table>
-  <row><cell><graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/apobates.jpg?raw=true"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg/1280px-Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg"/></cell></row>
+<head>Introduction</head>
+<div type="textpart" subtype="para" n="pref01">
+<table>
+<row><cell><graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/apobates.jpg?raw=true"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg/1280px-Monument_pedestal_Krates_victory_S399_ancient_agora_museum_Athens.jpg"/></cell></row>
 </table>
 <p><emph>Eager to Go</emph>: Pedestal of the monument dedicated to the victory of Krates in the Apobates (literally,"the person who gets off") race at the Panathenaic Games. A fully armed soldier jumps on and off a moving chariot. The image above is a marble relief from the fourth century BCE and is at the Acropolo Athens, Greece. The original image and more information are available from  <ref n="https://www.flickr.com/photos/69716881@N02/32099864256">Egisto Sani on Flickr</ref>. See also the Wikipedia article on this object (<ref n="https://www.perseus.tufts.edu/hopper/artifact?name=Athens,+Acropolis+1326&amp;object=Sculpture">Acropolis 1326</ref>), which is known as the <ref n="https://en.wikipedia.org/wiki/Apobates_Base">Apobates base.</ref>  </p></div>
 
@@ -90,8 +90,8 @@ This book provides a hybrid approach to learning Ancient that integrates traditi
 This book provides a hybrid approach to learning Ancient that integrates traditional methods with the capabilities provided by digital media. In print culture, readers of ancient languages depended upon static texts that coud not explain themselves. 
 
 <cit>
-  <quote>Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο, πρεσβύτερος μὲν Ἀρταξέρξης, νεώτερος δὲ Κῦρος· ἐπεὶ δὲ ἠσθένει Δαρεῖος καὶ ὑπώπτευε τελευτὴν τοῦ βίου, ἐβούλετο τὼ παῖδε ἀμφοτέρω παρεῖναι.</quote>
-  <bibl><ref n="https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.1.1-1.1.5">Xenophon, Anabasis 1.1.1</ref></bibl>
+<quote>Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο, πρεσβύτερος μὲν Ἀρταξέρξης, νεώτερος δὲ Κῦρος· ἐπεὶ δὲ ἠσθένει Δαρεῖος καὶ ὑπώπτευε τελευτὴν τοῦ βίου, ἐβούλετο τὼ παῖδε ἀμφοτέρω παρεῖναι.</quote>
+<bibl><ref n="https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.1.1-1.1.5">Xenophon, Anabasis 1.1.1</ref></bibl>
 </cit>
 
 The state of the art of large-scale assisted reading for Greek and Latin in print culture was side-by-side translation, as in the Loeb Classical Library.
@@ -104,21 +104,21 @@ In the early 1990s, the Perseus Digital Library added the ability to generate an
 <graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/anabasis-pers4.jpg?raw=true"/>
 </p><p>A major new generation of Perseus adds rich linguistic annotation for syntax and other featurs.
 
-  <graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/anabasis-bt.jpg?raw=true"/>
+<graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/anabasis-bt.jpg?raw=true"/>
 </p><p>
 You can hack your way through texts in a language that you do not know. But the more you understand about the language to start with, the more you can get out of the automated tools. These new reading environments allow you do to more at an earlier stage of learning but they also enhance your ability to understand the language no matter how much you know. You can exploit automated tools to avoid learning but you can use tools can, if you used well, deepen your understanding of a language. 
 </p>
 </div>
 <div type="textpart" subtype="para" n="pref02"><head>The Greek Alphabet</head>
 <p>The Greek alphabet that we use in modern printed editions is just one particular version. The Greeks copies and adapted the writing system of the Phoenicians, adding vowels and providing a more comprehensive way of capturing sounds. (The Wikipedia article on <ref n="https://en.wikipedia.org/wiki/History_of_the_Greek_alphabet">the History of the Greek alphabet</ref> is well worth reading.)</p>
-  <p>Our alphabet includes capital and lower case letters. The capital letters are based on ancient inscriptions and are used (mainly) to identify proper names. Lower case letters are based on later scripts of Greek. We also have accents that Greek scholars in Egypt added in the 3rd century BCE to capture pitch accents that were being lost and replaced by stress accents.</p>
+<p>Our alphabet includes capital and lower case letters. The capital letters are based on ancient inscriptions and are used (mainly) to identify proper names. Lower case letters are based on later scripts of Greek. We also have accents that Greek scholars in Egypt added in the 3rd century BCE to capture pitch accents that were being lost and replaced by stress accents.</p>
 <p>
 
-  [The following table is based on that of <ref n="https://dcc.dickinson.edu/grammar/goodell/alphabet">Thomas Dwight Goodell' School Grammar for Greek</ref>.]
+[The following table is based on that of <ref n="https://dcc.dickinson.edu/grammar/goodell/alphabet">Thomas Dwight Goodell' School Grammar for Greek</ref>.]
 
-  <table>
+<table>
 
-    <row role="label"><cell>Letter</cell><cell></cell><cell>Sound</cell><cell>Name</cell><cell></cell></row>
+<row role="label"><cell>Letter</cell><cell></cell><cell>Sound</cell><cell>Name</cell><cell></cell></row>
 <row><cell>Α</cell><cell>α</cell><cell>a in far</cell><cell>ἄλφα</cell><cell>alpha</cell></row>
 <row><cell>Β</cell><cell>β</cell><cell>b</cell><cell>βῆτα</cell><cell>beta</cell></row>
 <row><cell>Γ</cell><cell>γ</cell><cell>g in go</cell><cell>γάμμα</cell><cell>gamma</cell></row>
@@ -144,31 +144,31 @@ You can hack your way through texts in a language that you do not know. But the 
 <row><cell>Ψ</cell><cell>ψ</cell><cell>ps</cell><cell>ψεῖ</cell><cell>ψῖ</cell><cell>psei / psi</cell></row>
 <row><cell>Ω</cell><cell>ω</cell><cell>ō</cell><cell>ὦ</cell><cell>ὦ μέγα</cell><cell>omega</cell></row>
 
-  </table>
+</table>
 </p>
 
 <p>Greek contains five diacritics.</p>
 <p>Three of these describe pitch:
-  <table>
-    <row role="label"><cell>Accent</cell><cell>Example</cell></row>
-    <row><cell>acute -- a rising tone</cell><cell>ποταμός</cell></row>
-    <row><cell>grave -- a sinking tone</cell><cell>ποταμὸς</cell></row>
-    <row><cell>circumflex -- a tone that rises and falls</cell><cell>Κῦρον</cell></row>
-  </table>
+<table>
+<row role="label"><cell>Accent</cell><cell>Example</cell></row>
+<row><cell>acute -- a rising tone</cell><cell>ποταμός</cell></row>
+<row><cell>grave -- a sinking tone</cell><cell>ποταμὸς</cell></row>
+<row><cell>circumflex -- a tone that rises and falls</cell><cell>Κῦρον</cell></row>
+</table>
 </p>
 <p>The other two diacritics tell you whether or not a word beginning with a vowel has an 'h.' Greek ceased to use the letter 'h.' To show whether a word is aspirated (starts with an 'h') it uses what are called breathing marks. 
-  <table>
-    <row role="label"><cell>Greek</cell><cell>Translit.</cell></row>
-    <row><cell>"rough" breathing (with an 'h')</cell><cell>ὁ</cell><cell>ho</cell></row>
-    <row><cell>"smooth" breathing (no 'h')</cell><cell>ἀπὸ</cell><cell>apo</cell></row>
-  </table>
+<table>
+<row role="label"><cell>Greek</cell><cell>Translit.</cell></row>
+<row><cell>"rough" breathing (with an 'h')</cell><cell>ὁ</cell><cell>ho</cell></row>
+<row><cell>"smooth" breathing (no 'h')</cell><cell>ἀπὸ</cell><cell>apo</cell></row>
+</table>
 
-  The breathing marks are often very hard to make out on a computer screen. In practice, we should only show one breathing mark (i.e., for either rough or smooth) but that is not how Greek texts are printed.
+The breathing marks are often very hard to make out on a computer screen. In practice, we should only show one breathing mark (i.e., for either rough or smooth) but that is not how Greek texts are printed.
 </p>
 
-  
-  <p>Words from the opening of Xenophon's March Upcountry (Anabasis):
-  <table>
+
+<p>Words from the opening of Xenophon's March Upcountry (Anabasis):
+<table>
 <row role="label"><cell>Greek</cell><cell>new letters</cell></row>
 <row><cell>ὁ</cell><cell>['ο']</cell></row>
 <row><cell>μὲν</cell><cell>['μ', 'ε', 'ν']</cell></row>
@@ -241,44 +241,44 @@ You can hack your way through texts in a language that you do not know. But the 
 
 
 <div type="textpart" subtype="para" n="1"><head>Declensions.</head>
-  <p>Greek uses word endings (and to a lesser degree prefixes) far more than languages such as English or Mandarin. English still uses some endings -- English speakers recogngize that "endings" is plural and "ending" is singular. Likewise, English speakers know that the added -s with verbs indicates a singular subject: "she travel*s*" vs. "they travel." Greek has three basic classes of endings for nouns. We will talk about the meanings that these endings convey below. This section introduces the forms. 
-  </p><p>
-    reek uses word endings (and to a lesser degree prefixes) far more than languages such as English or Mandarin. English still uses some endings -- English speakers recogngize that "endings" is plural and "ending" is singular. Likewise, English speakers know that the added -s with verbs indicates a singular subject: "she travel*s*" vs. "they travel." Greek has three basic classes of endings for nouns. We will talk about the meanings that these endings convey below. This section introduces the forms.
-  </p><p>
-    While there are many (!) small variations, all Greek nouns roughly follow the following three patterns. Each pattern for noun formation is traditionally called a "declension." Core examples of the three declensions of Greek include the following:</p>
-    
-    <p><foreign>ἀρετή, ἀρετῆς, ἡ</foreign>, <gloss>excellence, skill</gloss></p>
-    <p><foreign>ποταμός, ποταμοῦ, ὁ</foreign>, <gloss>river, stream</gloss></p>
-    <p><foreign>φύλαξ, φύλακος, ὁ</foreign>, <gloss>guardian</gloss></p>
+<p>Greek uses word endings (and to a lesser degree prefixes) far more than languages such as English or Mandarin. English still uses some endings -- English speakers recogngize that "endings" is plural and "ending" is singular. Likewise, English speakers know that the added -s with verbs indicates a singular subject: "she travel*s*" vs. "they travel." Greek has three basic classes of endings for nouns. We will talk about the meanings that these endings convey below. This section introduces the forms. 
+</p><p>
+reek uses word endings (and to a lesser degree prefixes) far more than languages such as English or Mandarin. English still uses some endings -- English speakers recogngize that "endings" is plural and "ending" is singular. Likewise, English speakers know that the added -s with verbs indicates a singular subject: "she travel*s*" vs. "they travel." Greek has three basic classes of endings for nouns. We will talk about the meanings that these endings convey below. This section introduces the forms.
+</p><p>
+While there are many (!) small variations, all Greek nouns roughly follow the following three patterns. Each pattern for noun formation is traditionally called a "declension." Core examples of the three declensions of Greek include the following:</p>
+
+<p><foreign>ἀρετή, ἀρετῆς, ἡ</foreign>, <gloss>excellence, skill</gloss></p>
+<p><foreign>ποταμός, ποταμοῦ, ὁ</foreign>, <gloss>river, stream</gloss></p>
+<p><foreign>φύλαξ, φύλακος, ὁ</foreign>, <gloss>guardian</gloss></p>
 <p>The entries above provide the nominative singular and the genitive -- if we know those two forms, we can generate all the forms for any (regular) noun. 
 </p><p>We then add the article to show the gender of the noun. The article ἡ (as we will formally learn later) is the feminine. The article ὁ is masculine. We will also learn the neuter article τό when we encounter neuter nouns in lesson 4.
-    <table>
-    <row role="label"><cell></cell><cell>1st Declension/α-stem</cell><cell>2nd Declension/ο-stem</cell><cell>3rd Declension/C-stem</cell></row>
+<table>
+<row role="label"><cell></cell><cell>1st Declension/α-stem</cell><cell>2nd Declension/ο-stem</cell><cell>3rd Declension/C-stem</cell></row>
 <row><cell>Nom.</cell><cell>ἀρετή</cell><cell>ποταμός</cell><cell>φύλαξ (φύλακ-ς)</cell></row>
 <row><cell>Gen.</cell><cell>ἀρετῆς</cell><cell>ποταμοῦ</cell><cell>φύλακ-ος</cell></row>
 <row><cell>Dat.</cell><cell>ἀρετῇ</cell><cell>ποταμῷ</cell><cell>φύλακ-ι</cell></row>
 <row><cell>Acc.</cell><cell>ἀρετήν</cell><cell>ποταμόν</cell><cell>φύλακ-α (φύλακ-ν)</cell></row>
 <row><cell>Tokens</cell><cell>2662</cell><cell>3352</cell><cell>3359</cell></row>
 <row><cell>Lemmas</cell><cell>465</cell><cell>473</cell><cell>412</cell></row>
-  </table>
-    Crosby and Schaeffer avoid the terms "first/second/third declension" because they chose to start with nouns that have a stem that ends in -ο (omicron, "little o"). They begin with the "second declension" because of "their general uniformity," i.e., because there are fewer small variant ways to generate o-stem nouns. (Second declension nouns use two different endings for nominative and accusative: -ον for the singular, -α for the plural.) Furthermore, o-stem endings are reused for pronouns, adjectives and participles. Once you are familiar with the o-stem endings, you can also understand the case endings on an additional c. 6,981 additional words -- in other words, you will be able to understand the case endings for 10,332 of the tokens (18%) in the <title>Anabasis</title>.
+</table>
+Crosby and Schaeffer avoid the terms "first/second/third declension" because they chose to start with nouns that have a stem that ends in -ο (omicron, "little o"). They begin with the "second declension" because of "their general uniformity," i.e., because there are fewer small variant ways to generate o-stem nouns. (Second declension nouns use two different endings for nominative and accusative: -ον for the singular, -α for the plural.) Furthermore, o-stem endings are reused for pronouns, adjectives and participles. Once you are familiar with the o-stem endings, you can also understand the case endings on an additional c. 6,981 additional words -- in other words, you will be able to understand the case endings for 10,332 of the tokens (18%) in the <title>Anabasis</title>.
 </p><p>
-    Note: The caveat reflects the fact that the genitive plural ending is common to all three declensions. While automatic count simply assumes that o-stem nouns account for 1/3 of the ambiguous forms, that ambiguity should not significantly affect the overall total.
+Note: The caveat reflects the fact that the genitive plural ending is common to all three declensions. While automatic count simply assumes that o-stem nouns account for 1/3 of the ambiguous forms, that ambiguity should not significantly affect the overall total.
 
-  
+
 
 </p><p>
-    In the table shows that the frequency of all three classes of noun is comparable in the <title>Anabasis</title>. To understand that, we need to explain two terms: <term>word tokens</term>  and <term>lemmata</term>. To understand the difference, consider the following sentence:
+In the table shows that the frequency of all three classes of noun is comparable in the <title>Anabasis</title>. To understand that, we need to explain two terms: <term>word tokens</term>  and <term>lemmata</term>. To understand the difference, consider the following sentence:
 
 
-        
-      <quote>The term tokens describes the number of words in a text.</quote> 
-        
-        If we count each word in this  sentence, we will find that there are 11 tokens. Our digital editoin of Xenophon's <title>Anabasis</title> contains 57,245 tokens, i.e, running words of text. The table above shows that, of these 57,245 tokens, 2,662 (4.65%) are α-stem nouns, 3,352 (5.85%) are ο-stem nouns, and 3,357 (5.87%) are consonantal stem nouns.
-      
- 
-        The term <term>lemmas</term>  describes the normalized dictionary form for a word. In the table above, you can see that ποταμός, ποταμοῦ, ποταμῷ, ποταμόν etc. are all forms of the same word. When we look up a noun in a standard Greek dictionary, we look up that first form in the table (the nominative singular). By dividing tokens by lemmas, we can see that each a-stem, o-stem and K-stem lemmas shows up c. 5, 7 and 8 times in the <title>Anabasis</title>, i.e., if you learn a vocab word,  you are likely to see it 4, 6 and 7 times again.
-        
+
+<quote>The term tokens describes the number of words in a text.</quote> 
+
+If we count each word in this  sentence, we will find that there are 11 tokens. Our digital editoin of Xenophon's <title>Anabasis</title> contains 57,245 tokens, i.e, running words of text. The table above shows that, of these 57,245 tokens, 2,662 (4.65%) are α-stem nouns, 3,352 (5.85%) are ο-stem nouns, and 3,357 (5.87%) are consonantal stem nouns.
+
+
+The term <term>lemmas</term>  describes the normalized dictionary form for a word. In the table above, you can see that ποταμός, ποταμοῦ, ποταμῷ, ποταμόν etc. are all forms of the same word. When we look up a noun in a standard Greek dictionary, we look up that first form in the table (the nominative singular). By dividing tokens by lemmas, we can see that each a-stem, o-stem and K-stem lemmas shows up c. 5, 7 and 8 times in the <title>Anabasis</title>, i.e., if you learn a vocab word,  you are likely to see it 4, 6 and 7 times again.
+
 O-stem nouns are more frequent than a-stem nouns and roughly as frequent as K-stem nouns. Equally important, o-stem nouns are very simple -- once you have learned the declension in this chapter, you will have only a few variations (for the neuter gender) to learn.</p></div>
 
 <div type="textpart" subtype="para" n="2"><head>Ο-Stem Masculines.</head>
@@ -287,12 +287,12 @@ whose nominatives end in -ος are usually masculine.</p>
 
 <p><title>ποταμός, ποταμοῦ, ὁ — a river</title>
 <table>
-  
-  <row role="label"><cell></cell><cell>Singular</cell><cell></cell><cell>Plural</cell><cell></cell></row>
-    <row><cell>Nominative</cell><cell>ὁ ποταμός</cell><cell>the river (subject)</cell><cell>οἱ ποταμοί</cell><cell>the rivers (subject)</cell></row>
-    <row><cell>Genitive</cell><cell>τοῦ ποταμοῦ</cell><cell>of the river</cell><cell>τῶν ποταμῶν</cell><cell>of the rivers</cell></row>
-    <row><cell>Dative</cell><cell>τῷ ποταμῷ</cell><cell>to/for the river</cell><cell>τοῖς ποταμοῖς</cell><cell>to/for the rivers</cell></row>
-    <row><cell>Accusative</cell><cell>τὸν ποταμόν</cell><cell>the river (object)</cell><cell>τοὺς ποταμούς</cell><cell>the rivers (object)</cell></row>
+
+<row role="label"><cell></cell><cell>Singular</cell><cell></cell><cell>Plural</cell><cell></cell></row>
+<row><cell>Nominative</cell><cell>ὁ ποταμός</cell><cell>the river (subject)</cell><cell>οἱ ποταμοί</cell><cell>the rivers (subject)</cell></row>
+<row><cell>Genitive</cell><cell>τοῦ ποταμοῦ</cell><cell>of the river</cell><cell>τῶν ποταμῶν</cell><cell>of the rivers</cell></row>
+<row><cell>Dative</cell><cell>τῷ ποταμῷ</cell><cell>to/for the river</cell><cell>τοῖς ποταμοῖς</cell><cell>to/for the rivers</cell></row>
+<row><cell>Accusative</cell><cell>τὸν ποταμόν</cell><cell>the river (object)</cell><cell>τοὺς ποταμούς</cell><cell>the rivers (object)</cell></row>
 
 
 
@@ -304,70 +304,70 @@ In like manner inflect ὁ ἀδελφός.</p>
 
 <p>The table above is often called a paradigm, an English word derived from the Greek "paradeigma," "something that you show (deigma) on the side (para)." As noted above, the table from the text book shows the most important forms. If we look at the paradigm illustrating the forms of <foreign>ποταμός</foreign> <gloss>river</gloss> that actually appear in the 20 million word Glaux Trees parsed corpus of Ancient Greek, we can see that there are additional forms that the textbook leaves out but we can also see that the textbook has nicely captured the most important forms.
 
-  <graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/potamos-parad.jpg?raw=true"/>
+<graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/potamos-parad.jpg?raw=true"/>
 
-  [Screenshot from the <ref n="https://atlas-test.fly.dev/morphology/lemma/349/">Perseus Atlas repository</ref>.]
+[Screenshot from the <ref n="https://atlas-test.fly.dev/morphology/lemma/349/">Perseus Atlas repository</ref>.]
 </p>
 <p>
-  <list>
-    <item n="1">The same ending appears with both acute (ποταμός) and grave (ποταμὸς) accents. The shift from acute to grave (discussed below) happens when another accented word follows. You can see that, in the corpus, the grave accent is used 697 times and that the acute accent (which the textbook shows you) only appears 271 out of 968 times (27%). A word like ποταμός usually has another accented word following it and appears as ποταμὸς.</item>
-    <item>You can see that Greek does have instances where we get forms in thedual ("two rivers"), but there are only 3 instances of the dual number.</item>
-    <item>The textbook leaves out one Greek case: the vocative. The vocative is used when a speaker directly addresses someone. The vocative form ποταμὲ means "O River!" but it only occurs 1 time in 20 million tokens. While this low number reflects the fact that people do not typically address an anonymous river, vocative forms are not very common -- and they are easy (in o-stem nows, just shorten the -ος ending to -ε).</item>
-  </list>
+<list>
+<item n="1">The same ending appears with both acute (ποταμός) and grave (ποταμὸς) accents. The shift from acute to grave (discussed below) happens when another accented word follows. You can see that, in the corpus, the grave accent is used 697 times and that the acute accent (which the textbook shows you) only appears 271 out of 968 times (27%). A word like ποταμός usually has another accented word following it and appears as ποταμὸς.</item>
+<item>You can see that Greek does have instances where we get forms in thedual ("two rivers"), but there are only 3 instances of the dual number.</item>
+<item>The textbook leaves out one Greek case: the vocative. The vocative is used when a speaker directly addresses someone. The vocative form ποταμὲ means "O River!" but it only occurs 1 time in 20 million tokens. While this low number reflects the fact that people do not typically address an anonymous river, vocative forms are not very common -- and they are easy (in o-stem nows, just shorten the -ος ending to -ε).</item>
+</list>
 
 
 
 
 </p>
 <p>
-  The top 10 o-stem lemmas with identical endings and accent.
-  <table>
-  <row role="label"><cell></cell><cell>lemma</cell><cell>freq.</cell><cell>gloss</cell></row>
-  <row><cell>1</cell><cell><rs type="lemma">στρατηγός</rs></cell><cell>151</cell><cell>the leader</cell></row>
-  <row><cell>2</cell><cell><rs type="lemma">ποταμός</rs></cell><cell>99</cell><cell>a river, stream</cell></row>
-  <row><cell>3</cell><cell><rs type="lemma">λοχαγός</rs></cell><cell>90</cell><cell>the leader of an armed band; commander of a company</cell></row>
-  <row><cell>4</cell><cell><rs type="lemma">θεός</rs></cell><cell>89</cell><cell>god</cell></row>
-  <row><cell>5</cell><cell><rs type="lemma">σταθμός</rs></cell><cell>55</cell><cell>a standing place, weight</cell></row>
-  <row><cell>6</cell><cell><rs type="lemma">μισθός</rs></cell><cell>40</cell><cell>wages, pay, hire</cell></row>
-  <row><cell>7</cell><cell><rs type="lemma">ἀδελφός</rs></cell><cell>20</cell><cell>(of the same mother) brother; adj brotherly, sisterly, akin</cell></row>
-  <row><cell>8</cell><cell><rs type="lemma">καιρός</rs></cell><cell>14</cell><cell>time; the right moment, opportunity</cell></row>
-  <row><cell>9</cell><cell><rs type="lemma">Μυσός</rs></cell><cell>10</cell><cell>a Mysian</cell></row>
-  <row><cell>10</cell><cell><rs type="lemma">ἀριθμός</rs></cell><cell>9</cell><cell>number</cell></row>
-  <row><cell></cell><cell>All forms</cell><cell>749</cell><cell></cell></row>
-  </table>
-  
+The top 10 o-stem lemmas with identical endings and accent.
+<table>
+<row role="label"><cell></cell><cell>lemma</cell><cell>freq.</cell><cell>gloss</cell></row>
+<row><cell>1</cell><cell><rs type="lemma">στρατηγός</rs></cell><cell>151</cell><cell>the leader</cell></row>
+<row><cell>2</cell><cell><rs type="lemma">ποταμός</rs></cell><cell>99</cell><cell>a river, stream</cell></row>
+<row><cell>3</cell><cell><rs type="lemma">λοχαγός</rs></cell><cell>90</cell><cell>the leader of an armed band; commander of a company</cell></row>
+<row><cell>4</cell><cell><rs type="lemma">θεός</rs></cell><cell>89</cell><cell>god</cell></row>
+<row><cell>5</cell><cell><rs type="lemma">σταθμός</rs></cell><cell>55</cell><cell>a standing place, weight</cell></row>
+<row><cell>6</cell><cell><rs type="lemma">μισθός</rs></cell><cell>40</cell><cell>wages, pay, hire</cell></row>
+<row><cell>7</cell><cell><rs type="lemma">ἀδελφός</rs></cell><cell>20</cell><cell>(of the same mother) brother; adj brotherly, sisterly, akin</cell></row>
+<row><cell>8</cell><cell><rs type="lemma">καιρός</rs></cell><cell>14</cell><cell>time; the right moment, opportunity</cell></row>
+<row><cell>9</cell><cell><rs type="lemma">Μυσός</rs></cell><cell>10</cell><cell>a Mysian</cell></row>
+<row><cell>10</cell><cell><rs type="lemma">ἀριθμός</rs></cell><cell>9</cell><cell>number</cell></row>
+<row><cell></cell><cell>All forms</cell><cell>749</cell><cell></cell></row>
+</table>
+
 </p>
 </div>
 
 <div type="textpart" subtype="para" n="2a"><head>Number and Verbs.</head>
-  <p>
-    Ancient Greek has endings not only for the singular (e.g., English river vs. rivers) but also has a dual number used to describe pairs (e.g., two hands, two siblings etc.). Because the dual is much less common, many introductory grammars leave it out so that learners can focus on higher frequency features. We will see duals when we look at real primary sources but the digital part of speech annotations will (usually) identify these. You will learn to recognize them as you read more Greek.
-  </p>
+<p>
+Ancient Greek has endings not only for the singular (e.g., English river vs. rivers) but also has a dual number used to describe pairs (e.g., two hands, two siblings etc.). Because the dual is much less common, many introductory grammars leave it out so that learners can focus on higher frequency features. We will see duals when we look at real primary sources but the digital part of speech annotations will (usually) identify these. You will learn to recognize them as you read more Greek.
+</p>
 <p>While this lesson focuses on introducing nouns, it also introduces  singular and plural forms for three different verbs. These forms allow us to begin generating full sentence and thus to see when we apply each case to a noun.
 
-  <table>
-    <row role="label"><cell>Lemma</cell><cell>Short Def</cell><cell>Singular</cell><cell>Plural</cell></row>
-    <row><cell>εἰμί</cell><cell>to be</cell><cell>ἦν, s/he or it was</cell><cell>ἦσαν, they were</cell></row>
-    <row><cell>ἔχω</cell><cell>to have, to possess</cell><cell>ἔχει s/he or it has</cell><cell>ἔχουσι, they have</cell></row>
-    <row><cell>παύω</cell><cell>to stop</cell><cell>παύει s/he or it stops</cell><cell>παύουσι, they stop</cell></row>
-    <row><cell>πέμπω</cell><cell>to send</cell><cell>πέμπει, s/he or it sends</cell><cell>πέμπουσι, they send</cell></row>
-    <row><cell>w-stem verbs ending n </cell><cell></cell><cell>-ει 256</cell><cell>-ουσι 132</cell></row>
+<table>
+<row role="label"><cell>Lemma</cell><cell>Short Def</cell><cell>Singular</cell><cell>Plural</cell></row>
+<row><cell>εἰμί</cell><cell>to be</cell><cell>ἦν, s/he or it was</cell><cell>ἦσαν, they were</cell></row>
+<row><cell>ἔχω</cell><cell>to have, to possess</cell><cell>ἔχει s/he or it has</cell><cell>ἔχουσι, they have</cell></row>
+<row><cell>παύω</cell><cell>to stop</cell><cell>παύει s/he or it stops</cell><cell>παύουσι, they stop</cell></row>
+<row><cell>πέμπω</cell><cell>to send</cell><cell>πέμπει, s/he or it sends</cell><cell>πέμπουσι, they send</cell></row>
+<row><cell>w-stem verbs ending n </cell><cell></cell><cell>-ει 256</cell><cell>-ουσι 132</cell></row>
 </table>
 
 Following the patterns above, you could explain and/or generate 256 third person singular forms (s/he or it) and 132 third person plural (they) forms that occur in the Anabasis: e.g.,</p>
 
 <p>ἀναβαίνω, <gloss>to go up, mount, to go up to</gloss>. 
-  <cit>
-    <quote><emph>ἀναβαίνει</emph> ... ὁ Κῦρος</quote>
-    <quote xml:lang="eng">Cyrus goes up.</quote>
-    <bibl>Xen. Anab. 1.1.2 </bibl>
-  </cit>  
+<cit>
+<quote><emph>ἀναβαίνει</emph> ... ὁ Κῦρος</quote>
+<quote xml:lang="eng">Cyrus goes up.</quote>
+<bibl>Xen. Anab. 1.1.2 </bibl>
+</cit>  
 </p><p>ἀγγέλλω, <gloss>to bear a message</gloss>
-  <cit>
-    <quote>οἱ αἱρετοὶ <emph>ἀγγέλλουσι</emph> τοῖς στρατιώταις</quote>
-    <quote xml:lang="eng">The ones who had been selected bear a message to the soldiers.</quote>
-    <bibl>Xen. Anab. 1.3.21 </bibl>
-  </cit>
+<cit>
+<quote>οἱ αἱρετοὶ <emph>ἀγγέλλουσι</emph> τοῖς στρατιώταις</quote>
+<quote xml:lang="eng">The ones who had been selected bear a message to the soldiers.</quote>
+<bibl>Xen. Anab. 1.3.21 </bibl>
+</cit>
 </p>
 
 
@@ -375,9 +375,9 @@ Following the patterns above, you could explain and/or generate 256 third person
 </div>
 
 <div type="textpart" subtype="para" n="3"><head>Accents.</head>
-  <p>(a) In nouns of the ο-declension an acute (´) on the ultima in the nominative becomes a
+<p>(a) In nouns of the ο-declension an acute (´) on the ultima in the nominative becomes a
 circumflex (῀) in the genitive and dative of both numbers.
-  </p><p>The acute accent can only occur on (1) the last or the second to last syllable and only on a long syllable.
+</p><p>The acute accent can only occur on (1) the last or the second to last syllable and only on a long syllable.
 
 
 
@@ -393,30 +393,30 @@ circumflex (῀) in the genitive and dative of both numbers.
 <p>(c) If the accent on the nominative of an o-stem noun is an acute, the accent is an acute also in the accusative. This makes sense given the statement above, for the accusative singular because that ending is short and cannot bear a circumflex accent. If you remember that a circumflex involves a rising and then a declining tone, it makes sense: the short syllable is not long enough for the up and down tones -- that requires more length. </p>
 <p>That said, the accusative plural ending, -ους, is long but it still does not bear a circumflex. The reason is probably that the ending -ους comes from *-ονς and was thus originally short.</p>
 <p>The bottom line is that an accented long final syllable can take a circumflex but it does not have to. You just have to remember those places where the long final syllable takes an acute.</p>
- 
+
 </div>
 
 <div type="textpart" subtype="para" n="4"><head>Cases.</head> 
-  <p>The different endings give you information about how a noun is used in a sentence. English retains traces of such a system in its pronouns. Thus we can say:
+<p>The different endings give you information about how a noun is used in a sentence. English retains traces of such a system in its pronouns. Thus we can say:
 
-    <quote>She saw him.</quote>
-  
-    But a statement such as the following is simply not grammatical:
+<quote>She saw him.</quote>
 
-    <quote>*Him saw she.</quote>
+But a statement such as the following is simply not grammatical:
 
-    We can, however, within limits violate standard word order for emphasis. Thus, the following sentence is grammatical and emphatic:
+<quote>*Him saw she.</quote>
 
-    <quote>Him she saw!</quote>
+We can, however, within limits violate standard word order for emphasis. Thus, the following sentence is grammatical and emphatic:
 
-  Because Greek words have different endings that help you understand the role of a word, Greek word order is more flexible that than of English (or of other languages with little or not inflection, such as French, Mandarin, and Spanish). Thus the Star Wars character Yoda would sound quite idiomatic if translated directly into Ancient Greek -- thus losing some of his charm.
+<quote>Him she saw!</quote>
 
-  <cit>
-  <quote>Much to learn you still have.</quote>
-  <bibl><ref n="https://www.youtube.com/watch?v=0Bu8GcLK6vY">Yoda, Attack of the Clones.</ref></bibl>
+Because Greek words have different endings that help you understand the role of a word, Greek word order is more flexible that than of English (or of other languages with little or not inflection, such as French, Mandarin, and Spanish). Thus the Star Wars character Yoda would sound quite idiomatic if translated directly into Ancient Greek -- thus losing some of his charm.
+
+<cit>
+<quote>Much to learn you still have.</quote>
+<bibl><ref n="https://www.youtube.com/watch?v=0Bu8GcLK6vY">Yoda, Attack of the Clones.</ref></bibl>
 </cit>
 
-    
+
 </p><p>
 (a) A noun appears in the nominative when that noun is the subject of a verb or when the noun is the predicate of a verb.
 </p><p>
@@ -441,7 +441,7 @@ Note that the Greek can use the article to make the relationship unambiguous. Co
 Was I using a telescope to see that person? Was that person in the park that has a telescope? Or was the person using the telescope? Any of these interpretations is possible.
 </p>
 <p>In Greek we could say:
-  <quote>I saw the with-the-telescope person in the park.</quote>
+<quote>I saw the with-the-telescope person in the park.</quote>
 or
 <quote>I saw the person in the with-the-telescope park.</quote>
 
@@ -469,22 +469,22 @@ verb. (And, converseley a transitive verb is any verb that can take a direct obj
 <p>(e) The vocative case is used when addressing someone. The textbook does not introduce this case becauxe it is not very common and because it is easy to generate the form. The vocative is often the same as the nominative. In some case, as with o-stems, the vocative is shorted form of the nominative.
 </p>
 <p>We will learn later in this lesson:
-  
-  <foreign>ὁ στρατηγός</foreign> <gloss>the general</gloss>
 
-  From this we could create the voative:
+<foreign>ὁ στρατηγός</foreign> <gloss>the general</gloss>
 
-  <foreign>ὦ στρατηγέ</foreign> <gloss>oh general!</gloss>
+From this we could create the voative:
+
+<foreign>ὦ στρατηγέ</foreign> <gloss>oh general!</gloss>
 
 </p>
 <p>This chapter introduces core functions of the most common four Greek cases. Indo-European, the language (or cluster of languages) from which Ancient Greek, Latin, Sanskrit, Irish and many other languages derive, had three other cases -- a total of eight.
-  <list>
-    <item n="1">The <term>instrumental</term>: "I hammered the nail <emph>by means of a hammer.</emph> In Greek, this function is, as we will see below, taken over by the dative.</item>
-    <item n="2">The <term>ablative</term> (from Latin ab-latus, "taken/carried away"): "I went <emph>away from the lake</emph>. In Greek, this function is, as we will see below, taken over the genitive.</item>
-    <item n="3">The <term>locative</term>: "at home," "in the ocean." In Greek, this function is, as we will see below, taken over by the dative.</item>
-  </list>
-  Other Indo-European languages preserve some of these cases: Ukrainian and Croatian both have the locative and instrumental case, while Latin contained both a dative and an ablative case. 
-  </p>
+<list>
+<item n="1">The <term>instrumental</term>: "I hammered the nail <emph>by means of a hammer.</emph> In Greek, this function is, as we will see below, taken over by the dative.</item>
+<item n="2">The <term>ablative</term> (from Latin ab-latus, "taken/carried away"): "I went <emph>away from the lake</emph>. In Greek, this function is, as we will see below, taken over the genitive.</item>
+<item n="3">The <term>locative</term>: "at home," "in the ocean." In Greek, this function is, as we will see below, taken over by the dative.</item>
+</list>
+Other Indo-European languages preserve some of these cases: Ukrainian and Croatian both have the locative and instrumental case, while Latin contained both a dative and an ablative case. 
+</p>
 
 </div>
 
@@ -510,7 +510,7 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 <p>In the vocabularies derivatives and cognates are printed in small capitals.</p>
 <p>In the vocabulary we calculate how often each word appears in Xenophon's Anabasis and then we give you the running total -- how many words in Xenopon you can understand after adding a new word to what you have studied already.  </p>
 <p>Because we have not yet studied Greek verbs, this lesson gives us six isolated verb forms so that we can start to generate sentences. Four of thses verb forms show up fairly often. Two of them, however, - "s/he stops" and "they stop" -- do not appear ever in the Anabasis. The verb "to stop" does appear but not very oten in the active voice and never in the forms <foreign>παύει</foreign> and <foreign>παύουσι</foreign>. Textbooks use verbs like <foreign>παύει</foreign>, "I stop," because these verbs are morphologically easy to generate. </p>
-  <list type="vocab">
+<list type="vocab">
 <item><rs type="lemma">ἀδελφός</rs>, ἀδελφοῦ, ὁ: brother.  PHILADELPHIA.</item>
 <item><rs type="form">ἔχει</rs>: he, she, or it has,</item>
 <item><rs type="form">ἔχουσι</rs>: they have.</item>
@@ -533,20 +533,20 @@ in gender, number, and case. It often serves as a possessive pronoun, as my, you
 <div type="textpart" subtype="para" n="6a"><head>Examples from Xenophon.</head>
 <p>Predicate nominatives:
 
-  <cit>
-    <quote>τὸ δὲ σύμπαν <emph>δῆλος</emph> <emph>ἦν</emph> <emph>Κῦρος</emph>  ὡς σπεύδων πᾶσαν τὴν ὁδὸν.</quote>
+<cit>
+<quote>τὸ δὲ σύμπαν <emph>δῆλος</emph> <emph>ἦν</emph> <emph>Κῦρος</emph>  ὡς σπεύδων πᾶσαν τὴν ὁδὸν.</quote>
 
-    <quote xml:lang="eng">On the whole, <emph>Cyrus</emph> <emph>was</emph> <emph>obvious</emph>, insofar as he was rushing through the whole trip.</quote>
-    <bibl>Xen. Anab. 1.5.9</bibl>
-  </cit>
+<quote xml:lang="eng">On the whole, <emph>Cyrus</emph> <emph>was</emph> <emph>obvious</emph>, insofar as he was rushing through the whole trip.</quote>
+<bibl>Xen. Anab. 1.5.9</bibl>
+</cit>
 </p><p>We find the expression "general of the Greeks" multiple times:
 
-  <cit>
+<cit>
 <quote>ἐπειδὴ δὲ πάντας παρήλασε , στήσας τὸ ἅρμα πρὸ τῆς φάλαγγος μέσης , πέμψας Πίγρητα τὸν ἑρμηνέα παρὰ <emph>τοὺς στρατηγοὺς τῶν Ἑλλήνων</emph> ἐκέλευσε προβαλέσθαι τὰ ὅπλα καὶ ἐπιχωρῆσαι ὅλην τὴν φάλαγγα.</quote>
 
-    <quote xml:lang="eng">And when he had passed them all, stationing his chariot in front of the middle of the phalanx (the military formation), and having sent Pigres, the interpreter, to the generals of the Greeks, he ordered them to resent arms and the whole phalanx to move forward. </quote>
-   <bibl>1.2.17</bibl>
-  </cit>
+<quote xml:lang="eng">And when he had passed them all, stationing his chariot in front of the middle of the phalanx (the military formation), and having sent Pigres, the interpreter, to the generals of the Greeks, he ordered them to resent arms and the whole phalanx to move forward. </quote>
+<bibl>1.2.17</bibl>
+</cit>
 
 <cit><quote>καὶ Κῦρος μεταπεμψάμενος <emph>τοὺς στρατηγοὺς τῶν Ἑλλήνων</emph> ἔλεγεν ὅτι ἡ ὁδὸς ἔσοιτο πρὸς βασιλέα μέγαν εἰς Βαβυλῶνα ·</quote>
 
@@ -558,41 +558,41 @@ NB: μεταπεμψάμενος is a compound of a preverb μετά and the ver
 </p>
 
 <p>The following example includes a predicate nominative and a genitive.
-  <cit>
-    <quote>ὥστε <emph>ἄδειπνοι ἦσαν οἱ πλεῖστοι</emph> τῶν Ἑλλήνων</quote>
+<cit>
+<quote>ὥστε <emph>ἄδειπνοι ἦσαν οἱ πλεῖστοι</emph> τῶν Ἑλλήνων</quote>
 
-      <quote xml:lang="eng">The greater number of the Greek were without having eaten (i.e., had not yet eaten)</quote>
-      <bibl>Xen. Anab. 1.10.19</bibl>
-  </cit>
+<quote xml:lang="eng">The greater number of the Greek were without having eaten (i.e., had not yet eaten)</quote>
+<bibl>Xen. Anab. 1.10.19</bibl>
+</cit>
 <list>
 <item>ἄδειπνοι: ἄδειπνος, masculine nominative plural, <gloss>without having eaten</gloss></item>
 <item>πλεῖστοι: πολύς, superlative, masculine nominative plural,<gloss>much, many</gloss></item>
 <item>τῶν Ἑλλήνων, <gloss>of the Greeks</gloss></item>
 </list>
 
-  <cit>
-    <quote>ἐκ ταύτης τῆς χώρας ὁ ἄρχων <emph>τοῖς Ἕλλησιν</emph> <emph>ἡγεμόνα</emph> <emph>πέμπει</emph>.</quote>
-    
-    <quote xml:lang="eng">From this territory the ruler of the land sends the Greeks a guide</quote>
-      <bibl>Xen. Anab. 6.1.15</bibl>
-    
-      </cit>
+<cit>
+<quote>ἐκ ταύτης τῆς χώρας ὁ ἄρχων <emph>τοῖς Ἕλλησιν</emph> <emph>ἡγεμόνα</emph> <emph>πέμπει</emph>.</quote>
 
-  <cit>
+<quote xml:lang="eng">From this territory the ruler of the land sends the Greeks a guide</quote>
+<bibl>Xen. Anab. 6.1.15</bibl>
+
+</cit>
+
+<cit>
 <quote>οὗτοι δὲ <emph>ξένια</emph> <emph>πέμπουσι</emph>  <emph>τοῖς Ἕλλησιν</emph> ἀλφίτων μεδίμνους τρισχιλίους , οἴνου δὲ κεράμια χίλια καὶ πεντακόσια.</quote>
 
 <quote xml:lang="eng"><emph>They send</emph> <emph>hospitality gifts</emph> <emph>to the Greeks</emph>: three thousand medimni of flour, and fifteen hundred ceramia of wine. [Watson 1857]</quote>
-  <bibl>Xen. Anab. 6.1.15</bibl>
+<bibl>Xen. Anab. 6.1.15</bibl>
 
-  </cit>
+</cit>
 </p>
 <p>
-  <list>
-    <item> Ἕλλησιν:  Ἕλλην, masculine dative plural, <gloss>Hellen; Greek</gloss>.</item>
-    <item>ξένια: ξένιος, neuter accusative plural, <gloss>belonging to a friend and guest, hospitable</gloss>.</item>
-  </list>
- 
-  | </p>
+<list>
+<item> Ἕλλησιν:  Ἕλλην, masculine dative plural, <gloss>Hellen; Greek</gloss>.</item>
+<item>ξένια: ξένιος, neuter accusative plural, <gloss>belonging to a friend and guest, hospitable</gloss>.</item>
+</list>
+
+| </p>
 </div>
 
 <pb n="3"/>
@@ -629,10 +629,10 @@ NB: μεταπεμψάμενος is a compound of a preverb μετά and the ver
 </list>
 
 <table>
-  <row><cell><graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/peneios.jpg?raw=true"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg"/></cell></row>
+<row><cell><graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/peneios.jpg?raw=true"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg"/></cell></row>
 </table>
 <figure><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tempe1.jpg/1280px-Tempe1.jpg"/><head>ὁ ποταμός</head></figure> 
-  <graphic url="https://upload.wikimedia.org/wikipedia/commons/b/b2/Pineios_river_%28thessaly%29_map.jpg"/> 
+<graphic url="https://upload.wikimedia.org/wikipedia/commons/b/b2/Pineios_river_%28thessaly%29_map.jpg"/> 
 <figure><head>ὁ ποταμός</head>
 <p>This lovely pass, the Vale of Tempe, between Mt. Ossa and Mt. Olympus,
 might have proven more troublesome to the Persians than Thermopylae, had
@@ -648,9 +648,9 @@ winds through it, is one of the few in Greece that never go dry.</p></figure>
 <head>DECLENSION OF O-STEMS — Continued</head>
 
 <cit>
-  <quote>πόνος γάρ, ὡς λέγουσιν, εὐκλείας πατήρ.</quote>
-  <quote>Toil, so they say, is the father of fame.</quote>
-  <bibl>Euripides, fragment</bibl></cit>
+<quote>πόνος γάρ, ὡς λέγουσιν, εὐκλείας πατήρ.</quote>
+<quote>Toil, so they say, is the father of fame.</quote>
+<bibl>Euripides, fragment</bibl></cit>
 
 
 <div type="textpart" subtype="para" n="8"><head>Persistent Accent.</head>
@@ -667,27 +667,27 @@ of the nominative plural is considered short (§ V, a).
 <foreign>ὁ φίλος</foreign>  <gloss>the friend</gloss>
 
 <table>
-  <row role="label"><cell>Singular</cell><cell></cell><cell>Plural</cell><cell></cell></row>
-  <row><cell>ὁ φίλος</cell><cell>the friend [subj]</cell><cell>οἱ φίλοι</cell><cell>English</cell></row>
-  <row><cell>τοῦ φίλου</cell><cell>of the friend</cell><cell>τῶν φίλων</cell><cell>English</cell></row>
-  <row><cell>τῷ φίλῷ</cell><cell>to/for the friend</cell><cell>τοῖς φίλοις</cell><cell>English</cell></row>
-  <row><cell>τὸν φίλον</cell><cell>the friend [obj]</cell><cell>τοὺς φίλους</cell><cell>English</cell></row>
+<row role="label"><cell>Singular</cell><cell></cell><cell>Plural</cell><cell></cell></row>
+<row><cell>ὁ φίλος</cell><cell>the friend [subj]</cell><cell>οἱ φίλοι</cell><cell>English</cell></row>
+<row><cell>τοῦ φίλου</cell><cell>of the friend</cell><cell>τῶν φίλων</cell><cell>English</cell></row>
+<row><cell>τῷ φίλῷ</cell><cell>to/for the friend</cell><cell>τοῖς φίλοις</cell><cell>English</cell></row>
+<row><cell>τὸν φίλον</cell><cell>the friend [obj]</cell><cell>τοὺς φίλους</cell><cell>English</cell></row>
 </table>
 
 
 <foreign>ὁ δίκαιος </foreign> <gloss>the just person</gloss>
 <table>
-  <row role="label"><cell>Singular</cell><cell></cell><cell>Plural</cell><cell></cell></row>
-  <row><cell>ὁ δίκαιος</cell><cell>the just person [subj]</cell><cell>οἱ δίκαιοι</cell><cell>the just people [subj]</cell></row>
-  <row><cell>τοῦ δικαίου</cell><cell>of the just person</cell><cell>τῶν δικαίων</cell><cell>of the just people</cell></row>
-  <row><cell>τῷ δικαίῳ</cell><cell>to/for the just person</cell><cell>τοῖς δικαίοις</cell><cell>to/for the just people</cell></row>
-  <row><cell>τὸν δίκαιον</cell><cell>the just person [obj]</cell><cell>τοὺς δικαίους</cell><cell>the just people [obj]</cell></row>
+<row role="label"><cell>Singular</cell><cell></cell><cell>Plural</cell><cell></cell></row>
+<row><cell>ὁ δίκαιος</cell><cell>the just person [subj]</cell><cell>οἱ δίκαιοι</cell><cell>the just people [subj]</cell></row>
+<row><cell>τοῦ δικαίου</cell><cell>of the just person</cell><cell>τῶν δικαίων</cell><cell>of the just people</cell></row>
+<row><cell>τῷ δικαίῳ</cell><cell>to/for the just person</cell><cell>τοῖς δικαίοις</cell><cell>to/for the just people</cell></row>
+<row><cell>τὸν δίκαιον</cell><cell>the just person [obj]</cell><cell>τοὺς δικαίους</cell><cell>the just people [obj]</cell></row>
 </table>
 </p>
 <p>In most case, we generate an adverb by using the ending -ως:
 
-  <foreign>δίκαιος</foreign> <gloss>δικαίως</gloss>
-  <foreign>ἄξιος</foreign> <gloss>ἀξίως</gloss>
+<foreign>δίκαιος</foreign> <gloss>δικαίως</gloss>
+<foreign>ἄξιος</foreign> <gloss>ἀξίως</gloss>
 
 
 </p><p>
@@ -696,10 +696,10 @@ In like manner inflect ὁ πόλεμος.
 </p>
 <p>Adjectives adopt the gender, number and case of the nouns they modify. As noted above, there are three broad ways of producing Greek nouns. The word Ἕλληνες is, for example, the consontant-stem nominative masculine plural form of Ἕλλην, Ἕλληνος, ὁ, "Greek male" or "Greeks" (when there is a group with men and women. To describe one or more Greek women, the word be  Ἑλληνίς, Ἑλληνίδος, ἡ, "Greek woman.")
 </p><p>
-  If we want to say "three just Greeks", we would produce 
-  <foreign>οἱ δίκαιοι Ἕλληνες</foreign>, i.e., we would not change the way we generate the masculine nominative plural of δίκαιος. We generate the o-stem form for the adjective even though it is modifying a consontantal-stem noun.
+If we want to say "three just Greeks", we would produce 
+<foreign>οἱ δίκαιοι Ἕλληνες</foreign>, i.e., we would not change the way we generate the masculine nominative plural of δίκαιος. We generate the o-stem form for the adjective even though it is modifying a consontantal-stem noun.
 
- 
+
 <pb n="5"/></p></div>
 
 <div type="textpart" subtype="para" n="9"><head>Genitive of Place from Which.</head><p> The genitive with
@@ -713,16 +713,16 @@ many prepositions denotes place from which. This is our second use of the geniti
 
 
 <table>
-  <row><cell><graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/megalop.jpg?raw=true"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Arcadian_Gate.jpg/2560px-Arcadian_Gate.jpg"/></cell></row>
+<row><cell><graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/megalop.jpg?raw=true"/></cell><cell><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Arcadian_Gate.jpg/2560px-Arcadian_Gate.jpg"/></cell></row>
 </table>
 
 
 
 
-  <figure><head>The ARCADIAN GATE</head><p>The walls of Messene still testify to the engineering skill and daring of the victor of Leuctra. Note particularly the central doorpost of this great gate. It is nearly nineteen feet long.</p></figure>
+<figure><head>The ARCADIAN GATE</head><p>The walls of Messene still testify to the engineering skill and daring of the victor of Leuctra. Note particularly the central doorpost of this great gate. It is nearly nineteen feet long.</p></figure>
 </p>
 
-  <p>GRC: The <ref n="https://en.wikipedia.org/wiki/Battle_of_Leuctra">Battle of Leuctra</ref> in 371 BCE led the permanent elimination of Spartan power. The battle itself might have been a temporary setback but the Boeotians followed up by invading the Peloponnese and the founding of <ref n="https://en.wikipedia.org/wiki/Messene">Messene</ref> as a defensible city in Messenia. Much of Spartan power had been based upon using terror to keep the inhabitants of Messenia as a subject population. The permanent liberation of Messenia drastically reduced the amount of labor and of resources that Spartans could extract.</p>
+<p>GRC: The <ref n="https://en.wikipedia.org/wiki/Battle_of_Leuctra">Battle of Leuctra</ref> in 371 BCE led the permanent elimination of Spartan power. The battle itself might have been a temporary setback but the Boeotians followed up by invading the Peloponnese and the founding of <ref n="https://en.wikipedia.org/wiki/Messene">Messene</ref> as a defensible city in Messenia. Much of Spartan power had been based upon using terror to keep the inhabitants of Messenia as a subject population. The permanent liberation of Messenia drastically reduced the amount of labor and of resources that Spartans could extract.</p>
 <p>
 <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Spartan_Territory_Before_371_BC.png/973px-Spartan_Territory_Before_371_BC.png"/>
 <graphic url="https://github.com/gregorycrane/CrosbySchaeffer2.0/blob/main/chaps/images/leuctra-gmap.jpg?raw=true"/></p>
@@ -801,8 +801,8 @@ Note 1: -ν is usually added to words ending in -σι before a word beginning wi
 <head>PRESENT INDICATIVE AND INFINITIVE ACTIVE OF ω-VERBS</head>
 
 
-  <cit><quote>οἱ γὰρ πόνοι τίκτουσι τὴν εὐανδρίᾱν.</quote>
-    <quote>Labor begets manhood. Literally: For toils beget manhood.</quote><bibl>Euripides, fragment.</bibl></cit>
+<cit><quote>οἱ γὰρ πόνοι τίκτουσι τὴν εὐανδρίᾱν.</quote>
+<quote>Labor begets manhood. Literally: For toils beget manhood.</quote><bibl>Euripides, fragment.</bibl></cit>
 
 
 
@@ -814,20 +814,20 @@ Note 1: -ν is usually added to words ending in -σι before a word beginning wi
 Present Indicative Active or παύω <gloss>I stop</gloss></p>
 <p>
 
-  <table>
-    <row role="label"><cell>Greek</cell><cell>English</cell><cell>Greek</cell><cell>English</cell></row>
-    <row><cell>παύω</cell><cell>I stop</cell><cell>παύομεν</cell><cell>we stop</cell></row>
-    <row><cell>παύεις</cell><cell>you (sg) stop</cell><cell>παύετε</cell><cell>you (pl) stop</cell></row>
-    <row><cell>παύει</cell><cell>s/he or it stops</cell><cell>παύουσι</cell><cell>they stop</cell></row>
-  </table>
+<table>
+<row role="label"><cell>Greek</cell><cell>English</cell><cell>Greek</cell><cell>English</cell></row>
+<row><cell>παύω</cell><cell>I stop</cell><cell>παύομεν</cell><cell>we stop</cell></row>
+<row><cell>παύεις</cell><cell>you (sg) stop</cell><cell>παύετε</cell><cell>you (pl) stop</cell></row>
+<row><cell>παύει</cell><cell>s/he or it stops</cell><cell>παύουσι</cell><cell>they stop</cell></row>
+</table>
 
 </p><p>Frequency of this paradigm in the Anabasis.
-  <table>
-    <row role="label"><cell>Freq</cell><cell>Ending</cell><cell>Freq</cell><cell>Ending</cell></row>
-    <row><cell>85</cell><cell>-ω</cell><cell>26</cell><cell>-ομεν</cell></row>
-    <row><cell>26</cell><cell>-εις</cell><cell>34</cell><cell>-ετε</cell></row>
-    <row><cell>256</cell><cell>-ει</cell><cell>132</cell><cell>-ουσι</cell></row>
-  </table>
+<table>
+<row role="label"><cell>Freq</cell><cell>Ending</cell><cell>Freq</cell><cell>Ending</cell></row>
+<row><cell>85</cell><cell>-ω</cell><cell>26</cell><cell>-ομεν</cell></row>
+<row><cell>26</cell><cell>-εις</cell><cell>34</cell><cell>-ετε</cell></row>
+<row><cell>256</cell><cell>-ει</cell><cell>132</cell><cell>-ουσι</cell></row>
+</table>
 </p>
 <p>Present Infintive Active: παύ-ειν
 </p><p>
@@ -867,7 +867,7 @@ on the penult if the ultima is long -
 </p></div>
 
 <div type="textpart" subtype="para" n="17"><head>Vocabulary</head>
-  <list type="vocab">
+<list type="vocab">
 <item><rs type="lemma">ἀγαθός</rs>, ἀγαθή, ἀγαθόν: good, brave. AGATHA.</item>
 <item><rs type="lemma">ἄγγελος</rs>, ἀγγέλου, ὁ: messenger. ANGEL.</item>
 <item><rs type="lemma">ἄγω</rs>: lead, Lat. ago.</item>
@@ -880,21 +880,21 @@ on the penult if the ultima is long -
 <item><rs type="lemma">λίθος</rs>, λίθος, ὁ: stone.</item>
 <item><rs type="lemma">λύω</rs>: loose, break, destroy.</item>
 <item><rs type="lemma">παύω</rs>: stop (trans,). PAUSE.</item>
-  </list>
+</list>
 </div>
 <div type="textpart" subtype="para" n="18"><head>Vocabulary Notes</head>
-  <p>The defintions offered for καλός and ἀγαθός demonstrate that both are very positive terms. Each is sometimes translated as "good," "noble" and "honorable." In general, however, καλός describes people and things that are attractive and appealing to us, while ἀγαθός tends to address positive qualities that are not superficial. Thus we get the contrast between men who may be physically attractive but may or may not be courageous. This emerges in a passage from the Anabasis (<ref n="https://scaife-dev.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:7.4.7-7.4.8?right=perseus-eng2">7.4.7-7.4.8</ref> which describes a company of physically attractive (καλός) soldiers but emphasizes that one of them (at least) was also a "good man" (ἀγαθός). The conclusion of this passage captures this distinction:
-  <cit>
-    <quote>λόχον ποτὲ συνελέξατο σκοπῶν οὐδὲν ἄλλο ἢ εἴ τινες εἶεν καλοί, καὶ μετὰ τούτων ἦν ἀνὴρ ἀγαθός.</quote>
-    <quote xml:lang="eng">he had once assembled a company considering nothing else except whether a man was handsome (καλός), and with these men he was a brave man (ἀνὴρ ἀγαθός.).</quote>
-    <bibl n="https://scaife-dev.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:7.4.7-7.4.8?right=perseus-eng2">Xen. Anab. 7.4.8</bibl>
-  </cit> </p>
+<p>The defintions offered for καλός and ἀγαθός demonstrate that both are very positive terms. Each is sometimes translated as "good," "noble" and "honorable." In general, however, καλός describes people and things that are attractive and appealing to us, while ἀγαθός tends to address positive qualities that are not superficial. Thus we get the contrast between men who may be physically attractive but may or may not be courageous. This emerges in a passage from the Anabasis (<ref n="https://scaife-dev.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:7.4.7-7.4.8?right=perseus-eng2">7.4.7-7.4.8</ref> which describes a company of physically attractive (καλός) soldiers but emphasizes that one of them (at least) was also a "good man" (ἀγαθός). The conclusion of this passage captures this distinction:
+<cit>
+<quote>λόχον ποτὲ συνελέξατο σκοπῶν οὐδὲν ἄλλο ἢ εἴ τινες εἶεν καλοί, καὶ μετὰ τούτων ἦν ἀνὴρ ἀγαθός.</quote>
+<quote xml:lang="eng">he had once assembled a company considering nothing else except whether a man was handsome (καλός), and with these men he was a brave man (ἀνὴρ ἀγαθός.).</quote>
+<bibl n="https://scaife-dev.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:7.4.7-7.4.8?right=perseus-eng2">Xen. Anab. 7.4.8</bibl>
+</cit> </p>
 
 <p>The adjective καλός as a compliment plays a significant role in Athenian vases of the early fifth century. People would add the formula "so-and-son is καλός. The phrase Λεαγρὸς καλός ("Leagros is attractive," or, perhaps more accurately, "Leagros is hot!") was particularly common and may reflect the popularity of one particular figure. An separate Wikipedia page dedicated to <ref n="https://en.wikipedia.org/wiki/Kalos_inscription">Kalos inscriptions</ref> has appeared (reflecting the interest that this topic has attracted in the 21st century as well).</p>
 <p>You can see an example of this practice on a famous vase from the Louvre (c. 485-480 BCE). This vase would have been produced in the years after the Athenians had defeated <ref n="https://en.wikipedia.org/wiki/Darius_the_Great">Darius I</ref> and his Persian army at <ref n="https://en.wikipedia.org/wiki/Battle_of_Marathon">Marathon</ref> and just before <ref n="https://en.wikipedia.org/wiki/Xerxes_I">Xerxes</ref>, Darius' son, would invade Greece in 480 BCE and temporarily <ref n="https://en.wikipedia.org/wiki/Achaemenid_destruction_of_Athens">occupy (and destroy) Athens</ref>. The vase illustrates a deeply emotional scene from Greek mythology: the goddess Eos (Dawn) holds the dead body of her mortal son, whom Achilles had just killed.
-  <graphic url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Eos_Memnon_Louvre_G115.jpg"/>
-  <graphic url="images/hermogkalos.jpg"/>
-  The inscription is ΗΕΡΜΟΓΕΝΕΣ ΚΑΛΟΣ, which is Ἑρμογένης καλός in normalized Greek. Note that this Athenian vase uses the Η to indicate aspiration (as with the English 'h') rather than the long ê (as in êta, η).
+<graphic url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Eos_Memnon_Louvre_G115.jpg"/>
+<graphic url="images/hermogkalos.jpg"/>
+The inscription is ΗΕΡΜΟΓΕΝΕΣ ΚΑΛΟΣ, which is Ἑρμογένης καλός in normalized Greek. Note that this Athenian vase uses the Η to indicate aspiration (as with the English 'h') rather than the long ê (as in êta, η).
 </p><p><graphic url="images/dourispanted.jpg"/> Two of the other inscriptions are worth looking at. one includes ΗΕΟΣ and ΔΟΡΙΣ ΕΓΡΑΦΣΕΝ, equivalent to Ἐώς and Δοῦρις ἔγραψεν ("Douris wrote/scratched", i.e. Douris was the painter). Instead of a -ψ- we get -φσ-. Note the vase uses a single -Ο- sound that we write as -ου-.  
 </p><p><graphic url="images/memnon.jpg"/>A second inscription includes ΜΕΜΝΟΝ (the hero Μέμνων) ΚΑΛΙΑΔΕΣ ΕΠΟΙΕΣΕΝ (Καλλιάδης ἐποιήσεν, "Calliades made [it]," i.e., Calliades was the potter). There is an additional inscription (not shown in detail) that includes a nonsense inscription (i.e., letters for decorative effect).
 </p>
@@ -936,7 +936,7 @@ and number of the subject ?
 <div type="textpart" subtype="para" n="18b"><head>An immortal horse</head>
 <p>This is one of the precious bits of sculpture from the eastern pediment of the Parthenon.
 </p><p>
-  <graphic url="images/parthhorse.jpg"/>
+<graphic url="images/parthhorse.jpg"/>
 <graphic url="images/mid_00018006_001.jpg"/>British Museum (for now) 1816.0610.98: avaiable <ref n="https://www.britishmuseum.org/collection/object/G_1816-0610-98">here</ref> via <ref n="https://iiif.io/">IIIF</ref> [GRC: Is this the same object as the one in the original Crosby and Schaeffer?].  
 </p></div>
 
@@ -963,8 +963,8 @@ and number of the subject ?
 </p></div>
 <div type="textpart" subtype="para" n="20">
 <p>Βρεκεκεκὲξ κοὰξ κοάξ. </p>
-  
-  <p>This is the famous refrain of the frog chorus in Aristophanes’ comedy, The Frogs. In unison with this unceasing chant Dionysus rows Charon’s boat across the Styx. It is the basis of Yale’s well-known yell. <note>GRC: The "it is" is the America of the 1920s. This Greek phrase was the basis of the Yale "Long Cheer," first publicly used in 1884 and continued through the 1960s: basic information in the <ref n="https://en.wikipedia.org/wiki/The_Frogs">Wikipedia Entry on the Frogs</ref> with links to Yale Alumni Magazines with details.</note></p>
+
+<p>This is the famous refrain of the frog chorus in Aristophanes’ comedy, The Frogs. In unison with this unceasing chant Dionysus rows Charon’s boat across the Styx. It is the basis of Yale’s well-known yell. <note>GRC: The "it is" is the America of the 1920s. This Greek phrase was the basis of the Yale "Long Cheer," first publicly used in 1884 and continued through the 1960s: basic information in the <ref n="https://en.wikipedia.org/wiki/The_Frogs">Wikipedia Entry on the Frogs</ref> with links to Yale Alumni Magazines with details.</note></p>
 
 <pb n="10"/>
 
@@ -975,9 +975,9 @@ and number of the subject ?
 <head>DECLENSION OF O-STEM NEUTERS</head>
 
 <cit>
-  <quote>πᾶν δένδρον ἀγαθὸν καρποὺς καλοὺς ποιεῖ.</quote>
-  <quote xml:lang="eng">Every good tree bringeth forth good fruit. </quote>
-  <bibl n="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg001.perseus-grc2:7.17?right=perseus-eng2">Matthew, VII. 17.</bibl>
+<quote>πᾶν δένδρον ἀγαθὸν καρποὺς καλοὺς ποιεῖ.</quote>
+<quote xml:lang="eng">Every good tree bringeth forth good fruit. </quote>
+<bibl n="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg001.perseus-grc2:7.17?right=perseus-eng2">Matthew, VII. 17.</bibl>
 </cit>
 
 
@@ -994,10 +994,10 @@ identical in form. In the plural they end in a (Latin a).
 τὸ ἄξιον δῶρον 
 the valuable gift
 <table><row role="label"><cell>Greek</cell><cell>English</cell><cell>Greek</cell><cell>English</cell></row>
-  <row><cell>the valuable gift [nom]</cell><cell>τὸ ἄξιον δῶρον</cell><cell>the valuable gifts [nom]</cell><cell>τὰ ἄξια δῶρα</cell></row>
-  <row><cell>of the valuable gift</cell><cell>τοῦ ἀξίου δώρου</cell><cell>of the valuable gifts</cell><cell>τῶν ἀξίων δώρων</cell></row>
-  <row><cell>by means of the valuable gift</cell><cell>τῷ ἀξίῳ δώρῳ</cell><cell>by means of the valuable gifts</cell><cell>τοῖς ἀξίοις δώροις</cell></row>
-  <row><cell>the valuable gift [acc]</cell><cell>τὸ ἄξιον δῶρον</cell><cell>the valuable gift [acc]</cell><cell>τὰ ἄξια δῶρα</cell></row>
+<row><cell>the valuable gift [nom]</cell><cell>τὸ ἄξιον δῶρον</cell><cell>the valuable gifts [nom]</cell><cell>τὰ ἄξια δῶρα</cell></row>
+<row><cell>of the valuable gift</cell><cell>τοῦ ἀξίου δώρου</cell><cell>of the valuable gifts</cell><cell>τῶν ἀξίων δώρων</cell></row>
+<row><cell>by means of the valuable gift</cell><cell>τῷ ἀξίῳ δώρῳ</cell><cell>by means of the valuable gifts</cell><cell>τοῖς ἀξίοις δώροις</cell></row>
+<row><cell>the valuable gift [acc]</cell><cell>τὸ ἄξιον δῶρον</cell><cell>the valuable gift [acc]</cell><cell>τὰ ἄξια δῶρα</cell></row>
 </table>
 
 In like manner inflect τὸ καλὸν πεδίον.</p>
@@ -1005,18 +1005,18 @@ In like manner inflect τὸ καλὸν πεδίον.</p>
 <div type="textpart" subtype="para" n="21a">
 <p>These are the most common neuter o-stem nouns, with the CS lesson if they appear in lesson 1-24.</p>
 <table>
-  <row role="label"><cell></cell><cell>lemma</cell><cell>freq</cell><cell>CS1-24</cell><cell>def</cell></row>
-  <row><cell>1</cell><cell><rs type="lemma">χωρίον</rs></cell><cell>92</cell><cell>NA</cell><cell>a particular place, a place, spot, district</cell></row>
-  <row><cell>2</cell><cell><rs type="lemma">ὅπλον</rs></cell><cell>85</cell><cell>15</cell><cell>a tool, implement, (pl.) arms, weapons</cell></row>
-  <row><cell>3</cell><cell><rs type="lemma">πλοῖον</rs></cell><cell>60</cell><cell>14</cell><cell>a floating vessel, a ship, vessel</cell></row>
-  <row><cell>4</cell><cell><rs type="lemma">πεδίον</rs></cell><cell>50</cell><cell>4</cell><cell>a plain</cell></row>
-  <row><cell>5</cell><cell><rs type="lemma">στρατόπεδον</rs></cell><cell>39</cell><cell>17</cell><cell>the ground on which soldiers are encamped, a camp, encampment</cell></row>
-  <row><cell>6</cell><cell><rs type="lemma">ἄκρον</rs></cell><cell>31</cell><cell>NA</cell><cell>the highest or furthest point: mountain top, cape</cell></row>
-  <row><cell>7</cell><cell><rs type="lemma">ὑποζύγιον</rs></cell><cell>30</cell><cell>NA</cell><cell>a beast for the yoke, a beast of burden</cell></row>
-  <row><cell>8</cell><cell><rs type="lemma">στάδιον</rs></cell><cell>41</cell><cell>4</cell><cell>a stade, = ca. 600 feet</cell></row>
-  <row><cell>9</cell><cell><rs type="lemma">πρόβατον</rs></cell><cell>19</cell><cell>NA</cell><cell>sheep; small cattle</cell></row>
-  <row><cell>10</cell><cell><rs type="lemma">πλέθρον</rs></cell><cell>17</cell><cell>NA</cell><cell>a plethron, = 100 feet long, or 10,000 square feet</cell></row>
-  </table>
+<row role="label"><cell></cell><cell>lemma</cell><cell>freq</cell><cell>CS1-24</cell><cell>def</cell></row>
+<row><cell>1</cell><cell><rs type="lemma">χωρίον</rs></cell><cell>92</cell><cell>NA</cell><cell>a particular place, a place, spot, district</cell></row>
+<row><cell>2</cell><cell><rs type="lemma">ὅπλον</rs></cell><cell>85</cell><cell>15</cell><cell>a tool, implement, (pl.) arms, weapons</cell></row>
+<row><cell>3</cell><cell><rs type="lemma">πλοῖον</rs></cell><cell>60</cell><cell>14</cell><cell>a floating vessel, a ship, vessel</cell></row>
+<row><cell>4</cell><cell><rs type="lemma">πεδίον</rs></cell><cell>50</cell><cell>4</cell><cell>a plain</cell></row>
+<row><cell>5</cell><cell><rs type="lemma">στρατόπεδον</rs></cell><cell>39</cell><cell>17</cell><cell>the ground on which soldiers are encamped, a camp, encampment</cell></row>
+<row><cell>6</cell><cell><rs type="lemma">ἄκρον</rs></cell><cell>31</cell><cell>NA</cell><cell>the highest or furthest point: mountain top, cape</cell></row>
+<row><cell>7</cell><cell><rs type="lemma">ὑποζύγιον</rs></cell><cell>30</cell><cell>NA</cell><cell>a beast for the yoke, a beast of burden</cell></row>
+<row><cell>8</cell><cell><rs type="lemma">στάδιον</rs></cell><cell>41</cell><cell>4</cell><cell>a stade, = ca. 600 feet</cell></row>
+<row><cell>9</cell><cell><rs type="lemma">πρόβατον</rs></cell><cell>19</cell><cell>NA</cell><cell>sheep; small cattle</cell></row>
+<row><cell>10</cell><cell><rs type="lemma">πλέθρον</rs></cell><cell>17</cell><cell>NA</cell><cell>a plethron, = 100 feet long, or 10,000 square feet</cell></row>
+</table>
 </div>
 
 <div type="textpart" subtype="para" n="22"><head>Agreement of Verb.</head>
@@ -1030,9 +1030,9 @@ In like manner inflect τὸ καλὸν πεδίον.</p>
 <p>In this lesson we encounter παρά, the first (and not that last) Greek preposition that can govern the genitive, dative, and accusative, depending upon its meaning.
 </p><p>The core meaning of παρά is "in the vicinity of" or "nearby but not within."  If the object being referenced extends in length or width (e.g., a river, a wall) or if it is a person, you can often translate the core meaning as "from/to/at the side of."</p>
 <p>We have already seen the Genitive of Separation (<ref n="9">9</ref>) with prepositions ἀπό and ἐξ. Here are two examples used with παρά: 
-  
-  <foreign>παρὰ τοῦ στρατηγοῦ</foreign> <gloss>from the side of the general (or just, from the general)</gloss>
-  <foreign>παρὰ τοῦ ποταμοῦ</foreign> <gloss>from the side of/from the river</gloss>
+
+<foreign>παρὰ τοῦ στρατηγοῦ</foreign> <gloss>from the side of the general (or just, from the general)</gloss>
+<foreign>παρὰ τοῦ ποταμοῦ</foreign> <gloss>from the side of/from the river</gloss>
 </p></div>
 <div type="textpart" subtype="para" n="23"><head>Dative of Place Where. </head>
 <p>The dative with most
@@ -1083,38 +1083,38 @@ with many prepositions denotes <term>place to which</term> :1
 </div>
 
 <div type="textpart" subtype="para" n="25a"><head>Vocabulary Notes</head>
-  <p>The most common dictionary words in the Anabasis, with the Crosby and Schaeffer lesson listed if they appear in lessons 1-24.</p>
+<p>The most common dictionary words in the Anabasis, with the Crosby and Schaeffer lesson listed if they appear in lessons 1-24.</p>
 <table>
-  <row role="label"><cell></cell><cell>lemma</cell><cell>freq</cell><cell>CS1-24</cell><cell>def</cell></row>
-  <row><cell>1</cell><cell><rs type="lemma">ὁ</rs></cell><cell>6522</cell><cell>1</cell><cell>the</cell></row>
-  <row><cell>2</cell><cell><rs type="lemma">καί</rs></cell><cell>3388</cell><cell>3</cell><cell>and, also</cell></row>
-  <row><cell>3</cell><cell><rs type="lemma">δέ</rs></cell><cell>2389</cell><cell>4</cell><cell>but</cell></row>
-  <row><cell>4</cell><cell><rs type="lemma">εἰμί</rs></cell><cell>1316</cell><cell>17</cell><cell>to be</cell></row>
-  <row><cell>5</cell><cell><rs type="lemma">οὗτος</rs></cell><cell>1037</cell><cell>14</cell><cell>this; that</cell></row>
-  <row><cell>6</cell><cell><rs type="lemma">αὐτός</rs></cell><cell>899</cell><cell>13</cell><cell>unemph. 3rd pers.pronoun; -self; [the] same</cell></row>
-  <row><cell>7</cell><cell><rs type="lemma">μέν</rs></cell><cell>787</cell><cell>8</cell><cell>on the one hand, on the other hand</cell></row>
-  <row><cell>8</cell><cell><rs type="lemma">ἐγώ</rs></cell><cell>741</cell><cell>15</cell><cell>I (first person pronoun)</cell></row>
-  <row><cell>9</cell><cell><rs type="lemma">σύ</rs></cell><cell>536</cell><cell>15</cell><cell>you (personal pronoun)</cell></row>
-  <row><cell>10</cell><cell><rs type="lemma">λέγω</rs></cell><cell>514</cell><cell>NA</cell><cell>to say, tell, speak; epic and arch.: pick, gather</cell></row>
-  <row><cell>11</cell><cell><rs type="lemma">ὅς</rs></cell><cell>506</cell><cell>13</cell><cell>who, that, which: relative pronoun</cell></row>
-  <row><cell>12</cell><cell><rs type="lemma">τις</rs></cell><cell>464</cell><cell>NA</cell><cell>any one, any thing, some one, some thing</cell></row>
-  <row><cell>13</cell><cell><rs type="lemma">ἐπί</rs></cell><cell>461</cell><cell>12</cell><cell>on, upon with gen., dat., and acc.</cell></row>
-  <row><cell>14</cell><cell><rs type="lemma">ὡς</rs></cell><cell>457</cell><cell>21</cell><cell>as, how</cell></row>
-  <row><cell>15</cell><cell><rs type="lemma">γάρ</rs></cell><cell>452</cell><cell>6</cell><cell>for</cell></row>
-  <row><cell>16</cell><cell><rs type="lemma">ἐν</rs></cell><cell>439</cell><cell>4</cell><cell>in, among. c. dat.</cell></row>
-  <row><cell>17</cell><cell><rs type="lemma">ἔχω</rs></cell><cell>438</cell><cell>10</cell><cell>have, hold; be able; (+ adv.) be; (mid.) cling to, be next to (+ gen.)</cell></row>
-  <row><cell>18</cell><cell><rs type="lemma">οὐ</rs></cell><cell>434</cell><cell>6</cell><cell>not</cell></row>
-  <row><cell>19</cell><cell><rs type="lemma">εἰς</rs></cell><cell>432</cell><cell>4</cell><cell>into, to c. acc.</cell></row>
-  <row><cell>20</cell><cell><rs type="lemma">πολύς</rs></cell><cell>426</cell><cell>NA</cell><cell>much, many</cell></row>
-  </table>
+<row role="label"><cell></cell><cell>lemma</cell><cell>freq</cell><cell>CS1-24</cell><cell>def</cell></row>
+<row><cell>1</cell><cell><rs type="lemma">ὁ</rs></cell><cell>6522</cell><cell>1</cell><cell>the</cell></row>
+<row><cell>2</cell><cell><rs type="lemma">καί</rs></cell><cell>3388</cell><cell>3</cell><cell>and, also</cell></row>
+<row><cell>3</cell><cell><rs type="lemma">δέ</rs></cell><cell>2389</cell><cell>4</cell><cell>but</cell></row>
+<row><cell>4</cell><cell><rs type="lemma">εἰμί</rs></cell><cell>1316</cell><cell>17</cell><cell>to be</cell></row>
+<row><cell>5</cell><cell><rs type="lemma">οὗτος</rs></cell><cell>1037</cell><cell>14</cell><cell>this; that</cell></row>
+<row><cell>6</cell><cell><rs type="lemma">αὐτός</rs></cell><cell>899</cell><cell>13</cell><cell>unemph. 3rd pers.pronoun; -self; [the] same</cell></row>
+<row><cell>7</cell><cell><rs type="lemma">μέν</rs></cell><cell>787</cell><cell>8</cell><cell>on the one hand, on the other hand</cell></row>
+<row><cell>8</cell><cell><rs type="lemma">ἐγώ</rs></cell><cell>741</cell><cell>15</cell><cell>I (first person pronoun)</cell></row>
+<row><cell>9</cell><cell><rs type="lemma">σύ</rs></cell><cell>536</cell><cell>15</cell><cell>you (personal pronoun)</cell></row>
+<row><cell>10</cell><cell><rs type="lemma">λέγω</rs></cell><cell>514</cell><cell>NA</cell><cell>to say, tell, speak; epic and arch.: pick, gather</cell></row>
+<row><cell>11</cell><cell><rs type="lemma">ὅς</rs></cell><cell>506</cell><cell>13</cell><cell>who, that, which: relative pronoun</cell></row>
+<row><cell>12</cell><cell><rs type="lemma">τις</rs></cell><cell>464</cell><cell>NA</cell><cell>any one, any thing, some one, some thing</cell></row>
+<row><cell>13</cell><cell><rs type="lemma">ἐπί</rs></cell><cell>461</cell><cell>12</cell><cell>on, upon with gen., dat., and acc.</cell></row>
+<row><cell>14</cell><cell><rs type="lemma">ὡς</rs></cell><cell>457</cell><cell>21</cell><cell>as, how</cell></row>
+<row><cell>15</cell><cell><rs type="lemma">γάρ</rs></cell><cell>452</cell><cell>6</cell><cell>for</cell></row>
+<row><cell>16</cell><cell><rs type="lemma">ἐν</rs></cell><cell>439</cell><cell>4</cell><cell>in, among. c. dat.</cell></row>
+<row><cell>17</cell><cell><rs type="lemma">ἔχω</rs></cell><cell>438</cell><cell>10</cell><cell>have, hold; be able; (+ adv.) be; (mid.) cling to, be next to (+ gen.)</cell></row>
+<row><cell>18</cell><cell><rs type="lemma">οὐ</rs></cell><cell>434</cell><cell>6</cell><cell>not</cell></row>
+<row><cell>19</cell><cell><rs type="lemma">εἰς</rs></cell><cell>432</cell><cell>4</cell><cell>into, to c. acc.</cell></row>
+<row><cell>20</cell><cell><rs type="lemma">πολύς</rs></cell><cell>426</cell><cell>NA</cell><cell>much, many</cell></row>
+</table>
 </div>
 <div type="textpart" subtype="para" n="25a"><head>Delphi.</head>
-  <p>The Temple and Oracle of Apollo at Delphi was considered to stand at the center of the Greek world and was called the "navel of the world." It was ostensibly a Panhellenic site -- open to all Hellenes. Before leaving to travel with Cyrus, Xenophon, for example, consulted the oracle. Delphi had, however, sided with the Spartans and their allies against Athens in the Peloponnesian War. In the Oresteia of Aeschylus, Apollo is powerless to resolve the challenge that the Furies pose after he has pushed Orestes to kill his mother and offered Orestes his full support. Only Athena and the Athenian people can resolve the problem. Apollo and Delphi are sinister forces (in my view) in Sophocles' Oedipus the King. Euripides situated his play the Ion in Delphi but the action of the play emerges from the fact that Apollo had raped an Athenian woman, a sexual act that is not romanticized or blurred but presented as an ugly trauma with lifelong impact.</p>
-  <p>Delphi was the scene of the other great Panhellenic games, comparable to, if perhaps not quite as prestigious, as those at Olympia. Delphi's games ran on a four year schedule two years before and after the games at Olympia. Lesser panhellenic Games at the Isthmus and at Nemea filled in the other two years of the four year cycle so that each year provided games and a cosmopolitan venue in which to meet.</p>
-  <p>Here is a view from the end of the <ref n="https://en.wikipedia.org/wiki/Stadium_of_Delphi">Stadium at Delphi</ref> looking towards the starting lines. 
-    <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/%CE%91%CF%81%CF%87%CE%B1%CE%AF%CE%BF_%CF%83%CF%84%CE%AC%CE%B4%CE%B9%CE%BF_%CE%94%CE%B5%CE%BB%CF%86%CF%8E%CE%BD2.jpg/1024px-%CE%91%CF%81%CF%87%CE%B1%CE%AF%CE%BF_%CF%83%CF%84%CE%AC%CE%B4%CE%B9%CE%BF_%CE%94%CE%B5%CE%BB%CF%86%CF%8E%CE%BD2.jpg"/></p><p>
+<p>The Temple and Oracle of Apollo at Delphi was considered to stand at the center of the Greek world and was called the "navel of the world." It was ostensibly a Panhellenic site -- open to all Hellenes. Before leaving to travel with Cyrus, Xenophon, for example, consulted the oracle. Delphi had, however, sided with the Spartans and their allies against Athens in the Peloponnesian War. In the Oresteia of Aeschylus, Apollo is powerless to resolve the challenge that the Furies pose after he has pushed Orestes to kill his mother and offered Orestes his full support. Only Athena and the Athenian people can resolve the problem. Apollo and Delphi are sinister forces (in my view) in Sophocles' Oedipus the King. Euripides situated his play the Ion in Delphi but the action of the play emerges from the fact that Apollo had raped an Athenian woman, a sexual act that is not romanticized or blurred but presented as an ugly trauma with lifelong impact.</p>
+<p>Delphi was the scene of the other great Panhellenic games, comparable to, if perhaps not quite as prestigious, as those at Olympia. Delphi's games ran on a four year schedule two years before and after the games at Olympia. Lesser panhellenic Games at the Isthmus and at Nemea filled in the other two years of the four year cycle so that each year provided games and a cosmopolitan venue in which to meet.</p>
+<p>Here is a view from the end of the <ref n="https://en.wikipedia.org/wiki/Stadium_of_Delphi">Stadium at Delphi</ref> looking towards the starting lines. 
+<graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/%CE%91%CF%81%CF%87%CE%B1%CE%AF%CE%BF_%CF%83%CF%84%CE%AC%CE%B4%CE%B9%CE%BF_%CE%94%CE%B5%CE%BB%CF%86%CF%8E%CE%BD2.jpg/1024px-%CE%91%CF%81%CF%87%CE%B1%CE%AF%CE%BF_%CF%83%CF%84%CE%AC%CE%B4%CE%B9%CE%BF_%CE%94%CE%B5%CE%BB%CF%86%CF%8E%CE%BD2.jpg"/></p><p>
 
-    <graphic url="images/gramme.jpg"/>
+<graphic url="images/gramme.jpg"/>
 <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Delphi_stadium_starting_line_DSC06301.jpg/790px-Delphi_stadium_starting_line_DSC06301.jpg"/>
 <figure><head>The "scratch."</head>
 <p>The Delphic stadium (page 12) still retains the row of flat stones whose double grooves, called by the Greeks ἡ γραμμή "the scratch."</p>
@@ -1177,25 +1177,25 @@ were held the famous Pythian Games in honor of Apollo.</p></figure>
 <head>REVIEW</head>
 
 <cit>
-  <quote>
-    ἀρχὴ δὲ τοι ἥμισυ παντός.
-    
-  </quote>
-  <quote xml:lang="eng">Well begun is half done.</quote>
-    
-  <quote xml:lang="eng">Literally: (The) beginning (is) half of everything.</quote>
-  <bibl n="https://scaife.perseus.org/search/?q=ἀρχὴ%20δὲ%20τοι%20ἥμισυ%20παντός&amp;kind=form&amp;format=instances&amp;p=1">Greek maxim.</bibl>
+<quote>
+ἀρχὴ δὲ τοι ἥμισυ παντός.
+
+</quote>
+<quote xml:lang="eng">Well begun is half done.</quote>
+
+<quote xml:lang="eng">Literally: (The) beginning (is) half of everything.</quote>
+<bibl n="https://scaife.perseus.org/search/?q=ἀρχὴ%20δὲ%20τοι%20ἥμισυ%20παντός&amp;kind=form&amp;format=instances&amp;p=1">Greek maxim.</bibl>
 </cit>
 <p>The phrase above is called a Greek maxim because it appears in multiple places and does not have an obvious author. You can now substantiate that this is a maxim by searching online corpora. If you search for the Greek phrase above in the Perseus Scaife Viewer (which draws upon the largest openly licensed collection of Greek) you will (as of September 2024) find that it appears in six different authors: 
-  <list>
-    <item><ref n="https://en.wikipedia.org/wiki/Demetrius_of_Phalerum">Demeterius of Phaleron (c. 350 - c. 280 BCE)</ref></item>
-    <item><ref n="https://en.wikipedia.org/wiki/Dionysius_of_Halicarnassus">Dionysius of Halicarnassus (c. 60 BCE - after 7 CE)</ref></item>
-    <item><ref n="https://en.wikipedia.org/wiki/Philo">Philo of Alexandria (c. 20 BCE - c. 50 CE)</ref></item>
+<list>
+<item><ref n="https://en.wikipedia.org/wiki/Demetrius_of_Phalerum">Demeterius of Phaleron (c. 350 - c. 280 BCE)</ref></item>
+<item><ref n="https://en.wikipedia.org/wiki/Dionysius_of_Halicarnassus">Dionysius of Halicarnassus (c. 60 BCE - after 7 CE)</ref></item>
+<item><ref n="https://en.wikipedia.org/wiki/Philo">Philo of Alexandria (c. 20 BCE - c. 50 CE)</ref></item>
 <item><ref n="https://en.wikipedia.org/wiki/Lucian">Lucian of Samosata (c. 125 - after 180 CE)</ref></item>
 <item><ref n="https://en.wikipedia.org/wiki/Iamblichus">Iambilichus (c. 245 - c. 325)</ref></item>
 <item><ref n="https://en.wikipedia.org/wiki/Galen">Galen (129 - 216 CE)</ref></item>
-  </list>
-  </p>
+</list>
+</p>
 
 <div type="textpart" subtype="para" n="27"><head>Importance of Vocabulary.</head>
 <p>If you wish to succeed
@@ -1261,29 +1261,29 @@ add that belong to this group?
 <div type="textpart" subtype="para" n="28a"><figure><head>A Greek Student's Tablet</head>
 
 <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/5e/Wax_writing_tablet_%282nd_C%29_-_BL_Add_MS_34186.jpg"/>
-  <p>Here we see half of a school tablet used by some Greek student more than
-  2000 years ago. At the top the master has written two lines of verse, which
-  the pupil has tried to reproduce twice in the space below. See if you can
-  find mistakes in their work.</p></figure>
-  <p>The two lines above each contain a separate line in iambic trimeter. The first line (in modern, normalized Greek) is:
-    <cit>
-      <quote>σοφοῦ παρ’ ἀνδρὸς προσδέχου συμβουλίαν</quote>
-      <quote xml:lang="eng">Accept advice from a wise man!</quote>
-      <bibl n="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0541.tlg042.1st1K-grc2:61">Menander(?)</bibl>
+<p>Here we see half of a school tablet used by some Greek student more than
+2000 years ago. At the top the master has written two lines of verse, which
+the pupil has tried to reproduce twice in the space below. See if you can
+find mistakes in their work.</p></figure>
+<p>The two lines above each contain a separate line in iambic trimeter. The first line (in modern, normalized Greek) is:
+<cit>
+<quote>σοφοῦ παρ’ ἀνδρὸς προσδέχου συμβουλίαν</quote>
+<quote xml:lang="eng">Accept advice from a wise man!</quote>
+<bibl n="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0541.tlg042.1st1K-grc2:61">Menander(?)</bibl>
 
-    </cit>
-    We are not sure if the line actually comes from a play by Menander or if an ancient source made this attribution to increase the authority of the line. Both are middle 2nd person singular imperatives with the main verb, δέχου, preceded by a preverb (ἐκ, which we have aleady learned, or πρός, which will appear in lesson 18).</p><p>
-    Note: the edition of this line in the Scaife viewer offers the variant ἐκδέχου rather than προσδέχου, but the difference has minimal, if any, effect on the translation.
+</cit>
+We are not sure if the line actually comes from a play by Menander or if an ancient source made this attribution to increase the authority of the line. Both are middle 2nd person singular imperatives with the main verb, δέχου, preceded by a preverb (ἐκ, which we have aleady learned, or πρός, which will appear in lesson 18).</p><p>
+Note: the edition of this line in the Scaife viewer offers the variant ἐκδέχου rather than προσδέχου, but the difference has minimal, if any, effect on the translation.
 
-  </p><p>The second iambic trimeter line would be written as following:
-    <cit>
-      <quote>μὴ πᾶσιν εἰκῇ τοῖς φίλοις πιστεύεται</quote>
-      <quote xml:lang="eng">S/he does not randomly trust all [his/her] friends.</quote>
-    </cit>
-  </p><p>The form πιστεύεται may well be a mistake for πιστεύετε, which would be a second person plural imperative, "do [μὴ: not] put your trust in."
-  </p>
-  <p>Each line contains an improving maxim so that the students would internalize approved content as they practiced their handwriting. Education in Ancient Greece (as in many, if not most cultural contexts) was as much about character formation as about the acquisition of intellectual skills.</p>
-  <p>The tablet above was discovered in Egypt and dates from the second century CE (c. 100-200). Transcriptions and bibliography for (<ref n="https://papyri.info/dclp/61495">Add MS 34186.1</ref>)this tablet  are available in <ref n="https://papyri.info/">Papyri.info</ref>, the digital library that papyrologists have developed to aggregate information in their field. (The object above is a wax tablet and not papyrus but Papyri.info includes it because of its focus on writings in ephemeral media from Egypt.)</p>
+</p><p>The second iambic trimeter line would be written as following:
+<cit>
+<quote>μὴ πᾶσιν εἰκῇ τοῖς φίλοις πιστεύεται</quote>
+<quote xml:lang="eng">S/he does not randomly trust all [his/her] friends.</quote>
+</cit>
+</p><p>The form πιστεύεται may well be a mistake for πιστεύετε, which would be a second person plural imperative, "do [μὴ: not] put your trust in."
+</p>
+<p>Each line contains an improving maxim so that the students would internalize approved content as they practiced their handwriting. Education in Ancient Greece (as in many, if not most cultural contexts) was as much about character formation as about the acquisition of intellectual skills.</p>
+<p>The tablet above was discovered in Egypt and dates from the second century CE (c. 100-200). Transcriptions and bibliography for (<ref n="https://papyri.info/dclp/61495">Add MS 34186.1</ref>)this tablet  are available in <ref n="https://papyri.info/">Papyri.info</ref>, the digital library that papyrologists have developed to aggregate information in their field. (The object above is a wax tablet and not papyrus but Papyri.info includes it because of its focus on writings in ephemeral media from Egypt.)</p>
 </div>
 <div type="textpart" subtype="para" n="28"><head>Exercises.</head>
 <p>
@@ -1317,16 +1317,16 @@ add that belong to this group?
 
 
 <cit>
-  <quote><l>σκηνὴ πᾶς ὁ βίος καὶ παίγνιον: ἢ μάθε παίζειν,</l>
+<quote><l>σκηνὴ πᾶς ὁ βίος καὶ παίγνιον: ἢ μάθε παίζειν,</l>
 <l>τὴν σπουδὴν μεταθείς, ἢ φέρε τὰς ὀδύνας.</l>
-  </quote>
-  <quote xml:lang="eng"><l>All life is a stage and  game: either learn to play</l>
-    <l>shifting off your seriousness, or bear the weight or your sufferings.</l>
-  </quote>
+</quote>
+<quote xml:lang="eng"><l>All life is a stage and  game: either learn to play</l>
+<l>shifting off your seriousness, or bear the weight or your sufferings.</l>
+</quote>
 
-  <bibl n="https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0475%3Abook%3D10%3Achapter%3D72">Greek Anthology 10.72.</bibl>
+<bibl n="https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0475%3Abook%3D10%3Achapter%3D72">Greek Anthology 10.72.</bibl>
 </cit>
- 
+
 
 
 <div type="textpart" subtype="para" n="29"><head>Α-Stem Feminines.</head>
@@ -1338,20 +1338,20 @@ in the plural
 <foreign>ἡ καλὴ σκηνή</foreign> <gloss>the beautiful tent</gloss>
 
 <table>
-  <row role="label"><cell>Sg.</cell><cell>Pl.</cell></row>
-  <row><cell>ἡ καλὴ σκηνή</cell><cell>αἱ καλαὶ σκηναί</cell></row>
-  <row><cell>τῆς καλῆς σκηνῆς</cell><cell>τῶν καλῶν σκηνῶν</cell></row>
-  <row><cell>τῇ καλῇ σκηνῇ</cell><cell>ταῖς καλαῖς σκηναῖς</cell></row>
-  <row><cell>τὴν καλὴν σκηνήν</cell><cell>τὰς καλὰς σκηνάς</cell></row>
+<row role="label"><cell>Sg.</cell><cell>Pl.</cell></row>
+<row><cell>ἡ καλὴ σκηνή</cell><cell>αἱ καλαὶ σκηναί</cell></row>
+<row><cell>τῆς καλῆς σκηνῆς</cell><cell>τῶν καλῶν σκηνῶν</cell></row>
+<row><cell>τῇ καλῇ σκηνῇ</cell><cell>ταῖς καλαῖς σκηναῖς</cell></row>
+<row><cell>τὴν καλὴν σκηνήν</cell><cell>τὰς καλὰς σκηνάς</cell></row>
 </table>
 
 <foreign>κώμη</foreign> <gloss>village</gloss>
 <table>
-  <row role="label"><cell>Sg.</cell><cell>Pl.</cell></row>
-  <row><cell>κώμη</cell><cell>κῶμαι</cell></row>
-  <row><cell>κώμης</cell><cell>κωμῶν</cell></row>
-  <row><cell>κώμῃ</cell><cell>κώμαις</cell></row>
-  <row><cell>κώμην</cell><cell>κώμας</cell></row>
+<row role="label"><cell>Sg.</cell><cell>Pl.</cell></row>
+<row><cell>κώμη</cell><cell>κῶμαι</cell></row>
+<row><cell>κώμης</cell><cell>κωμῶν</cell></row>
+<row><cell>κώμῃ</cell><cell>κώμαις</cell></row>
+<row><cell>κώμην</cell><cell>κώμας</cell></row>
 </table>
 
 
@@ -1389,7 +1389,7 @@ article, the adjective usually stands between the article
 and the noun, as in English:
 
 <foreign>ὁ δίκαιος ἄνθρωπος</foreign> <gloss>the just man.</gloss>
- 
+
 
 Note that (unlike English) even a prepositional phrase
 may stand in this position:
@@ -1413,10 +1413,10 @@ the article and the noun without the article being repeated, it is said to stand
 
 <div type="textpart" subtype="para" n="32"><head>Dative of Possession.</head>
 <p>In English we say 
-  <quote xml:lang="eng">There is no lid to the box.</quote> 
-  
-  The Latin says <foreign xml:lang="lat">Puero est gladius</foreign>, <gloss>the boy has a sword</gloss>. 
-  So in Greek the dative is used to denote
+<quote xml:lang="eng">There is no lid to the box.</quote> 
+
+The Latin says <foreign xml:lang="lat">Puero est gladius</foreign>, <gloss>the boy has a sword</gloss>. 
+So in Greek the dative is used to denote
 the possessor, while the thing possessed is subject of the
 verb to be:
 
@@ -1437,8 +1437,8 @@ verb to be:
 
 <div type="textpart" subtype="para" n="33"><head>Vocabulary</head>
 <p>
-  <list type="vocab">
-    <item><rs type="lemma">γάρ</rs>: postpositive conjunction : for.</item>
+<list type="vocab">
+<item><rs type="lemma">γάρ</rs>: postpositive conjunction : for.</item>
 <item><rs type="lemma">σπονδή</rs> σπονδῆς, ἡ: libation; pl, σπονδή, σπονδαί, αἱ, treaty, truce. SPONDEE.</item>
 <item><rs type="lemma">κώμη</rs>, κώμης, ἡ: village.</item>
 <item><rs type="lemma">μάχη</rs>, μάχη, ἡ: battle. LOGOMACHY.</item>
@@ -1453,8 +1453,8 @@ verb to be:
 
 <div type="textpart" subtype="para" n="33q"><head>The Delphi Theater</head>
 <p>Every Greek settlement of any consequence had its theater. The one at Delphi is remarkably well preserved.  
-  <graphic url="images/DelphiTheater.jpg"/>
-  <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Delfoi8.jpg/1280px-Delfoi8.jpg"/>
+<graphic url="images/DelphiTheater.jpg"/>
+<graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Delfoi8.jpg/1280px-Delfoi8.jpg"/>
 Here in 1927 the <title>Prometheus Bound</title> of Aeschylus was revived in great splendor.</p>
 <p>GRC: This alludes to the production by <ref n="https://en.wikipedia.org/wiki/Angelos_Sikelianos">Angelos Sikelianos</ref> <graphic url="https://upload.wikimedia.org/wikipedia/commons/8/8d/Sikelianos.jpg"/> and his wife <ref n="https://en.wikipedia.org/wiki/Eva_Palmer-Sikelianos">Eva Palmer</ref> <graphic url="https://press.princeton.edu/sites/default/files/styles/hero_square/public/image/2021-02/Eva%20Palmer%20Sikelianos%20Hero.png?itok=mOJELVUg"/>. The two producers created a documentary of this production (<ref n="https://www.imdb.com/title/tt0232478">described in IMDB</ref> and <ref n="https://archive.org/details/prometheus-2020">available at the Internet Archive</ref>).
 </p><p><graphic url="https://www.bsa.ac.uk/wp-content/uploads/2018/11/Eleni-Sikelianos-From-Delphi-1927.jpeg"/> Zeus sexually pursued the priestess <ref n="https://en.wikipedia.org/wiki/Io_(mythology)">Io</ref> and transformed her into a heifer to hide her from his wife Hera. <graphic url="https://apolloncamping.gr/images/speasyimagegallery/albums/13/images/aeschylus-prometheus-bound.-first-delphic-festivals-1927.jpeg"/>
@@ -1521,12 +1521,12 @@ was but a step to σκηνή meaning the scene of an action.</p>
 <div type="textpart" subtype="lesson" n="7">
 <head>Declension of α-stems -- continued.</head>
 
-  <cit>
-    <quote>λύπης ἰᾱτρός ἐστιν ἀνθρώποις λόγος.</quote>
-    <quote xml:lang="eng">Literally: Reason is for men a physician of grief.</quote>
-    <bibl>Menander, fragment 559 Kock (available with translation in <ref n="https://archive.org/details/menanderprincipa00menauoft/page/494/mode/2up">Allinson's edition</ref>). 
-    </bibl>
-  </cit>
+<cit>
+<quote>λύπης ἰᾱτρός ἐστιν ἀνθρώποις λόγος.</quote>
+<quote xml:lang="eng">Literally: Reason is for men a physician of grief.</quote>
+<bibl>Menander, fragment 559 Kock (available with translation in <ref n="https://archive.org/details/menanderprincipa00menauoft/page/494/mode/2up">Allinson's edition</ref>). 
+</bibl>
+</cit>
 
 
 
@@ -1538,13 +1538,13 @@ the final vowel of the stem, words of the α-declension have
 <foreign>ἡ μικρὰ στρατιά</foreign> <gloss>the small army</gloss>
 
 <table>
-  <row role="label"><cell>Sg.</cell><cell>Pl.</cell></row>
-  <row><cell>ἡ μικρὰ στρατιά</cell><cell>αἱ μικραὶ στρατιαί</cell></row>
-  <row><cell>τῆς μικρᾶς στρατιᾶς</cell><cell>τῶν μικρῶν στρατιῶν</cell></row>
-  <row><cell>τῇ μικρᾷ στρατιᾷ</cell><cell>ταῖς μικραῖς στρατιαῖς</cell></row>
-  <row><cell>τὴν μικρὰν στρατιάν</cell><cell>τὰς μικρὰς στρατιάς</cell></row>
+<row role="label"><cell>Sg.</cell><cell>Pl.</cell></row>
+<row><cell>ἡ μικρὰ στρατιά</cell><cell>αἱ μικραὶ στρατιαί</cell></row>
+<row><cell>τῆς μικρᾶς στρατιᾶς</cell><cell>τῶν μικρῶν στρατιῶν</cell></row>
+<row><cell>τῇ μικρᾷ στρατιᾷ</cell><cell>ταῖς μικραῖς στρατιαῖς</cell></row>
+<row><cell>τὴν μικρὰν στρατιάν</cell><cell>τὰς μικρὰς στρατιάς</cell></row>
 </table>
- </p></div>
+</p></div>
 
 <div type="textpart" subtype="para" n="37"><head>Accusative of Extent.</head>
 <p>The accusative denotes extent
@@ -1582,37 +1582,37 @@ of space or duration of time :
 </p></div>
 <div type="textpart" subtype="para" n="38"><head>Most common a-stem nouns ending in -η or -ᾱ.</head>
 <table>
-  <row role="label"><cell></cell><cell>lemma</cell><cell>freq</cell><cell>CS1-24</cell><cell>def</cell></row>
-  <row><cell>1</cell><cell><rs type="lemma">ἡμέρα</rs></cell><cell>131</cell><cell>7</cell><cell>day</cell></row>
-  <row><cell>2</cell><cell><rs type="lemma">χώρα</rs></cell><cell>106</cell><cell>7</cell><cell>land</cell></row>
-  <row><cell>3</cell><cell><rs type="lemma">κώμη</rs></cell><cell>87</cell><cell>6</cell><cell>country town</cell></row>
-  <row><cell>4</cell><cell><rs type="lemma">στρατιά</rs></cell><cell>75</cell><cell>7</cell><cell>army</cell></row>
-  <row><cell>5</cell><cell><rs type="lemma">ἀγορά</rs></cell><cell>35</cell><cell>7</cell><cell>an assembly of the people</cell></row>
-  <row><cell>6</cell><cell><rs type="lemma">σπονδή</rs></cell><cell>34</cell><cell>6</cell><cell>drink-offering; (pl.) truce, treaty</cell></row>
-  <row><cell>7</cell><cell><rs type="lemma">μάχη</rs></cell><cell>33</cell><cell>6</cell><cell>battle, fight, combat</cell></row>
-  <row><cell>8</cell><cell><rs type="lemma">οἰκία</rs></cell><cell>32</cell><cell>NA</cell><cell>a building, house, dwelling</cell></row>
-  <row><cell>9</cell><cell><rs type="lemma">ἀνάγκη</rs></cell><cell>31</cell><cell>NA</cell><cell>force, constraint, necessity</cell></row>
-  <row><cell>10</cell><cell><rs type="lemma">φιλία</rs></cell><cell>30</cell><cell>7</cell><cell>friendly love, affection, friendship</cell></row>
-  <row><cell>11</cell><cell><rs type="lemma">πορεία</rs></cell><cell>30</cell><cell>NA</cell><cell>a walking, mode of walking</cell></row>
-  <row><cell>12</cell><cell><rs type="lemma">γυνή</rs></cell><cell>29</cell><cell>NA</cell><cell>a woman</cell></row>
-  <row><cell>13</cell><cell><rs type="lemma">δίκη</rs></cell><cell>24</cell><cell>NA</cell><cell>(custom, usage) justice, lawsuit, penalty</cell></row>
-  <row><cell>14</cell><cell><rs type="lemma">ἀρχή</rs></cell><cell>22</cell><cell>7</cell><cell>a beginning, rule, office, empire</cell></row>
-  <row><cell>15</cell><cell><rs type="lemma">πύλη</rs></cell><cell>21</cell><cell>NA</cell><cell>one wing of a pair of double gates</cell></row>
-  <row><cell>16</cell><cell><rs type="lemma">φυλακή</rs></cell><cell>19</cell><cell>6</cell><cell>a watching</cell></row>
-  <row><cell>17</cell><cell><rs type="lemma">γνώμη</rs></cell><cell>18</cell><cell>NA</cell><cell>a means of knowing, a mark, token</cell></row>
-  <row><cell>18</cell><cell><rs type="lemma">ὥρα</rs></cell><cell>17</cell><cell>NA</cell><cell>[sacrificial victim]</cell></row>
-  <row><cell>19</cell><cell><rs type="lemma">σωτηρία</rs></cell><cell>16</cell><cell>NA</cell><cell>a saving, deliverance, preservation, safety</cell></row>
-  <row><cell>20</cell><cell><rs type="lemma">δεξιά</rs></cell><cell>15</cell><cell>NA</cell><cell>the right hand</cell></row>
-  </table>
+<row role="label"><cell></cell><cell>lemma</cell><cell>freq</cell><cell>CS1-24</cell><cell>def</cell></row>
+<row><cell>1</cell><cell><rs type="lemma">ἡμέρα</rs></cell><cell>131</cell><cell>7</cell><cell>day</cell></row>
+<row><cell>2</cell><cell><rs type="lemma">χώρα</rs></cell><cell>106</cell><cell>7</cell><cell>land</cell></row>
+<row><cell>3</cell><cell><rs type="lemma">κώμη</rs></cell><cell>87</cell><cell>6</cell><cell>country town</cell></row>
+<row><cell>4</cell><cell><rs type="lemma">στρατιά</rs></cell><cell>75</cell><cell>7</cell><cell>army</cell></row>
+<row><cell>5</cell><cell><rs type="lemma">ἀγορά</rs></cell><cell>35</cell><cell>7</cell><cell>an assembly of the people</cell></row>
+<row><cell>6</cell><cell><rs type="lemma">σπονδή</rs></cell><cell>34</cell><cell>6</cell><cell>drink-offering; (pl.) truce, treaty</cell></row>
+<row><cell>7</cell><cell><rs type="lemma">μάχη</rs></cell><cell>33</cell><cell>6</cell><cell>battle, fight, combat</cell></row>
+<row><cell>8</cell><cell><rs type="lemma">οἰκία</rs></cell><cell>32</cell><cell>NA</cell><cell>a building, house, dwelling</cell></row>
+<row><cell>9</cell><cell><rs type="lemma">ἀνάγκη</rs></cell><cell>31</cell><cell>NA</cell><cell>force, constraint, necessity</cell></row>
+<row><cell>10</cell><cell><rs type="lemma">φιλία</rs></cell><cell>30</cell><cell>7</cell><cell>friendly love, affection, friendship</cell></row>
+<row><cell>11</cell><cell><rs type="lemma">πορεία</rs></cell><cell>30</cell><cell>NA</cell><cell>a walking, mode of walking</cell></row>
+<row><cell>12</cell><cell><rs type="lemma">γυνή</rs></cell><cell>29</cell><cell>NA</cell><cell>a woman</cell></row>
+<row><cell>13</cell><cell><rs type="lemma">δίκη</rs></cell><cell>24</cell><cell>NA</cell><cell>(custom, usage) justice, lawsuit, penalty</cell></row>
+<row><cell>14</cell><cell><rs type="lemma">ἀρχή</rs></cell><cell>22</cell><cell>7</cell><cell>a beginning, rule, office, empire</cell></row>
+<row><cell>15</cell><cell><rs type="lemma">πύλη</rs></cell><cell>21</cell><cell>NA</cell><cell>one wing of a pair of double gates</cell></row>
+<row><cell>16</cell><cell><rs type="lemma">φυλακή</rs></cell><cell>19</cell><cell>6</cell><cell>a watching</cell></row>
+<row><cell>17</cell><cell><rs type="lemma">γνώμη</rs></cell><cell>18</cell><cell>NA</cell><cell>a means of knowing, a mark, token</cell></row>
+<row><cell>18</cell><cell><rs type="lemma">ὥρα</rs></cell><cell>17</cell><cell>NA</cell><cell>[sacrificial victim]</cell></row>
+<row><cell>19</cell><cell><rs type="lemma">σωτηρία</rs></cell><cell>16</cell><cell>NA</cell><cell>a saving, deliverance, preservation, safety</cell></row>
+<row><cell>20</cell><cell><rs type="lemma">δεξιά</rs></cell><cell>15</cell><cell>NA</cell><cell>the right hand</cell></row>
+</table>
 </div>
 
 <div type="textpart" subtype="para" n="38a"><head><ref n="https://en.wikipedia.org/wiki/Gate_of_Athena_Archegetis">Gate of Athena Archegetis.</ref></head>
 <p><graphic url="images/gateathena.jpg"/></p><p>
-  <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_Gate_of_Athena_Archegetis_in_Athens_on_May_6%2C_2021.jpg/1280px-The_Gate_of_Athena_Archegetis_in_Athens_on_May_6%2C_2021.jpg"/>View from the the other direct.</p><p>This gate dates from the Roman period. Constructed in 11 BCE by donations from Julius Caesar and Augustus, the gate was made of an architrave standing on four Doric columns and a base, all of Pentelic marble. [<ref n="https://en.wikipedia.org/wiki/Gate_of_Athena_Archegetis">From the Wikipedia entry</ref>.] It reflects the status that Athens achieved as a cultural center and icon under Roman rule.
-  </p></div>
+<graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_Gate_of_Athena_Archegetis_in_Athens_on_May_6%2C_2021.jpg/1280px-The_Gate_of_Athena_Archegetis_in_Athens_on_May_6%2C_2021.jpg"/>View from the the other direct.</p><p>This gate dates from the Roman period. Constructed in 11 BCE by donations from Julius Caesar and Augustus, the gate was made of an architrave standing on four Doric columns and a base, all of Pentelic marble. [<ref n="https://en.wikipedia.org/wiki/Gate_of_Athena_Archegetis">From the Wikipedia entry</ref>.] It reflects the status that Athens achieved as a cultural center and icon under Roman rule.
+</p></div>
 
-  <div type="textpart" subtype="para" n="39"><head>Exercises.</head>
-  <p>
+<div type="textpart" subtype="para" n="39"><head>Exercises.</head>
+<p>
 (a) Translate :
 <list>
 <item n="1">ἦν ἡ ἀγορὰ ἐπιτηδεία τῇ στρατιᾷ ;*</item>
@@ -1646,8 +1646,8 @@ of space or duration of time :
 
 <div type="textpart" subtype="para" n="39a"><head>The Acropolis.</head>
 <p>
-  <graphic url="images/acropolis.jpg"/>
-  <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Classic_view_of_Acropolis.jpg/1280px-Classic_view_of_Acropolis.jpg"/>
+<graphic url="images/acropolis.jpg"/>
+<graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Classic_view_of_Acropolis.jpg/1280px-Classic_view_of_Acropolis.jpg"/>
 Although many Greek cities had a fortified hill, or acropolis, most people
 associate that word with the famous hi!l in the heart of Athens. At first the
 home of the early kings, it came to be devoted to the gods and heroes of the
@@ -1682,11 +1682,11 @@ but
 <head>Imperfect Indicative Active of ω-verbs</head>
 
 <cit>
-  <quote><l>ἔργον δ᾽ οὐδὲν ὄνειδος, ἀεργίη δέ τ᾽ ὄνειδος.
-  </l></quote>
-  <quote>Work is no disgrace, but idleness is a disgrace.
-  </quote>
-  <bibl><ref n="https://scaife-dev.perseus.org/reader/urn:cts:greekLit:tlg0020.tlg002.perseus-grc2:311?right=perseus-eng2">Hesiod, Works and Days, 311</ref>.</bibl>
+<quote><l>ἔργον δ᾽ οὐδὲν ὄνειδος, ἀεργίη δέ τ᾽ ὄνειδος.
+</l></quote>
+<quote>Work is no disgrace, but idleness is a disgrace.
+</quote>
+<bibl><ref n="https://scaife-dev.perseus.org/reader/urn:cts:greekLit:tlg0020.tlg002.perseus-grc2:311?right=perseus-eng2">Hesiod, Works and Days, 311</ref>.</bibl>
 </cit>
 
 
@@ -1695,7 +1695,7 @@ but
 continued, repeated, customary, or attempted in past time:
 
 <foreign>ἔπαυον</foreign> <gloss>I was stopping, I kept stopping, I used to stop, I tried to stop.</gloss>
- 
+
 </p><p>
 IMPERFECT INDICATIVE ACTIVE
 
@@ -1704,13 +1704,13 @@ IMPERFECT INDICATIVE ACTIVE
 <gloss>ἄγω</gloss> <gloss>I lead</gloss>
 
 <table>
-  <row role="label"><cell>pers num</cell><cell>παύω</cell><cell>ἄγω</cell></row>
-  <row><cell>1st sg</cell><cell>ἔπαυον</cell><cell>ἦγον</cell></row>
-  <row><cell>2nd sg</cell><cell>ἔπαυες</cell><cell>ἦγες</cell></row>
-  <row><cell>3rd sg</cell><cell>ἔπαυε</cell><cell>ἦγε</cell></row>
-  <row><cell>1st pl</cell><cell>ἐπαύομεν</cell><cell>ἤγομεν</cell></row>
-  <row><cell>2nd pl</cell><cell>ἐπαύετε</cell><cell>ἤγετε</cell></row>
-  <row><cell>3rd pl</cell><cell>ἔπαυον</cell><cell>ἦγον</cell></row>
+<row role="label"><cell>pers num</cell><cell>παύω</cell><cell>ἄγω</cell></row>
+<row><cell>1st sg</cell><cell>ἔπαυον</cell><cell>ἦγον</cell></row>
+<row><cell>2nd sg</cell><cell>ἔπαυες</cell><cell>ἦγες</cell></row>
+<row><cell>3rd sg</cell><cell>ἔπαυε</cell><cell>ἦγε</cell></row>
+<row><cell>1st pl</cell><cell>ἐπαύομεν</cell><cell>ἤγομεν</cell></row>
+<row><cell>2nd pl</cell><cell>ἐπαύετε</cell><cell>ἤγετε</cell></row>
+<row><cell>3rd pl</cell><cell>ἔπαυον</cell><cell>ἦγον</cell></row>
 </table>
 
 </p></div>
@@ -1754,9 +1754,9 @@ Inflect the imperfect indicative active of <rs type="lemma">πέμπω</rs> and 
 <div type="textpart" subtype="para" n="44"><head>Dative of Manner.</head>
 <p>The dative may denote manner 
 
-  <foreign>φεύγουσι σιγῇ</foreign> <gloss>they flee in silence.</gloss>
- </p>
- <p>This is our fifth use of the dative. What are the other four?</p>
+<foreign>φεύγουσι σιγῇ</foreign> <gloss>they flee in silence.</gloss>
+</p>
+<p>This is our fifth use of the dative. What are the other four?</p>
 </div>
 
 <div type="textpart" subtype="para" n="45"><head>Balanced Structure.</head>
@@ -1769,17 +1769,17 @@ or contrasted:
 <foreign>οἱ (αἱ, τὰ) μέν. .. οἱ (αἱ, τὰ) δέ</foreign> <gloss>some . . . others;</gloss>
 <foreign>ὁ δέ, ἡ δέ, κ.τ.λ.</foreign> <gloss>but (and) he, she, etc.,</gloss>
 
-  
+
 indicating change of subject.</p>
 <p>Translators often do not translate μέν but many students of Greek find it helpful to represent it as "on the one hand" or a similar phrase indicating a contrast or comparison is coming. It is one of the many little words, often difficult to translate into English, that make Greek so effective for expressing important shades of meaning.
 </p></div>
 
 <div type="textpart" subtype="para" n="44"><head>Dative of Manner.</head>
-  <p><graphic url="images/ioniccolumn.jpg"/><graphic url="https://www.classicist.org/wp-content/uploads/2011/01/_pagebody/Figure-3-Erechtheum-column-British-Museum-Loth.jpg"/>The delicate workmanship of the
-    Erechtheum, to which this column
-    belongs, has provided an enormously infuential model for architets over time.</p><p>The following is a <ref n="https://archive.org/details/antiqvitiesAthe1Stua/page/n57/mode/2up">drawing</ref> from <bibl>James Stuart,  Nicholas Revett, et al., <title>The Antiquities of Athens</title>, vol. 1, (London 1762)</bibl>
-      <graphic url="images/ioniccolumn-stuart-revett.jpg"/>
-  </p></div>
+<p><graphic url="images/ioniccolumn.jpg"/><graphic url="https://www.classicist.org/wp-content/uploads/2011/01/_pagebody/Figure-3-Erechtheum-column-British-Museum-Loth.jpg"/>The delicate workmanship of the
+Erechtheum, to which this column
+belongs, has provided an enormously infuential model for architets over time.</p><p>The following is a <ref n="https://archive.org/details/antiqvitiesAthe1Stua/page/n57/mode/2up">drawing</ref> from <bibl>James Stuart,  Nicholas Revett, et al., <title>The Antiquities of Athens</title>, vol. 1, (London 1762)</bibl>
+<graphic url="images/ioniccolumn-stuart-revett.jpg"/>
+</p></div>
 
 <div type="textpart" subtype="para" n="44"><head>Dative of Manner.</head>
 <p>
@@ -1800,7 +1800,7 @@ Compare etc. = <foreign xml:lang="lat">et cetera</foreign>.</p></div>
 
 <div type="textpart" subtype="para" n="46"><head>Vocabulary.</head>
 <p>
-  <list type="vocab">
+<list type="vocab">
 <item><rs type="lemma">ἀθροίζω</rs>: collect.</item>
 <item><rs type="lemma">ἀλλά</rs>, conj.: but, however. Stronger than δέ. Final a is often elided.</item>
 <item><rs type="lemma">ἁρπάζω</rs>: seize,carry off. HARPY.</item>
@@ -1868,15 +1868,15 @@ Vhich resemble endings of the present ?
 <div type="textpart" subtype="para" n="48"><head>Greek as a World Language.</head>
 <p>(a) The international language of the first century of our era was Greek. To carry its message to the world, therefore, the New Testament was written in Greek. The following passage is from the Gospel attributed to Luke:
 
-  <cit><quote>ὁ μὲν ἀγαθὸς ἄνθρωπος ἐκ
-    τοῦ ἀγαθοῦ θησαυροῦ (treasure) τῆς καρδίας (compare
-    CARDIAC) προφέρει (brings
-    forth) τὸ ἀγαθόν,1 ὁ δὲ πονηρὸς 1 (evil) ἐκ τοῦ πονηροῦ 1 τὸ
-    πονηρον.1</quote>
-    <bibl n="https://scaife-dev.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg003.perseus-grc2:6.45?right=perseus-eng2">Luke 6.45</bibl>
-  </cit>
+<cit><quote>ὁ μὲν ἀγαθὸς ἄνθρωπος ἐκ
+τοῦ ἀγαθοῦ θησαυροῦ (treasure) τῆς καρδίας (compare
+CARDIAC) προφέρει (brings
+forth) τὸ ἀγαθόν,1 ὁ δὲ πονηρὸς 1 (evil) ἐκ τοῦ πονηροῦ 1 τὸ
+πονηρον.1</quote>
+<bibl n="https://scaife-dev.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg003.perseus-grc2:6.45?right=perseus-eng2">Luke 6.45</bibl>
+</cit>
 
-  </p><p>
+</p><p>
 * Recall the note about adjectives as substantives at <ref n="38">38</ref> above.
 
 </p><p>
@@ -1903,11 +1903,11 @@ See if you can identify other English cognates using these terms:
 <head>FUTURE INDICATIVE AND INFINITIVE ACTIVE OF ω-VERBS</head>
 
 <cit>
-  <quote>καλὸν ἡσυχία.
-  </quote>
-  <quote>Leisure is a fine thing.
-  </quote>
-  <bibl>Periander</bibl>
+<quote>καλὸν ἡσυχία.
+</quote>
+<quote>Leisure is a fine thing.
+</quote>
+<bibl>Periander</bibl>
 </cit>
 <p><ref n="https://en.wikipedia.org/wiki/Periander">Periander (died c. 555 BCE)</ref> (see also the <ref n="https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=periander-bio-1">Smith encyclopedia entry</ref>, which has links to primary sources) lived in the seventh and sixth century BCE and is rememberd in very different ways. Herodotus ([5.92-5.92G](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-eng2:5.92-5.92G/)) represents him as a man who becomes a brutal tyrant of Corinth. But Periander also often appears as one of the Seven Wise Men of early Greece and the saying quoted above is attributed to him in this capacity (see the <title>Lives of the Philosophers</title> by <ref n="https://en.wikipedia.org/wiki/Diogenes_Laertius">Diogenes Laertius (3rd century CE)</ref>, <ref n="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0004.tlg001.perseus-grc2:1.7/">1.7</ref>).</p>
 <p><graphic url="https://upload.wikimedia.org/wikipedia/commons/4/48/Periander_Pio-Clementino_Inv276.jpg"/>Bust of Periander bearing the inscription “Periander, son of Cypselus, Corinthian”. Marble, Roman copy after a Greek original from the 4th century (from <ref n="https://en.wikipedia.org/wiki/Periander#/media/File:Periander_Pio-Clementino_Inv276.jpg">Wikipedia</ref>).</p></div>
@@ -1915,13 +1915,13 @@ See if you can identify other English cognates using these terms:
 <div type="textpart" subtype="para" n="49a"><head>Principle Parts of a Greek Verb.</head>
 <p>There are six different variations on the stem of a Greek verb -- what are called the principal parts. When a verb is regular, we can generate all six of these stems from the present. Verbs such as παύω and λύω are popular in textbooks of Ancient Greek because they are short and regular. The next two chapters introduce the second and third principle parts. Because we are engaging already with authentic Greek sources, we will survey all six principal parts now. In 2024, every major reading environment for Greek texts should be able to give you the morphological analysis of any Greek verb form. The goal here is to cultivate general sense of what all six principal parts do while practicing active command of those principals that we cover in this text book.</p><p>The following table compares the principal parts of λύω with those of φέρω, <gloss>to bear, to carry</gloss>, the most irregular Greek verb. The present of this verb comes from <ref n="https://en.wiktionary.org/wiki/%CF%86%CE%AD%CF%81%CF%89">Proto-Indo-European *bʰéreti</ref> and this form survives also in English "to bear" (as it does in Latin <foreign xml:lang="lat">fero</foreign>). Stems from other words, however, were used to fill out the paradigm. If you can't see a linguistic connection between φέρω, οἴσω and ἤνεγκον, you are quite correct. These are three unrelated stems combined to fill out one verb in Greek. It is very very helpful to learn the principal parts of many verbs if you wish to read Greek quickly but you can almost always query a digital reading environment to parse a form that you cannot figure out on your own.</p>
 <table>
-  <row role="label"><cell>label</cell><cell>regular</cell><cell>(most) irregular</cell><cell>Freq.</cell></row>
-  <row><cell>present</cell><cell><emph>λύ</emph>-ω</cell><cell>φέρω</cell><cell>6227</cell></row>
-  <row><cell>future</cell><cell><emph>λύ</emph>-σω</cell><cell>οἴσω</cell><cell>308</cell></row>
-  <row><cell>aorist</cell><cell>ἔ-<emph>λυ</emph>-σα</cell><cell>ἤνεγκον</cell><cell>3361</cell></row>
-  <row><cell>perfect active</cell><cell>λέ-<emph>λυ</emph>-κα</cell><cell>ἐνήνοχα</cell><cell>267</cell></row>
-  <row><cell>perfect middle/passive</cell><cell>λέ-<emph>λυ</emph>-μαι</cell><cell>ἐνήνεγμαι</cell><cell>249</cell></row>
-  <row ><cell>aorist passive</cell><cell>ἐ-<emph>λύ</emph>-θην</cell><cell>ἐνέχθην</cell><cell>609</cell></row>
+<row role="label"><cell>label</cell><cell>regular</cell><cell>(most) irregular</cell><cell>Freq.</cell></row>
+<row><cell>present</cell><cell><emph>λύ</emph>-ω</cell><cell>φέρω</cell><cell>6227</cell></row>
+<row><cell>future</cell><cell><emph>λύ</emph>-σω</cell><cell>οἴσω</cell><cell>308</cell></row>
+<row><cell>aorist</cell><cell>ἔ-<emph>λυ</emph>-σα</cell><cell>ἤνεγκον</cell><cell>3361</cell></row>
+<row><cell>perfect active</cell><cell>λέ-<emph>λυ</emph>-κα</cell><cell>ἐνήνοχα</cell><cell>267</cell></row>
+<row><cell>perfect middle/passive</cell><cell>λέ-<emph>λυ</emph>-μαι</cell><cell>ἐνήνεγμαι</cell><cell>249</cell></row>
+<row ><cell>aorist passive</cell><cell>ἐ-<emph>λύ</emph>-θην</cell><cell>ἐνέχθην</cell><cell>609</cell></row>
 </table>
 <p>While the accent changes depending on the length of the ending, the stem of λύω (-λύ-) does not change. The third and sixth principal parts add an augment (just as the imperfect did) but they use different endings. The third principal and sixth principal parts designate the simple past (which will be covered in the next lesson).
 </p><p>The fourth and fifth principal parts cover the perfect tense. In essense, the perfect describes an event that happened in the past and remains in effect in the present. Crosby and Schaeffer cover the fourth, fifth and sixth principal parts in lessons 52-54. 
@@ -1946,17 +1946,17 @@ present tense, but verbs with stems in ζ are palatals and most verbs with stems
 </p>
 
 <p>
-  <foreign>πέμπω</foreign> <gloss>I will send</gloss>
-  <foreign>πέμψω (πέμπ-<emph>σ</emph>-ω)</foreign> <gloss>I will send</gloss>
+<foreign>πέμπω</foreign> <gloss>I will send</gloss>
+<foreign>πέμψω (πέμπ-<emph>σ</emph>-ω)</foreign> <gloss>I will send</gloss>
 
 <table>
-  <row role="label"><cell>pers/num</cell><cell>present</cell><cell>future</cell></row>
-  <row><cell>1st sg</cell><cell>πέμπ-ω</cell><cell>πεμ-<emph>ψ</emph>-ω</cell></row>
-  <row><cell>2nd sg</cell><cell>πέμπ-εις</cell><cell>πεμ-<emph>ψ</emph>-εις</cell></row>
-  <row><cell>3rd sg</cell><cell>πέμπ-ει</cell><cell>πεμ-<emph>ψ</emph>-ει</cell></row>
-  <row><cell>1st pl</cell><cell>πέμπ-ομεν</cell><cell>πεμ-<emph>ψ</emph>-ομεν</cell></row>
-  <row><cell>2nd pl</cell><cell>πέμπ-ετε</cell><cell>πεμ-<emph>ψ</emph>-ετε</cell></row>
-  <row><cell>3rd pl</cell><cell>πέμπ-ουσι</cell><cell>πεμ-<emph>ψ</emph>-ουσι</cell></row>
+<row role="label"><cell>pers/num</cell><cell>present</cell><cell>future</cell></row>
+<row><cell>1st sg</cell><cell>πέμπ-ω</cell><cell>πεμ-<emph>ψ</emph>-ω</cell></row>
+<row><cell>2nd sg</cell><cell>πέμπ-εις</cell><cell>πεμ-<emph>ψ</emph>-εις</cell></row>
+<row><cell>3rd sg</cell><cell>πέμπ-ει</cell><cell>πεμ-<emph>ψ</emph>-ει</cell></row>
+<row><cell>1st pl</cell><cell>πέμπ-ομεν</cell><cell>πεμ-<emph>ψ</emph>-ομεν</cell></row>
+<row><cell>2nd pl</cell><cell>πέμπ-ετε</cell><cell>πεμ-<emph>ψ</emph>-ετε</cell></row>
+<row><cell>3rd pl</cell><cell>πέμπ-ουσι</cell><cell>πεμ-<emph>ψ</emph>-ουσι</cell></row>
 </table>
 
 In like manner inflect λύω, γράφω, ἄρχω, πείθω.</p></div>
@@ -2009,7 +2009,7 @@ The gateway to the Acropolis.
 
 <div type="textpart" subtype="para" n="51"><head>Vocabulary.</head>
 <p>
-  <list type="vocab">
+<list type="vocab">
 <item><rs type="lemma">ἄρχω</rs>, ἄρξω, ἦρξα:1 begin, rule, command,  with G. ARCHBISHOP.</item>
 <item><rs type="lemma">μέλλω</rs>, μελλήσω: intend, delay, be about to, usually with fut. inf.</item>
 <item><rs type="lemma">διώκω</rs>, διώξω, ἐδίωξα: pursue.</item>
@@ -2065,7 +2065,7 @@ The gateway to the Acropolis.
 
 </list>
 
-  </p></div>
+</p></div>
 
 <div type="textpart" subtype="para" n="53"><head>Word-formation.</head>
 <p>Many verbs with ε in the stem
@@ -2098,71 +2098,71 @@ and so had few good roads.</p></figure>
 
 
 <cit><quote xml:lang="grc">ὅ τι καλὸν φίλον ἀεί.</quote>
-  <quote xml:lang="eng">A thing of beauty is a joy forever.</quote><quote xml:lang="eng">Literally: Whatever is beautiful is ever dear.</quote><bibl>Euripides, Bacchae, 881.</bibl></cit>
-  <div type="textpart" subtype="para" n="54a"><head>Paradigms.</head>
-    <p>With this chapter, we will have encountered five of the ten most common verb paradigms. The list may look -- and is indeed -- long, with 59 different combinations of tense, mood, and voice. So far we have only looked at the indicative mood and the active voice but already we can unerstand a large number of verb forms. We have not looked at every variation of the paradigms we have covered -- there are omega verbs with stems ending in a vowel that have contractions in Attic an there are archaic verbs that end in -μι, but these forms are all annotated in the text of the Anabasis that we are reading. By the end of lesson 26, we will have covered participles and middle-passive forms and we have the seen the majority paradigms.</p>
-  <table>
-    <row role="label"><cell></cell><cell>paradigm</cell><cell>Anabasis Frequency</cell></row>
-    <row><cell>1</cell><cell><emph>imperfect indicative active</emph></cell><cell>1892</cell></row>
-    <row><cell>2</cell><cell>present participle active</cell><cell>1348</cell></row>
-    <row><cell>3</cell><cell><emph>present indicative active</emph></cell><cell>1195</cell></row>
-    <row><cell>4</cell><cell><emph>present infinitive active</emph></cell><cell>1112</cell></row>
-    <row><cell>5</cell><cell><emph>aorist indicative active</emph></cell><cell>1082</cell></row>
-    <row><cell>6</cell><cell>aorist participle active</cell><cell>758</cell></row>
-    <row><cell>7</cell><cell>imperfect indicative middle-passive</cell><cell>699</cell></row>
-    <row><cell>8</cell><cell>present participle middle-passive</cell><cell>495</cell></row>
-    <row><cell>9</cell><cell><emph>aorist infinitive active</emph></cell><cell>440</cell></row>
-    <row><cell>10</cell><cell>present indicative middle-passive</cell><cell>431</cell></row>
-    <row><cell>11</cell><cell>present infinitive middle-passive</cell><cell>400</cell></row>
-    <row><cell>12</cell><cell>present optative active</cell><cell>362</cell></row>
-    <row><cell>13</cell><cell>aorist indicative middle</cell><cell>346</cell></row>
-    <row><cell>14</cell><cell>future indicative middle</cell><cell>204</cell></row>
-    <row><cell>15</cell><cell>perfect participle middle-passive</cell><cell>194</cell></row>
-    <row><cell>16</cell><cell>aorist participle middle</cell><cell>177</cell></row>
-    <row><cell>17</cell><cell>present subjunctive active</cell><cell>166</cell></row>
-    <row><cell>18</cell><cell>aorist indicative passive</cell><cell>152</cell></row>
-    <row><cell>19</cell><cell><emph>future indicative active</emph></cell><cell>146</cell></row>
-    <row><cell>20</cell><cell>present optative middle-passive</cell><cell>145</cell></row>
-    <row><cell>21</cell><cell>aorist infinitive middle</cell><cell>143</cell></row>
-    <row><cell>22</cell><cell>aorist optative active</cell><cell>139</cell></row>
-    <row><cell>23</cell><cell>aorist subjunctive active</cell><cell>128</cell></row>
-    <row><cell>24</cell><cell>perfect participle active</cell><cell>104</cell></row>
-    <row><cell>25</cell><cell>perfect indicative active</cell><cell>104</cell></row>
-    <row><cell>26</cell><cell>present subjunctive middle-passive</cell><cell>82</cell></row>
-    <row><cell>27</cell><cell>aorist participle passive</cell><cell>78</cell></row>
-    <row><cell>28</cell><cell>future participle active</cell><cell>70</cell></row>
-    <row><cell>29</cell><cell>present imperative active</cell><cell>65</cell></row>
-    <row><cell>30</cell><cell><emph>future infinitive active</emph></cell><cell>61</cell></row>
-    <row><cell>31</cell><cell>aorist optative middle</cell><cell>54</cell></row>
-    <row><cell>32</cell><cell>pluperfect indicative active</cell><cell>53</cell></row>
-    <row><cell>33</cell><cell>future infinitive middle</cell><cell>49</cell></row>
-    <row><cell>34</cell><cell>aorist subjunctive middle</cell><cell>43</cell></row>
-    <row><cell>35</cell><cell>aorist infinitive passive</cell><cell>42</cell></row>
-    <row><cell>36</cell><cell>future participle middle</cell><cell>37</cell></row>
-    <row><cell>37</cell><cell>perfect infinitive active</cell><cell>35</cell></row>
-    <row><cell>38</cell><cell>aorist imperative active</cell><cell>34</cell></row>
-    <row><cell>39</cell><cell>pluperfect indicative middle</cell><cell>32</cell></row>
-    <row><cell>40</cell><cell>perfect indicative middle-passive</cell><cell>30</cell></row>
-    <row><cell>41</cell><cell>present imperative middle-passive</cell><cell>26</cell></row>
-    <row><cell>42</cell><cell>aorist optative passive</cell><cell>24</cell></row>
-    <row><cell>43</cell><cell>perfect infinitive middle-passive</cell><cell>22</cell></row>
-    <row><cell>44</cell><cell>future optative middle</cell><cell>18</cell></row>
-    <row><cell>45</cell><cell>aorist subjunctive passive</cell><cell>17</cell></row>
-    <row><cell>46</cell><cell>aorist imperative middle</cell><cell>17</cell></row>
-    <row><cell>47</cell><cell>perfect imperative active</cell><cell>14</cell></row>
-    <row><cell>48</cell><cell>perfect subjunctive active</cell><cell>8</cell></row>
-    <row><cell>49</cell><cell>future optative active</cell><cell>7</cell></row>
-    <row><cell>50</cell><cell>future indicative passive</cell><cell>5</cell></row>
-    <row><cell>51</cell><cell>future participle passive</cell><cell>3</cell></row>
-    <row><cell>52</cell><cell>aorist imperative passive</cell><cell>3</cell></row>
-    <row><cell>53</cell><cell>perfect imperative middle-passive</cell><cell>2</cell></row>
-    <row><cell>54</cell><cell>perfect optative active</cell><cell>2</cell></row>
-    <row><cell>55</cell><cell>future perfect infinitive middle-passive</cell><cell>1</cell></row>
-    <row><cell>56</cell><cell>perfect optative middle-passive</cell><cell>1</cell></row>
-    <row><cell>57</cell><cell>present indicative passive</cell><cell>1</cell></row>
-    <row><cell>58</cell><cell>imperfect indicative passive</cell><cell>1</cell></row>
-    <row><cell>59</cell><cell>future infinitive passive</cell><cell>1</cell></row>
-    </table></div>
+<quote xml:lang="eng">A thing of beauty is a joy forever.</quote><quote xml:lang="eng">Literally: Whatever is beautiful is ever dear.</quote><bibl>Euripides, Bacchae, 881.</bibl></cit>
+<div type="textpart" subtype="para" n="54a"><head>Paradigms.</head>
+<p>With this chapter, we will have encountered five of the ten most common verb paradigms. The list may look -- and is indeed -- long, with 59 different combinations of tense, mood, and voice. So far we have only looked at the indicative mood and the active voice but already we can unerstand a large number of verb forms. We have not looked at every variation of the paradigms we have covered -- there are omega verbs with stems ending in a vowel that have contractions in Attic an there are archaic verbs that end in -μι, but these forms are all annotated in the text of the Anabasis that we are reading. By the end of lesson 26, we will have covered participles and middle-passive forms and we have the seen the majority paradigms.</p>
+<table>
+<row role="label"><cell></cell><cell>paradigm</cell><cell>Anabasis Frequency</cell></row>
+<row><cell>1</cell><cell><emph>imperfect indicative active</emph></cell><cell>1892</cell></row>
+<row><cell>2</cell><cell>present participle active</cell><cell>1348</cell></row>
+<row><cell>3</cell><cell><emph>present indicative active</emph></cell><cell>1195</cell></row>
+<row><cell>4</cell><cell><emph>present infinitive active</emph></cell><cell>1112</cell></row>
+<row><cell>5</cell><cell><emph>aorist indicative active</emph></cell><cell>1082</cell></row>
+<row><cell>6</cell><cell>aorist participle active</cell><cell>758</cell></row>
+<row><cell>7</cell><cell>imperfect indicative middle-passive</cell><cell>699</cell></row>
+<row><cell>8</cell><cell>present participle middle-passive</cell><cell>495</cell></row>
+<row><cell>9</cell><cell><emph>aorist infinitive active</emph></cell><cell>440</cell></row>
+<row><cell>10</cell><cell>present indicative middle-passive</cell><cell>431</cell></row>
+<row><cell>11</cell><cell>present infinitive middle-passive</cell><cell>400</cell></row>
+<row><cell>12</cell><cell>present optative active</cell><cell>362</cell></row>
+<row><cell>13</cell><cell>aorist indicative middle</cell><cell>346</cell></row>
+<row><cell>14</cell><cell>future indicative middle</cell><cell>204</cell></row>
+<row><cell>15</cell><cell>perfect participle middle-passive</cell><cell>194</cell></row>
+<row><cell>16</cell><cell>aorist participle middle</cell><cell>177</cell></row>
+<row><cell>17</cell><cell>present subjunctive active</cell><cell>166</cell></row>
+<row><cell>18</cell><cell>aorist indicative passive</cell><cell>152</cell></row>
+<row><cell>19</cell><cell><emph>future indicative active</emph></cell><cell>146</cell></row>
+<row><cell>20</cell><cell>present optative middle-passive</cell><cell>145</cell></row>
+<row><cell>21</cell><cell>aorist infinitive middle</cell><cell>143</cell></row>
+<row><cell>22</cell><cell>aorist optative active</cell><cell>139</cell></row>
+<row><cell>23</cell><cell>aorist subjunctive active</cell><cell>128</cell></row>
+<row><cell>24</cell><cell>perfect participle active</cell><cell>104</cell></row>
+<row><cell>25</cell><cell>perfect indicative active</cell><cell>104</cell></row>
+<row><cell>26</cell><cell>present subjunctive middle-passive</cell><cell>82</cell></row>
+<row><cell>27</cell><cell>aorist participle passive</cell><cell>78</cell></row>
+<row><cell>28</cell><cell>future participle active</cell><cell>70</cell></row>
+<row><cell>29</cell><cell>present imperative active</cell><cell>65</cell></row>
+<row><cell>30</cell><cell><emph>future infinitive active</emph></cell><cell>61</cell></row>
+<row><cell>31</cell><cell>aorist optative middle</cell><cell>54</cell></row>
+<row><cell>32</cell><cell>pluperfect indicative active</cell><cell>53</cell></row>
+<row><cell>33</cell><cell>future infinitive middle</cell><cell>49</cell></row>
+<row><cell>34</cell><cell>aorist subjunctive middle</cell><cell>43</cell></row>
+<row><cell>35</cell><cell>aorist infinitive passive</cell><cell>42</cell></row>
+<row><cell>36</cell><cell>future participle middle</cell><cell>37</cell></row>
+<row><cell>37</cell><cell>perfect infinitive active</cell><cell>35</cell></row>
+<row><cell>38</cell><cell>aorist imperative active</cell><cell>34</cell></row>
+<row><cell>39</cell><cell>pluperfect indicative middle</cell><cell>32</cell></row>
+<row><cell>40</cell><cell>perfect indicative middle-passive</cell><cell>30</cell></row>
+<row><cell>41</cell><cell>present imperative middle-passive</cell><cell>26</cell></row>
+<row><cell>42</cell><cell>aorist optative passive</cell><cell>24</cell></row>
+<row><cell>43</cell><cell>perfect infinitive middle-passive</cell><cell>22</cell></row>
+<row><cell>44</cell><cell>future optative middle</cell><cell>18</cell></row>
+<row><cell>45</cell><cell>aorist subjunctive passive</cell><cell>17</cell></row>
+<row><cell>46</cell><cell>aorist imperative middle</cell><cell>17</cell></row>
+<row><cell>47</cell><cell>perfect imperative active</cell><cell>14</cell></row>
+<row><cell>48</cell><cell>perfect subjunctive active</cell><cell>8</cell></row>
+<row><cell>49</cell><cell>future optative active</cell><cell>7</cell></row>
+<row><cell>50</cell><cell>future indicative passive</cell><cell>5</cell></row>
+<row><cell>51</cell><cell>future participle passive</cell><cell>3</cell></row>
+<row><cell>52</cell><cell>aorist imperative passive</cell><cell>3</cell></row>
+<row><cell>53</cell><cell>perfect imperative middle-passive</cell><cell>2</cell></row>
+<row><cell>54</cell><cell>perfect optative active</cell><cell>2</cell></row>
+<row><cell>55</cell><cell>future perfect infinitive middle-passive</cell><cell>1</cell></row>
+<row><cell>56</cell><cell>perfect optative middle-passive</cell><cell>1</cell></row>
+<row><cell>57</cell><cell>present indicative passive</cell><cell>1</cell></row>
+<row><cell>58</cell><cell>imperfect indicative passive</cell><cell>1</cell></row>
+<row><cell>59</cell><cell>future infinitive passive</cell><cell>1</cell></row>
+</table></div>
 <div type="textpart" subtype="para" n="54"><head>The Aorist.</head>
 <p>Aorist is the name of a tense of the
 Greek verb. The name is not used in the inflection of
@@ -2243,17 +2243,17 @@ face, "This is the city of Hadrian, not of Theseus."
 
 <div type="textpart" subtype="para" n="58"><head>Vocabulary.</head>
 <p>
-  <list type="vocab">
+<list type="vocab">
 <item><rs type="lemma">ἐνταῦθα</rs>: adv., there, at that place.</item>
 <item><rs type="lemma">λοιπός</rs>, λοιπή, λοιπόν
-  <note>An example of vowel change (§ 53).</note>: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.</item>
+<note>An example of vowel change (§ 53).</note>: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.</item>
 <item><rs type="lemma">ἐντεῦθεν</rs>, adv. : from there, thence.</item>
 <item><rs type="lemma">ἐπιστολή</rs>, ἐπιστολῆς, ἡ: letter. EPISTLE.</item>
 <item><rs type="lemma">οἰκία</rs>, οἰκίας, ἡ: house. ECONOMY.</item>
 <item><rs type="lemma">ἔχω</rs>, ἕξω: have; ἔσχον<note>ἔσχον is aorist. Sigma was lost in the present and replaced by breathing in the future.</note>: got.</item>
 <item><rs type="lemma">πύλη</rs>, πύλης, ἡ: gate; pl., pass. PYLON. THERMOPYLA.</item>
 <item><rs type="lemma">λείπω</rs>, λείψω, ἔλιπον: leave. ECLIPSE.</item>
-  </list>
+</list>
 </p></div>
 <div type="textpart" subtype="para" n="59"><head>Exercises.</head>
 <p>
@@ -2285,7 +2285,7 @@ face, "This is the city of Hadrian, not of Theseus."
 <item n="4">I think that the messenger will persuade the general. </item>
 <item n="5">With a shout they will break the strong door.</item>
 </list>
- 
+
 
 
 </p>
@@ -2298,10 +2298,10 @@ face, "This is the city of Hadrian, not of Theseus."
 <head>REVIEW</head>
 <p>
 <cit>
-  <quote><l part="F">πιθοῦ· σοφῷ γὰρ αἰσχρὸν ἐξαμαρτάνειν.</l> 
-  </quote>
-  <quote>Agree! It is shameful for a wise person to make mistakes</quote>
-  <bibl n="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:1039/">Aeschylus, Prometheus, 1039.</bibl>
+<quote><l part="F">πιθοῦ· σοφῷ γὰρ αἰσχρὸν ἐξαμαρτάνειν.</l> 
+</quote>
+<quote>Agree! It is shameful for a wise person to make mistakes</quote>
+<bibl n="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0085.tlg003.perseus-grc2:1039/">Aeschylus, Prometheus, 1039.</bibl>
 </cit>
 </p>
 
@@ -2392,18 +2392,18 @@ with more pleasing effect than in this memorial at Washington, D. C.
 <head>READING </head>
 
 <cit>
-  <quote xml:lang="grc"><l>ὦ ταὶ λιπαραὶ καὶ ἰοστέφανοι καὶ ἀοίδιμοι,</l>
-    <l>Ἑλλάδος ἔρεισμα, κλειναὶ Ἀθᾶναι.</l>
-  </quote>
-  <quote><l>City of light, with your violet crown, worthy object of song,
-  </l>
+<quote xml:lang="grc"><l>ὦ ταὶ λιπαραὶ καὶ ἰοστέφανοι καὶ ἀοίδιμοι,</l>
+<l>Ἑλλάδος ἔρεισμα, κλειναὶ Ἀθᾶναι.</l>
+</quote>
+<quote><l>City of light, with your violet crown, worthy object of song,
+</l>
 <l>Bulwark of Greece, famous Athens.</l></quote>
 
-  <bibl>Pindar, fragment.</bibl>
+<bibl>Pindar, fragment.</bibl>
 </cit>
 
 </div>
- 
+
 
 <div type="textpart" subtype="para" n="62"><head>The Value of Translation.</head>
 <p>"There is no better way
@@ -2445,14 +2445,14 @@ at the start.
 </p></div>
 
 <div type="textpart" subtype="para" n="64"><head>Datives (review)</head>
-  <list>
+<list>
 <item n="1">§ 4: Dative as Indirect Object:  πέμπομεν τὰ δῶρα τῷ στρατηγῷ.</item>
 <item n="2">§ 16: Dative with the Adjective: πολέμιος ἦν τῷ στρατηγῷ.</item>
 <item n="3">§ 23: Dative of Place Where: ἐν τῷ πεδίῳ, παρὰ τῷ στρατηγῶ.</item>
 <item n="4">§ 32: Dative of Poessession: φυλακὴ οὐκ ἦν τῇ κώμῃ.</item>
 <item n="5">§ 44: Dative of Manner: φεύγουσι σιγῇ.</item>
 <item n="6">§ 77: Dative of Means (lesson 14, below): τὸν ποταμὸν διαβαίνει πλοίῳ.</item>
-  </list>
+</list>
 </div>
 
 <div type="textpart" subtype="para" n="64"><head>Vocabulary</head>
@@ -2478,11 +2478,7 @@ at the start.
 στρατηγοὺς σὺν (with) στρατιᾷ πολλῇ (large) καὶ πολλῷ ναυτικῷ (compare NAUTICAL) ἐπὶ Ἀθήνας. οἱ δὲ στρατηγοὶ ἦγον
 τοὺς Πέρσας εἰς τὸν Μαραθῶνα, εἰς ὃ (which) πεδίον καὶ οἱ
 Ἀθηναῖοι ἧκον. ἐνταῦθα οἱ μὲν Ἀθηναῖοι δρόμῳ ἔσπευσαν εἰς
-τοὺς βαρβάρους. ἀπ-εῖχον δὲ σταδίους ὀκτώ. οἱ δὲ Πέρσαι
-
-
-
-ἐνόμιζον μανίᾶν (compare MANIAC) εἶναι<note>Present infinitive in Indirect Discourse (§ 50) = to be.</note> τοῖς Ἀθηναίοις.
+τοὺς βαρβάρους. ἀπ-εῖχον δὲ σταδίους ὀκτώ. οἱ δὲ Πέρσαι ἐνόμιζον μανίαν (compare MANIAC) εἶναι<note>Present infinitive in Indirect Discourse (§ 50) = to be.</note> τοῖς Ἀθηναίοις.
 ἡ μὲν μάχη ἡ ἐν τῷ Μαραθῶνι ἦν μακρά, τέλος ( finally) δὲ
 τοὺς βαρβάρους οἱ Ἀθηναῖοι ἐδίωκον εἰς τὴν θάλατταν (sea)
 καὶ τῶν νεῶν (ships) ἥρπασαν ἑπτά.
@@ -2513,8 +2509,8 @@ by their Latin equivalents.
 
 These can be learned from
 
-  §§ I and II, but note especially that 
-  <list>
+§§ I and II, but note especially that 
+<list>
 
 <item>αι passes into oe or e, </item>
 <item>ει into î or ê, </item>
@@ -2591,14 +2587,14 @@ A'thens, Ody'sseus, Pene'lope.1
 <div type="textpart" subtype="para" n="66a"><head>Bronze Boy from Marathon</head>
 <p>
 
-  This head belongs to a beautiful statue found in almost perfect condition by a fisherman in the Bay of Marathon in 1925.</p></div>
+This head belongs to a beautiful statue found in almost perfect condition by a fisherman in the Bay of Marathon in 1925.</p></div>
 
 <div type="textpart" subtype="lesson" n="13">
 <head>PRONOUNS</head>
 <cit>
-  <quote xml:lang="grc">ἕτερος γὰρ αὐτὸς ὁ φίλος ἐστί.</quote>
-  <quote xml:lang="eng">A friend is another self.</quote>
-  <bibl>Aristotle, Nicomachean Ethics, IX. 9,10, 1170 B</bibl>
+<quote xml:lang="grc">ἕτερος γὰρ αὐτὸς ὁ φίλος ἐστί.</quote>
+<quote xml:lang="eng">A friend is another self.</quote>
+<bibl>Aristotle, Nicomachean Ethics, IX. 9,10, 1170 B</bibl>
 </cit>
 
 
@@ -2610,35 +2606,46 @@ nothing new in inflection, It is like ἀγαθός everywhere
 except in the neuter nominative and accusative singular,
 where it has the same endings as the article.
 
-ὅς who, which</p></div>
+ὅς who, which</p><p>PARADIGM OF FORMS</p></div>
 
 <div type="textpart" subtype="para" n="68">
-<p>αὐτός self, and ἄλλος other, are inflected similarly
+<p>αὐτός <gloss>self</gloss>, and ἄλλος <gloss>other</gloss>, are inflected similarly
 except that ἄλλος has the accent on the penult. Inflect
 them and compare with paradigms (§§ 519 and 520).</p></div>
 
 <div type="textpart" subtype="para" n="69">
 <p>A relative pronoun, as in English and in Latin,
 agrees with its antecedent in gender, number, and person,
-but its case depends on the construction in its own clause:
+but its case depends on the construction in its own clause.
+</p><p>
+In English, "who" is the nominative and "whom" is (still) the accusative (although the distinction is fading).
 
-ὁ ἄγγελος ὃν ἔπεμψας ἐθέλει φυγεῖν
-the messenger whom you sent wishes to flee.</p></div>
+Thus, we say: "I saw the woman (object and would be accusative if we had an accusative) <emph>who</emph> (nominative) was teaching the class."
+
+</p><p>But we would say (in traditional English): "I saw the woman <emph>whom</emph> we both know."
+</p><p>
+In Greek we find: 
+<foreign>ὁ ἄγγελος ὃν ἔπεμψας ἐθέλει φυγεῖν</foreign> <gloss>the messenger whom you sent wishes to flee.</gloss>
+</p></div>
 
 <div type="textpart" subtype="para" n="70"><head>Uses of αὐτός.</head>
-<p><list>
-  <item>Following the article, αὐτός means
-same : ἡ αὐτὴ κώμη the same village,</item>
-<item>modifying a noun or pronoun, but not following
-the article, it means self; Κῦρος αὐτός Cyrus himself; ἡ κώμη αὐτή the village itself ;
-αὐτὸς ἔφυγεν he himself fled ;
-<cit><quote xml:lang="grc">αὐτὸς γὰρ Θρασύμαχος ὁμολογεῖ τοὺς μὲν ἄρχοντας ἐνίοτε ἑαυτοῖς κακὰ προστάττειν, τοῖς δὲ δίκαιον εἶναι ταῦτα ποιεῖν</quote> <bibl>Plat. Rep. 340a</bibl></cit>
-</item>
-<item>standing alone, except in the
-  nominative, it is a personal pronoun of the third person:
-  αὐτῷ ἔγραψα I wrote to him,
+<p>
+Following the article, αὐτός means
+same : 
 
-  αὐτοὺς ἀθροίζει he collects them.</item>
+<foreign>ἡ αὐτὴ κώμη</foreign> <gloss>the same village,</gloss>
+When modifying a noun or pronoun, but not following
+the article, αὐτός is an intensifier and can be translated as <gloss>self</gloss>; 
+<foreign>Κῦρος αὐτός</foreign> <gloss>Cyrus himself; </gloss>
+<foreign>ἡ κώμη αὐτή</foreign> <gloss>the village itself;</gloss>
+<foreign>αὐτὸς ἔφυγεν</foreign> <gloss>he himself fled;</gloss>
+<cit><quote xml:lang="grc">αὐτὸς γὰρ Θρασύμαχος ὁμολογεῖ τοὺς μὲν ἄρχοντας ἐνίοτε ἑαυτοῖς κακὰ προστάττειν, τοῖς δὲ δίκαιον εἶναι ταῦτα ποιεῖν</quote> <bibl>Plat. Rep. 340a</bibl></cit>
+</p><p>
+standing alone, except in the
+nominative, it is a personal pronoun of the third person:
+<foreign>αὐτῷ ἔγραψα</foreign> I wrote to him,
+
+<foreign>αὐτοὺς ἀθροίζει</foreign> he collects them.</p>
 
 <pb n="41"/>
 
@@ -2646,33 +2653,21 @@ the article, it means self; Κῦρος αὐτός Cyrus himself; ἡ κώμη 
 
 
 
-</list></p></div>
+</div>
 
-<div type="textpart" subtype="para" n="71">
-<p>VOCABULARY
-
-
-<rs type="lemma">ἀλλήλων</rs>:1 of one another. PARALLEL.
-
-<rs type="lemma">ἄλλος</rs>: other, another; if preceded by the article, the other, the rest of. ALLOPATHY.
-
-<rs type="lemma">αὐτός</rs>: same, self, he, she, it, they, etc. AUTOMATON.
-
-<rs type="lemma">βουλεύω</rs>, βουλεύσω, ἐβούλευσα :  plan,
-
-<rs type="lemma">βουλή</rs>: plan, BOULE.
-
-<rs type="lemma">ἐπι-βουλεύω</rs>: plot against, with D.
-
-<rs type="lemma">ἐπι-βουλή</rs>: plot.
-
-<rs type="lemma">ἴσος</rs>: equal, ISOSCELES.
-
-<rs type="lemma">κελεύω</rs>, κελεύσω, ἐκέλευσα : order, command,
-
-<rs type="lemma">ὅς</rs>, ἥ, ὅ: rel. pron, : who, which, that.
-
-<rs type="lemma">ὥρᾱ</rs>: hour, season. HOUR.</p></div>
+<div type="textpart" subtype="para" n="71"><head>Vocabulary</head>
+<list type="vocab"><item><rs type="lemma">ἀλλήλων</rs>:1 of one another. PARALLEL.</item>
+<item><rs type="lemma">ἄλλος</rs>: other, another; if preceded by the article, the other, the rest of. ALLOPATHY.</item>
+<item><rs type="lemma">αὐτός</rs>: same, self, he, she, it, they, etc. AUTOMATON.</item>
+<item><rs type="lemma">βουλεύω</rs>, βουλεύσω, ἐβούλευσα :  plan,</item>
+<item><rs type="lemma">βουλή</rs>: plan, BOULE.</item>
+<item><rs type="lemma">ἐπι-βουλεύω</rs>: plot against, with D.</item>
+<item><rs type="lemma">ἐπι-βουλή</rs>: plot.</item>
+<item><rs type="lemma">ἴσος</rs>: equal, ISOSCELES.</item>
+<item><rs type="lemma">κελεύω</rs>, κελεύσω, ἐκέλευσα : order, command,</item>
+<item><rs type="lemma">ὅς</rs>, ἥ, ὅ: rel. pron, : who, which, that.</item>
+<item><rs type="lemma">ὥρᾱ</rs>: hour, season. HOUR.</item>
+</list></div>
 
 <div type="textpart" subtype="para" n="72"><head>Exercises.</head>
 <p>
@@ -2746,15 +2741,15 @@ figures beneath the cornice represent the eight winds.</p></figure>
 <head>DEMONSTRATIVE PRONOUNS</head>
 
 <cit>
-  <quote xml:lang="grc">
-    σπεῦδε βραδέως. 
+<quote xml:lang="grc">
+σπεῦδε βραδέως. 
 
-  </quote>
-  <quote xml:lang="eng">
-    Make haste slowly.
+</quote>
+<quote xml:lang="eng">
+Make haste slowly.
 
-  </quote>
-  <bibl>Suetonius, Augustus, 25. A favorite expression of Augustus.</bibl>
+</quote>
+<bibl>Suetonius, Augustus, 25. A favorite expression of Augustus.</bibl>
 </cit>
 
 
@@ -2862,9 +2857,9 @@ he crosses the river in (by means of) a boat.</p></div>
 Gospel is one of many evidences of this.
 
 <cit>
-  <quote>ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς <note>in the presence of</note> ὃ τὸν θεόν
-    (compare THEOLOGY), καὶ θεὸς ἦν ὁ λόγος. οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.</quote>
-    <bibl>St. John, 1. 1-2.</bibl>
+<quote>ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς <note>in the presence of</note> ὃ τὸν θεόν
+(compare THEOLOGY), καὶ θεὸς ἦν ὁ λόγος. οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.</quote>
+<bibl>St. John, 1. 1-2.</bibl>
 </cit>
 
 
@@ -2879,15 +2874,15 @@ Gospel is one of many evidences of this.
 <div type="textpart" subtype="lesson" n="15">
 <head>FEMININE NOUNS OF THE A-DECLENSION. PERSONAL PRONOUNS</head>
 <cit>
-  <quote>
-    θάλαττα, θάλαττα.
-  </quote>
-  <quote>
-    The sea, the sea!
-  </quote>
-  <bibl>Xenophon, <title>Anabasis</title>, IV. 7, 24. 2 </bibl>
+<quote>
+θάλαττα, θάλαττα.
+</quote>
+<quote>
+The sea, the sea!
+</quote>
+<bibl>Xenophon, <title>Anabasis</title>, IV. 7, 24. 2 </bibl>
 </cit>
- 
+
 
 
 <div type="textpart" subtype="para" n="81"><head>Feminines in -ᾰ.</head>
@@ -2905,7 +2900,7 @@ and dative show the same agreement.</p>
 
 <div type="textpart" subtype="para" n="82">
 <p>The Personal Pronouns are <rs type="lemma">ἐγώ</rs>, 
-  <rs type="lemma">σύ</rs> you (sg.), for
+<rs type="lemma">σύ</rs> you (sg.), for
 the first and second persons. For the third person, αὐτός
 is used in all cases except the nominative.
 
@@ -2936,7 +2931,7 @@ if he guarded ..., he broke... .
 
 (b) The regular negative of the protasis is μή, of the
 apodosis οὐ.
-  </p></div>
+</p></div>
 
 <div type="textpart" subtype="para" n="84">
 <p>VOCABULARY
@@ -3016,10 +3011,10 @@ evil communications corrupt good manners.</p></div>
 
 Translate the following characteristic utterance:
 <cit>
-  <quote><l>ἀρχὴ μεγίστη (greatest) τῶν ἐν ἀνθρώποις κακῶν</l>
+<quote><l>ἀρχὴ μεγίστη (greatest) τῶν ἐν ἀνθρώποις κακῶν</l>
 
-    <l>ἀγαθά, τὰ λίαν (excessive) ἀγαθά.</l></quote>
-  <bibl>Menander, fragment.</bibl>
+<l>ἀγαθά, τὰ λίαν (excessive) ἀγαθά.</l></quote>
+<bibl>Menander, fragment.</bibl>
 </cit>
 
 </p>
@@ -3034,7 +3029,7 @@ Translate the following characteristic utterance:
 <head>MASCULINE NOUNS OF THE A-DECLENSION. REFLEXIVE PRONOUNS</head>
 
 <cit><quote xml:lang="grc">ἀγαπήσεις τὸν πλησίον σου ὡς σαυτόν.</quote>
-  <quote xml:lang="eng">You will love your neighbor as yourself</quote>
+<quote xml:lang="eng">You will love your neighbor as yourself</quote>
 <bibl>St. Matthew, XIX. 19.</bibl></cit>
 
 
@@ -3159,15 +3154,15 @@ Euclid.
 <head>PRESENT AND IMPERFECT INDICATIVE AND PRESENT INFINITIVE OF εἰμί. ENCLITICS</head>
 
 <cit><bibl></bibl>
-  <quote xml:lang="grc">ἄγροικός εἶμι· τὴν σκάφην σκάφην λέγω.</quote>
-  <quote xml:lang="eng">I am from the country; I call a spade a spade.</quote>
-  <quote xml:lang="eng">Literally : I am a countryman; I call the tub a tub.</quote>
-  
-  <bibl>Comic Attic fragment.</bibl>
-  </cit>
+<quote xml:lang="grc">ἄγροικός εἶμι· τὴν σκάφην σκάφην λέγω.</quote>
+<quote xml:lang="eng">I am from the country; I call a spade a spade.</quote>
+<quote xml:lang="eng">Literally : I am a countryman; I call the tub a tub.</quote>
+
+<bibl>Comic Attic fragment.</bibl>
+</cit>
 
 
- 
+
 
 
 <div type="textpart" subtype="para" n="93">
@@ -3287,11 +3282,11 @@ a contrary to fact from a past particular condition (§ 85).</p></div>
 
 <div type="textpart" subtype="para" n="100">
 <p>IN HOSTILE TERRITORY
-    <cit><quote xml:lang="grc">ἐντεῦθεν ἐξ-ελαύνει διὰ τῆς Λυκαονίας. ταύτην τὴν χώραν
-        δι-ήρπασεν: ὡς (45) πολεμίαν. ἐντεῦθεν Κῦρος τὴν Κίλισσαν
-        (the Cilician queen) εἰς τὴν Κιλικίαν ἀπο-πέμπει τὴν ταχίστην
-        (quickest) ὁδόν·2 καὶ συν-έπεμψεν αὐτῇ στρατιώτας οὓς
-        Μένων εἶχε καὶ αὐτόν.</quote> <quote xml:lang="eng"></quote> <bibl>Adapted from Xenophon, <title>Anabasis</title>, I. 2. 19-20.</bibl></cit>
+<cit><quote xml:lang="grc">ἐντεῦθεν ἐξ-ελαύνει διὰ τῆς Λυκαονίας. ταύτην τὴν χώραν
+δι-ήρπασεν: ὡς (45) πολεμίαν. ἐντεῦθεν Κῦρος τὴν Κίλισσαν
+(the Cilician queen) εἰς τὴν Κιλικίαν ἀπο-πέμπει τὴν ταχίστην
+(quickest) ὁδόν·2 καὶ συν-έπεμψεν αὐτῇ στρατιώτας οὓς
+Μένων εἶχε καὶ αὐτόν.</quote> <quote xml:lang="eng"></quote> <bibl>Adapted from Xenophon, <title>Anabasis</title>, I. 2. 19-20.</bibl></cit>
 
 
 
@@ -3299,14 +3294,14 @@ a contrary to fact from a past particular condition (§ 85).</p></div>
 <pb n="55"/>
 <figure><head>THE STADIUM AT ATHENS</head>
 <p>Here the Olympic games were revived in 1896 after the lapse of centuries
-    In the lower picture you can see its marble seats beyond the grove.</p></figure>
+In the lower picture you can see its marble seats beyond the grove.</p></figure>
 
 
 <figure><head>View of ATHENS FROM THE ACROPOLIS</head>
 <p>Above the housetops rises the Arch of Hadrian (page 32). To the right
-    are the surviving columns of the lofty Olympieum (page 118). Beyond the
-    Stadium looms Hymettus, famed for its honey. The glory of Hymettus’
-    slopes at sunset won for Athens the title. “violet crowned.”</p></figure>
+are the surviving columns of the lofty Olympieum (page 118). Beyond the
+Stadium looms Hymettus, famed for its honey. The glory of Hymettus’
+slopes at sunset won for Athens the title. “violet crowned.”</p></figure>
 
 
 
@@ -3322,10 +3317,10 @@ a contrary to fact from a past particular condition (§ 85).</p></div>
 <div type="textpart" subtype="lesson" n="18">
 <head>CONSONANT DECLENSION (K-STEMS)</head>
 <cit>
-  <quote xml:lang="grc">δέσποινα γὰρ γέροντι νυμφίῳ γυνή.</quote>
-  <quote xml:lang="eng">An old man’s bride, an old man’s boss.</quote>
-  <quote xml:lang="eng">Literally: For to an aged bridegroom a wife is a female master.</quote>
- <bibl>Euripides, fragment.</bibl> </cit>
+<quote xml:lang="grc">δέσποινα γὰρ γέροντι νυμφίῳ γυνή.</quote>
+<quote xml:lang="eng">An old man’s bride, an old man’s boss.</quote>
+<quote xml:lang="eng">Literally: For to an aged bridegroom a wife is a female master.</quote>
+<bibl>Euripides, fragment.</bibl> </cit>
 
 
 
@@ -3547,11 +3542,11 @@ Persians in 480 s.c.
 <div type="textpart" subtype="lesson" n="20">
 <head>REVIEW</head>
 <cit><quote xml:lang="grc">αἱ δεύτεραί πως φροντίδες σοφώτεραι.</quote> <quote xml:lang="eng">The sober second thought.</quote> <quote xml:lang="eng">Literally: Second thoughts somehow [are] wiser.</quote> <bibl>Euripides, Hippolytus, 436.</bibl></cit>
- 
- <figure><head>καλὸν τὸ ὕδωρ
-  The sacred isle of Delos now lies
-  in ruins, but "Cleopatra’s Well” still 
-  cheers the thirsty.</head></figure>
+
+<figure><head>καλὸν τὸ ὕδωρ
+The sacred isle of Delos now lies
+in ruins, but "Cleopatra’s Well” still 
+cheers the thirsty.</head></figure>
 </div>
 
 
@@ -3694,7 +3689,7 @@ related to that of the main verb:
 
 <pb n="66"/>
 <figure><head>The Eleusinian Mysteries, unlike the ordinary Greek religion, gave hope
-  of a real life after death. Cicero was initiated into these Mysteries.</head></figure></p>
+of a real life after death. Cicero was initiated into these Mysteries.</head></figure></p>
 </div>
 <div type="textpart" subtype="para" n="118">
 <p>VOCABULARY
@@ -3750,18 +3745,18 @@ related to that of the main verb:
 
 <div type="textpart" subtype="para" n="120">
 <p>A TRAITOR CAUGHT 
-    <cit><quote xml:lang="grc">Ὀρόντας ἐπι-βουλεύει Κύρῳ.
-        οὗτος Κύρῳ εἶπεν (told) ὅτι (that)
-        εἰ αὐτῷ δοίη (should give) στρατιώτας κατα-κάνοι ἂν (would slay)
-        τοὺς πολεμίους τοὺς τὴν χώραν κάοντας (burning). τῷ δὲ Κύρῳ
-        ἀκούσαντι (compare acoustic)
-        
-        ταῦτα ἐδόκει (seemed) καλὰ εἶναι,
-        καὶ ἐκέλευσεν αὐτὸν λαμβάνειν ΤΟΝΟΗΕ5 ΕΠῸΜ Εκεῦβι5
-        στρατιώτας. ὁ δ᾽ Ὀρόντας νομίσᾱς αὑτῷ εἶναι τοὺς στρατιώτας γράφει ἐπιστολὴν παρὰ βασιλέᾳ (king) ὅτι ἥξοι (he would
-        come) ἔχων στρατιώτας. ταύτην τὴν ἐπιστολὴν δίδωσι
-        (he gives) πιστῷ (compare πιστεύω) ἀνθρώπῳ, ὡς ᾧετο
-        (he thought). ὁ δὲ λαβὼν Κύρῳ δίδωσιν.</quote> <quote xml:lang="eng"></quote> <bibl>Adapted from Xenophon, <title>Anabasis</title> 1.6.2-3.</bibl></cit>
+<cit><quote xml:lang="grc">Ὀρόντας ἐπι-βουλεύει Κύρῳ.
+οὗτος Κύρῳ εἶπεν (told) ὅτι (that)
+εἰ αὐτῷ δοίη (should give) στρατιώτας κατα-κάνοι ἂν (would slay)
+τοὺς πολεμίους τοὺς τὴν χώραν κάοντας (burning). τῷ δὲ Κύρῳ
+ἀκούσαντι (compare acoustic)
+
+ταῦτα ἐδόκει (seemed) καλὰ εἶναι,
+καὶ ἐκέλευσεν αὐτὸν λαμβάνειν ΤΟΝΟΗΕ5 ΕΠῸΜ Εκεῦβι5
+στρατιώτας. ὁ δ᾽ Ὀρόντας νομίσᾱς αὑτῷ εἶναι τοὺς στρατιώτας γράφει ἐπιστολὴν παρὰ βασιλέᾳ (king) ὅτι ἥξοι (he would
+come) ἔχων στρατιώτας. ταύτην τὴν ἐπιστολὴν δίδωσι
+(he gives) πιστῷ (compare πιστεύω) ἀνθρώπῳ, ὡς ᾧετο
+(he thought). ὁ δὲ λαβὼν Κύρῳ δίδωσιν.</quote> <quote xml:lang="eng"></quote> <bibl>Adapted from Xenophon, <title>Anabasis</title> 1.6.2-3.</bibl></cit>
 
 
 <pb n="68"/>
@@ -3858,16 +3853,16 @@ James Russell Lowell, Address on Books and Libraries.</p></div>
 <head>THE REVIEW OF AN ARMY</head>
 
 <cit><quote xml:lang="grc">ἐνταῦθα οὖν θεωρία (review) ἦν τῆς Κύρου στρατιᾶς.<note>Objective genitive, being the object of the action involved in θεωρία.</note>
-  καὶ πρῶτον μὲν παρ-ήλαυνον οἱ βάρβαροι. εἶτα δὲ τοὺς
-  Ἕλληνας (compare Ἑλλάς) παρήλαυνον ὁ Κῦρος ἐφ᾽<note>ἐπί. A word that suffers elision ronghens its mute before a rough breathing.</note>
-  ἅρματος καὶ ἡ Κίλισσα ἐφ᾽ ἁρμαμάξης (carriage). εἶχον
-  δὲ πάντες ὅπλα καλά, παριελάσας δὲ τούτους κήρῡκα
-  ἔπεμψε παρὰ τοὺς στρατηγοὺς τῶν ᾿Ελλήνων, ὃς ἐκέλευσεν
-  αὐτοὺς ἐπι-χωρῆσαι (advance, trans.) πᾶσαν τὴν φάλαγγα.
-  ἐκ δὲ τούτον οἱ στρατιῶται ἐλαύνοντες σὺν κραυγῇ ἀπὸ τοῦ
-  αὐτομάτου (compare AUTOMATIC) ἔσπευσαν ἐπὶ τὴς σκηνάς,
-  τοῖς δὲ βαρβάροις ἦν φόβος, ὥστε ἔφυγον καὶ ἡ Κίλισσα ἐπὶ
-  τῆς ἁρμαμάξης καὶ οἱ ἐκ τῆς ἀγορᾶς τὰ χρήματα κατα-λιπόντες.<note>κατά in compound words often means behind.</note> οὕτως οὖν οἱ Ἑλληνες σὺν γέλωτι (laughter) ἐπὶ τὰς σκηνὰς ἧκον.</quote>  <bibl>Adapted from Xenophon, <title>Anabasis</title>, I, 2. 16-18.</bibl></cit>
+καὶ πρῶτον μὲν παρ-ήλαυνον οἱ βάρβαροι. εἶτα δὲ τοὺς
+Ἕλληνας (compare Ἑλλάς) παρήλαυνον ὁ Κῦρος ἐφ᾽<note>ἐπί. A word that suffers elision ronghens its mute before a rough breathing.</note>
+ἅρματος καὶ ἡ Κίλισσα ἐφ᾽ ἁρμαμάξης (carriage). εἶχον
+δὲ πάντες ὅπλα καλά, παριελάσας δὲ τούτους κήρῡκα
+ἔπεμψε παρὰ τοὺς στρατηγοὺς τῶν ᾿Ελλήνων, ὃς ἐκέλευσεν
+αὐτοὺς ἐπι-χωρῆσαι (advance, trans.) πᾶσαν τὴν φάλαγγα.
+ἐκ δὲ τούτον οἱ στρατιῶται ἐλαύνοντες σὺν κραυγῇ ἀπὸ τοῦ
+αὐτομάτου (compare AUTOMATIC) ἔσπευσαν ἐπὶ τὴς σκηνάς,
+τοῖς δὲ βαρβάροις ἦν φόβος, ὥστε ἔφυγον καὶ ἡ Κίλισσα ἐπὶ
+τῆς ἁρμαμάξης καὶ οἱ ἐκ τῆς ἀγορᾶς τὰ χρήματα κατα-λιπόντες.<note>κατά in compound words often means behind.</note> οὕτως οὖν οἱ Ἑλληνες σὺν γέλωτι (laughter) ἐπὶ τὰς σκηνὰς ἧκον.</quote>  <bibl>Adapted from Xenophon, <title>Anabasis</title>, I, 2. 16-18.</bibl></cit>
 
 
 
@@ -3878,7 +3873,7 @@ James Russell Lowell, Address on Books and Libraries.</p></div>
 
 
 
- <figure><head>A Panathenaic Amphora</head></figure>
+<figure><head>A Panathenaic Amphora</head></figure>
 
 
 <pb n="71"/>
@@ -3890,8 +3885,8 @@ James Russell Lowell, Address on Books and Libraries.</p></div>
 <div type="textpart" subtype="lesson" n="23">
 <head>CONTRACT VERBS IN -έω </head>
 <cit><quote xml:lang="grc">φιλεῖ δὲ τῷ κάμνοντι συσπεύδειν θεός.</quote> <quote xml:lang="eng">God helps him who helps himself</quote> <quote xml:lang="eng">Literally: God loves to assist zealously the man
-  who works.</quote> <bibl>Aeschylus, fragment.</bibl></cit>
- 
+who works.</quote> <bibl>Aeschylus, fragment.</bibl></cit>
+
 
 
 
@@ -3930,11 +3925,11 @@ genitive absolute may express time, cause, and the like.
 It is usually best translated as a clause : 
 
 <cit><quote xml:lang="grc">Κύρου κελεύσαντος ταῦτα ἐποίησαν</quote> <quote xml:lang="eng">when Cyrus ordered, they did
-  this </quote> </cit>
- ;
- <cit><quote xml:lang="grc">τούτων πράγματα παρ-εχόντων σπεύσομεν</quote> <quote xml:lang="eng">if they cause trouble, we
-  shall hasten </quote> <bibl></bibl></cit>
- ;
+this </quote> </cit>
+;
+<cit><quote xml:lang="grc">τούτων πράγματα παρ-εχόντων σπεύσομεν</quote> <quote xml:lang="eng">if they cause trouble, we
+shall hasten </quote> <bibl></bibl></cit>
+;
 
 τῶν φυλάκων διωκόντων ἔφυγεν with the guards pursuing, he fled.</p></div>
 
@@ -3995,9 +3990,9 @@ Love led Orpheus to seek Eurydice in Hades. On the way out, he turned to look α
 
 <div type="textpart" subtype="para" n="131">
 <p>HUMAN FRAILTY
-  <cit><quote xml:lang="grc">Πόθεν (whence) πόλεμοι καὶ πόθεν μάχαι ἐν ὑμῖν; οὐκ
-    ἐντεῦθεν, ἐκ τῶν ἡδονῶν (pleasures) ὑμῶν... ; ἐπιθυμεῖτε
-    (desire), καὶ οὐκ ἔχετε· . . . μάχεσθε (you fight) καὶ πολεμεῖτε. . .. αἰτεῖτε καὶ οὐ λαμβάνετε, διότι (because) κακῶς <note>Adverb.</note> αἰτεῖσθε (= αἰτεῖτε)</quote> <quote xml:lang="eng"></quote> <bibl>St. James, IV. 1-3.</bibl></cit>
+<cit><quote xml:lang="grc">Πόθεν (whence) πόλεμοι καὶ πόθεν μάχαι ἐν ὑμῖν; οὐκ
+ἐντεῦθεν, ἐκ τῶν ἡδονῶν (pleasures) ὑμῶν... ; ἐπιθυμεῖτε
+(desire), καὶ οὐκ ἔχετε· . . . μάχεσθε (you fight) καὶ πολεμεῖτε. . .. αἰτεῖτε καὶ οὐ λαμβάνετε, διότι (because) κακῶς <note>Adverb.</note> αἰτεῖσθε (= αἰτεῖτε)</quote> <quote xml:lang="eng"></quote> <bibl>St. James, IV. 1-3.</bibl></cit>
 
 
 
@@ -4007,10 +4002,10 @@ Love led Orpheus to seek Eurydice in Hades. On the way out, he turned to look α
 <pb n="74"/>
 <figure><head>THE ERECHTHEUM</head>
 <p>On the spot where Athena contended with Poseidon for the guardianship
-  of Athens, stands the most elegant of all Greek temples. Near one end
-  grew the sacred olive of the goddess. Within the shrine was her ancient
-  wooden image. Beneath the north porch are still shown the marks of
-  Poseidon's trident. (See the pictures on page 334 and facing page 180.)</p></figure>
+of Athens, stands the most elegant of all Greek temples. Near one end
+grew the sacred olive of the goddess. Within the shrine was her ancient
+wooden image. Beneath the north porch are still shown the marks of
+Poseidon's trident. (See the pictures on page 334 and facing page 180.)</p></figure>
 
 </p></div>
 
@@ -4028,7 +4023,7 @@ with words of the ο-declension.
 
 <figure><head>A DETAIL FROM THE ERECHTHEUM</head>
 <p>This honeysuckle pattern, justly famous for its exquisite workmanship, is an
-  ever-recurring theme in the decoration of the temple.</p></figure>
+ever-recurring theme in the decoration of the temple.</p></figure>
 
 
 
