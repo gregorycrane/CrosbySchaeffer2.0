@@ -59,7 +59,7 @@ at the start.
 
 ## [§ 64](#para64). Datives (review)
 
-1. § 4: Dative as Indirect Oboject:  πέμπομεν τὰ δῶρα τῷ στρατηγῷ.
+1. § 4: Dative as Indirect Object:  πέμπομεν τὰ δῶρα τῷ στρατηγῷ.
 2. § 16: Dative with the Adjective: πολέμιος ἦν τῷ στρατηγῷ.
 3. § 23: Dative of Place Where: ἐν τῷ πεδίῳ, παρὰ τῷ στρατηγῶ.
 4. § 32: Dative of Poessession: φυλακὴ οὐκ ἦν τῇ κώμῃ.
@@ -98,7 +98,7 @@ at the start.
 Ἀθηναῖοι ἧκον. ἐνταῦθα οἱ μὲν Ἀθηναῖοι δρόμῳ ἔσπευσαν εἰς
 τοὺς βαρβάρους. ἀπ-εῖχον δὲ σταδίους ὀκτώ. οἱ δὲ Πέρσαι
 
-<pb n="38"/>
+
 
 ἐνόμιζον μανίᾶν (compare MANIAC) εἶναι[note: Present infinitive in Indirect Discourse (§ 50) = to be.] τοῖς Ἀθηναίοις.
 ἡ μὲν μάχη ἡ ἐν τῷ Μαραθῶνι ἦν μακρά, τέλος ( finally) δὲ
@@ -108,7 +108,7 @@ at the start.
 
 
 Adapted from Herodotus, Book VI.
-
+<pb n="38"/>
 [note: For information regarding Herodotus and other personages referred to in
 this book, consult Dictionary of Proper Names in the print volume, page 335.]
 
