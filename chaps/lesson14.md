@@ -1,14 +1,8 @@
 # Chapter 14: DEMONSTRATIVE PRONOUNS
 
 
-<quote xml:lang="grc">
-σπεῦδε βραδέως.
-
-
-<quote xml:lang="eng">
-Make haste slowly.
-
-
+>  σπεῦδε βραδέως.<br/>
+>  Make haste slowly.<br/>
 >> [Suetonius, Augustus, 25.4. A favorite expression of Augustus.](https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo012.perseus-lat2:25)
 
 
