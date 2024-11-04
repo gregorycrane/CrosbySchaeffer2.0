@@ -138,9 +138,9 @@ The infinitive, except in
 indirect discourse,[note: § 50d] has no time value. The present infinitive denotes continuance or repetition (a motion picture),
 while the aorist infinitive denotes a single occurrence (a snap-shot):
 
-<foreign>ἐθέλει φεύγειν</foreign> *he wishes to keep on fleeing *;
 | Greek | English | 
 | --- | -- | 
+|  ἐθέλει φεύγειν  |  he wishes to keep on fleeing;   |
 |  ἐθέλει φυγεῖν  |  he wishes to flee.  |
 
 
