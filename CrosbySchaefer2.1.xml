@@ -2749,7 +2749,7 @@ figures beneath the cornice represent the eight winds.</p></figure>
 Make haste slowly.
 
 </quote>
-<bibl>Suetonius, Augustus, 25. A favorite expression of Augustus.</bibl>
+<bibl n="https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo012.perseus-lat2:25">Suetonius, Augustus, 25.4. A favorite expression of Augustus.</bibl>
 </cit>
 
 
@@ -2758,9 +2758,29 @@ Make haste slowly.
 (Latin hic), ὅδε this, and ἐκεῖνος that (Latin <foreign xml:lang="lat">ille</foreign>).
 
 οὗτος this
+
+<table>
+  <row role="label"><cell>masc.</cell><cell>fem.</cell><cell>neut.</cell></row>  
+  <row><cell>οὗτος</cell><cell>αὕτη</cell><cell>τοῦτο</cell></row>
+  <row><cell>τούτου</cell><cell>ταύτης</cell><cell>τούτου</cell></row>
+  <row><cell>τούτῳ</cell><cell>ταύτῃ</cell><cell>τούτῳ</cell></row>
+  <row><cell>τοῦτον</cell><cell>ταύτην</cell><cell>τοῦτο</cell></row>
+  <row><cell>οὗτος</cell><cell>αὗται</cell><cell>ταῦτα</cell></row>
+  <row><cell>τούτων</cell><cell>τούτων</cell><cell>τούτων</cell></row>
+  <row><cell>τούτοις</cell><cell>ταύταις</cell><cell>τούτοις</cell></row>
+  <row><cell>τούτους</cell><cell>ταύτας</cell><cell>ταῦτα</cell></row>
+</table>
+</p><p>
 ὅδε this
 
-
+<table>
+    <row role="label"><cell>masc.</cell><cell>fem.</cell><cell>neut.</cell></row>  
+    <row><cell>οὗτος</cell><cell>αὗται</cell><cell>ταῦτα</cell></row>
+    <row><cell>τούτων</cell><cell>τούτων</cell><cell>τούτων</cell></row>
+    <row><cell>τούτοις</cell><cell>ταύταις</cell><cell>τούτοις</cell></row>
+    <row><cell>τούτους</cell><cell>ταύτας</cell><cell>ταῦτα</cell></row>
+  </table>
+  
 Note that οὗτος has the same endings as αὐτός (§ 68), that it has
 initial τ- only where the article ὁ, ἡ, τό has τ-, and that it has ου in
 the penult only when an ο-sound occurs in the ultima, having αυ in

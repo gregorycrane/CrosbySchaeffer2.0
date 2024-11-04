@@ -9,7 +9,7 @@
 Make haste slowly.
 
 
->> Suetonius, Augustus, 25. A favorite expression of Augustus.
+>> [Suetonius, Augustus, 25.4. A favorite expression of Augustus.](https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo012.perseus-lat2:25)
 
 
 
@@ -20,7 +20,31 @@ The principal demonstrative pronouns are οὗτος this
 (Latin hic), ὅδε this, and ἐκεῖνος that (Latin <foreign xml:lang="lat">ille</foreign>).
 
 οὗτος this
+
+
+| masc. | fem. | neut. | 
+| --- | --- | --- 
+| οὗτος | αὕτη | τοῦτο | 
+| τούτου | ταύτης | τούτου | 
+| τούτῳ | ταύτῃ | τούτῳ | 
+| τοῦτον | ταύτην | τοῦτο | 
+| οὗτος | αὗται | ταῦτα | 
+| τούτων | τούτων | τούτων | 
+| τούτοις | ταύταις | τούτοις | 
+| τούτους | ταύτας | ταῦτα | 
+
+
+
+
 ὅδε this
+
+
+| masc. | fem. | neut. | 
+| --- | --- | --- 
+| οὗτος | αὗται | ταῦτα | 
+| τούτων | τούτων | τούτων | 
+| τούτοις | ταύταις | τούτοις | 
+| τούτους | ταύτας | ταῦτα | 
 
 
 Note that οὗτος has the same endings as αὐτός (§ 68), that it has
