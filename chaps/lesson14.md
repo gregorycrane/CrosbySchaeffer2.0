@@ -122,11 +122,11 @@ he crosses the river in (by means of) a boat.
 ## [§ 78](#para78). Vocabulary
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-- <rs type="lemma">ἀ-διά-βατος</rs>* uncrossable. 
-- <rs type="lemma">δια-βαίνω</rs>[note: Future and aorist will be given later.] cross. 
-- <rs type="lemma">δια-βατός</rs>* crossable.
+| ἀδιάβατος | [2](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀδιάβατος.md) | 22578 | (note 1) uncrossable. 
+| διαβαίνω | [87](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/διαβαίνω.md) | 22665 | (Future and aorist will be given later.) to cross. 
+| διαβατός | [4](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/διαβατός.md) | 22669 | (note 1) crossable.
 | ἐκεῖνος | [86](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐκεῖνος.md) | 22755 | that. 
-- <rs type="lemma">συμ-βουλεύω</rs>[note: σύν- changes to σύμ- before β for the sake of euphony.] advise, with D. of
+| συμβουλεύω | [28](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/συμβουλεύω.md) | 22783 | (note: σύν- changes to σύμ- before β for the sake of euphony.) to advise, with D. of
 | μεστός | [11](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/μεστός.md) | 22794 | full, full of, the person. with G. 
 | ὅδε | [43](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ὅδε.md) | 22837 | ἤδε, τόδε: this (as follows). 
 | οὗτος | [1037](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/οὗτος.md) | 23874 | αὕτη, τοῦτο: this (as already mentioned).
@@ -137,7 +137,11 @@ he crosses the river in (by means of) a boat.
 
 
 
-* Masculine and feminine are alike in form. See paradigm (§510, 6). Compare Latin omnis.
+note1: Masculine and feminine are alike in form. See paradigm (§510, 6). Compare Latin omnis.
+
+
+
+note 2:
 
 
 
