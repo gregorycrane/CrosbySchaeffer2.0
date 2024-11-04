@@ -35,10 +35,16 @@ The principal demonstrative pronouns are οὗτος this
 
 | masc. | fem. | neut. | 
 | --- | --- | --- 
-| οὗτος | αὗται | ταῦτα | 
-| τούτων | τούτων | τούτων | 
-| τούτοις | ταύταις | τούτοις | 
-| τούτους | ταύτας | ταῦτα | 
+| ὅδε | ἥδε | τόδε | 
+| τοῦδε | τῆσδε | τοῦδε | 
+| τῷδε | τῇδε | τῷδε | 
+| τόνδε | τήνδε | τόνδε | 
+| οἵδε | αἵδε | τάδε | 
+| τῶνδε | τῶνδε | τῶνδε | 
+| τοῖσδε | ταῖσδε | τοῖσδε | 
+| τόνδε | τάςδε | τάδε | 
+
+
 
 
 Note that οὗτος has the same endings as αὐτός (§ 68), that it has
@@ -46,7 +52,11 @@ initial τ- only where the article ὁ, ἡ, τό has τ-, and that it has ου 
 the penult only when an ο-sound occurs in the ultima, having αυ in
 the other forms.
 
+
+
 Contrast οὗτος and αὐτός as to breathing, accent, and stem.
+
+
 
 Note that the forms of ὅδε are the forms of the article with -δέ
 added.
@@ -68,19 +78,39 @@ Inflect it, and compare with paradigm (§ 523).
 mean this, this book, ete.; but οὗτος usually refers to something already mentioned, and ὅδε to something yet to
 follow:
 
-ταῦτα ἔγραψε
-this (just mentioned) is what he wrote ;
-ἔγραψε τάδε
-he wrote as follows.
+| Greek | English | 
+| --- | -- | 
+|  ταῦτα ἔγραψε  |  this (just mentioned) is what he wrote ;  |
+|  ἔγραψε τάδε  |  he wrote as follows.  |
+
+
+
+
+
+
+
 
 (b) ἐκεῖνος refers to something more remote than do
 οὗτος and ὅδε and is translated *that*.
+
+
+
+
 (c) All three may be used as emphatic personal pronouns,
 he, she, it, they.
+
+
+
+
 (d) When used as demonstrative adjectives all three
 have the predicate position (§ 31, 2):
-αὕτη ἡ κώμη this village ;
-ἐκείνη ἡ κώμη that village.
+
+| Greek | English | 
+| --- | -- | 
+|  αὕτη ἡ κώμη  |  this village ;  |
+|  ἐκείνη ἡ κώμη  |  that village.  |
+
+
 
 ## [§ 77](#para77). Dative of Means.
 
@@ -92,22 +122,22 @@ he crosses the river in (by means of) a boat.
 ## [§ 78](#para78). Vocabulary
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| ἀδιάβατος | [2](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀδιάβατος.md) | 22578 | 2 uncrossable. 
-| διαβαίνω | [87](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/διαβαίνω.md) | 22665 | [note: Future and aorist will be given later.] cross. 
-| διαβατός | [4](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/διαβατός.md) | 22669 | 2 crossable.
+- <rs type="lemma">ἀ-διά-βατος</rs>* uncrossable. 
+- <rs type="lemma">δια-βαίνω</rs>[note: Future and aorist will be given later.] cross. 
+- <rs type="lemma">δια-βατός</rs>* crossable.
 | ἐκεῖνος | [86](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐκεῖνος.md) | 22755 | that. 
-| συμβουλεύω | [28](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/συμβουλεύω.md) | 22783 | [note: σύν- changes to σύμ- before β for the sake of euphony.] advise, with D. of
+- <rs type="lemma">συμ-βουλεύω</rs>[note: σύν- changes to σύμ- before β for the sake of euphony.] advise, with D. of
 | μεστός | [11](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/μεστός.md) | 22794 | full, full of, the person. with G. 
 | ὅδε | [43](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ὅδε.md) | 22837 | ἤδε, τόδε: this (as follows). 
-| οὗτος | [1037](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/οὗτος.md) | 23874 | αὕτη, τοῦτο: this (as aforesaid).
+| οὗτος | [1037](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/οὗτος.md) | 23874 | αὕτη, τοῦτο: this (as already mentioned).
 | πλοῖον | [60](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πλοῖον.md) | 23934 | πλοίου, τό: boat.
-| σῖτος | [22](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σῖτος.md) | 23956 | του, ὁ : grain, food.  PARASITE.
-| σύν | [168](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σύν.md) | 24124 | prep. with D.: with. SYNOD.
+| σῖτος | [22](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σῖτος.md) | 23956 | του, ὁ : grain, food.  PARASITE (the one who takes foot with you).
+| σύν | [168](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σύν.md) | 24124 | prep. with D.: with. SYNOD (a coming together); SYMPATHY (a shared feeling).
 
 
 
 
-2 Masculine and feminine are alike in form. See paradigm (§510, 6). Compare Latin omnis.
+* Masculine and feminine are alike in form. See paradigm (§510, 6). Compare Latin omnis.
 
 
 

@@ -2769,19 +2769,23 @@ figures beneath the cornice represent the eight winds.</p></figure>
 
 <table>
     <row role="label"><cell>masc.</cell><cell>fem.</cell><cell>neut.</cell></row>  
-    <row><cell>οὗτος</cell><cell>αὗται</cell><cell>ταῦτα</cell></row>
-    <row><cell>τούτων</cell><cell>τούτων</cell><cell>τούτων</cell></row>
-    <row><cell>τούτοις</cell><cell>ταύταις</cell><cell>τούτοις</cell></row>
-    <row><cell>τούτους</cell><cell>ταύτας</cell><cell>ταῦτα</cell></row>
+    <row><cell>ὅδε</cell><cell>ἥδε</cell><cell>τόδε</cell></row>
+    <row><cell>τοῦδε</cell><cell>τῆσδε</cell><cell>τοῦδε</cell></row>
+    <row><cell>τῷδε</cell><cell>τῇδε</cell><cell>τῷδε</cell></row>
+    <row><cell>τόνδε</cell><cell>τήνδε</cell><cell>τόνδε</cell></row>
+    <row><cell>οἵδε</cell><cell>αἵδε</cell><cell>τάδε</cell></row>
+    <row><cell>τῶνδε</cell><cell>τῶνδε</cell><cell>τῶνδε</cell></row>
+    <row><cell>τοῖσδε</cell><cell>ταῖσδε</cell><cell>τοῖσδε</cell></row>
+    <row><cell>τόνδε</cell><cell>τάςδε</cell><cell>τάδε</cell></row>
   </table>
-  
+</p><p> 
 Note that οὗτος has the same endings as αὐτός (§ 68), that it has
 initial τ- only where the article ὁ, ἡ, τό has τ-, and that it has ου in
 the penult only when an ο-sound occurs in the ultima, having αυ in
 the other forms.
-
+</p><p>
 Contrast οὗτος and αὐτός as to breathing, accent, and stem.
-
+</p><p>
 Note that the forms of ὅδε are the forms of the article with -δέ
 added.</p></div>
 
@@ -2798,19 +2802,29 @@ Inflect it, and compare with paradigm (§ 523).
 mean this, this book, ete.; but οὗτος usually refers to something already mentioned, and ὅδε to something yet to
 follow:
 
-ταῦτα ἔγραψε 
-this (just mentioned) is what he wrote ;
-ἔγραψε τάδε 
-he wrote as follows.
+<foreign>ταῦτα ἔγραψε</foreign> <gloss>this (just mentioned) is what he wrote ;</gloss>
+<foreign>ἔγραψε τάδε</foreign> <gloss>he wrote as follows.</gloss>
+ 
+</p><p>
+
+ 
+
 
 (b) ἐκεῖνος refers to something more remote than do
 οὗτος and ὅδε and is translated <gloss>that</gloss>.
+</p><p>
+
 (c) All three may be used as emphatic personal pronouns,
 he, she, it, they.
+</p><p>
+
 (d) When used as demonstrative adjectives all three
 have the predicate position (§ 31, 2):
-αὕτη ἡ κώμη this village ;
-ἐκείνη ἡ κώμη that village.</p></div>
+
+<foreign>αὕτη ἡ κώμη</foreign> <gloss>this village ;</gloss>
+<foreign>ἐκείνη ἡ κώμη</foreign> <gloss>that village.</gloss>
+ 
+ </p></div>
 
 <div type="textpart" subtype="para" n="77"><head>Dative of Means.</head>
 <p>The dative indicates the means whereby an act is done: <note>The dative has three distinct divisions as to use, corresponding to English phrases with to or for, with, and in.</note>
@@ -2819,20 +2833,20 @@ he crosses the river in (by means of) a boat.</p></div>
 
 <div type="textpart" subtype="para" n="78"><head>Vocabulary</head>
 <list type="vocab">
-<item><rs type="lemma">ἀ-διά-βατος</rs>:2 uncrossable. </item>
-<item><rs type="lemma">δια-βαίνω</rs>:<note>Future and aorist will be given later.</note> cross. </item>
-<item><rs type="lemma">δια-βατός</rs>:2 crossable.</item>
+<item><rs type="lemma">ἀ-διά-βατος</rs>* uncrossable. </item>
+<item><rs type="lemma">δια-βαίνω</rs><note>Future and aorist will be given later.</note> cross. </item>
+<item><rs type="lemma">δια-βατός</rs>* crossable.</item>
 <item><rs type="lemma">ἐκεῖνος</rs>: that. </item>
-<item><rs type="lemma">συμ-βουλεύω</rs> :<note>σύν- changes to σύμ- before β for the sake of euphony.</note> advise, with D. of</item>
+<item><rs type="lemma">συμ-βουλεύω</rs><note>σύν- changes to σύμ- before β for the sake of euphony.</note> advise, with D. of</item>
 <item><rs type="lemma">μεστός</rs>: full, full of, the person. with G. </item>
 <item><rs type="lemma">ὅδε</rs>, ἤδε, τόδε: this (as follows). </item>
-<item><rs type="lemma">οὗτος</rs>, αὕτη, τοῦτο: this (as aforesaid).</item>
+<item><rs type="lemma">οὗτος</rs>, αὕτη, τοῦτο: this (as already mentioned).</item>
 <item><rs type="lemma">πλοῖον</rs>, πλοίου, τό: boat.</item>
-<item><rs type="lemma">σῖτος</rs>, του, ὁ : grain, food.  PARASITE.</item>
-<item><rs type="lemma">σύν</rs>, prep. with D.: with. SYNOD.</item>
+<item><rs type="lemma">σῖτος</rs>, του, ὁ : grain, food.  PARASITE (the one who takes foot with you).</item>
+<item><rs type="lemma">σύν</rs>, prep. with D.: with. SYNOD (a coming together); SYMPATHY (a shared feeling).</item>
 </list>
 <p>
-2 Masculine and feminine are alike in form. See paradigm (§510, 6). Compare Latin omnis.
+* Masculine and feminine are alike in form. See paradigm (§510, 6). Compare Latin omnis.
 
 
 </p></div>
