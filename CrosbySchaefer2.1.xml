@@ -2888,9 +2888,9 @@ note1: Masculine and feminine are alike in form. See paradigm (§510, 6). Compar
 Gospel is one of many evidences of this.
 
 <cit>
-<quote>ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς <note>in the presence of</note> ὃ τὸν θεόν
+<quote>ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς <note>in the presence of</note>  τὸν θεόν
 (compare THEOLOGY), καὶ θεὸς ἦν ὁ λόγος. οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.</quote>
-<bibl>St. John, 1. 1-2.</bibl>
+<bibl n="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg004.perseus-grc2:1.1-1.2?right=perseus-eng2">Gospel of John, 1. 1-2.</bibl>
 </cit>
 
 
@@ -2905,13 +2905,9 @@ Gospel is one of many evidences of this.
 <div type="textpart" subtype="lesson" n="15">
 <head>FEMININE NOUNS OF THE A-DECLENSION. PERSONAL PRONOUNS</head>
 <cit>
-<quote>
-θάλαττα, θάλαττα.
-</quote>
-<quote>
-The sea, the sea!
-</quote>
-<bibl>Xenophon, <title>Anabasis</title>, IV. 7, 24. 2 </bibl>
+<quote xml:lang="grc">θάλαττα, θάλαττα.</quote>
+<quote xml:lang="eng">The sea, the sea!</quote>
+<bibl n="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:4.7.24?right=perseus-eng2">Xenophon, <title>Anabasis</title>, 4.7.24. </bibl>
 </cit>
 
 
@@ -2954,32 +2950,34 @@ particular condition without implying anything as to its
 fulfillment or non-fulfillment. This is called a particular
 condition in present or past time:
 
-εἰ τὴν γέφυραν φυλάττει, τὰς σπονδὰς λύει 
-if he is guarding the bridge, he is breaking the treaty ;
+<foreign>εἰ τὴν γέφυραν φυλάττει, τὰς σπονδὰς λύει </foreign> <gloss>if he is guarding the bridge, he is breaking the treaty ;</gloss>
 
-εἰ ... ἐφύλαξε, ... ἔλυσε 
-if he guarded ..., he broke... .
+
+
+<foreign>εἰ ... ἐφύλαξε, ... ἔλυσε</foreign> <gloss>if he guarded ..., he broke....</gloss>
+
+</p><p>
+
 
 (b) The regular negative of the protasis is μή, of the
 apodosis οὐ.
 </p></div>
 
-<div type="textpart" subtype="para" n="84">
-<p>VOCABULARY
-<rs type="lemma" n="ἄμαξα">ἅμαξα</rs>: cart, wagon. 
-
-<rs type="lemma" n="βασιλεία">βασίλεια</rs>: queen. 
-<rs type="lemma">γέφῡρα</rs>: bridge. 
-<rs type="lemma">ἐγώ</rs>: I. EGOTIST. 
-<rs type="lemma">ὅπλον</rs>: implement, tool ;
-<rs type="lemma">εἰ</rs>, proclit. conj.: if. frequently pl, arms (in war). PANOPLY.
-<rs type="lemma" n="θάλασσα">θάλαττα</rs>: sea. 
-<rs type="lemma">κακός</rs>: bad, cowardly. CACOPHONY.
-<rs type="lemma">οὖν</rs>, post-pos. conj.: therefore, then,  accordingly.
-
-<rs type="lemma">μή</rs>, neg. adv.: not, Found instead of οὐ with most uses of the infinitive and in conditional clauses.
-
-σύ: thou, you (sg.).</p></div>
+<div type="textpart" subtype="para" n="84"><head>Vocabulary</head>
+<list type="vocab">
+<item><rs type="lemma" n="ἄμαξα">ἅμαξα</rs>: cart, wagon. </item>
+<item><rs type="lemma" n="βασιλεία">βασίλεια</rs>: queen. </item>
+<item><rs type="lemma">γέφῡρα</rs>: bridge. </item>
+<item><rs type="lemma">ἐγώ</rs>: I. EGOTIST. </item>
+<item><rs type="lemma">ὅπλον</rs>: implement, tool ;</item>
+<item><rs type="lemma">εἰ</rs>, proclit. conj.: if. frequently pl, arms (in war). PANOPLY.</item>
+<item><rs type="lemma" n="θάλασσα">θάλαττα</rs>: sea. </item>
+<item><rs type="lemma">κακός</rs>: bad, cowardly. CACOPHONY.</item>
+<item><rs type="lemma">οὖν</rs>, post-pos. conj.: therefore, then,  accordingly.</item>
+<item><rs type="lemma">μή</rs>, neg. adv.: not, Found instead of οὐ with most uses of the infinitive and in conditional clauses.</item>
+<item><rs type="lemma">σύ</rs>: thou, you (sg.).</item>
+</list>
+</div>
 
 <div type="textpart" subtype="para" n="85"><head>Exercises.</head>
 <p>

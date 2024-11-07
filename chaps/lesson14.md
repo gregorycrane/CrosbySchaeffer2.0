@@ -185,9 +185,9 @@ Paul’s Cathedral, London, writes:
 Gospel is one of many evidences of this.
 
 
-<quote>ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς [note: in the presence of] ὃ τὸν θεόν
+<quote>ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς [note: in the presence of]  τὸν θεόν
 (compare THEOLOGY), καὶ θεὸς ἦν ὁ λόγος. οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.
->> St. John, 1. 1-2.
+>> [Gospel of John, 1. 1-2.](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg004.perseus-grc2:1.1-1.2?right=perseus-eng2)
 
 
 
