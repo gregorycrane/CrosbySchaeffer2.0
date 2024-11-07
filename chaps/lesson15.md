@@ -17,6 +17,33 @@ preceding letter is ι or ρ; otherwise they have η.
 
 
 
+ἅμαξα, ἁμάξης, ἡ, wagon
+
+
+| sing. | plural | 
+| --- | --- 
+| ἅμαξα (note 2) | ἅμαξαι | 
+| ἁμάξης | ἁμαξῶν | 
+| ἅμαξῃ | ἁμάξαις | 
+| ἅμαξαν | ἁμάξας | 
+
+
+
+
+γέφυρα, γεφύρας, ἡ, wagon
+
+| sing | plural | 
+| --- | --- 
+| γέφυρα | γέφυραι | 
+| γεφύρας | γεφυρῶν | 
+| γεφύρᾳ | γεφύραις | 
+| γέφυραν | γεφύρας | 
+
+
+
+
+note 2 For accent, see § V, e, f, g.
+
 
 Note that in the singular, nominative and accusative agree as to
 final vowel, quantity of final vowel, and accent; and that the genitive
@@ -34,7 +61,31 @@ The Personal Pronouns are <rs type="lemma">ἐγώ</rs>,
 the first and second persons. For the third person, αὐτός
 is used in all cases except the nominative.
 
-2 For accent, see § V, e, f, g.
+
+
+ἐγώ, I
+
+| sing | plural | 
+| --- | --- 
+| ἐγώ | ἡμεῖς | 
+| ἐμοῦ, μου (note 3) | ἡμῶν | 
+| ἐμοί, μοι | ἡμῖν | 
+| ἐμέ, με | ἡμᾶς | 
+
+
+
+
+σύ, you
+
+| sing | plural | 
+| --- | --- 
+| σύ | ὑμεῖς | 
+| σοῦ, σου (note 3) | ὑμῶν | 
+| σοί, σοι | ὑμῖν | 
+| σέ, σε | ὑμᾶς | 
+
+
+
 
 3 The unaccented forms are enclitic (§ V,j). When used, they show that
 no emphasis is intended. The accented forms are emphatic or are used with
