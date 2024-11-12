@@ -51,33 +51,31 @@ they persuaded me to go to their (own) tent.
 <div type="textpart" subtype="para" n="90">
 
 
-VOCABULARY
 
-<rs type="lemma">ἑ-αυτοῦ</rs> : of himself, herself; itself.
+| Lemma | Freq | Total | Gloss |
+| --- | --- | --- | -- |
 
-<rs type="lemma">ἐμ-αυτοῦ</rs>: of myself.
+| ἑαυτοῦ | [150](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἑαυτοῦ.md) | 26598 | of himself, herself; itself.
 
-<rs type="lemma">ἐξελαύνω</rs>,2 ἐξήλασα: drive out, march forth, march on.
+| ἐμαυτοῦ | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐμαυτοῦ.md) | 26612 | of myself.
 
-<rs type="lemma">μένω</rs>:2 remain, wait for.
+| ἐξελαύνω | [27](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐξελαύνω.md) | 26639 | 2 ἐξήλασα: drive out, march forth, march on.
 
-<rs type="lemma">Ξενίας</rs>: Xenias, an Arcadian general serving under Cyrus, the younger.
+| μένω | [89](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/μένω.md) | 26728 | 2 remain, wait for.
 
-<rs type="lemma">ὁπλίτης</rs>: hoplite, a heavy-armed soldier, Cf.
+| Ξενίας | [7](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/Ξενίας.md) | 26735 | Xenias, an Arcadian general serving under Cyrus, the younger.
 
+| ὁπλίτης | [66](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ὁπλίτης.md) | 26801 | hoplite, a heavy-armed soldier, Cf. 
+| πολίτης | [2](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πολίτης.md) | 26803 | citizen, POLITICS,
 
+| σατράπης | [5](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σατράπης.md) | 26808 | satrap, a Persian viceroy.
 
+| σεαυτοῦ | [7](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σεαυτοῦ.md) | 26815 | Of yourself.
 
+| σταθμόν | [12](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σταθμός.md) | 26827 | halting-place, day’s march,
 
-<rs type="lemma">πολίτης</rs>: citizen, POLITICS,
+| στρατιώτης | [160](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/στρατιώτης.md) | 26987 | soldier. Cf. στρατιά, στρατηγός.
 
-<rs type="lemma">σατράπης</rs>: satrap, a Persian viceroy.
-
-<rs type="lemma">σεαυτοῦ</rs>: Of yourself.
-
-<rs type="lemma" n="σταθμόν">σταθμός</rs>: halting-place, day’s march,
-
-<rs type="lemma">στρατιώτης</rs>: soldier. Cf. στρατιά, στρατηγός.
 
 1 Contracted forms gavrod and abroé are often used in place of ceavrod and ἑαυτοῦ.
 
