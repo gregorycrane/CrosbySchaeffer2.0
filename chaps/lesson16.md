@@ -54,26 +54,16 @@ they persuaded me to go to their (own) tent.
 
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-
 | ἑαυτοῦ | [150](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἑαυτοῦ.md) | 26598 | of himself, herself; itself.
-
 | ἐμαυτοῦ | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐμαυτοῦ.md) | 26612 | of myself.
-
 | ἐξελαύνω | [27](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐξελαύνω.md) | 26639 | 2 ἐξήλασα: drive out, march forth, march on.
-
 | μένω | [89](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/μένω.md) | 26728 | 2 remain, wait for.
-
 | Ξενίας | [7](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/Ξενίας.md) | 26735 | Xenias, an Arcadian general serving under Cyrus, the younger.
-
 | ὁπλίτης | [66](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ὁπλίτης.md) | 26801 | hoplite, a heavy-armed soldier, Cf. 
 | πολίτης | [2](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πολίτης.md) | 26803 | citizen, POLITICS,
-
 | σατράπης | [5](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σατράπης.md) | 26808 | satrap, a Persian viceroy.
-
 | σεαυτοῦ | [7](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σεαυτοῦ.md) | 26815 | Of yourself.
-
 | σταθμόν | [12](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σταθμός.md) | 26827 | halting-place, day’s march,
-
 | στρατιώτης | [160](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/στρατιώτης.md) | 26987 | soldier. Cf. στρατιά, στρατηγός.
 
 
