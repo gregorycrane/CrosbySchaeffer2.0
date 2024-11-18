@@ -90,10 +90,12 @@ if he had guarded ..., he would have broken... .
 Note carefully that the presence of ἄν in the apodosis distinguishes
 a contrary to fact from a past particular condition (§ 85).
 
-<div type="textpart" subtype="para" n="98">
+## [§ 98](#para98). Vocabulary
+
+
+
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-
 | ἄν | [346](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἄν.md) | 27333 | post-pos. particle belonging to certain types of conditional clauses but lacking an exact English eqnivalent.
 | ἄπειμι | [3](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἄπειμι.md) | 27336 | be away, be absent.
 | εἰμί | [1316](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/εἰμί.md) | 28652 | enclit.: be.
