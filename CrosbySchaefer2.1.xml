@@ -3117,9 +3117,21 @@ In like manner inflect ὁπλίτης.</p></div>
 personal pronouns and the proper case forms of αὐτός. In
 the plural of the first and second persons both parts of the
 word are fully inflected. The pronoun of the third person,
-however, has the compounded form in the plural.
+however, has the compounded form in the plural.</p>
 
-For obvious reasons the reflexive pronouns of the first and second persons have no neuter.
+<table>
+  <row role="label"><cell>sg.</cell><cell>pl.</cell></row>
+  <row><cell>σεαυτοῦ</cell><cell>σεαυτῆς</cell></row>
+  <row><cell>σεαυτῷ</cell><cell>σεαυτῇ</cell></row>
+  <row><cell>σεαυτόν</cell><cell>σεαυτήν</cell></row>
+
+  <row><cell>ὑμῶν αὐτῶν</cell><cell>ὑμῶν αὐτῶν</cell></row>
+  <row><cell>ὑμῖν αὐτοῖς</cell><cell>ὑμῖν αὐταῖς</cell></row>
+  <row><cell>ὑμᾶς αὐτούς</cell><cell>ὑμᾶς αὐτάς</cell></row>
+</table>
+
+<p>Contracted forms σαυτοῦ and αὑτοῦ are often used in place of σεαυτοῦ and ἑαυτοῦ.</p>
+<p>For obvious reasons the reflexive pronouns of the first and second persons have no neuter.
 </p></div>
 
 <pb n="50"/>
@@ -3142,8 +3154,8 @@ they persuaded me to go to their (own) tent.</p></div>
   <list type="vocab">
 <item><rs type="lemma">ἑ-αυτοῦ</rs> : of himself, herself; itself.</item>
 <item><rs type="lemma">ἐμ-αυτοῦ</rs>: of myself.</item>
-<item><rs type="lemma">ἐξελαύνω</rs>,2 ἐξήλασα: drive out, march forth, march on.</item>
-<item><rs type="lemma">μένω</rs>:2 remain, wait for.</item>
+<item><rs type="lemma">ἐξελαύνω</rs>,2 ἐξήλασα: <note>The future of this verb is irregular.</note> to drive out, march forth, march on.</item>
+<item><rs type="lemma">μένω</rs>:<note>The future of this verb is irregular.</note> to remain, to wait for.</item>
 <item><rs type="lemma">Ξενίας</rs>: Xenias, an Arcadian general serving under Cyrus, the younger.</item>
 <item><rs type="lemma">ὁπλίτης</rs>: hoplite, a heavy-armed soldier, Cf. </item>
 <item><rs type="lemma">πολίτης</rs>: citizen, POLITICS,</item>
@@ -3153,9 +3165,9 @@ they persuaded me to go to their (own) tent.</p></div>
 <item><rs type="lemma">στρατιώτης</rs>: soldier. Cf. στρατιά, στρατηγός.</item>
 </list>
 
-1 Contracted forms gavrod and abroé are often used in place of ceavrod and ἑαυτοῦ.
 
-2 The future of this verb is irregular.
+
+
 
 </p></div>
 

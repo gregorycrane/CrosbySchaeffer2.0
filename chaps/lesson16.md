@@ -28,6 +28,23 @@ the plural of the first and second persons both parts of the
 word are fully inflected. The pronoun of the third person,
 however, has the compounded form in the plural.
 
+
+| sg. | pl. | 
+| --- | --- 
+| σεαυτοῦ | σεαυτῆς | 
+| σεαυτῷ | σεαυτῇ | 
+| σεαυτόν | σεαυτήν | 
+
+| ὑμῶν αὐτῶν | ὑμῶν αὐτῶν | 
+| ὑμῖν αὐτοῖς | ὑμῖν αὐταῖς | 
+| ὑμᾶς αὐτούς | ὑμᾶς αὐτάς | 
+
+
+
+
+Contracted forms σαυτοῦ and αὑτοῦ are often used in place of σεαυτοῦ and ἑαυτοῦ.
+
+
 For obvious reasons the reflexive pronouns of the first and second persons have no neuter.
 
 
@@ -56,8 +73,8 @@ they persuaded me to go to their (own) tent.
 | --- | --- | --- | -- |
 | ἑαυτοῦ | [150](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἑαυτοῦ.md) | 26598 | of himself, herself; itself.
 | ἐμαυτοῦ | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐμαυτοῦ.md) | 26612 | of myself.
-| ἐξελαύνω | [27](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐξελαύνω.md) | 26639 | 2 ἐξήλασα: drive out, march forth, march on.
-| μένω | [89](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/μένω.md) | 26728 | 2 remain, wait for.
+| ἐξελαύνω | [27](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐξελαύνω.md) | 26639 | 2 ἐξήλασα: [note: The future of this verb is irregular.] to drive out, march forth, march on.
+| μένω | [89](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/μένω.md) | 26728 | [note: The future of this verb is irregular.] to remain, to wait for.
 | Ξενίας | [7](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/Ξενίας.md) | 26735 | Xenias, an Arcadian general serving under Cyrus, the younger.
 | ὁπλίτης | [66](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ὁπλίτης.md) | 26801 | hoplite, a heavy-armed soldier, Cf. 
 | πολίτης | [2](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πολίτης.md) | 26803 | citizen, POLITICS,
@@ -67,9 +84,9 @@ they persuaded me to go to their (own) tent.
 | στρατιώτης | [160](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/στρατιώτης.md) | 26987 | soldier. Cf. στρατιά, στρατηγός.
 
 
-1 Contracted forms gavrod and abroé are often used in place of ceavrod and ἑαυτοῦ.
 
-2 The future of this verb is irregular.
+
+
 
 
 
