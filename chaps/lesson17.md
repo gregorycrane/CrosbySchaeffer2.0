@@ -32,11 +32,16 @@ cial meaning or not.
 (a) If the preeeding word has an ac-
 cent on the ultima, the enclitic has no accent :
 
+<foreign></foreign> <gloss></gloss>
 καλοί εἰσιν they are beautiful.
 
 (b) If the preceding word has an acute on the antepenult or a circumflex on the penult, it receives an additional acute on the ultima and the enclitic has no accent :
 
+<foreign></foreign> <gloss></gloss>
+
 ἄνθρωποί εἰσιν they are men;
+<foreign></foreign> <gloss></gloss>
+
 στρατιῶταί εἰσιν they are soldiers.
 
 <pb n="53"/>
@@ -45,7 +50,11 @@ cent on the ultima, the enclitic has no accent :
 an enclitic of one syllable has no accent but an enclitic of
 two syllables is accented on the final syllable:
 
+<foreign></foreign> <gloss></gloss>
+
 ὁπλίτης τις a certain hoplite ;
+<foreign></foreign> <gloss></gloss>
+
 ὁπλίτης ἐστίν he is a hoplite.
 
 ## [§ 96](#para96). Accent of Augmented Verbs.
@@ -66,8 +75,12 @@ is not or was not fulfilled. This is called a contrary to
 fact condition. The imperfect tense indicates present time ;
 the aorist indicates past time :
 
+<foreign></foreign> <gloss></gloss>
+
 εἰ τὴν γέφυραν ἐφύλαττε, τας σπονδὰς ἂν ἔλυεν
 if he were guarding the bridge, he would be breaking the treaty ;
+
+<foreign></foreign> <gloss></gloss>
 
 εἰ... ἐφύλαξε, . .. ἂν ἔλῡσεν
 if he had guarded ..., he would have broken... .
@@ -78,33 +91,21 @@ Note carefully that the presence of ἄν in the apodosis distinguishes
 a contrary to fact from a past particular condition (§ 85).
 
 <div type="textpart" subtype="para" n="98">
+| Lemma | Freq | Total | Gloss |
+| --- | --- | --- | -- |
 
-
-VOCABULARY
-
-<rs type="lemma">ἄν</rs>, post-pos. particle belonging to certain types of conditional clauses but lacking an exact English eqnivalent.
-
-<rs type="lemma">ἄπ-ειμι</rs>: be away, be absent.
-
-<rs type="lemma">εἰμί</rs> enclit.: be.
-
-<rs type="lemma" n="ἔξεστι">ἔξ-ἐστι(ν)</rs>,2 impersonal ; it is possible.
-
-<rs type="lemma">οὔπω</rs>, neg. adv. : not yet.
-
-<rs type="lemma">πάρ-ειμι</rs>: be present.
-
-<rs type="lemma">πέντε</rs>, indeclinable : five. PENTAGON.
-
-<rs type="lemma">στρατόπεδον</rs>: camp. Cf. στρατιά and πεδίον.
-
-<rs type="lemma">τόπος</rs>: place. TOPOGRAPUY.
-
-<rs type="lemma">τότε</rs>, adv.: then, at that time.
-
-<rs type="form">φᾱσί(ν)</rs>,2 enclit.; they say.
-
-<rs type="form">φησί(ν)</rs>,2 enclit.: he or she says, PROPHET.
+| ἄν | [346](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἄν.md) | 27333 | post-pos. particle belonging to certain types of conditional clauses but lacking an exact English eqnivalent.
+| ἄπειμι | [3](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἄπειμι.md) | 27336 | be away, be absent.
+| εἰμί | [1316](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/εἰμί.md) | 28652 | enclit.: be.
+| ἔξεστι | [31](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἔξ-ἐστι(ν).md) | 28683 | 2 impersonal ; it is possible.
+| οὔπω | [8](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/οὔπω.md) | 28691 | neg. adv. : not yet.
+| πάρειμι | [81](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πάρειμι.md) | 28772 | be present.
+| πέντε | [34](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πέντε.md) | 28806 | indeclinable : five. PENTAGON.
+| στρατόπεδον | [39](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/στρατόπεδον.md) | 28845 | camp. Cf. στρατιά and πεδίον.
+| τόπος | [5](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/τόπος.md) | 28850 | place. TOPOGRAPUY.
+| τότε | [54](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/τότε.md) | 28904 | adv.: then, at that time.
+| φᾱσί(ν) | 0 | 28904 | 2 enclit.; they say.
+| φησί(ν) | 0 | 28904 | 2 enclit.: he or she says, PROPHET.
 
 
 
