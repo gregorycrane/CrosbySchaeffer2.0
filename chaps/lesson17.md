@@ -32,17 +32,23 @@ cial meaning or not.
 (a) If the preeeding word has an ac-
 cent on the ultima, the enclitic has no accent :
 
-<foreign></foreign> <gloss></gloss>
-καλοί εἰσιν they are beautiful.
+| Greek | English | 
+| --- | -- | 
+|  καλοί εἰσιν  |  they are beautiful.  |
+
 
 (b) If the preceding word has an acute on the antepenult or a circumflex on the penult, it receives an additional acute on the ultima and the enclitic has no accent :
 
-<foreign></foreign> <gloss></gloss>
+| Greek | English | 
+| --- | -- | 
+|  ἄνθρωποί εἰσιν  |  they are men;  |
 
-ἄνθρωποί εἰσιν they are men;
-<foreign></foreign> <gloss></gloss>
 
-στρατιῶταί εἰσιν they are soldiers.
+| Greek | English | 
+| --- | -- | 
+|  στρατιῶταί εἰσιν  |  they are soldiers.  |
+
+
 
 <pb n="53"/>
 
@@ -53,9 +59,11 @@ two syllables is accented on the final syllable:
 <foreign></foreign> <gloss></gloss>
 
 ὁπλίτης τις a certain hoplite ;
-<foreign></foreign> <gloss></gloss>
+| Greek | English | 
+| --- | -- | 
+|  ὁπλίτης ἐστίν  |  he is a hoplite.  |
 
-ὁπλίτης ἐστίν he is a hoplite.
+
 
 ## [§ 96](#para96). Accent of Augmented Verbs.
 
@@ -63,6 +71,8 @@ two syllables is accented on the final syllable:
 The accent cannot
 precede the augment. Therefore compound verbs are ac-
 cented after the prefix :
+
+
 
 ἐξάγω, ἐξῆγον ; ἄπ-ειμι, ἀπ-ῆν.
 
