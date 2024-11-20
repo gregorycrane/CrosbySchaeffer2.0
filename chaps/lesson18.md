@@ -53,21 +53,32 @@ within which an action occurs:1
 
 ypayw mevre quepwy I shall write within five days.
 
-<div type="textpart" subtype="para" n="104">
+## [§ 104](#para104). Vocabulary
 
 
-VOCABULARY
-<rs type="lemma">γυνή</rs>, γυναικός, ἡ: woman, wife.  MISOGYNIST.
-<rs type="lemma">δι-αρπάζω</rs>, δι-αρπάσω, δι-ήρπασα:  plunder, pillage, sack.
-<rs type="lemma">Θρᾷξ</rs>, θρᾳκός, ὁ: Thracian.
-<rs type="lemma">σάλπιγξ</rs>, -γγος, ἡ: trumpet.
-<rs type="lemma">κατά</rs>, prep.: with G., down from; with A., down along, along, according to. CATALOGUE.
-<rs type="lemma">φάλαγξ</rs>, -γγος, ἡ: phalanx, battle-line.
 
-<rs type="lemma">φύλαξ</rs>. φύλακος, ὁ: guard. Cf. φυλακή, φυλάττω.
-<rs type="lemma">κῆρυξ</rs>, κήρῡκος, ὁ: herald.
+| Lemma | Freq | Total | Gloss |
+| --- | --- | --- | -- |
+| γυνή | [29](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/γυνή.md) | 28933 | γυναικός, ἡ: woman, wife.  MISOGYNIST. 
 
-<rs type="lemma">πρός</rs>, prep.: with G., from the side of, in the sight of; with D., near, beside, besides ; with A., to the side of, toward. PROSELYTE.
+| διαρπάζω | [11](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/διαρπάζω.md) | 28944 | δι-αρπάσω, δι-ήρπασα:  plunder, pillage, sack. 
+
+| Θρᾷξ | [38](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/Θρᾷξ.md) | 28982 | θρᾳκός, ὁ: Thracian. 
+
+| σάλπιγξ | [10](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σάλπιγξ.md) | 28992 | -γγος, ἡ: trumpet.
+
+| κατά | [123](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/κατά.md) | 29115 | prep.: with G., down from; with A., down along, along, according to. CATALOGUE. 
+
+| φάλαγξ | [28](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/φάλαγξ.md) | 29143 | -γγος, ἡ: phalanx, battle-line.
+
+- <rs type="lemma">φύλαξ</rs>. φύλακος, ὁ: guard. Cf. φυλακή, φυλάττω.
+
+| κῆρυξ | [12](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/κῆρυξ.md) | 29164 | κήρῡκος, ὁ: herald.
+
+| πρός | [313](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πρός.md) | 29477 | prep.: with G., from the side of, in the sight of; with D., near, beside, besides ; with A., to the side of, toward. PROSELYTE.
+
+
+
 
 ## [§ 105](#para105). Exercises.
 
