@@ -51,7 +51,10 @@ Inflect Θρᾷξ. Compare with paradigm (§ 509, a).
 The genitive denotes the time
 within which an action occurs:1
 
-ypayw mevre quepwy I shall write within five days.
+| Greek | English | 
+| --- | -- | 
+|  γράψω πέντε ἡμερῶν  |  I shall write within five days.  |
+
 
 ## [§ 104](#para104). Vocabulary
 
@@ -87,26 +90,41 @@ ypayw mevre quepwy I shall write within five days.
 
 (a) What do the portions in heavy type tell as to the
 probable use of
-φυλάκ ων.
-θρᾳκ ός,
-φάλαγγ ες,
-σάλπιγ ξι,
-κήρῡκ α?
+
+- φυλάκ**ων**. 
+
+- θρᾳκ**ός**, 
+
+- φάλαγγ**ες**,
+
+- σάλπιγ**ξι**, 
+
+- κήρῡκ**α**? 
+
+
+
+
+
 Distinguish between φυλακῶν and
 φυλάκων, φύλακας and φυλακάς.
 
 (b) Translate :
 
-1. οἱ δὲ φύλακες ἔφευγον κατὰ τὴν ὁδόν.
-2. καὶ δέκα ἡμερῶν κήρυκα πέμψει ἡμῖν.
-3. τὴν δὲ γυναῖκα πρὸς τὸ στρατόπεδον ἄξει.
-4. εἰ μὴ παρ-ἣν ἡ ἰσχυρὰ φάλαγξ, οἱ πολέμιοι δι-ήρπασαν ἂν τὰ ἐν τῷ στρατοπέδῳ.
-5. ἀλλὰ ταύτης τῆς ἡμέρας οἱ φύλακες ὑπ-ώπτευσαν αὐτὸν διώκειν τὴν τῶν πολεμίων φάλαγγα.
-6. τῇ δὲ σάλπιγγι ἐκελεύομεν τοὺς στρατιώτας ἀθροῖσαι τοὺς ἵπτπτους.
-7. πρὸς δὲ τούτοις κατὰ τῶν πυλῶν ἦγον αὐτούς.
+1. οἱ δὲ φύλακες ἔφευγον κατὰ τὴν ὁδόν. 
+2. καὶ δέκα ἡμερῶν κήρυκα πέμψει ἡμῖν. 
+3. τὴν δὲ γυναῖκα πρὸς τὸ στρατόπεδον ἄξει. 
+4. εἰ μὴ παρ-ἣν ἡ ἰσχυρὰ φάλαγξ, οἱ πολέμιοι δι-ήρπασαν ἂν τὰ ἐν τῷ στρατοπέδῳ. 
+5. ἀλλὰ ταύτης τῆς ἡμέρας οἱ φύλακες ὑπ-ώπτευσαν αὐτὸν διώκειν τὴν τῶν πολεμίων φάλαγγα. 
+6. τῇ δὲ σάλπιγγι ἐκελεύομεν τοὺς στρατιώτας ἀθροῖσαι τοὺς ἵπτπτους. 
+7. πρὸς δὲ τούτοις κατὰ τῶν πυλῶν ἦγον αὐτούς. 
 8. ὁ δὲ κῆρυξ καὶ οἱ σὺν αὐτῷ φυλάξουσι καὶ τὰς γυναῖκας καὶ τὰ ἐπιτήδεια.
 
+
+
+
 1 What relation of time is denoted by the accusative?
+
+
 
 2 γυνή, like monosyllables of the consonant declensian, accents the ultima in the genitive and dative of all numbers. In the other forms it accents the last syllable of the stem.
 
@@ -114,29 +132,34 @@ Distinguish between φυλακῶν and
 
 <pb n="58"/>
 
+
+
 (c) Complete :
 
-1. πρὸς ἡμ--- ἄξει τὰ ἐπιτήδεια πέντε ἡμερ--.
-3. ὑπ-οπτεύω τοὺς φύλακ--- φυγεῖν κατὰ ταυτ--- τ-- ὁδ---
+1. πρὸς ἡμ--- ἄξει τὰ ἐπιτήδεια πέντε ἡμερ--. 
+3. ὑπ-οπτεύω τοὺς φύλακ--- φυγεῖν κατὰ ταυτ--- τ-- ὁδ--- 
 3. ἡ δὲ τοῦ θρᾳκ--- γυνὴ αὐτῷ ἔπεμψε τ--- σαλπιγγ--- (singular).
 
 (d) Write in Greek :
 
-1. It was impossible to stop the plot.
+1. It was impossible to stop the plot. 
 2. If they had suspected the satrap, they would have guarded the bridge.
-3. If he were not absent, the hoplites would not be remaining in the same place for five days.
+3. If he were not absent, the hoplites would not be remaining in the same place for five days. 
 4. These men are not yet in the camp.
 
-<div type="textpart" subtype="para" n="106">
+
+## [§ 106](#para106). The Phalanx
 
 
-THE PHALANX
+
 
 By means of the phalanx, invented and developed by
 Greeks, Alexander the Great imposed his will upon most
 of the civilized world. In the hands of the Romans, who
 were quick to grasp its possibilities, it grew into the famous
 legion.
+
+
 
 
 “The average depth of the phalanx was eight men,
