@@ -27,7 +27,7 @@ stem lengthens to ου.
 
 
 
-| νύξ | night | ἄρχων | ruler, commander | 
+| νύξ (ἡ) | night | ἄρχων (ὁ) | ruler, commander | 
 | --- | --- | --- | --- 
 | νύξ | νύκτες | ἄρχων | ἄρχοντες | 
 | νυκτός | νυκτῶν | ἄρχοντος | ἀρχόντων | 
@@ -74,7 +74,8 @@ a natural or probable result :
 
 
 
-
+| Lemma | Freq | Total | Gloss |
+| --- | --- | --- | -- |
 | ἅρμα | [9](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἅρμα.md) | 29486 | ἅρματος, τό: chariot. 
 | πρᾶγμα | [25](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πρᾶγμα.md) | 29511 | πράγματος, τό: fact, business ; pl. trouble. PRAGMATIC.
 | ἄρχων | [36](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἄρχων.md) | 29547 | ἄρχοντος, ὁ: archon, ruler,  commander. Cf. ἄρχω, ἀρχή. 

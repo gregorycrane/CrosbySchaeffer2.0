@@ -3581,7 +3581,7 @@ stem lengthens to ου.
 
 
 <table>
-  <row role="label"><cell>νύξ</cell><cell>night</cell><cell>ἄρχων</cell><cell>ruler, commander</cell></row>
+  <row role="label"><cell>νύξ (ἡ)</cell><cell>night</cell><cell>ἄρχων (ὁ)</cell><cell>ruler, commander</cell></row>
   <row><cell>νύξ</cell><cell>νύκτες</cell><cell>ἄρχων</cell><cell>ἄρχοντες</cell></row>
   <row><cell>νυκτός</cell><cell>νυκτῶν</cell><cell>ἄρχοντος</cell><cell>ἀρχόντων</cell></row>
   <row><cell>νυκτί</cell><cell>νυξί(ν)</cell><cell>ἄρχοντος</cell><cell>ἄρχουσι(ν)</cell></row>
@@ -3618,7 +3618,7 @@ a natural or probable result :
 
 <div type="textpart" subtype="para" n="109"><head>Vocabulary.</head>
 <p>
-  <list>
+<list type="vocab">
 <item><rs type="lemma">ἅρμα</rs>, ἅρματος, τό: chariot. </item>
 <item><rs type="lemma">πρᾶγμα</rs>, πράγματος, τό: fact, business ; pl. trouble. PRAGMATIC.</item>
 <item><rs type="lemma">ἄρχων</rs>, ἄρχοντος, ὁ: archon, ruler,  commander. Cf. ἄρχω, ἀρχή. </item>
