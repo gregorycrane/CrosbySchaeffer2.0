@@ -3571,6 +3571,31 @@ In the dative plural τ and δ drop out before σι. When
 the stem ends in ντ, both letters drop out and the π of the
 stem lengthens to ου. 
 
+<table>
+  <row role="label"><cell>ἀσπίς (ἡ)</cell><cell>shield</cell><cell>χάρις (ἡ)</cell><cell>favor, pleasure, thanks</cell></row>
+  <row><cell>ἀσπίς</cell><cell>ἀσπίδες</cell><cell>χάρις</cell><cell>χάριτος</cell></row>
+  <row><cell>ἀσπίδος</cell><cell>ἀσπίδων</cell><cell>χάριτος</cell><cell>χαρίτων</cell></row>
+  <row><cell>ἀσπίδι</cell><cell>ἀσπίσι(ν)</cell><cell>χάρισι(ν)</cell><cell></cell></row>
+  <row><cell>ἀσπίδα</cell><cell>ἀσπίδας</cell><cell>χάριτας</cell><cell></cell></row>
+</table>
+
+
+<table>
+  <row role="label"><cell>νύξ</cell><cell>night</cell><cell>ἄρχων</cell><cell>ruler, commander</cell></row>
+  <row><cell>νύξ</cell><cell>νύκτες</cell><cell>ἄρχων</cell><cell>ἄρχοντες</cell></row>
+  <row><cell>νυκτός</cell><cell>νυκτῶν</cell><cell>ἄρχοντος</cell><cell>ἀρχόντων</cell></row>
+  <row><cell>νυκτί</cell><cell>νυξί(ν)</cell><cell>ἄρχοντος</cell><cell>ἄρχουσι(ν)</cell></row>
+  <row><cell>νύκτα</cell><cell>νύκτας</cell><cell>ἄρχοντος</cell><cell>ἄρχοντας</cell></row>
+</table>
+
+<table>
+  <row role="label"><cell>ἅρμα (τό)</cell><cell>chariot</cell></row>
+  <row><cell>ἅρμα</cell><cell>ἅρματα</cell></row>
+  <row><cell>ἅρματος</cell><cell>ἁρμάτων</cell></row>
+  <row><cell>ἅρματι</cell><cell>ἅρμασι(ν)</cell></row>
+  <row><cell>ἅρμα</cell><cell>ἅρματα</cell></row>
+</table>
+
 </p></div>
 
 <pb n="60"/>
@@ -3578,64 +3603,70 @@ stem lengthens to ου.
 
 <div type="textpart" subtype="para" n="108"><head>Result Clauses.</head>
 <p><rs type="lemma">ὥστε</rs> followed by the indicative
-tlenotes an actual result ; followed by the znfinitive it denotes
+the notes an actual result ; followed by the infinitive it denotes
 a natural or probable result :
 
-εἶχον χρήματα ὥστε ἠγόρασα τὰ ἐπιτήδεια 
-I had money and (so that I) bought provisions ; 
+<foreign>εἶχον χρήματα ὥστε ἠγόρασα τὰ ἐπιτήδεια</foreign> <gloss>I had money and (so that I) bought provisions ;</gloss>
 
-εἶχον χρήματα ὥστε ἀγοράσαι τὰ ἐπιτήδεια 
-I had money (so as) to buy provisions.</p></div>
+ 
 
-<div type="textpart" subtype="para" n="109">
-<p>VOCABULARY
-<rs type="lemma">ἅρμα</rs>, ἅρματος, τό: chariot. 
-<rs type="lemma">πρᾶγμα</rs>, πράγματος, τό: fact, business ; pl. trouble. PRAGMATIC.
-<rs type="lemma">ἄρχων</rs>, ἄρχοντος, ὁ: archon, ruler,  commander. Cf. ἄρχω, ἀρχή. 
 
-<rs type="lemma">ὕδωρ</rs>, ὕδατος, τό: water. HYDRANT.2
-<rs type="lemma">ἀσπίς</rs>, ἀσπίδος, ἡ: shield. 
-<rs type="lemma">δόρυ</rs>, δόρατος, τό : spear. DORYPHOROS.
-<rs type="lemma">χάρις</rs>, χάριτος, ἡ: fuvor, gratiiude. χάριν ἔχω: feel grateful, with D. EUCHARIST.
-<rs type="lemma">ἐλαύνω</rs>, ἤλασα: drive. Cf. ἐξελαύνω.
-<rs type="lemma">Ἑλλάς</rs>, Ἑλλάδος, ἡ: Ηellas, Greece. 
-<rs type="lemma">χρῆμα</rs>, χρήματος, τό: thing; pl., things, ie., property, wealth, money.
-<rs type="lemma">νύξ</rs>, νυκτός, ἡ: night. Lat. nox. 
-<rs type="lemma">παῖς</rs>, παιδός, ὁ or ἡ: boy, girl, child. PEDAGOGUE.
-ὥστε, conj.: with ind., so that; , with inf., so as to.</p></div>
+<foreign>εἶχον χρήματα ὥστε ἀγοράσαι τὰ ἐπιτήδεια </foreign> <gloss>I had money (so as) to buy provisions.</gloss>
+
+
+</p></div>
+
+<div type="textpart" subtype="para" n="109"><head>Vocabulary.</head>
+<p>
+  <list>
+<item><rs type="lemma">ἅρμα</rs>, ἅρματος, τό: chariot. </item>
+<item><rs type="lemma">πρᾶγμα</rs>, πράγματος, τό: fact, business ; pl. trouble. PRAGMATIC.</item>
+<item><rs type="lemma">ἄρχων</rs>, ἄρχοντος, ὁ: archon, ruler,  commander. Cf. ἄρχω, ἀρχή. </item>
+<item><rs type="lemma">ὕδωρ</rs>, ὕδατος, τό: water. HYDRANT.2</item>
+<item><rs type="lemma">ἀσπίς</rs>, ἀσπίδος, ἡ: shield. </item>
+<item><rs type="lemma">δόρυ</rs>, δόρατος, τό : spear. DORYPHOROS.</item>
+<item><rs type="lemma">χάρις</rs>, χάριτος, ἡ: fuvor, gratiiude. χάριν ἔχω: feel grateful, with D. EUCHARIST.</item>
+<item><rs type="lemma">ἐλαύνω</rs>, ἤλασα: drive. Cf. ἐξελαύνω.</item>
+<item><rs type="lemma">Ἑλλάς</rs>, Ἑλλάδος, ἡ: Ηellas, Greece. </item>
+<item><rs type="lemma">χρῆμα</rs>, χρήματος, τό: thing; pl., things, ie., property, wealth, money.</item>
+<item><rs type="lemma">νύξ</rs>, νυκτός, ἡ: night. Lat. nox. </item>
+<item><rs type="lemma">παῖς</rs>, παιδός, ὁ or ἡ: boy, girl, child. PEDAGOGUE.</item>
+<item><rs type="lemma">ὥστε</rs>, conj.: with ind., so that; , with inf., so as to.</item>
+</list>
+</p></div>
 
 <div type="textpart" subtype="para" n="110"><head>Exercises.</head>
 <p>
 
 (a) Translate : 
-
-1. ἀλλὰ οὐκ ἣν αὐτῷ χρήματα, ὥστε πέμπειν ἡμῖν καὶ ἀσπίδας καὶ δόδατα. 
-2. τῆς δὲ νυκτὸς ὁ ἄρχων ἐκ τῆς κώμης ἔπεμψε τοὺς παῖδας. 
-3. χάριν δ᾽ ἕξετέ μοι, ὑμᾶς γὰρ ἄξω εἰς τὴν Ἑλλάδα.  
-4. ἐνταῦθα δ᾽ οὐκ ἔστιν ὕδωρ τοῖς ἵπποις, ὥστε κελεύει σε ἄγειν αὐτοὺς πρὸς τὸν ποταμόν. 
-5. οὗτος οὖν ἐπὶ τοῦ ἅρματος ἤλαυνε παρὰ τὴν φάλαγγα. 
-6. οἱ δὲ στρατιῶται πράγματα οὐκ ἂν ἔσχον, εἰ μὴ τὴν σάλπιγγα ἔλῦσεν ὁ κῆρυξ. 
-7. ἀλλ᾽ εἰ ἔξ-εστι τὸν κἠρῡκα χρήμασι πεῖσαι, συμ-βουλεύω ὑμῖν ἐνταῦθα μένειν. 
+<list>
+<item n="1">ἀλλὰ οὐκ ἣν αὐτῷ χρήματα, ὥστε πέμπειν ἡμῖν καὶ ἀσπίδας καὶ δόδατα. </item>
+<item n="2">τῆς δὲ νυκτὸς ὁ ἄρχων ἐκ τῆς κώμης ἔπεμψε τοὺς παῖδας. </item>
+<item n="3">χάριν δ᾽ ἕξετέ μοι, ὑμᾶς γὰρ ἄξω εἰς τὴν Ἑλλάδα.  </item>
+<item n="4">ἐνταῦθα δ᾽ οὐκ ἔστιν ὕδωρ τοῖς ἵπποις, ὥστε κελεύει σε ἄγειν αὐτοὺς πρὸς τὸν ποταμόν. </item>
+<item n="5">οὗτος οὖν ἐπὶ τοῦ ἅρματος ἤλαυνε παρὰ τὴν φάλαγγα. </item>
+<item n="6">οἱ δὲ στρατιῶται πράγματα οὐκ ἂν ἔσχον, εἰ μὴ τὴν σάλπιγγα ἔλῦσεν ὁ κῆρυξ. </item>
+<item n="7">ἀλλ᾽ εἰ ἔξ-εστι τὸν κἠρῡκα χρήμασι πεῖσαι, συμ-βουλεύω ὑμῖν ἐνταῦθα μένειν. </item>
 
 <pb n="61"/>
 
-8. ἡ δὲ γυνὴ καὶ οἱ παῖδες οἱ τοῦ ἄρχοντος ἐλαύνουσιν ἐπὶ τῆς ἁμάξης.
-
+<item n="8">ἡ δὲ γυνὴ καὶ οἱ παῖδες οἱ τοῦ ἄρχοντος ἐλαύνουσιν ἐπὶ τῆς ἁμάξης.</item>
+</list>
 (b) Complete:
+<list>
+<item n="1">τῷ γὰρ παι---- ἐστι πλοῖον, ὥστε δια-βαιν--- τὸν ποταμόν.</item>
 
-1. τῷ γὰρ παι---- ἐστι πλοῖον, ὥστε δια-βαιν--- τὸν ποταμόν.
-
-2. χαρ--- ἔχουσιν ὑμ---, ἄγετε γὰρ αὐτοὺς ἐκ κακοῦ τόπου.
-3. τὰ δὲ χρημ--- ἔπεμψεν, ὥστε οἱ ὁπλῖται ἠθελ----- ἐλαύνειν.
-
+<item n="2">χαρ--- ἔχουσιν ὑμ---, ἄγετε γὰρ αὐτοὺς ἐκ κακοῦ τόπου.</item>
+<item n="3">τὰ δὲ χρημ--- ἔπεμψεν, ὥστε οἱ ὁπλῖται ἠθελ----- ἐλαύνειν.</item>
+</list>
 (c) Write in Greek:
-
-1. With the trumpet he will order the guards to march (on). 
-2. Within five days the heralds were present. 
-3. In addition to this they plundered the wagons of the queen.
-4. The woman fled down that read. 
-5. If the phalanx were present, the enemy would not be pillaging the houses.
-
+<list>
+<item n="1">With the trumpet he will order the guards to march (on). </item>
+<item n="2">Within five days the heralds were present. </item>
+<item n="3">In addition to this they plundered the wagons of the queen.</item>
+<item n="4">The woman fled down that read. </item>
+<item n="5">If the phalanx were present, the enemy would not be pillaging the houses.</item>
+</list>
 A Hockey March
 
 “There is nothing new under the sun." The stone on which this scene
@@ -3697,24 +3728,24 @@ be used with πολίτῃ, ἀσπίδες, ἅρματα, νυκτῶν, φύ�
 
 (a) Complete:
 
+<list>
+<item n="1">κατὰ ταὺυτ--- τ--- ὁδὸν ἔφυγον οἱ κήρῦκες πρὸς τ--- στρατοπεδ---. </item>
 
-1. κατὰ ταὺυτ--- τ--- ὁδὸν ἔφυγον οἱ κήρῦκες πρὸς τ--- στρατοπεδ---. 
-
-2. οἱ μὲν ἄλλοι ἄρχοντες ἤθροιζον τοὺς ἑαυτ. - στρατιωτ--- ἐγὼ δὲ τοὺς ἐμαυτ--. 
-3. καὶ ὅδε --- ποταμὸς δια-βατός ἐστι πλοι--. 
-4. πλοῖα (linking verb) ὑμῖν, ὥστε τὸν ποταμὸν δια-βαιν---. 
-5. ἀλλὰ οἱ σὺν ἡμ--- ἤθελον μένειν πέντε ἡμερ---. 
-6. ἐπὶ τοῦ ὁρμα--- ----- (linking verb) αἱ ἀσπίδες ---- (relative pronoun) ἡρπάσαμεν ἐκ τῆς σκηνῆς. 
-7. εἰ ἔμελλε τὰ δορα--- ἄξειν, παρ--- ἄν.
-
+<item n="2">οἱ μὲν ἄλλοι ἄρχοντες ἤθροιζον τοὺς ἑαυτ. - στρατιωτ--- ἐγὼ δὲ τοὺς ἐμαυτ--. </item>
+<item n="3">καὶ ὅδε --- ποταμὸς δια-βατός ἐστι πλοι--. </item>
+<item n="4">πλοῖα (linking verb) ὑμῖν, ὥστε τὸν ποταμὸν δια-βαιν---. </item>
+<item n="5">ἀλλὰ οἱ σὺν ἡμ--- ἤθελον μένειν πέντε ἡμερ---. </item>
+<item n="6">ἐπὶ τοῦ ὁρμα--- ----- (linking verb) αἱ ἀσπίδες ---- (relative pronoun) ἡρπάσαμεν ἐκ τῆς σκηνῆς. </item>
+<item n="7">εἰ ἔμελλε τὰ δορα--- ἄξειν, παρ--- ἄν.</item>
+</list>
 (b) Write in Greek :
-
-1. The satrap himself wrote as follows. 
-2. Within seven days the ruler will bring the arms and the chariots. 
-3. If the queen had not brought a guard with her, the men from the village would have pursued her. 
-4, He says that the other men are at that bridge. 
-5. The guards destroyed eight boats, so that it was not possible to cross the river.
-
+<list>
+<item n="1">The satrap himself wrote as follows. </item>
+<item n="2">Within seven days the ruler will bring the arms and the chariots. </item>
+<item n="3">If the queen had not brought a guard with her, the men from the village would have pursued her. </item>
+<item n="4">He says that the other men are at that bridge. </item>
+<item n="5">The guards destroyed eight boats, so that it was not possible to cross the river.</item>
+</list>
 πένταθλον
 
 <pb n="64"/>
