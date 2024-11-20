@@ -66,9 +66,9 @@ within which an action occurs:1
 | διαρπάζω | [11](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/διαρπάζω.md) | 28944 | δι-αρπάσω, δι-ήρπασα:  plunder, pillage, sack. 
 | Θρᾷξ | [38](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/Θρᾷξ.md) | 28982 | θρᾳκός, ὁ: Thracian. 
 | σάλπιγξ | [10](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σάλπιγξ.md) | 28992 | σάλπιγγος, ἡ: trumpet.
-| κατά | [123](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/κατά.md) | 29115 | prep.: with G., down from; with A., down along, along, according to. CATALOGUE.
-| φάλαγξ | [28](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/φάλαγξ.md) | 29143 | φάλαγγος, ἡ: phalanx, battle-line.
-- <rs type="lemma">φύλαξ</rs>. φύλακος, ὁ: guard. Cf. φυλακή, φυλάττω.
+| φάλαγξ | [28](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/φάλαγξ.md) | 29020 | φάλαγγος, ἡ: phalanx, battle-line.
+| κατά | [123](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/κατά.md) | 29143 | prep.: with G., down from; with A., down along, along, according to. CATALOGUE.
+| φύλαξ | [9](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/φύλαξ.md) | 29152 | φύλακος, ὁ: guard. Cf. φυλακή, φυλάττω.
 | κῆρυξ | [12](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/κῆρυξ.md) | 29164 | κήρῡκος, ὁ: herald.
 | πρός | [313](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πρός.md) | 29477 | prep.: with G., from the side of, in the sight of; with D., near, beside, besides ; with A., to the side of, toward. PROSELYTE.
 
