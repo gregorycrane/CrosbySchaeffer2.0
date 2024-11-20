@@ -17,8 +17,16 @@ The stem appears when the ending -ος is dropped from
 the genitive singular. To this stem the endings for the
 other cases are added.
 
+
+| κῆρυξ (ὁ) | herald | φάλαγξ (ἡ) | phalanx | 
+| --- | --- | --- | --- 
+| κῆρυξ | κήρυκες | φάλαγξ | φάλαγες | 
+| κήρυκος | κηρύκων | φάλαγγος | φαλάγγων | 
+| κήρυκα | κήρυκας | φάλαγγα | φάλαγγας | 
+
+
 The ending for the nominative singular should be learned
-from the vocabulary. Sometimes it ends in -s. The dative
+from the vocabulary. Sometimes it ends in -ς. The dative
 plural ends in -σι. The σ in each of these instances unites
 with κ, γ, or χ to form ξ.
 
@@ -30,7 +38,7 @@ accented on the ultima in the genitive and dative of all
 numbers, the circumflex occurring on long vowels or diph-
 thongs, otherwise the acute.
 
-Inflect @paé. Compare with paradigm (§ 509, a).
+Inflect Θρᾷξ. Compare with paradigm (§ 509, a).
 
 
 
