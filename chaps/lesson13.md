@@ -90,16 +90,16 @@ nominative, it is a personal pronoun of the third person:
 ## [§ 71](#para71). Vocabulary
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| ἄλλος | [345](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἄλλος.md) | 20960 | other, another; if preceded by the article, the other, the rest of. ALLOPATHY.
-| αὐτός | [899](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/αὐτός.md) | 21859 | same, self, he, she, it, they, etc. AUTOMATON.
-| βουλεύω | [42](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/βουλεύω.md) | 21901 | βουλεύσω, ἐβούλευσα :  plan,
-| βουλή | [1](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/βουλή.md) | 21902 | plan, BOULE.
-| ἐπιβουλεύω | [16](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐπιβουλεύω.md) | 21918 | plot against, with D.
-| ἐπιβουλή | [6](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐπιβουλή.md) | 21924 | plot.
-| ἴσος | [5](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἴσος.md) | 21929 | equal, ISOSCELES.
-| κελεύω | [124](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/κελεύω.md) | 22053 | κελεύσω, ἐκέλευσα : order, command,
-| ὅς | [506](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ὅς.md) | 22559 | ἥ, ὅ: rel. pron, : who, which, that.
-| ὥρα | [17](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ὥρα.md) | 22576 | hour, season. HOUR.
+| ἄλλος | [20](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἄλλος.md) | 1725 | other, another; if preceded by the article, the other, the rest of. ALLOPATHY.
+| αὐτός | [30](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/αὐτός.md) | 1755 | same, self, he, she, it, they, etc. AUTOMATON.
+| βουλεύω | [5](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/βουλεύω.md) | 1760 | βουλεύσω, ἐβούλευσα :  plan,
+| βουλή | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/βουλή.md) | 1760 | plan, BOULE.
+| ἐπιβουλεύω | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἐπιβουλεύω.md) | 1760 | plot against, with D.
+| ἐπιβουλή | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἐπιβουλή.md) | 1760 | plot.
+| ἴσος | [8](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἴσος.md) | 1768 | equal, ISOSCELES.
+| κελεύω | [2](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/κελεύω.md) | 1770 | κελεύσω, ἐκέλευσα : order, command,
+| ὅς | [52](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ὅς.md) | 1822 | ἥ, ὅ: rel. pron, : who, which, that.
+| ὥρα | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ὥρα.md) | 1822 | hour, season. HOUR.
 
 
 ## [§ 72](#para72). Exercises.

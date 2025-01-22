@@ -165,16 +165,16 @@ Compare etc. = <foreign xml:lang="lat">et cetera</foreign>.
 
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| ἀθροίζω | [8](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀθροίζω.md) | 17522 | collect.
-| ἀλλά | [284](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀλλά.md) | 17806 | conj.: but, however. Stronger than δέ. Final a is often elided.
-| ἁρπάζω | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἁρπάζω.md) | 17820 | seize,carry off. HARPY.
-| ἀρχαῖος | [7](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀρχαῖος.md) | 17827 | ἀρχαία, ἀρχαῖον: original, ancient. Cf. ἀρχή. = ARCHAIC.
-| βάρβαρος | [76](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/βάρβαρος.md) | 17903 | βαρβάρου, ὁ: foreigner, barbarian.
-| ἔργον | [13](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἔργον.md) | 17916 | ἔργου, τό: work, deed, ENERGY.
-| κραυγή | [13](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/κραυγή.md) | 17929 | κραυγῆς, ἡ: outcry, shout.
-| λόγος | [26](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/λόγος.md) | 17955 | λόγου, ὁ: word, speech. PROLOGUE.
-| μέν | [787](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/μέν.md) | 18742 | coord. conj. (§ 45).
-| σιγή | [3](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σιγή.md) | 18745 | σιγῆς, ἡ: silence.
+| ἀθροίζω | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἀθροίζω.md) | 1421 | collect.
+| ἀλλά | [70](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἀλλά.md) | 1491 | conj.: but, however. Stronger than δέ. Final a is often elided.
+| ἁρπάζω | [2](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἁρπάζω.md) | 1493 | seize,carry off. HARPY.
+| ἀρχαῖος | [1](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἀρχαῖος.md) | 1494 | ἀρχαία, ἀρχαῖον: original, ancient. Cf. ἀρχή. = ARCHAIC.
+| βάρβαρος | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/βάρβαρος.md) | 1494 | βαρβάρου, ὁ: foreigner, barbarian.
+| ἔργον | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἔργον.md) | 1508 | ἔργου, τό: work, deed, ENERGY.
+| κραυγή | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/κραυγή.md) | 1508 | κραυγῆς, ἡ: outcry, shout.
+| λόγος | [12](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/λόγος.md) | 1520 | λόγου, ὁ: word, speech. PROLOGUE.
+| μέν | [49](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/μέν.md) | 1569 | coord. conj. (§ 45).
+| σιγή | [2](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/σιγή.md) | 1571 | σιγῆς, ἡ: silence.
 
 
 

@@ -158,16 +158,16 @@ Automatically extracted examples of the dative of possession in the Anabasis are
 
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| γάρ | [452](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/γάρ.md) | 16098 | postpositive conjunction : for.
-| σπονδή | [34](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σπονδή.md) | 16132 | σπονδῆς, ἡ: libation; pl, σπονδή, σπονδαί, αἱ, treaty, truce. SPONDEE.
-| κώμη | [87](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/κώμη.md) | 16219 | κώμης, ἡ: village.
-| μάχη | [33](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/μάχη.md) | 16252 | μάχη, ἡ: battle. LOGOMACHY.
-| φεύγω | [71](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/φεύγω.md) | 16323 | flee. Lat. fugio. FUGITIVE,
-| οὐ | [434](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/οὐ.md) | 16757 | (before consonants), οὐκ (before smooth breathing), οὐχ (before rough breathing), proclit. adv.: not, UTOPIA. PROPHYLACTIC.
-| φυγή | [7](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/φυγή.md) | 16764 | φυγῆς, ἡ: flight, exile. Lat fuga.
-| φυλακή | [19](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/φυλακή.md) | 16783 | φυλακῆς, ἡ: guard, garrison.
-| σκηνή | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σκηνή.md) | 16797 | tent. SCENE.
-| φυλάσσω | [35](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/φυλάττω.md) | 16832 | guard (verb).
+| γάρ | [114](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/γάρ.md) | 1284 | postpositive conjunction : for.
+| σπονδή | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/σπονδή.md) | 1284 | σπονδῆς, ἡ: libation; pl, σπονδή, σπονδαί, αἱ, treaty, truce. SPONDEE.
+| κώμη | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/κώμη.md) | 1284 | κώμης, ἡ: village.
+| μάχη | [1](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/μάχη.md) | 1285 | μάχη, ἡ: battle. LOGOMACHY.
+| φεύγω | [6](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/φεύγω.md) | 1291 | flee. Lat. fugio. FUGITIVE,
+| οὐ | [110](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/οὐ.md) | 1401 | (before consonants), οὐκ (before smooth breathing), οὐχ (before rough breathing), proclit. adv.: not, UTOPIA. PROPHYLACTIC.
+| φυγή | [1](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/φυγή.md) | 1402 | φυγῆς, ἡ: flight, exile. Lat fuga.
+| φυλακή | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/φυλακή.md) | 1402 | φυλακῆς, ἡ: guard, garrison.
+| σκηνή | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/σκηνή.md) | 1402 | tent. SCENE.
+| φυλάσσω | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/φυλάττω.md) | 1402 | guard (verb).
 
 
 

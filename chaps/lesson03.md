@@ -91,18 +91,18 @@ The dative is used with many adjectives expressing friendliness, hostility, asso
 ## [§ 17](#para17). Vocabulary
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| ἀγαθός | [121](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀγαθός.md) | 8240 | ἀγαθή, ἀγαθόν: good, brave. AGATHA.
-| ἄγγελος | [10](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἄγγελος.md) | 8250 | ἀγγέλου, ὁ: messenger. ANGEL.
-| ἄγω | [111](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἄγω.md) | 8361 | lead, Lat. ago.
-| γράφω | [5](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/γράφω.md) | 8366 | write. TELEGRAPH. LITHOGRAPH.
-| ἐθέλω | [62](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐθέλω.md) | 8428 | wish, be willing.
-| ἵππος | [66](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἵππος.md) | 8494 | ἵππου, ὁ: horse. ANALYSIS. HIPPOPOTAMUS,
-| καί | [3388](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/καί.md) | 11882 | conj.: and, also, even.
-| καλός | [109](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/καλός.md) | 11991 | καλή, καλόν: beautiful, honorable, fine.
-| κίνδυνος | [10](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/κίνδυνος.md) | 12001 | κινδύνου, ὁ: danger.
-| λίθος | [22](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/λίθος.md) | 12023 | λίθος, ὁ: stone.
-| λύω | [17](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/λύω.md) | 12040 | loose, break, destroy.
-| παύω | [22](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/παύω.md) | 12062 | stop (trans,). PAUSE.
+| ἀγαθός | [7](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἀγαθός.md) | 560 | ἀγαθή, ἀγαθόν: good, brave. AGATHA.
+| ἄγγελος | [1](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἄγγελος.md) | 561 | ἀγγέλου, ὁ: messenger. ANGEL.
+| ἄγω | [20](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἄγω.md) | 581 | lead, Lat. ago.
+| γράφω | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/γράφω.md) | 581 | write. TELEGRAPH. LITHOGRAPH.
+| ἐθέλω | [13](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἐθέλω.md) | 594 | wish, be willing.
+| ἵππος | [2](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἵππος.md) | 596 | ἵππου, ὁ: horse. ANALYSIS. HIPPOPOTAMUS,
+| καί | [251](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/καί.md) | 847 | conj.: and, also, even.
+| καλός | [16](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/καλός.md) | 863 | καλή, καλόν: beautiful, honorable, fine.
+| κίνδυνος | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/κίνδυνος.md) | 863 | κινδύνου, ὁ: danger.
+| λίθος | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/λίθος.md) | 863 | λίθος, ὁ: stone.
+| λύω | [2](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/λύω.md) | 865 | loose, break, destroy.
+| παύω | [5](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/παύω.md) | 870 | stop (trans,). PAUSE.
 
 
 ## [§ 18](#para18). Vocabulary Notes

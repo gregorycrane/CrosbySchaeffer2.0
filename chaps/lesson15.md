@@ -136,17 +136,17 @@ apodosis οὐ.
 ## [§ 84](#para84). Vocabulary
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| ἄμαξα | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἅμαξα.md) | 24138 | ἁμάξης, ἡ: cart, wagon. 
-| βασιλεία | [3](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/βασίλεια.md) | 24141 | βασιλείας, ἡ: queen. 
-| γέφυρα | [19](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/γέφυρα.md) | 24160 | γεφύρας, ἡ: bridge. 
-| ἐγώ | [741](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐγώ.md) | 24901 | I. EGOTIST. 
-| ὅπλον | [85](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ὅπλον.md) | 24986 | ὅπλου τό: implement, tool ;
-| εἰ | [353](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/εἰ.md) | 25339 | proclit. conj.: if. frequently pl, arms (in war). PANOPLY.
-| θάλασσα | [64](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/θάλαττα.md) | 25403 | θάλάττης: sea. 
-| κακός | [66](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/κακός.md) | 25469 | κακή, κακόν: bad, cowardly. CACOPHONY.
-| οὖν | [182](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/οὖν.md) | 25651 | post-pos. conj.: therefore, then,  accordingly.
-| μή | [261](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/μή.md) | 25912 | neg. adv.: not, Found instead of οὐ with most uses of the infinitive and in conditional clauses.
-| σύ | [536](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σύ.md) | 26448 | thou, you (sg.).
+| ἄμαξα | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἅμαξα.md) | 2067 | ἁμάξης, ἡ: cart, wagon. 
+| βασιλεία | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/βασίλεια.md) | 2067 | βασιλείας, ἡ: queen. 
+| γέφυρα | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/γέφυρα.md) | 2067 | γεφύρας, ἡ: bridge. 
+| ἐγώ | [163](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἐγώ.md) | 2230 | I. EGOTIST. 
+| ὅπλον | [1](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ὅπλον.md) | 2231 | ὅπλου τό: implement, tool ;
+| εἰ | [48](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/εἰ.md) | 2279 | proclit. conj.: if. frequently pl, arms (in war). PANOPLY.
+| θάλασσα | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/θάλαττα.md) | 2279 | θάλάττης: sea. 
+| κακός | [53](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/κακός.md) | 2332 | κακή, κακόν: bad, cowardly. CACOPHONY.
+| οὖν | [15](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/οὖν.md) | 2347 | post-pos. conj.: therefore, then,  accordingly.
+| μή | [55](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/μή.md) | 2402 | neg. adv.: not, Found instead of οὐ with most uses of the infinitive and in conditional clauses.
+| σύ | [104](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/σύ.md) | 2506 | thou, you (sg.).
 
 
 
