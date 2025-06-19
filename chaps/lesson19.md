@@ -76,19 +76,19 @@ a natural or probable result :
 
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| ἅρμα | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἅρμα.md) | 2761 | ἅρματος, τό: chariot. 
-| πρᾶγμα | [6](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/πρᾶγμα.md) | 2767 | πράγματος, τό: fact, business ; pl. trouble. PRAGMATIC.
-| ἄρχων | [1](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἄρχων.md) | 2768 | ἄρχοντος, ὁ: archon, ruler,  commander. Cf. ἄρχω, ἀρχή. 
-| ὕδωρ | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ὕδωρ.md) | 2768 | ὕδατος, τό: water. HYDRANT.2
-| ἀσπίς | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἀσπίς.md) | 2768 | ἀσπίδος, ἡ: shield. 
-| δόρυ | [3](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/δόρυ.md) | 2771 | δόρατος, τό : spear. DORYPHOROS.
-| χάρις | [6](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/χάρις.md) | 2777 | χάριτος, ἡ: fuvor, gratiiude. χάριν ἔχω: feel grateful, with D. EUCHARIST.
-| ἐλαύνω | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἐλαύνω.md) | 2777 | ἤλασα: drive. Cf. ἐξελαύνω.
-| Ἑλλάς | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/Ἑλλάς.md) | 2777 | Ἑλλάδος, ἡ: Ηellas, Greece. 
-| χρῆμα | [1](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/χρῆμα.md) | 2778 | χρήματος, τό: thing; pl., things, ie., property, wealth, money.
-| νύξ | [1](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/νύξ.md) | 2779 | νυκτός, ἡ: night. Lat. nox. 
-| παῖς | [31](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/παῖς.md) | 2810 | παιδός, ὁ or ἡ: boy, girl, child. PEDAGOGUE.
-| ὥστε | [7](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ὥστε.md) | 2817 | conj.: with ind., so that; , with inf., so as to.
+| ἅρμα | [9](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἅρμα.md) | 29486 | ἅρματος, τό: chariot. 
+| πρᾶγμα | [25](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πρᾶγμα.md) | 29511 | πράγματος, τό: fact, business ; pl. trouble. PRAGMATIC.
+| ἄρχων | [36](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἄρχων.md) | 29547 | ἄρχοντος, ὁ: archon, ruler,  commander. Cf. ἄρχω, ἀρχή. 
+| ὕδωρ | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ὕδωρ.md) | 29561 | ὕδατος, τό: water. HYDRANT.2
+| ἀσπίς | [19](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀσπίς.md) | 29580 | ἀσπίδος, ἡ: shield. 
+| δόρυ | [11](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/δόρυ.md) | 29591 | δόρατος, τό : spear. DORYPHOROS.
+| χάρις | [6](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/χάρις.md) | 29597 | χάριτος, ἡ: fuvor, gratiiude. χάριν ἔχω: feel grateful, with D. EUCHARIST.
+| ἐλαύνω | [22](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐλαύνω.md) | 29619 | ἤλασα: drive. Cf. ἐξελαύνω.
+| Ἑλλάς | [42](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/Ἑλλάς.md) | 29661 | Ἑλλάδος, ἡ: Ηellas, Greece. 
+| χρῆμα | [47](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/χρῆμα.md) | 29708 | χρήματος, τό: thing; pl., things, ie., property, wealth, money.
+| νύξ | [62](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/νύξ.md) | 29770 | νυκτός, ἡ: night. Lat. nox. 
+| παῖς | [38](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/παῖς.md) | 29808 | παιδός, ὁ or ἡ: boy, girl, child. PEDAGOGUE.
+| ὥστε | [105](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ὥστε.md) | 29913 | conj.: with ind., so that; , with inf., so as to.
 
 
 

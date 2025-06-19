@@ -122,17 +122,17 @@ he crosses the river in (by means of) a boat.
 ## [§ 78](#para78). Vocabulary
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| ἀδιάβατος | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἀδιάβατος.md) | 1822 | (note 1) uncrossable. 
-| διαβαίνω | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/διαβαίνω.md) | 1822 | (Future and aorist will be given later.) to cross. 
-| διαβατός | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/διαβατός.md) | 1822 | (note 1) crossable.
-| ἐκεῖνος | [18](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἐκεῖνος.md) | 1840 | that. 
-| συμβουλεύω | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/συμβουλεύω.md) | 1840 | (note: σύν- changes to σύμ- before β for the sake of euphony.) to advise, with D. of
-| μεστός | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/μεστός.md) | 1840 | full, full of, the person. with G. 
-| ὅδε | [129](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ὅδε.md) | 1969 | ἤδε, τόδε: this (as follows). 
-| οὗτος | [87](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/οὗτος.md) | 2056 | αὕτη, τοῦτο: this (as already mentioned).
-| πλοῖον | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/πλοῖον.md) | 2056 | πλοίου, τό: boat.
-| σῖτος | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/σῖτος.md) | 2056 | του, ὁ : grain, food.  PARASITE (the one who takes foot with you).
-| σύν | [11](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/σύν.md) | 2067 | prep. with D.: with. SYNOD (a coming together); SYMPATHY (a shared feeling).
+| ἀδιάβατος | [2](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀδιάβατος.md) | 22578 | (note 1) uncrossable. 
+| διαβαίνω | [87](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/διαβαίνω.md) | 22665 | (Future and aorist will be given later.) to cross. 
+| διαβατός | [4](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/διαβατός.md) | 22669 | (note 1) crossable.
+| ἐκεῖνος | [86](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐκεῖνος.md) | 22755 | that. 
+| συμβουλεύω | [28](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/συμβουλεύω.md) | 22783 | (note: σύν- changes to σύμ- before β for the sake of euphony.) to advise, with D. of
+| μεστός | [11](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/μεστός.md) | 22794 | full, full of, the person. with G. 
+| ὅδε | [43](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ὅδε.md) | 22837 | ἤδε, τόδε: this (as follows). 
+| οὗτος | [1037](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/οὗτος.md) | 23874 | αὕτη, τοῦτο: this (as already mentioned).
+| πλοῖον | [60](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πλοῖον.md) | 23934 | πλοίου, τό: boat.
+| σῖτος | [22](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σῖτος.md) | 23956 | του, ὁ : grain, food.  PARASITE (the one who takes foot with you).
+| σύν | [168](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σύν.md) | 24124 | prep. with D.: with. SYNOD (a coming together); SYMPATHY (a shared feeling).
 
 
 

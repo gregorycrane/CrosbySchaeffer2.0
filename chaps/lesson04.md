@@ -42,16 +42,16 @@ These are the most common neuter o-stem nouns, with the CS lesson if they appear
 
 | | lemma | freq | CS1-24 | def | 
 | --- | --- | --- | --- | --- 
-| 1 | [χωρίον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=χωρίον) | [92](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//χωρίον.md) | NA | a particular place, a place, spot, district | 
-| 2 | [ὅπλον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅπλον) | [85](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//ὅπλον.md) | 15 | a tool, implement, (pl.) arms, weapons | 
-| 3 | [πλοῖον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πλοῖον) | [60](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//πλοῖον.md) | 14 | a floating vessel, a ship, vessel | 
-| 4 | [πεδίον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πεδίον) | [50](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//πεδίον.md) | 4 | a plain | 
-| 5 | [στρατόπεδον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=στρατόπεδον) | [39](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//στρατόπεδον.md) | 17 | the ground on which soldiers are encamped, a camp, encampment | 
-| 6 | [ἄκρον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄκρον) | [31](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//ἄκρον.md) | NA | the highest or furthest point: mountain top, cape | 
-| 7 | [ὑποζύγιον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὑποζύγιον) | [30](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//ὑποζύγιον.md) | NA | a beast for the yoke, a beast of burden | 
-| 8 | [στάδιον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=στάδιον) | [41](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//στάδιον.md) | 4 | a stade, = ca. 600 feet | 
-| 9 | [πρόβατον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πρόβατον) | [19](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//πρόβατον.md) | NA | sheep; small cattle | 
-| 10 | [πλέθρον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πλέθρον) | [17](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//πλέθρον.md) | NA | a plethron, = 100 feet long, or 10,000 square feet | 
+| 1 | [χωρίον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=χωρίον) | [92](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//χωρίον.md) | NA | a particular place, a place, spot, district | 
+| 2 | [ὅπλον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅπλον) | [85](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//ὅπλον.md) | 15 | a tool, implement, (pl.) arms, weapons | 
+| 3 | [πλοῖον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πλοῖον) | [60](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//πλοῖον.md) | 14 | a floating vessel, a ship, vessel | 
+| 4 | [πεδίον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πεδίον) | [50](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//πεδίον.md) | 4 | a plain | 
+| 5 | [στρατόπεδον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=στρατόπεδον) | [39](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//στρατόπεδον.md) | 17 | the ground on which soldiers are encamped, a camp, encampment | 
+| 6 | [ἄκρον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄκρον) | [31](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//ἄκρον.md) | NA | the highest or furthest point: mountain top, cape | 
+| 7 | [ὑποζύγιον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὑποζύγιον) | [30](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//ὑποζύγιον.md) | NA | a beast for the yoke, a beast of burden | 
+| 8 | [στάδιον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=στάδιον) | [41](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//στάδιον.md) | 4 | a stade, = ca. 600 feet | 
+| 9 | [πρόβατον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πρόβατον) | [19](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//πρόβατον.md) | NA | sheep; small cattle | 
+| 10 | [πλέθρον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πλέθρον) | [17](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//πλέθρον.md) | NA | a plethron, = 100 feet long, or 10,000 square feet | 
 
 
 
@@ -133,15 +133,15 @@ with many prepositions denotes **place to which** :1
 ## [§ 25](#para25). Vocabulary
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| δέ | [194](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/δέ.md) | 1064 | (δ᾽ before vowels), postpositive conj: but, and.
-| ἐν | [65](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἐν.md) | 1129 | proclitic prep. with D. : in (Lat. in). ENCLITIC.
-| δένδρον | [1](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/δένδρον.md) | 1130 | δένδρου, τό: tree. RHODODENDRON.
-| παρά | [9](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/παρά.md) | 1139 | prep., with G., from the side of; with D., by the side of; with A., to the side of, to, alongside. PARALLEL.
-| δῆλος | [1](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/δῆλος.md) | 1140 | δήλη, δῆλον: plain, evident.
-| δῶρον | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/δῶρον.md) | 1140 | δώρου, τό: gift. THEODORE,
-| εἰς | [28](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/εἰς.md) | 1168 | proclit. prep. with A.: into  (Lat. in).
-| πεδίον | [2](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/πεδίον.md) | 1170 | πεδίου, τό: plain, flat area.
-| στάδιον | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/στάδιον.md) | 1170 | σταδίου, τό: stadium (race course); stade (600 ft.).3
+| δέ | [2389](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/δέ.md) | 14451 | (δ᾽ before vowels), postpositive conj: but, and.
+| ἐν | [439](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐν.md) | 14890 | proclitic prep. with D. : in (Lat. in). ENCLITIC.
+| δένδρον | [12](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/δένδρον.md) | 14902 | δένδρου, τό: tree. RHODODENDRON.
+| παρά | [180](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/παρά.md) | 15082 | prep., with G., from the side of; with D., by the side of; with A., to the side of, to, alongside. PARALLEL.
+| δῆλος | [28](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/δῆλος.md) | 15110 | δήλη, δῆλον: plain, evident.
+| δῶρον | [13](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/δῶρον.md) | 15123 | δώρου, τό: gift. THEODORE,
+| εἰς | [432](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/εἰς.md) | 15555 | proclit. prep. with A.: into  (Lat. in).
+| πεδίον | [50](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πεδίον.md) | 15605 | πεδίου, τό: plain, flat area.
+| στάδιον | [41](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/στάδιον.md) | 15646 | σταδίου, τό: stadium (race course); stade (600 ft.).3
 
 
 
@@ -152,26 +152,26 @@ The most common dictionary words in the Anabasis, with the Crosby and Schaeffer 
 
 | | lemma | freq | CS1-24 | def | 
 | --- | --- | --- | --- | --- 
-| 1 | [ὁ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ) | [6522](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//ὁ.md) | 1 | the | 
-| 2 | [καί](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί) | [3388](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//καί.md) | 3 | and, also | 
-| 3 | [δέ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ) | [2389](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//δέ.md) | 4 | but | 
-| 4 | [εἰμί](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰμί) | [1316](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//εἰμί.md) | 17 | to be | 
-| 5 | [οὗτος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὗτος) | [1037](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//οὗτος.md) | 14 | this; that | 
-| 6 | [αὐτός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=αὐτός) | [899](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//αὐτός.md) | 13 | unemph. 3rd pers.pronoun; -self; [the] same | 
-| 7 | [μέν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν) | [787](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//μέν.md) | 8 | on the one hand, on the other hand | 
-| 8 | [ἐγώ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐγώ) | [741](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//ἐγώ.md) | 15 | I (first person pronoun) | 
-| 9 | [σύ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύ) | [536](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//σύ.md) | 15 | you (personal pronoun) | 
-| 10 | [λέγω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λέγω) | [514](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//λέγω.md) | NA | to say, tell, speak; epic and arch.: pick, gather | 
-| 11 | [ὅς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅς) | [506](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//ὅς.md) | 13 | who, that, which: relative pronoun | 
-| 12 | [τις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τις) | [464](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//τις.md) | NA | any one, any thing, some one, some thing | 
-| 13 | [ἐπί](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐπί) | [461](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//ἐπί.md) | 12 | on, upon with gen., dat., and acc. | 
-| 14 | [ὡς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὡς) | [457](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//ὡς.md) | 21 | as, how | 
-| 15 | [γάρ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=γάρ) | [452](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//γάρ.md) | 6 | for | 
-| 16 | [ἐν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐν) | [439](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//ἐν.md) | 4 | in, among. c. dat. | 
-| 17 | [ἔχω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἔχω) | [438](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//ἔχω.md) | 10 | have, hold; be able; (+ adv.) be; (mid.) cling to, be next to (+ gen.) | 
-| 18 | [οὐ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐ) | [434](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//οὐ.md) | 6 | not | 
-| 19 | [εἰς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰς) | [432](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//εἰς.md) | 4 | into, to c. acc. | 
-| 20 | [πολύς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πολύς) | [426](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002//πολύς.md) | NA | much, many | 
+| 1 | [ὁ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ) | [6522](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//ὁ.md) | 1 | the | 
+| 2 | [καί](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί) | [3388](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//καί.md) | 3 | and, also | 
+| 3 | [δέ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ) | [2389](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//δέ.md) | 4 | but | 
+| 4 | [εἰμί](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰμί) | [1316](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//εἰμί.md) | 17 | to be | 
+| 5 | [οὗτος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὗτος) | [1037](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//οὗτος.md) | 14 | this; that | 
+| 6 | [αὐτός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=αὐτός) | [899](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//αὐτός.md) | 13 | unemph. 3rd pers.pronoun; -self; [the] same | 
+| 7 | [μέν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν) | [787](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//μέν.md) | 8 | on the one hand, on the other hand | 
+| 8 | [ἐγώ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐγώ) | [741](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//ἐγώ.md) | 15 | I (first person pronoun) | 
+| 9 | [σύ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύ) | [536](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//σύ.md) | 15 | you (personal pronoun) | 
+| 10 | [λέγω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λέγω) | [514](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//λέγω.md) | NA | to say, tell, speak; epic and arch.: pick, gather | 
+| 11 | [ὅς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅς) | [506](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//ὅς.md) | 13 | who, that, which: relative pronoun | 
+| 12 | [τις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τις) | [464](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//τις.md) | NA | any one, any thing, some one, some thing | 
+| 13 | [ἐπί](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐπί) | [461](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//ἐπί.md) | 12 | on, upon with gen., dat., and acc. | 
+| 14 | [ὡς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὡς) | [457](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//ὡς.md) | 21 | as, how | 
+| 15 | [γάρ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=γάρ) | [452](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//γάρ.md) | 6 | for | 
+| 16 | [ἐν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐν) | [439](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//ἐν.md) | 4 | in, among. c. dat. | 
+| 17 | [ἔχω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἔχω) | [438](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//ἔχω.md) | 10 | have, hold; be able; (+ adv.) be; (mid.) cling to, be next to (+ gen.) | 
+| 18 | [οὐ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐ) | [434](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//οὐ.md) | 6 | not | 
+| 19 | [εἰς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰς) | [432](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//εἰς.md) | 4 | into, to c. acc. | 
+| 20 | [πολύς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πολύς) | [426](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//πολύς.md) | NA | much, many | 
 
 
 ## [§ 25a](#para25a). Delphi.

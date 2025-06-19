@@ -170,15 +170,15 @@ face, "This is the city of Hadrian, not of Theseus."
 
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| ἐνταῦθα | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἐνταῦθα.md) | 1598 | adv., there, at that place.
+| ἐνταῦθα | [126](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐνταῦθα.md) | 19285 | adv., there, at that place.
 - <rs type="lemma">λοιπός</rs>, λοιπή, λοιπόν
 [note: An example of vowel change (§ 53).]: left, remaining ; τὸ λοιπόν: the future: κ.τ.λ. (καὶ τὰ λοιπά) : etc.
-| ἐντεῦθεν | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἐντεῦθεν.md) | 1601 | adv. : from there, thence.
-| ἐπιστολή | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἐπιστολή.md) | 1601 | ἐπιστολῆς, ἡ: letter. EPISTLE.
-| οἰκία | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/οἰκία.md) | 1601 | οἰκίας, ἡ: house. ECONOMY.
-| ἔχω | [53](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἔχω.md) | 1654 | ἕξω: have; ἔσχον[note: ἔσχον is aorist. Sigma was lost in the present and replaced by breathing in the future.]: got.
-| πύλη | [4](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/πύλη.md) | 1658 | πύλης, ἡ: gate; pl., pass. PYLON. THERMOPYLA.
-| λείπω | [5](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/λείπω.md) | 1663 | λείψω, ἔλιπον: leave. ECLIPSE.
+| ἐντεῦθεν | [80](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐντεῦθεν.md) | 19393 | adv. : from there, thence.
+| ἐπιστολή | [5](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐπιστολή.md) | 19398 | ἐπιστολῆς, ἡ: letter. EPISTLE.
+| οἰκία | [32](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/οἰκία.md) | 19430 | οἰκίας, ἡ: house. ECONOMY.
+| ἔχω | [438](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἔχω.md) | 19868 | ἕξω: have; ἔσχον[note: ἔσχον is aorist. Sigma was lost in the present and replaced by breathing in the future.]: got.
+| πύλη | [21](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πύλη.md) | 19889 | πύλης, ἡ: gate; pl., pass. PYLON. THERMOPYLA.
+| λείπω | [19](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/λείπω.md) | 19908 | λείψω, ἔλιπον: leave. ECLIPSE.
 
 
 ## [§ 59](#para59). Exercises.

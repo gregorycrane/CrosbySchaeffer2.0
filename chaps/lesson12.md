@@ -71,15 +71,15 @@ at the start.
 ## [§ 64](#para64). Vocabulary
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| Ἀθῆναι | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/Ἀθῆναι.md) | 1663 | Ἀθηνῶν, αἱ: Athens.
-| ἀπέχω | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἀπέχω.md) | 1663 | be distant, be away.
-| ἐπί | [30](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἐπί.md) | 1693 | prep. with G., on, upon;1 with D., on, at, by; with A., upon, to, againsi, EPIDERMIS.[note: The difference between the genitive, dative, and accusative may be indicated by these phrases: on horseback, a city on the sea, he marches on the town. Compare παρά (§ 25).]
-| Ἀθηναῖος | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/Ἀθηναῖος.md) | 1693 | Ἀθηναά, Ἀθηναῖον: Athenian.
-| ἑπτά | [2](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἑπτά.md) | 1695 | seven. HEPTAGON.
-| δρόμος | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/δρόμος.md) | 1695 | δρόμου, ὁ: a running, run, race, race course. HIPPODROME.
-| ἥκω | [8](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἥκω.md) | 1703 | ἥξω: [No aorist in use] come, have come, arrive.
-| ὀκτώ | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ὀκτώ.md) | 1703 | eight. octopus.
-| σπεύδω | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/σπεύδω.md) | 1703 | σπεύσω, ἔσπευσα: hasten.
+| Ἀθῆναι | [2](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/Ἀθῆναι.md) | 19910 | Ἀθηνῶν, αἱ: Athens.
+| ἀπέχω | [24](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀπέχω.md) | 19934 | be distant, be away.
+| ἐπί | [461](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἐπί.md) | 20395 | prep. with G., on, upon;1 with D., on, at, by; with A., upon, to, againsi, EPIDERMIS.[note: The difference between the genitive, dative, and accusative may be indicated by these phrases: on horseback, a city on the sea, he marches on the town. Compare παρά (§ 25).]
+| Ἀθηναῖος | [26](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/Ἀθηναῖος.md) | 20421 | Ἀθηναά, Ἀθηναῖον: Athenian.
+| ἑπτά | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἑπτά.md) | 20435 | seven. HEPTAGON.
+| δρόμος | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/δρόμος.md) | 20449 | δρόμου, ὁ: a running, run, race, race course. HIPPODROME.
+| ἥκω | [91](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἥκω.md) | 20540 | ἥξω: [No aorist in use] come, have come, arrive.
+| ὀκτώ | [10](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ὀκτώ.md) | 20550 | eight. octopus.
+| σπεύδω | [9](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/σπεύδω.md) | 20559 | σπεύσω, ἔσπευσα: hasten.
 
 
 ## [§ 65](#para65). Marathon

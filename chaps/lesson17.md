@@ -106,18 +106,18 @@ a contrary to fact from a past particular condition (§ 85).
 
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| ἄν | [54](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἄν.md) | 2586 | post-pos. particle belonging to certain types of conditional clauses but lacking an exact English eqnivalent.
-| ἄπειμι | [2](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἄπειμι.md) | 2588 | be away, be absent.
-| εἰμί | [85](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/εἰμί.md) | 2673 | enclit.: be.
-| ἔξεστι | [1](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/ἔξ-ἐστι(ν).md) | 2674 | 2 impersonal ; it is possible.
-| οὔπω | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/οὔπω.md) | 2674 | neg. adv. : not yet.
-| πάρειμι | [11](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/πάρειμι.md) | 2685 | be present.
-| πέντε | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/πέντε.md) | 2685 | indeclinable : five. PENTAGON.
-| στρατόπεδον | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/στρατόπεδον.md) | 2685 | camp. Cf. στρατιά and πεδίον.
-| τόπος | [1](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/τόπος.md) | 2686 | place. TOPOGRAPUY.
-| τότε | [7](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0011-002/τότε.md) | 2693 | adv.: then, at that time.
-| φᾱσί(ν) | 0 | 2693 | 2 enclit.; they say.
-| φησί(ν) | 0 | 2693 | 2 enclit.: he or she says, PROPHET.
+| ἄν | [346](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἄν.md) | 27333 | post-pos. particle belonging to certain types of conditional clauses but lacking an exact English eqnivalent.
+| ἄπειμι | [3](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἄπειμι.md) | 27336 | be away, be absent.
+| εἰμί | [1316](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/εἰμί.md) | 28652 | enclit.: be.
+| ἔξεστι | [31](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἔξ-ἐστι(ν).md) | 28683 | 2 impersonal ; it is possible.
+| οὔπω | [8](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/οὔπω.md) | 28691 | neg. adv. : not yet.
+| πάρειμι | [81](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πάρειμι.md) | 28772 | be present.
+| πέντε | [34](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/πέντε.md) | 28806 | indeclinable : five. PENTAGON.
+| στρατόπεδον | [39](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/στρατόπεδον.md) | 28845 | camp. Cf. στρατιά and πεδίον.
+| τόπος | [5](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/τόπος.md) | 28850 | place. TOPOGRAPUY.
+| τότε | [54](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/τότε.md) | 28904 | adv.: then, at that time.
+| φᾱσί(ν) | 0 | 28904 | 2 enclit.; they say.
+| φησί(ν) | 0 | 28904 | 2 enclit.: he or she says, PROPHET.
 
 
 
