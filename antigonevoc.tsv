@@ -1,80 +1,301 @@
-1	377	new	1	ὁ	the
-2	253	3	1	καί	and
-3	192	4	1	δέ	but
-4	162	15	1	ἐγώ	I (first person pronoun)
-6	114	6	1	γάρ	for
-7	112	6	1	οὐ	not
-8	101	15	1	σύ	you (personal pronoun)
-9	88	17	1	εἰμί	to be
-10	85	14	1	οὗτος	this; that
-11	82	new	2	οὔτε	neither / nor
-13	69	new	3	τε	and
-14	64	4	3	ἐν	in
-18	53	new	4	τις	any one
-19	53	15	4	κακός	bad
-20	53	10	4	ἔχω	to have
-21	52	13	4	ὅς	who
-22	51	new	5	τίς	who? which?
-23	50	2	5	ἐκ	from out of
-24	49	8	5	μέν	on the one hand
-28	39	new	6	θνήσκω	nodef
-31	37	new	7	ὦ	O! oh!
-32	37	new	8	οὐδείς	not one
-33	37	new	9	ἤ	either..or; than
-35	34	new	10	πόλις	a city
-36	34	18	10	πρός	(w. gen.) from; (w. dat.) at
-40	29	new	11	οἶδα	to know
-42	25	2	11	φίλος	friend; loved
-44	24	new	12	ὁράω	to see
-45	24	new	13	ὅστις	indef. relative or indirect interrogative
-46	23	new	14	ἐμός	mine
-47	23	new	15	νῦν	now at this very time
-49	22	new	16	σός	your
-54	20	new	17	ἔτι	yet
-55	20	new	18	ζάω	to live
-78	14	new	19	Ζεύς	Zeus
-79	14	new	20	φημί	to say
-80	14	new	21	χείρ	the hand
-82	13	new	22	εἷς	one
-85	12	new	23	αὖ	again
-99	11	new	24	ἐπεί	after
-107	10	new	25	ἆρα	particle introducing a question
-108	10	new	26	ἄτη	bewilderment
-134	8	new	27	κοινός	common
-135	8	2	27	ἀπό	from
-136	8	new	28	αἰσχρός	causing shame
-137	8	new	29	ἐχθρός	hated
-156	7	new	30	κάρα	the head
-157	7	new	31	στείχω	to walk
-158	7	1	31	ἀδελφός	sons of the same mother
-178	6	new	32	τίθημι	to set
-213	5	new	33	Οἰδίπους	Oedipus
-214	5	new	34	ἀλγεινός	giving pain
-215	5	new	35	ἄρτιος	suitable
-216	5	new	36	ἡδύς	sweet
-217	5	new	37	δύο	two
-218	5	7	37	ἡμέρα	day
-260	4	new	38	ὁποῖος	of what sort
-261	4	new	39	μᾶλλον	more
-342	3	new	40	αὐτάδελφος	related as brother
-343	3	new	41	τελέω	to complete
-344	3	new	42	ἄτιμος	unhonoured
-345	3	new	43	κήρυγμα	that which is cried by a herald
-346	3	new	44	μῦθος	anything
-347	3	new	45	Ἀντιγόνη	Antigone
-348	3	new	46	ἱκνέομαι	to come
-349	3	new	47	στερέω	to deprive
-460	2	new	48	Ἰσμήνη	nodef
-461	2	new	49	ἄτερ	without
-462	2	new	50	πάνδημος	of all the people
-463	2	new	51	λανθάνω	to escape notice
-464	2	new	52	φροῦδος	gone away
-465	2	new	53	ὑπέρτερος	over
-466	2	new	54	εὐτυχέω	to be well off
-467	2	new	55	ἀτάομαι	to suffer greatly
-759	1	1	55	στρατηγός	the leader
-760	1	new	56	εἰσακούω	to hearken
-761	1	new	57	διπλός	nodef
-762	1	new	58	Ἀργεῖος	of/from Argos
-763	1	new	59	στρατός	an encamped army
-764	1	19	59	νύξ	the night
+Freq. in Ant. CS lesson gloss type
+377	new	ὁ	the	l
+253	3	καί	and	c
+192	4	δέ	but	d
+162	15	ἐγώ	I (first person pronoun)	p
+127	14	ὅδε	this	p
+114	6	γάρ	for	d
+112	6	οὐ	not	d
+101	15	σύ	you (personal pronoun)	p
+88	17	εἰμί	to be	v
+85	14	οὗτος	this; that	p
+82	new	οὔτε	neither / nor	c
+70	8	ἀλλά	otherwise	c
+69	new	τε	and	c
+64	4	ἐν	in	r
+55	15	μή	not	d
+54	new	ὡς	as	c
+54	new	ἄν1	nodef	d
+53	new	τις	any one	p
+53	15	κακός	bad	a
+53	10	ἔχω	to have	v
+52	13	ὅς	who	p
+51	new	τίς	who? which?	p
+50	2	ἐκ	from out of	r
+49	8	μέν	on the one hand	d
+47	15	εἰ	conj. if	c
+45	new	λέγω	to pick; to say	v
+42	new	ἀνήρ	a man	n
+39	new	θνήσκω	nodef	v
+39	new	γε	at least	d
+39	new	θεός	god	n
+37	new	ὦ	O! oh!	i
+37	new	οὐδείς	not one	p
+37	new	ἤ	either..or; than	c
+37	new	πᾶς	all	p
+34	new	πόλις	a city	n
+34	18	πρός	(w. gen.) from; (w. dat.) at	r
+31	12	ἐπί	on	r
+30	13	αὐτός	unemph. 3rd pers.pronoun; -self; [the] same 	p
+29	new	οἶδα	to know	v
+25	2	φίλος	friend; loved	a
+25	new	ποτέ	nodef	d
+24	new	ὁράω	to see	v
+24	new	ὅστις	indef. relative or indirect interrogative	p
+23	new	ἐμός	mine	p
+23	new	νῦν	now at this very time	d
+23	new	δή	[interactional particle: S&H on same page]	d
+22	new	σός	your	p
+22	new	δράω	to do	v
+22	new	πολύς	much	a
+20	new	ἔτι	yet	d
+20	new	ζάω	to live	v
+20	3	ἄγω	to lead	v
+19	new	πατήρ	a father	n
+18	new	νόμος	usage	n
+18	18	γυνή	a woman	n
+18	14	ἐκεῖνος	that over there	p
+17	new	φύω	to bring forth	v
+17	new	δοκέω	seem	v
+16	3	καλός	beautiful	a
+16	new	μόνος	alone	a
+16	new	φρονέω	to think	v
+16	new	χρή	it is fated	v
+16	new	ὑπό	from under	r
+15	new	τάφος	a burial	n
+15	new	νεκρός	a dead body	n
+15	new	ὄλλυμι	to destroy	v
+15	15	οὖν	so	d
+15	new	ἔρχομαι	to come	v
+14	new	Ζεύς	Zeus	n
+14	new	φημί	to say	v
+14	new	χείρ	the hand	n
+14	new	δεινός	fearful	a
+13	new	εἷς	one	n
+13	3	ἐθέλω	to will	v
+13	8	ἔργον	work	n
+12	new	αὖ	again	d
+12	new	Κρέων	Creon	n
+12	14	σύν	along with	r
+12	new	δίκη	(custom	n
+12	18	κατά	down	r
+12	4	παρά	from the side of	r
+12	new	οὕτως	so	d
+12	new	εἴτε	whether..or (regardless of whether A or B)	c
+12	new	οἴμοι	ah me! woe's me!	i
+12	new	ὅτι	adv. + superl.	d
+11	new	ἐπεί	after	c
+11	new	μόρος	man's appointed doom	n
+10	new	ἆρα	particle introducing a question	d
+10	new	ἄτη	bewilderment	n
+10	2	δίκαιος	just	a
+10	new	μήτηρ	a mother	n
+10	new	ὅσος	as much/many as	p
+10	new	πράσσω	do	v
+10	new	χρόνος	time	n
+9	new	κλύω	to hear	v
+9	new	ἔπος	a word	n
+9	new	νέκυς	a dead body	n
+9	new	γνώμη	a means of knowing	n
+9	new	κάτω	down	d
+9	new	μηδείς	(and not one); not one	p
+9	new	ὀρθός	straight	a
+8	new	κοινός	common	a
+8	2	ἀπό	from	r
+8	new	αἰσχρός	causing shame	a
+8	new	ἐχθρός	hated	a
+8	new	χθών	the earth	n
+8	new	μηδέ	but not	c
+8	new	τοιοῦτος	such as this	p
+8	new	τάλας	suffering	a
+8	new	ὅταν	when	c
+7	new	κάρα	the head	n
+7	new	στείχω	to walk	v
+7	1	ἀδελφός	sons of the same mother	n
+7	new	θάπτω	to bury	v
+7	9	ἄρχω	(to be first) to rule	v
+7	new	πάσχω	to experience	v
+7	new	ὥστε	so that	c
+6	new	τίθημι	to set	v
+6	new	κρύπτω	to hide	v
+6	new	οἰωνός	a large bird	n
+6	new	εἰσοράω	to look into	v
+6	19	χάρις	gratitude	n
+6	19	πρᾶγμα	that which has been done	n
+6	new	ποῖος	of what nature? of what sort?	p
+6	new	βίος	life	n
+6	new	κράτος	strength	n
+6	new	ἀκούω	to hear	v
+6	new	βαίνω	to walk	v
+6	new	ποιέω	to make	v
+6	new	κεῖμαι	to lie; to have been set/put (as perf. pass. of τίθημι)	v
+6	new	ἀεί	always	d
+5	new	Οἰδίπους	Oedipus	n
+5	new	ἀλγεινός	giving pain	a
+5	new	ἄρτιος	suitable	d
+5	new	ἡδύς	sweet	a
+5	new	δύο	two	m
+5	7	ἡμέρα	day	n
+5	new	ἐκτός	outside	r
+5	new	Πολυνείκης	Polyneices	n
+5	new	ἐάω	to let	v
+5	new	κηρύσσω	to be a herald	v
+5	new	πλείων	more	a
+5	new	ἦ	in truth	d
+5	new	σφεῖς	personal and (ind.) reflexive pronoun	p
+5	new	μετά	(w gen) with	r
+5	new	ἔπειτα	then	d
+5	10	λείπω	to leave	v
+5	new	τέλος	the fulfilment	n
+5	new	νόος	mind	n
+5	new	δεῖ	it is necessary	v
+5	new	ἀμήχανος	without means	a
+5	new	πότμος	that which befals one	n
+5	3	παύω	to make to cease	v
+4	new	ὁποῖος	of what sort	p
+4	new	μᾶλλον	more	d
+4	10	πύλη	one wing of a pair of double gates	n
+4	new	οὕνεκα	on which account	c
+4	new	δηλόω	to make visible	v
+4	new	κασίγνητος	a brother; adj of a brother; sibling	n
+4	new	ἀτιμάζω	to hold in no honour	v
+4	new	ἀστός	a townsman	n
+4	new	δεῦρο	hither	d
+4	new	πρόκειμαι	to be set before one	v
+4	new	δείκνυμι	to show	v
+4	new	ἐσθλός	good	a
+4	new	γοῦν	at least then	d
+4	new	ἐάν	if	c
+4	new	διπλόος	twofold	a
+4	new	ἴσχω	to hold	v
+4	new	ἀρέσκω	(to make good	v
+4	new	καρδία	the heart	n
+4	new	δύναμαι	to be able	v
+4	7	ἀρχή	a beginning	n
+4	new	τοσοῦτος	so large	p
+3	new	αὐτάδελφος	related as brother	a
+3	new	τελέω	to complete	v
+3	new	ἄτιμος	unhonoured	d
+3	new	κήρυγμα	that which is cried by a herald	n
+3	new	μῦθος	anything	n
+3	new	Ἀντιγόνη	Antigone	n
+3	new	ἱκνέομαι	to come	v
+3	new	στερέω	to deprive	v
+3	new	ἄθλιος	winning the prize	a
+3	new	κωκύω	to shriek	v
+3	new	ἄκλαυστος	nodef	a
+3	new	βορά	eatage	n
+3	3	ἀγαθός	good	a
+3	new	τάχα	(Homer	d
+3	new	ταλαίφρων	suffering in mind	n
+3	new	σκοπέω	to look at	v
+3	new	νοέω	to perceive by the eyes	v
+3	new	προδίδωμι	to give beforehand	v
+3	new	βία	bodily strength	n
+3	new	τύραννος	an absolute sovereign	a
+3	new	αἰτέω	to ask	v
+3	new	βιάζω	to constrain	v
+3	9	πείθω	to prevail upon	v
+3	new	ἐνθάδε	here	d
+3	new	ἐκεῖ	there	d
+3	16	πολίτης	(fellow) citizen	n
+3	new	κρυφῇ	secretly	d
+3	new	ἐράω	to love	v
+3	new	σθένω	to have strength	v
+3	new	πρόσκειμαι	to be placed at	v
+3	new	ἄνοος	without understanding	a
+2	new	Ἰσμήνη	nodef	n
+2	new	ἄτερ	without	r
+2	new	πάνδημος	of all the people	a
+2	new	λανθάνω	to escape notice	v
+2	new	φροῦδος	gone away	a
+2	new	ὑπέρτερος	over	a
+2	new	εὐτυχέω	to be well off	v
+2	new	ἀτάομαι	to suffer greatly	v
+2	new	Ἐτεοκλῆς	Eteocles	n
+2	new	ἔντιμος	in honour	a
+2	new	ἐκκηρύσσω	to proclaim by voice of herald	v
+2	new	καλύπτω	to cover with	v
+2	new	σαφής	clear	a
+2	new	προκηρύσσω	to proclaim by herald	v
+2	new	φόνος	murder	n
+2	new	εὐγενής	well-born	a
+2	3	λύω	to loose	v
+2	new	προστίθημι	to add	v
+2	new	ποῦ	where	d
+2	new	ἁλίσκομαι	to be caught	v
+2	new	κασιγνήτη	a sister	n
+2	new	ἀπόλλυμι	to destroy	v
+2	new	ἀράσσω	to strike hard	v
+2	new	ψῆφος	a small stone	n
+2	new	κρείσσων	stronger	a
+2	new	περισσός	beyond the regular number	a
+2	13	κελεύω	to urge	v
+2	new	προέχω	to hold before	v
+2	new	χόω	to throw or heap up earth	v
+2	new	πορεύω	to make to go	v
+2	new	κεύθω	to cover quite up	v
+2	new	αὔτως	in this very manner	d
+2	new	θερμός	hot	a
+2	new	ψυχρός	cold	a
+2	new	ἁνδάνω	to please	v
+2	new	οὐκοῦν	therefore	d
+2	new	θηράω	to hunt	v
+2	new	δυσβουλία	ill counsel	n
+1	1	στρατηγός	the leader	n
+1	new	εἰσακούω	to hearken	v
+1	new	διπλός	nodef	a
+1	new	Ἀργεῖος	of/from Argos	a
+1	new	στρατός	an encamped army	n
+1	19	νύξ	the night	n
+1	new	αὔλειος	of or belonging to the courtyard (αὐλή)	a
+1	new	ἐκπέμπω	to send out	v
+1	new	καλχαίνω	to make purple	v
+1	new	προτίω	to prefer in honour	v
+1	new	χρῆσις	a using	n
+1	new	ἔνερθε	from beneath	d
+1	new	ἄταφος	unburied	a
+1	new	γλυκύς	sweet	a
+1	new	θησαυρός	a store laid up	n
+1	new	νέομαι	to go	v
+1	new	δημόλευστος	publicly stoned	a
+1	new	ἐφάπτω	to bind on	v
+1	new	συμπονέω	to work with	v
+1	new	συνεργάζομαι	to work with	v
+1	new	κινδύνευμα	a risk	n
+1	new	κουφίζω	to be light	v
+1	new	ἀπόρρητος	forbidden	a
+1	new	σχέτλιος	unwearying	a
+1	new	ἀντερῶ	to speak against	v
+1	new	ἔργω	to bar one's way	v
+1	new	ἀπεχθής	hateful	a
+1	new	δυσκλεής	infamous	a
+1	new	αὐτόφωρος	self-detected	a
+1	new	ἀμπλάκημα	an error	n
+1	new	ὄψις	look	n
+1	new	αὐτουργός	self-working	a
+1	new	πλεκτός	plaited	a
+1	new	ἀρτάνη	that by which something is hung up	n
+1	new	λωβάομαι	to treat despitefully	v
+1	new	τρίτος	the third	a
+1	new	αὐτοκτονέω	to slay one another	v
+1	new	ταλαίπωρος	suffering	a
+1	new	κατεργάζομαι	to effect by labour	v
+1	new	ἐπάλληλος	one after another	a
+1	new	παρέξειμι	pass by	v
+1	new	ἐννοέω	to have in one's thoughts	v
+1	new	μάχομαι	to fight	v
+1	new	ἀλγίων	more painful	a
+1	new	σύγγνοια	forgiveness (v. συγγνώμη)	n
+1	new	ὅσιος	hallowed	a
+1	new	πανουργέω	to play the knave	v
+1	new	ὑπερδείδω	to fear for	v
+1	new	προταρβέω	to fear beforehand	v
+1	new	ἐξορθόω	to set upright	v
+1	new	προμηνύω	to denounce beforehand	v
+1	new	καταυδάω	to speak out	v
+1	new	ἐχθίων	more hated	a
+1	new	σιγάω	to be silent	v
+1	new	μάλα	very	d
+1	new	πρέπω	to be clearly seen	v
+1	new	ἐχθαίρω	to hate	v
