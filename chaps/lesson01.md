@@ -128,16 +128,16 @@ The top 10 o-stem lemmas with identical endings and accent.
 
 | | lemma | freq. | gloss | 
 | --- | --- | --- | --- 
-| 1 | [στρατηγός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=στρατηγός) | [151](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//στρατηγός.md) | the leader | 
-| 2 | [ποταμός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ποταμός) | [99](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//ποταμός.md) | a river, stream | 
-| 3 | [λοχαγός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λοχαγός) | [90](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//λοχαγός.md) | the leader of an armed band; commander of a company | 
-| 4 | [θεός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=θεός) | [89](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//θεός.md) | god | 
-| 5 | [σταθμός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σταθμός) | [55](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//σταθμός.md) | a standing place, weight | 
-| 6 | [μισθός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μισθός) | [40](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//μισθός.md) | wages, pay, hire | 
-| 7 | [ἀδελφός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀδελφός) | [20](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//ἀδελφός.md) | (of the same mother) brother; adj brotherly, sisterly, akin | 
-| 8 | [καιρός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καιρός) | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//καιρός.md) | time; the right moment, opportunity | 
-| 9 | [Μυσός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Μυσός) | [10](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//Μυσός.md) | a Mysian | 
-| 10 | [ἀριθμός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀριθμός) | [9](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006//ἀριθμός.md) | number | 
+| 1 | [στρατηγός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=στρατηγός) | [151](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-002//στρατηγός.md) | the leader | 
+| 2 | [ποταμός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ποταμός) | [99](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-002//ποταμός.md) | a river, stream | 
+| 3 | [λοχαγός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λοχαγός) | [90](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-002//λοχαγός.md) | the leader of an armed band; commander of a company | 
+| 4 | [θεός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=θεός) | [89](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-002//θεός.md) | god | 
+| 5 | [σταθμός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σταθμός) | [55](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-002//σταθμός.md) | a standing place, weight | 
+| 6 | [μισθός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μισθός) | [40](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-002//μισθός.md) | wages, pay, hire | 
+| 7 | [ἀδελφός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀδελφός) | [20](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-002//ἀδελφός.md) | (of the same mother) brother; adj brotherly, sisterly, akin | 
+| 8 | [καιρός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καιρός) | [14](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-002//καιρός.md) | time; the right moment, opportunity | 
+| 9 | [Μυσός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Μυσός) | [10](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-002//Μυσός.md) | a Mysian | 
+| 10 | [ἀριθμός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀριθμός) | [9](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-002//ἀριθμός.md) | number | 
 | | All forms | 749 |  | 
 
 
@@ -384,18 +384,18 @@ In the vocabulary we calculate how often each word appears in Xenophon's Anabasi
 Because we have not yet studied Greek verbs, this lesson gives us six isolated verb forms so that we can start to generate sentences. Four of thses verb forms show up fairly often. Two of them, however, - "s/he stops" and "they stop" -- do not appear ever in the Anabasis. The verb "to stop" does appear but not very oten in the active voice and never in the forms <foreign>παύει</foreign> and <foreign>παύουσι</foreign>. Textbooks use verbs like <foreign>παύει</foreign>, "I stop," because these verbs are morphologically easy to generate. 
 | Lemma | Freq | Total | Gloss |
 | --- | --- | --- | -- |
-| ἀδελφός | [20](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ἀδελφός.md) | 20 | ἀδελφοῦ, ὁ: brother.  PHILADELPHIA.
-| ἔχει | 16 | 36 | he, she, or it has,
-| ἔχουσι | 1 | 37 | they have.
-| ἦν | 280 | 317 | he, she, it was;  there was.
-| ἦσαν | 132 | 449 | they or there were.
-| ὁ | [6522](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ὁ.md) | 6971 | ἡ, τό: the.
-| παύει | 0 | 6971 | he, she, or it stops (transitive).
-| παύουσι | 0 | 6971 | they stop (transitive).
-| πέμπει | 9 | 6980 | he, she, or it sends (transitive).
-| πέμπουσι | 7 | 6987 | they send (transitive).
-| ποταμός | [99](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/ποταμός.md) | 7086 | ποταμοῦ, ὁ: river, HIPPOPOTAMUS.
-| στρατηγός | [151](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-006/στρατηγός.md) | 7237 | στρατηγοῦ, ὁ: general. STRATEGY.
+| ἀδελφός | [17](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-002/ἀδελφός.md) | 17 | ἀδελφοῦ, ὁ: brother.  PHILADELPHIA.
+| ἔχει | 17 | 34 | he, she, or it has,
+| ἔχουσι | 6 | 40 | they have.
+| ἦν | 47 | 87 | he, she, it was;  there was.
+| ἦσαν | 3 | 90 | they or there were.
+| ὁ | [3756](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-002/ὁ.md) | 3846 | ἡ, τό: the.
+| παύει | 0 | 3846 | he, she, or it stops (transitive).
+| παύουσι | 0 | 3846 | they stop (transitive).
+| πέμπει | 0 | 3846 | he, she, or it sends (transitive).
+| πέμπουσι | 1 | 3847 | they send (transitive).
+| ποταμός | [0](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-002/ποταμός.md) | 3847 | ποταμοῦ, ὁ: river, HIPPOPOTAMUS.
+| στρατηγός | [16](https://github.com/gregorycrane/CrosbySchaeffer2.0/tree/main/chaps/vocpassages/0032-002/στρατηγός.md) | 3863 | στρατηγοῦ, ὁ: general. STRATEGY.
 
 
 
