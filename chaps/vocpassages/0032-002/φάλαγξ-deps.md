@@ -4,6 +4,11 @@
 [πολὺ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πολύς "πολύς a-s---na- much, many") [νὴ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=νή "νή r-------- (yes) by..") [Δί’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Ζεύς "Ζεύς n-s---ma- Zeus") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ἔφη](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φημί "φημί v3siia--- to say, to claim") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [προσηκόντως](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=προσηκόντως "προσηκόντως d-------- suitably, fitly, duly") [μᾶλλον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μάλα "μάλα d-------c very, very much, exceedingly") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") **[αἱ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---fn- the")** **[φάλαγγες](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φάλαγξ "φάλαγξ n-p---fn- a line of battle, battle-array")** [·](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=· "· u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [ὁ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ) | l-p---fn- | the |
+| ______ | [φάλαγξ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φάλαγξ) | n-p---fn- | a line of battle, battle-array |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt Much more conveniently, I assure you, than the spiders. 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt " Much more readily," said he, " than spiders can ; 

@@ -4,6 +4,11 @@
 [ταῦτα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὗτος "οὗτος a-p---na- this; that") **[δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but")** [τίς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---cn- who? which?") [ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [ἄλλῳ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄλλος "ἄλλος a-s---md- other, another") **[πιστεύσειεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3saoa--- to trust, trust to")** [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [θεῷ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=θεός "θεός n-s---md- god") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [δέ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ) | b-------- | but |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3saoa--- | to trust, trust to |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt And who would believe this of anyone else but a god? 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt But who, in such matters, would trust to any one but a god ? 
@@ -11,6 +16,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt But who, in such matters, would t
 ## 2. [1.2.8](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.002.perseus-grc2:1.2.8?mode=syntax-trees) 67 ['8921500', '8921501']
 [Σωκράτης](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Σωκράτης "Σωκράτης n-s---mn- Socrates") [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [ἐπηγγείλατο](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐπαγγέλλω "ἐπαγγέλλω v3saim--- to tell, proclaim, announce") [μὲν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand") [οὐδενὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐδείς "οὐδείς a-s---md- not one, nobody") [πώποτε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πώποτε "πώποτε d-------- ever yet") [τοιοῦτον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τοιοῦτος "τοιοῦτος a-s---na- such as this") [οὐδέν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐδείς "οὐδείς a-s---na- not one, nobody") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") **[ἐπίστευε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3siia--- to trust, trust to")** **[δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but")** [τῶν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---mg- the") [συνόντων](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύνειμι "σύνειμι v-pppamg- be with (incl. be wife of, study with)") [ἑαυτῷ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἑαυτοῦ "ἑαυτοῦ p-s---md- himself, herself, themselves") [τοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---ma- the") [ἀποδεξαμένους](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀποδέχομαι "ἀποδέχομαι v-papmma- to accept from") [ἅπερ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅσπερ "ὅσπερ p-p---na- the very man who, the very thing which") [αὐτὸς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=αὐτός "αὐτός a-s---mn- unemph. 3rd pers.pronoun; -self; [the] same") [ἐδοκίμαζεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δοκιμάζω "δοκιμάζω v3siia--- to scrutinise; to approve") [εἰς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰς "εἰς r-------- into, to c. acc.") [τὸν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---ma- the") [πάντα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πᾶς "πᾶς a-s---ma- all, the whole") [βίον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=βίος "βίος n-s---ma- life") [ἑαυτῷ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἑαυτοῦ "ἑαυτοῦ p-s---md- himself, herself, themselves") [τε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τε "τε b-------- and") [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [ἀλλήλοις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀλλήλων "ἀλλήλων p-p---md- of one another, to one another, one another") [φίλους](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φίλος "φίλος a-p---ma- friend; loved, beloved, dear") [ἀγαθοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀγαθός "ἀγαθός a-p---ma- good") [ἔσεσθαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰμί "εἰμί v--fnm--- to be") [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
 
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3siia--- | to trust, trust to |
+| ______ | [δέ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ) | b-------- | but |
 
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt Socrates indeed never promised any such boon to anyone; but he was confident that those of his companions who adopted his principles of conduct would throughout life be good friends to him and to one another. 
 
@@ -20,6 +30,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt Socrates, indeed,never expressed 
 [τίς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---cn- who? which?") **[δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but")** [ἄν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [σοι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύ "σύ p-s---cd- you (personal pronoun)") [λεγούσῃ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λέγω "λέγω v-sppafd- to say, tell, speak; epic and arch.: pick, gather") [τι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τις "τις a-s---na- any one, any thing, some one, some thing") **[πιστεύσειε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3saoa--- to trust, trust to")** [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [δέ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ) | b-------- | but |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3saoa--- | to trust, trust to |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt Who will believe what thou dost say? 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt Who would believe you when you give your word for anything? 
@@ -27,6 +42,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt Who would believe you when you gi
 ## 4. [4.4.17](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.002.perseus-grc2:4.4.17?mode=syntax-trees) 1917 ['8957275', '8957271']
 [τίνι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---nd- who? which?") **[δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but")** [ἄν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [τις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τις "τις a-s---cn- any one, any thing, some one, some thing") [μᾶλλον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μάλα "μάλα d-------c very, very much, exceedingly") **[πιστεύσειε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3saoa--- to trust, trust to")** [παρακαταθέσθαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=παρακατατίθεμαι "παρακατατίθεμαι v--anm--- NoDef") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [χρήματα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=χρῆμα "χρῆμα n-p---na- thing, (pl.) goods, property, money") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [υἱοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=υἱός "υἱός n-p---ma- a son") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [θυγατέρας](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=θυγάτηρ "θυγάτηρ n-p---fa- a daughter") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [δέ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ) | b-------- | but |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3saoa--- | to trust, trust to |
 
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "To whom would one more likely entrust deposits, be it money, sons, or daughters?" 
 
@@ -36,6 +56,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt To whom would any one believe tha
 [τίνι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---nd- who? which?") **[δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but")** [ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [μᾶλλον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μάλα "μάλα d-------c very, very much, exceedingly") [πολέμιοι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πολέμιος "πολέμιος a-p---mn- hostile; enemy") **[πιστεύσειαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3paoa--- to trust, trust to")** [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [ἀνοχὰς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀνοχή "ἀνοχή n-p---fa- a holding back, stopping") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [σπονδὰς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σπονδή "σπονδή n-p---fa- drink-offering; (pl.) truce, treaty") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [συνθήκας](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=συνθήκη "συνθήκη n-p---fa- a composition; convention, pl. treaty") [περὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=περί "περί r-------- around, round about with gen., dat., and acc.") [εἰρήνης](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰρήνη "εἰρήνη n-s---fg- peace, time of peace") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [δέ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ) | b-------- | but |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3paoa--- | to trust, trust to |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "Whom would enemies trust more for truces, treaties, or peace agreements?" 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt To whom would the enemy sooner trust in cessations of arms, or in making a truce, or articles of peace? 
@@ -43,6 +68,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt To whom would the enemy sooner tr
 ## 6. [4.4.17](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.002.perseus-grc2:4.4.17?mode=syntax-trees) 1922 ['8957348', '8957343']
 [τῷ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---md- the") **[δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but")** [ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [μᾶλλον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μάλα "μάλα d-------c very, very much, exceedingly") [οἱ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---mn- the") [σύμμαχοι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύμμαχος "σύμμαχος a-p---mn- fighting along with, allied with, ally") **[πιστεύσειαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3paoa--- to trust, trust to")** [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [ἡγεμονίαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἡγεμονία "ἡγεμονία n-s---fa- a leading the way, going first") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [φρουραρχίαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φρουραρχία "φρουραρχία n-s---fa- command of a watch, of a garrison") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [πόλεις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πόλις "πόλις n-p---fa- a city") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [δέ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ) | b-------- | but |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3paoa--- | to trust, trust to |
 
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "To whom would allies more likely entrust command, guardianship, or cities?" 
 
@@ -54,6 +84,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt and to whom would the allies more
 [ταῦτα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὗτος "οὗτος a-p---na- this; that") [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [τίς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---cn- who? which?") **[ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle")** [ἄλλῳ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄλλος "ἄλλος a-s---md- other, another") **[πιστεύσειεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3saoa--- to trust, trust to")** [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [θεῷ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=θεός "θεός n-s---md- god") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [ἄν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν) | d-------- | modal particle |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3saoa--- | to trust, trust to |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt And who would believe this of anyone else but a god? 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt But who, in such matters, would trust to any one but a god ? 
@@ -61,6 +96,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt But who, in such matters, would t
 ## 2. [2.1.31](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.002.perseus-grc2:2.1.31?mode=syntax-trees) 541 ['8931611', '8931607']
 [τίς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---cn- who? which?") [δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") **[ἄν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle")** [σοι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύ "σύ p-s---cd- you (personal pronoun)") [λεγούσῃ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λέγω "λέγω v-sppafd- to say, tell, speak; epic and arch.: pick, gather") [τι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τις "τις a-s---na- any one, any thing, some one, some thing") **[πιστεύσειε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3saoa--- to trust, trust to")** [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [ἄν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν) | d-------- | modal particle |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3saoa--- | to trust, trust to |
 
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt Who will believe what thou dost say? 
 
@@ -70,6 +110,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt Who would believe you when you gi
 [τίνι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---nd- who? which?") [δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") **[ἄν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle")** [τις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τις "τις a-s---cn- any one, any thing, some one, some thing") [μᾶλλον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μάλα "μάλα d-------c very, very much, exceedingly") **[πιστεύσειε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3saoa--- to trust, trust to")** [παρακαταθέσθαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=παρακατατίθεμαι "παρακατατίθεμαι v--anm--- NoDef") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [χρήματα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=χρῆμα "χρῆμα n-p---na- thing, (pl.) goods, property, money") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [υἱοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=υἱός "υἱός n-p---ma- a son") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [θυγατέρας](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=θυγάτηρ "θυγάτηρ n-p---fa- a daughter") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [ἄν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν) | d-------- | modal particle |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3saoa--- | to trust, trust to |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "To whom would one more likely entrust deposits, be it money, sons, or daughters?" 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt To whom would any one believe that he could more safely confide his money, or his sons or daughters ? 
@@ -78,6 +123,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt To whom would any one believe tha
 [τίνι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---nd- who? which?") [δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") **[ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle")** [μᾶλλον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μάλα "μάλα d-------c very, very much, exceedingly") [πολέμιοι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πολέμιος "πολέμιος a-p---mn- hostile; enemy") **[πιστεύσειαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3paoa--- to trust, trust to")** [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [ἀνοχὰς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀνοχή "ἀνοχή n-p---fa- a holding back, stopping") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [σπονδὰς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σπονδή "σπονδή n-p---fa- drink-offering; (pl.) truce, treaty") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [συνθήκας](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=συνθήκη "συνθήκη n-p---fa- a composition; convention, pl. treaty") [περὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=περί "περί r-------- around, round about with gen., dat., and acc.") [εἰρήνης](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰρήνη "εἰρήνη n-s---fg- peace, time of peace") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [ἄν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν) | d-------- | modal particle |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3paoa--- | to trust, trust to |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "Whom would enemies trust more for truces, treaties, or peace agreements?" 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt To whom would the enemy sooner trust in cessations of arms, or in making a truce, or articles of peace? 
@@ -85,6 +135,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt To whom would the enemy sooner tr
 ## 5. [4.4.17](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.002.perseus-grc2:4.4.17?mode=syntax-trees) 1922 ['8957348', '8957344']
 [τῷ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---md- the") [δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") **[ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle")** [μᾶλλον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μάλα "μάλα d-------c very, very much, exceedingly") [οἱ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---mn- the") [σύμμαχοι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύμμαχος "σύμμαχος a-p---mn- fighting along with, allied with, ally") **[πιστεύσειαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3paoa--- to trust, trust to")** [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [ἡγεμονίαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἡγεμονία "ἡγεμονία n-s---fa- a leading the way, going first") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [φρουραρχίαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φρουραρχία "φρουραρχία n-s---fa- command of a watch, of a garrison") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [πόλεις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πόλις "πόλις n-p---fa- a city") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [ἄν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν) | d-------- | modal particle |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3paoa--- | to trust, trust to |
 
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "To whom would allies more likely entrust command, guardianship, or cities?" 
 
@@ -96,6 +151,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt and to whom would the allies more
 [τοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---ma- the") [μὲν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand") [ἀνδριαντοποιούς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀνδριαντοποιός "ἀνδριαντοποιός n-p---ma- a statue-maker, statuary, sculptor") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ἔφη](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φημί "φημί v3siia--- to say, to claim") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [δοκιμάζομεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δοκιμάζω "δοκιμάζω v1ppia--- to scrutinise; to approve") [οὐ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐ "οὐ d-------- not") [τοῖς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---md- the") [λόγοις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λόγος "λόγος n-p---md- the word") [αὐτῶν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=αὐτός "αὐτός a-p---mg- unemph. 3rd pers.pronoun; -self; [the] same") [τεκμαιρόμενοι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τεκμαίρομαι "τεκμαίρομαι v-pppemn- to fix by a mark") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") **[ἀλλ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀλλά "ἀλλά b-------- otherwise, but")** [ὃν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅς "ὅς p-s---ma- who, that, which: relative pronoun") [ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [ὁρῶμεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁράω "ὁράω v1ppsa--- to see") [τοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---ma- the") [πρόσθεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πρόσθεν "πρόσθεν d-------- before") [ἀνδριάντας](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀνδριάς "ἀνδριάς n-p---ma- the image of a man, a statue") [καλῶς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καλός "καλός d-------- beautiful") [εἰργασμένον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐργάζομαι "ἐργάζομαι v-srpema- to work, labour") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [τούτῳ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὗτος "οὗτος a-s---nd- this; that") **[πιστεύομεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v1ppia--- to trust, trust to")** [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [τοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---ma- the") [λοιποὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λοιπός "λοιπός a-p---ma- remaining, the rest") [εὖ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εὖ "εὖ d-------- well") [ποιήσειν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ποιέω "ποιέω v--fna--- to make, to do") [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [ἀλλά](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀλλά) | b-------- | otherwise, but |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v1ppia--- | to trust, trust to |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "What test do we apply to a sculptor? We don’t judge by what he says, but we look at his statues, and if we see that the works he has already produced are beautiful, we feel confident that his future works will be as good." 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt " We make proof of statuaries," rejoined Socrates, " not by forming opinions from their words, but, whomsoever we observe to have executed his previous statues skilfully, we trust that he will execute others well." 
@@ -103,6 +163,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt " We make proof of statuaries," r
 ## 2. [4.2.19](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.002.perseus-grc2:4.2.19?mode=syntax-trees) 1675 ['8952907', '8952899']
 **[ἀλλ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀλλά "ἀλλά b-------- otherwise, but")** [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ὦ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὦ "ὦ i-------- O! oh!") [Σώκρατες](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Σωκράτης "Σωκράτης n-s---mv- Socrates") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [οὐκέτι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐκέτι "οὐκέτι d-------- no more, no longer, no further") [μὲν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand") [ἔγωγε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐγώ "ἐγώ p-s---cn- I (first person pronoun)") **[πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v1spia--- to trust, trust to")** [οἷς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅς "ὅς p-p---md- who, that, which: relative pronoun") [ἀποκρίνομαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀποκρίνω "ἀποκρίνω v1spie--- to separate, set apart; mid. answer") [·](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=· "· u-------- NoDef") 
 
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [ἀλλά](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀλλά) | b-------- | otherwise, but |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v1spia--- | to trust, trust to |
 
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "Nay, Socrates, I have lost all confidence in my answers; 
 
@@ -114,6 +179,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt “ Indeed, Socrates,” said Eut
 [ἀλλ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀλλά "ἀλλά b-------- otherwise, but") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ὦ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὦ "ὦ i-------- O! oh!") [Σώκρατες](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Σωκράτης "Σωκράτης n-s---mv- Socrates") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [οὐκέτι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐκέτι "οὐκέτι d-------- no more, no longer, no further") **[μὲν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand")** [ἔγωγε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐγώ "ἐγώ p-s---cn- I (first person pronoun)") **[πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v1spia--- to trust, trust to")** [οἷς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅς "ὅς p-p---md- who, that, which: relative pronoun") [ἀποκρίνομαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀποκρίνω "ἀποκρίνω v1spie--- to separate, set apart; mid. answer") [·](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=· "· u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [μέν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν) | d-------- | on the one hand, on the other hand |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v1spia--- | to trust, trust to |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "Nay, Socrates, I have lost all confidence in my answers; 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt “ Indeed, Socrates,” said Euthydemus, “I no longer put confidence in the answers which I give; 
@@ -124,6 +194,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt “ Indeed, Socrates,” said Eut
 [Σωκράτης](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Σωκράτης "Σωκράτης n-s---mn- Socrates") [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [ἐπηγγείλατο](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐπαγγέλλω "ἐπαγγέλλω v3saim--- to tell, proclaim, announce") [μὲν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand") [οὐδενὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐδείς "οὐδείς a-s---md- not one, nobody") [πώποτε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πώποτε "πώποτε d-------- ever yet") [τοιοῦτον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τοιοῦτος "τοιοῦτος a-s---na- such as this") [οὐδέν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐδείς "οὐδείς a-s---na- not one, nobody") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") **[ἐπίστευε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3siia--- to trust, trust to")** [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [τῶν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---mg- the") [συνόντων](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύνειμι "σύνειμι v-pppamg- be with (incl. be wife of, study with)") [ἑαυτῷ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἑαυτοῦ "ἑαυτοῦ p-s---md- himself, herself, themselves") [τοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---ma- the") [ἀποδεξαμένους](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀποδέχομαι "ἀποδέχομαι v-papmma- to accept from") [ἅπερ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅσπερ "ὅσπερ p-p---na- the very man who, the very thing which") [αὐτὸς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=αὐτός "αὐτός a-s---mn- unemph. 3rd pers.pronoun; -self; [the] same") [ἐδοκίμαζεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δοκιμάζω "δοκιμάζω v3siia--- to scrutinise; to approve") [εἰς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰς "εἰς r-------- into, to c. acc.") [τὸν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---ma- the") [πάντα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πᾶς "πᾶς a-s---ma- all, the whole") [βίον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=βίος "βίος n-s---ma- life") [ἑαυτῷ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἑαυτοῦ "ἑαυτοῦ p-s---md- himself, herself, themselves") [τε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τε "τε b-------- and") [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [ἀλλήλοις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀλλήλων "ἀλλήλων p-p---md- of one another, to one another, one another") [φίλους](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φίλος "φίλος a-p---ma- friend; loved, beloved, dear") [ἀγαθοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀγαθός "ἀγαθός a-p---ma- good") **[ἔσεσθαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰμί "εἰμί v--fnm--- to be")** [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3siia--- | to trust, trust to |
+| ______ | [εἰμί](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰμί) | v--fnm--- | to be |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt Socrates indeed never promised any such boon to anyone; but he was confident that those of his companions who adopted his principles of conduct would throughout life be good friends to him and to one another. 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt Socrates, indeed,never expressed so much to any one; yet he believed that these of his associates 
@@ -131,6 +206,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt Socrates, indeed,never expressed 
 ## 2. [1.2.55](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.002.perseus-grc2:1.2.55?mode=syntax-trees) 204 ['8924379', '8924378']
 [ταῦτ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὗτος "οὗτος a-p---nn- this; that") [οὖν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὖν "οὖν d-------- so, then, therefore") [ἔλεγεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λέγω "λέγω v3siia--- to say, tell, speak; epic and arch.: pick, gather") [οὐ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐ "οὐ d-------- not") [τὸν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---ma- the") [μὲν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand") [πατέρα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πατήρ "πατήρ n-s---ma- a father") [ζῶντα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ζάω "ζάω v-sppama- to live") [κατορύττειν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=κατορύσσω "κατορύσσω v--pna--- to bury in the earth") [διδάσκων](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=διδάσκω "διδάσκω v-sppamn- to teach") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ἑαυτὸν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἑαυτοῦ "ἑαυτοῦ p-s---ma- himself, herself, themselves") [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [κατατέμνειν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=κατατέμνω "κατατέμνω v--pna--- to cut in pieces, cut up") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ἀλλ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀλλά "ἀλλά b-------- otherwise, but") [ἐπιδεικνύων](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐπιδείκνυμι "ἐπιδείκνυμι v-sppamn- to exhibit as a specimen") [ὅτι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅτι "ὅτι c-------- adv. + superl., as...as possible; ὅτι μή except") [τὸ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---nn- the") [ἄφρον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄφρων "ἄφρων a-s---nn- without sense") [ἄτιμόν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄτιμος "ἄτιμος a-s---nn- unhonoured, dishonoured") [ἐστι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰμί "εἰμί v3spia--- to be") [παρεκάλει](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=παρακαλέω "παρακαλέω v3siia--- to call to") [ἐπιμελεῖσθαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐπιμελέομαι "ἐπιμελέομαι v--pne--- to take care of, have charge of, have the management of") [τοῦ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---ng- the") [ὡς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὡς "ὡς c-------- as, how") [φρονιμώτατον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φρόνιμος "φρόνιμος a-s---nns in one's right mind, in one's senses") [εἶναι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰμί "εἰμί v--pna--- to be") [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [ὠφελιμώτατον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὠφέλιμος "ὠφέλιμος a-s---nns useful, advantageous, beneficial") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ὅπως](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅπως "ὅπως c-------- how, that, in order that, as") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ἐάν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐάν "ἐάν c-------- if") [τε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τε "τε b-------- and") [ὑπὸ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὑπό "ὑπό r-------- from under, by, c. gen. under, c. dat., towards c. acc.") [πατρὸς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πατήρ "πατήρ n-s---mg- a father") [ἐάν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐάν "ἐάν c-------- if") [τε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τε "τε b-------- and") [ὑπὸ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὑπό "ὑπό r-------- from under, by, c. gen. under, c. dat., towards c. acc.") [ἀδελφοῦ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀδελφός "ἀδελφός n-s---mg- (of the same mother) brother; adj brotherly, sisterly, akin") [ἐάν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐάν "ἐάν c-------- if") [τε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τε "τε b-------- and") [ὑπ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὑπό "ὑπό r-------- from under, by, c. gen. under, c. dat., towards c. acc.") [ἄλλου](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄλλος "ἄλλος a-s---mg- other, another") [τινὸς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τις "τις a-s---cg- any one, any thing, some one, some thing") [βούληται](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=βούλομαι "βούλομαι v3spse--- to will, wish, be willing") [τιμᾶσθαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τιμάω "τιμάω v--pne--- to honor; to value something at a price (gen.)") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [μὴ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μή "μή d-------- not") [τῷ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---md- the") [οἰκεῖος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οἰκεῖος "οἰκεῖος a-s---mn- in or of the house") **[εἶναι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰμί "εἰμί v--pna--- to be")** **[πιστεύων](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v-sppamn- to trust, trust to")** [ἀμελῇ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀμελέω "ἀμελέω v3spsa--- to have no care for, be neglectful of") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ἀλλὰ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀλλά "ἀλλά b-------- otherwise, but") [πειρᾶται](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πειράω "πειράω v3spie--- to attempt, endeavour, try") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ὑφ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὑπό "ὑπό r-------- from under, by, c. gen. under, c. dat., towards c. acc.") [ὧν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅς "ὅς p-p---ng- who, that, which: relative pronoun") [ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [βούληται](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=βούλομαι "βούλομαι v3spse--- to will, wish, be willing") [τιμᾶσθαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τιμάω "τιμάω v--pne--- to honor; to value something at a price (gen.)") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [τούτοις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὗτος "οὗτος a-p---nd- this; that") [ὠφέλιμος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὠφέλιμος "ὠφέλιμος a-s---mn- useful, advantageous, beneficial") [εἶναι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰμί "εἰμί v--pna--- to be") [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
 
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [εἰμί](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰμί) | v--pna--- | to be |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v-sppamn- | to trust, trust to |
 
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt Now in saying all this, he was not giving a lesson on the duty of burying one’s father alive, or making mincemeat of one’s body: he meant to show that unreason is unworth, and was urging the necessity of cultivating sound sense and usefulness, in order that he who would fain be valued by father or by brother or by anyone else may not rely on the bond of familiarity and neglect him, but may try to be useful to all those by whom he would be valued. 
 
@@ -142,6 +222,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt But such observations Socrates ut
 [δῆλον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δῆλος "δῆλος a-s---nn- visible, conspicuous") [οὖν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὖν "οὖν d-------- so, then, therefore") [ὅτι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅτι "ὅτι c-------- adv. + superl., as...as possible; ὅτι μή except") [οὐκ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐ "οὐ d-------- not") [ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [προέλεγεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=προλέγω "προλέγω v3siia--- pick before; foretell; proclaim") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [εἰ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰ "εἰ c-------- conj. if, whether; part. w/wishes, adv. w/imperatives") [μὴ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μή "μή d-------- not") **[ἐπίστευεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3siia--- to trust, trust to")** **[ἀληθεύσειν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀληθεύω "ἀληθεύω v--fna--- to speak truth")** [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3siia--- | to trust, trust to |
+| ______ | [ἀληθεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀληθεύω) | v--fna--- | to speak truth |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt It is clear, therefore, that he would not have foretold if he had not believed he spoke the truth. 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt It is manifest, therefore, that he would have uttered no predictions, if he had not trusted that they would prove true. 
@@ -151,6 +236,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt It is manifest, therefore, that h
 ## 1. [2.6.6](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.002.perseus-grc2:2.6.6?mode=syntax-trees) 716 ['8935270', '8935275']
 [τοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---ma- the") [μὲν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand") [ἀνδριαντοποιούς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀνδριαντοποιός "ἀνδριαντοποιός n-p---ma- a statue-maker, statuary, sculptor") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ἔφη](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φημί "φημί v3siia--- to say, to claim") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [δοκιμάζομεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δοκιμάζω "δοκιμάζω v1ppia--- to scrutinise; to approve") [οὐ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐ "οὐ d-------- not") [τοῖς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---md- the") [λόγοις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λόγος "λόγος n-p---md- the word") [αὐτῶν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=αὐτός "αὐτός a-p---mg- unemph. 3rd pers.pronoun; -self; [the] same") [τεκμαιρόμενοι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τεκμαίρομαι "τεκμαίρομαι v-pppemn- to fix by a mark") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ἀλλ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀλλά "ἀλλά b-------- otherwise, but") [ὃν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅς "ὅς p-s---ma- who, that, which: relative pronoun") [ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [ὁρῶμεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁράω "ὁράω v1ppsa--- to see") [τοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---ma- the") [πρόσθεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πρόσθεν "πρόσθεν d-------- before") [ἀνδριάντας](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀνδριάς "ἀνδριάς n-p---ma- the image of a man, a statue") [καλῶς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καλός "καλός d-------- beautiful") [εἰργασμένον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐργάζομαι "ἐργάζομαι v-srpema- to work, labour") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [τούτῳ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὗτος "οὗτος a-s---nd- this; that") **[πιστεύομεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v1ppia--- to trust, trust to")** [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [τοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---ma- the") [λοιποὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λοιπός "λοιπός a-p---ma- remaining, the rest") [εὖ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εὖ "εὖ d-------- well") **[ποιήσειν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ποιέω "ποιέω v--fna--- to make, to do")** [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
 
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v1ppia--- | to trust, trust to |
+| ______ | [ποιέω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ποιέω) | v--fna--- | to make, to do |
 
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "What test do we apply to a sculptor? We don’t judge by what he says, but we look at his statues, and if we see that the works he has already produced are beautiful, we feel confident that his future works will be as good." 
 
@@ -162,6 +252,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt " We make proof of statuaries," r
 [ἀλλ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀλλά "ἀλλά b-------- otherwise, but") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ὦ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὦ "ὦ i-------- O! oh!") [Σώκρατες](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Σωκράτης "Σωκράτης n-s---mv- Socrates") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [οὐκέτι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐκέτι "οὐκέτι d-------- no more, no longer, no further") [μὲν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand") [ἔγωγε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐγώ "ἐγώ p-s---cn- I (first person pronoun)") **[πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v1spia--- to trust, trust to")** [οἷς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅς "ὅς p-p---md- who, that, which: relative pronoun") **[ἀποκρίνομαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀποκρίνω "ἀποκρίνω v1spie--- to separate, set apart; mid. answer")** [·](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=· "· u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v1spia--- | to trust, trust to |
+| ______ | [ἀποκρίνω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀποκρίνω) | v1spie--- | to separate, set apart; mid. answer |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "Nay, Socrates, I have lost all confidence in my answers; 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt “ Indeed, Socrates,” said Euthydemus, “I no longer put confidence in the answers which I give; 
@@ -171,6 +266,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt “ Indeed, Socrates,” said Eut
 ## 1. [4.4.17](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.002.perseus-grc2:4.4.17?mode=syntax-trees) 1917 ['8957275', '8957276']
 [τίνι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---nd- who? which?") [δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [ἄν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [τις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τις "τις a-s---cn- any one, any thing, some one, some thing") [μᾶλλον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μάλα "μάλα d-------c very, very much, exceedingly") **[πιστεύσειε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3saoa--- to trust, trust to")** **[παρακαταθέσθαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=παρακατατίθεμαι "παρακατατίθεμαι v--anm--- NoDef")** [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [χρήματα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=χρῆμα "χρῆμα n-p---na- thing, (pl.) goods, property, money") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [υἱοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=υἱός "υἱός n-p---ma- a son") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [θυγατέρας](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=θυγάτηρ "θυγάτηρ n-p---fa- a daughter") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3saoa--- | to trust, trust to |
+| ______ | [παρακατατίθεμαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=παρακατατίθεμαι) | v--anm--- | NoDef |
 
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "To whom would one more likely entrust deposits, be it money, sons, or daughters?" 
 
@@ -182,6 +282,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt To whom would any one believe tha
 [ταῦτα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὗτος "οὗτος a-p---na- this; that") [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") **[τίς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---cn- who? which?")** [ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [ἄλλῳ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄλλος "ἄλλος a-s---md- other, another") **[πιστεύσειεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3saoa--- to trust, trust to")** [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [θεῷ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=θεός "θεός n-s---md- god") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [τίς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς) | a-s---cn- | who? which? |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3saoa--- | to trust, trust to |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt And who would believe this of anyone else but a god? 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt But who, in such matters, would trust to any one but a god ? 
@@ -189,6 +294,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt But who, in such matters, would t
 ## 2. [2.1.31](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.002.perseus-grc2:2.1.31?mode=syntax-trees) 541 ['8931611', '8931605']
 **[τίς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---cn- who? which?")** [δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [ἄν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [σοι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύ "σύ p-s---cd- you (personal pronoun)") [λεγούσῃ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λέγω "λέγω v-sppafd- to say, tell, speak; epic and arch.: pick, gather") [τι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τις "τις a-s---na- any one, any thing, some one, some thing") **[πιστεύσειε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3saoa--- to trust, trust to")** [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [τίς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς) | a-s---cn- | who? which? |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3saoa--- | to trust, trust to |
 
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt Who will believe what thou dost say? 
 
@@ -200,6 +310,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt Who would believe you when you gi
 [ἀλλ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀλλά "ἀλλά b-------- otherwise, but") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ὦ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὦ "ὦ i-------- O! oh!") [Σώκρατες](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Σωκράτης "Σωκράτης n-s---mv- Socrates") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [οὐκέτι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐκέτι "οὐκέτι d-------- no more, no longer, no further") [μὲν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand") **[ἔγωγε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐγώ "ἐγώ p-s---cn- I (first person pronoun)")** **[πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v1spia--- to trust, trust to")** [οἷς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅς "ὅς p-p---md- who, that, which: relative pronoun") [ἀποκρίνομαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀποκρίνω "ἀποκρίνω v1spie--- to separate, set apart; mid. answer") [·](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=· "· u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [ἐγώ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐγώ) | p-s---cn- | I (first person pronoun) |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v1spia--- | to trust, trust to |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "Nay, Socrates, I have lost all confidence in my answers; 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt “ Indeed, Socrates,” said Euthydemus, “I no longer put confidence in the answers which I give; 
@@ -209,6 +324,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt “ Indeed, Socrates,” said Eut
 ## 1. [4.4.17](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.002.perseus-grc2:4.4.17?mode=syntax-trees) 1917 ['8957275', '8957273']
 [τίνι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---nd- who? which?") [δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [ἄν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") **[τις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τις "τις a-s---cn- any one, any thing, some one, some thing")** [μᾶλλον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μάλα "μάλα d-------c very, very much, exceedingly") **[πιστεύσειε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3saoa--- to trust, trust to")** [παρακαταθέσθαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=παρακατατίθεμαι "παρακατατίθεμαι v--anm--- NoDef") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [χρήματα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=χρῆμα "χρῆμα n-p---na- thing, (pl.) goods, property, money") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [υἱοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=υἱός "υἱός n-p---ma- a son") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [θυγατέρας](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=θυγάτηρ "θυγάτηρ n-p---fa- a daughter") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [τις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τις) | a-s---cn- | any one, any thing, some one, some thing |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3saoa--- | to trust, trust to |
 
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "To whom would one more likely entrust deposits, be it money, sons, or daughters?" 
 
@@ -220,6 +340,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt To whom would any one believe tha
 [τίνι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---nd- who? which?") [δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [μᾶλλον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μάλα "μάλα d-------c very, very much, exceedingly") **[πολέμιοι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πολέμιος "πολέμιος a-p---mn- hostile; enemy")** **[πιστεύσειαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3paoa--- to trust, trust to")** [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [ἀνοχὰς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀνοχή "ἀνοχή n-p---fa- a holding back, stopping") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [σπονδὰς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σπονδή "σπονδή n-p---fa- drink-offering; (pl.) truce, treaty") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [συνθήκας](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=συνθήκη "συνθήκη n-p---fa- a composition; convention, pl. treaty") [περὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=περί "περί r-------- around, round about with gen., dat., and acc.") [εἰρήνης](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰρήνη "εἰρήνη n-s---fg- peace, time of peace") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [πολέμιος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πολέμιος) | a-p---mn- | hostile; enemy |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3paoa--- | to trust, trust to |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "Whom would enemies trust more for truces, treaties, or peace agreements?" 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt To whom would the enemy sooner trust in cessations of arms, or in making a truce, or articles of peace? 
@@ -229,6 +354,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt To whom would the enemy sooner tr
 ## 1. [4.4.17](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.002.perseus-grc2:4.4.17?mode=syntax-trees) 1922 ['8957348', '8957347']
 [τῷ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---md- the") [δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [μᾶλλον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μάλα "μάλα d-------c very, very much, exceedingly") [οἱ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---mn- the") **[σύμμαχοι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύμμαχος "σύμμαχος a-p---mn- fighting along with, allied with, ally")** **[πιστεύσειαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3paoa--- to trust, trust to")** [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [ἡγεμονίαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἡγεμονία "ἡγεμονία n-s---fa- a leading the way, going first") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [φρουραρχίαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φρουραρχία "φρουραρχία n-s---fa- command of a watch, of a garrison") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [πόλεις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πόλις "πόλις n-p---fa- a city") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [σύμμαχος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύμμαχος) | a-p---mn- | fighting along with, allied with, ally |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3paoa--- | to trust, trust to |
 
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "To whom would allies more likely entrust command, guardianship, or cities?" 
 
@@ -240,6 +370,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt and to whom would the allies more
 [ταῦτα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὗτος "οὗτος a-p---na- this; that") [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [τίς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---cn- who? which?") [ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") **[ἄλλῳ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄλλος "ἄλλος a-s---md- other, another")** **[πιστεύσειεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3saoa--- to trust, trust to")** [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [θεῷ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=θεός "θεός n-s---md- god") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [ἄλλος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄλλος) | a-s---md- | other, another |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3saoa--- | to trust, trust to |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt And who would believe this of anyone else but a god? 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt But who, in such matters, would trust to any one but a god ? 
@@ -249,6 +384,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt But who, in such matters, would t
 ## 1. [1.1.5](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.002.perseus-grc2:1.1.5?mode=syntax-trees) 20 ['8920227', '8920229']
 **[πιστεύων](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v-sppamn- to trust, trust to")** [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") **[θεοῖς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=θεός "θεός n-p---md- god")** [πῶς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πῶς "πῶς d-------- how? in what way") [οὐκ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐ "οὐ d-------- not") [εἶναι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰμί "εἰμί v--pna--- to be") [θεοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=θεός "θεός n-p---ma- god") [ἐνόμιζεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=νομίζω "νομίζω v3siia--- to have as a custom; to believe") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v-sppamn- | to trust, trust to |
+| ______ | [θεός](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=θεός) | n-p---md- | god |
 
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt And believing in gods, how could he think that there were no gods? 
 
@@ -260,6 +400,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt And how could he, who trusted the
 [Σωκράτης](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Σωκράτης "Σωκράτης n-s---mn- Socrates") [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [ἐπηγγείλατο](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐπαγγέλλω "ἐπαγγέλλω v3saim--- to tell, proclaim, announce") [μὲν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand") [οὐδενὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐδείς "οὐδείς a-s---md- not one, nobody") [πώποτε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πώποτε "πώποτε d-------- ever yet") [τοιοῦτον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τοιοῦτος "τοιοῦτος a-s---na- such as this") [οὐδέν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐδείς "οὐδείς a-s---na- not one, nobody") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") **[ἐπίστευε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3siia--- to trust, trust to")** [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [τῶν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---mg- the") [συνόντων](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύνειμι "σύνειμι v-pppamg- be with (incl. be wife of, study with)") **[ἑαυτῷ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἑαυτοῦ "ἑαυτοῦ p-s---md- himself, herself, themselves")** [τοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---ma- the") [ἀποδεξαμένους](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀποδέχομαι "ἀποδέχομαι v-papmma- to accept from") [ἅπερ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅσπερ "ὅσπερ p-p---na- the very man who, the very thing which") [αὐτὸς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=αὐτός "αὐτός a-s---mn- unemph. 3rd pers.pronoun; -self; [the] same") [ἐδοκίμαζεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δοκιμάζω "δοκιμάζω v3siia--- to scrutinise; to approve") [εἰς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰς "εἰς r-------- into, to c. acc.") [τὸν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---ma- the") [πάντα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πᾶς "πᾶς a-s---ma- all, the whole") [βίον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=βίος "βίος n-s---ma- life") [ἑαυτῷ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἑαυτοῦ "ἑαυτοῦ p-s---md- himself, herself, themselves") [τε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τε "τε b-------- and") [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [ἀλλήλοις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀλλήλων "ἀλλήλων p-p---md- of one another, to one another, one another") [φίλους](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φίλος "φίλος a-p---ma- friend; loved, beloved, dear") [ἀγαθοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀγαθός "ἀγαθός a-p---ma- good") [ἔσεσθαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰμί "εἰμί v--fnm--- to be") [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3siia--- | to trust, trust to |
+| ______ | [ἑαυτοῦ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἑαυτοῦ) | p-s---md- | himself, herself, themselves |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt Socrates indeed never promised any such boon to anyone; but he was confident that those of his companions who adopted his principles of conduct would throughout life be good friends to him and to one another. 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt Socrates, indeed,never expressed so much to any one; yet he believed that these of his associates 
@@ -269,6 +414,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt Socrates, indeed,never expressed 
 ## 1. [2.1.31](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.002.perseus-grc2:2.1.31?mode=syntax-trees) 541 ['8931611', '8931608']
 [τίς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---cn- who? which?") [δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [ἄν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") **[σοι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύ "σύ p-s---cd- you (personal pronoun)")** [λεγούσῃ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λέγω "λέγω v-sppafd- to say, tell, speak; epic and arch.: pick, gather") [τι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τις "τις a-s---na- any one, any thing, some one, some thing") **[πιστεύσειε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3saoa--- to trust, trust to")** [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [σύ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύ) | p-s---cd- | you (personal pronoun) |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3saoa--- | to trust, trust to |
 
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt Who will believe what thou dost say? 
 
@@ -280,6 +430,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt Who would believe you when you gi
 **[τίνι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---nd- who? which?")** [δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [μᾶλλον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μάλα "μάλα d-------c very, very much, exceedingly") [πολέμιοι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πολέμιος "πολέμιος a-p---mn- hostile; enemy") **[πιστεύσειαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3paoa--- to trust, trust to")** [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [ἀνοχὰς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀνοχή "ἀνοχή n-p---fa- a holding back, stopping") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [σπονδὰς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σπονδή "σπονδή n-p---fa- drink-offering; (pl.) truce, treaty") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [συνθήκας](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=συνθήκη "συνθήκη n-p---fa- a composition; convention, pl. treaty") [περὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=περί "περί r-------- around, round about with gen., dat., and acc.") [εἰρήνης](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰρήνη "εἰρήνη n-s---fg- peace, time of peace") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [τίς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς) | a-s---nd- | who? which? |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3paoa--- | to trust, trust to |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "Whom would enemies trust more for truces, treaties, or peace agreements?" 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt To whom would the enemy sooner trust in cessations of arms, or in making a truce, or articles of peace? 
@@ -290,6 +445,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt To whom would the enemy sooner tr
 [τίνι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---nd- who? which?") [δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [ἄν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [τις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τις "τις a-s---cn- any one, any thing, some one, some thing") **[μᾶλλον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μάλα "μάλα d-------c very, very much, exceedingly")** **[πιστεύσειε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3saoa--- to trust, trust to")** [παρακαταθέσθαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=παρακατατίθεμαι "παρακατατίθεμαι v--anm--- NoDef") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [χρήματα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=χρῆμα "χρῆμα n-p---na- thing, (pl.) goods, property, money") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [υἱοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=υἱός "υἱός n-p---ma- a son") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [θυγατέρας](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=θυγάτηρ "θυγάτηρ n-p---fa- a daughter") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [μάλα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μάλα) | d-------c | very, very much, exceedingly |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3saoa--- | to trust, trust to |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "To whom would one more likely entrust deposits, be it money, sons, or daughters?" 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt To whom would any one believe that he could more safely confide his money, or his sons or daughters ? 
@@ -298,6 +458,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt To whom would any one believe tha
 [τίνι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---nd- who? which?") [δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") **[μᾶλλον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μάλα "μάλα d-------c very, very much, exceedingly")** [πολέμιοι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πολέμιος "πολέμιος a-p---mn- hostile; enemy") **[πιστεύσειαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3paoa--- to trust, trust to")** [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [ἀνοχὰς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀνοχή "ἀνοχή n-p---fa- a holding back, stopping") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [σπονδὰς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σπονδή "σπονδή n-p---fa- drink-offering; (pl.) truce, treaty") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [συνθήκας](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=συνθήκη "συνθήκη n-p---fa- a composition; convention, pl. treaty") [περὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=περί "περί r-------- around, round about with gen., dat., and acc.") [εἰρήνης](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰρήνη "εἰρήνη n-s---fg- peace, time of peace") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [μάλα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μάλα) | d-------c | very, very much, exceedingly |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3paoa--- | to trust, trust to |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "Whom would enemies trust more for truces, treaties, or peace agreements?" 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt To whom would the enemy sooner trust in cessations of arms, or in making a truce, or articles of peace? 
@@ -305,6 +470,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt To whom would the enemy sooner tr
 ## 3. [4.4.17](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.002.perseus-grc2:4.4.17?mode=syntax-trees) 1922 ['8957348', '8957345']
 [τῷ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---md- the") [δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") **[μᾶλλον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μάλα "μάλα d-------c very, very much, exceedingly")** [οἱ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---mn- the") [σύμμαχοι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύμμαχος "σύμμαχος a-p---mn- fighting along with, allied with, ally") **[πιστεύσειαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3paoa--- to trust, trust to")** [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [ἡγεμονίαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἡγεμονία "ἡγεμονία n-s---fa- a leading the way, going first") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [φρουραρχίαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φρουραρχία "φρουραρχία n-s---fa- command of a watch, of a garrison") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [πόλεις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πόλις "πόλις n-p---fa- a city") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [μάλα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μάλα) | d-------c | very, very much, exceedingly |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3paoa--- | to trust, trust to |
 
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "To whom would allies more likely entrust command, guardianship, or cities?" 
 
@@ -316,6 +486,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt and to whom would the allies more
 [ἀλλὰ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀλλά "ἀλλά b-------- otherwise, but") [ταῦτα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὗτος "οὗτος a-p---na- this; that") [μέν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ἔφη](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φημί "φημί v3siia--- to say, to claim") [ὁ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---mn- the") [Σωκράτης](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Σωκράτης "Σωκράτης n-s---mn- Socrates") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ἴσως](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἴσως "ἴσως d-------- equally, in like manner") [διὰ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=διά "διά r-------- through c. gen.; because of c. acc.") [τὸ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---na- the") **[σφόδρα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σφόδρα "σφόδρα d-------- very, very much, exceedingly, violently")** **[πιστεύειν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v--pna--- to trust, trust to")** [εἰδέναι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οἶδα "οἶδα v--rna--- to know") [οὐδ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐδέ "οὐδέ d-------- and/but not; not even") [ἔσκεψαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σκοπέω "σκοπέω v2srie--- to look at") [·](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=· "· u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [σφόδρα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σφόδρα) | d-------- | very, very much, exceedingly, violently |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v--pna--- | to trust, trust to |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "But perhaps you never even thought about these things, because you felt so confident that you knew them." 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt "These points, however," proceeded Socrates, "you have perhaps not sufficiently considered, from too confident a belief that you were already well acquainted with them; 
@@ -325,6 +500,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt "These points, however," proceede
 ## 1. [1.1.5](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.002.perseus-grc2:1.1.5?mode=syntax-trees) 19 ['8920223', '8920218']
 **[ταῦτα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὗτος "οὗτος a-p---na- this; that")** [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [τίς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---cn- who? which?") [ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [ἄλλῳ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄλλος "ἄλλος a-s---md- other, another") **[πιστεύσειεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3saoa--- to trust, trust to")** [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [θεῷ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=θεός "θεός n-s---md- god") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [οὗτος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὗτος) | a-p---na- | this; that |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3saoa--- | to trust, trust to |
 
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt And who would believe this of anyone else but a god? 
 
@@ -336,6 +516,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt But who, in such matters, would t
 [τίς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τίς "τίς a-s---cn- who? which?") [δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [ἄν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [σοι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύ "σύ p-s---cd- you (personal pronoun)") [λεγούσῃ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=λέγω "λέγω v-sppafd- to say, tell, speak; epic and arch.: pick, gather") **[τι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τις "τις a-s---na- any one, any thing, some one, some thing")** **[πιστεύσειε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3saoa--- to trust, trust to")** [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [τις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τις) | a-s---na- | any one, any thing, some one, some thing |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3saoa--- | to trust, trust to |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt Who will believe what thou dost say? 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt Who would believe you when you give your word for anything? 
@@ -345,6 +530,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt Who would believe you when you gi
 ## 1. [4.4.17](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.002.perseus-grc2:4.4.17?mode=syntax-trees) 1922 ['8957348', '8957350']
 [τῷ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---md- the") [δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [μᾶλλον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μάλα "μάλα d-------c very, very much, exceedingly") [οἱ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---mn- the") [σύμμαχοι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύμμαχος "σύμμαχος a-p---mn- fighting along with, allied with, ally") **[πιστεύσειαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3paoa--- to trust, trust to")** [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") **[ἡγεμονίαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἡγεμονία "ἡγεμονία n-s---fa- a leading the way, going first")** [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [φρουραρχίαν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φρουραρχία "φρουραρχία n-s---fa- command of a watch, of a garrison") [ἢ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἤ "ἤ b-------- either..or; than") [πόλεις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πόλις "πόλις n-p---fa- a city") [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3paoa--- | to trust, trust to |
+| ______ | [ἡγεμονία](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἡγεμονία) | n-s---fa- | a leading the way, going first |
 
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "To whom would allies more likely entrust command, guardianship, or cities?" 
 
@@ -356,6 +546,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt and to whom would the allies more
 [δῆλον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δῆλος "δῆλος a-s---nn- visible, conspicuous") [οὖν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὖν "οὖν d-------- so, then, therefore") [ὅτι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅτι "ὅτι c-------- adv. + superl., as...as possible; ὅτι μή except") [οὐκ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐ "οὐ d-------- not") [ἂν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄν "ἄν d-------- modal particle") [προέλεγεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=προλέγω "προλέγω v3siia--- pick before; foretell; proclaim") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [εἰ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰ "εἰ c-------- conj. if, whether; part. w/wishes, adv. w/imperatives") **[μὴ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μή "μή d-------- not")** **[ἐπίστευεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3siia--- to trust, trust to")** [ἀληθεύσειν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀληθεύω "ἀληθεύω v--fna--- to speak truth") [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [μή](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μή) | d-------- | not |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3siia--- | to trust, trust to |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt It is clear, therefore, that he would not have foretold if he had not believed he spoke the truth. 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt It is manifest, therefore, that he would have uttered no predictions, if he had not trusted that they would prove true. 
@@ -365,6 +560,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt It is manifest, therefore, that h
 ## 1. [4.2.19](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.002.perseus-grc2:4.2.19?mode=syntax-trees) 1675 ['8952907', '8952904']
 [ἀλλ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀλλά "ἀλλά b-------- otherwise, but") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ὦ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὦ "ὦ i-------- O! oh!") [Σώκρατες](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Σωκράτης "Σωκράτης n-s---mv- Socrates") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") **[οὐκέτι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐκέτι "οὐκέτι d-------- no more, no longer, no further")** [μὲν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand") [ἔγωγε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐγώ "ἐγώ p-s---cn- I (first person pronoun)") **[πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v1spia--- to trust, trust to")** [οἷς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅς "ὅς p-p---md- who, that, which: relative pronoun") [ἀποκρίνομαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀποκρίνω "ἀποκρίνω v1spie--- to separate, set apart; mid. answer") [·](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=· "· u-------- NoDef") 
 
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [οὐκέτι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐκέτι) | d-------- | no more, no longer, no further |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v1spia--- | to trust, trust to |
 
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "Nay, Socrates, I have lost all confidence in my answers; 
 
@@ -376,6 +576,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt “ Indeed, Socrates,” said Eut
 **[πιστεύων](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v-sppamn- to trust, trust to")** [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [θεοῖς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=θεός "θεός n-p---md- god") [πῶς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πῶς "πῶς d-------- how? in what way") [οὐκ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐ "οὐ d-------- not") [εἶναι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰμί "εἰμί v--pna--- to be") [θεοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=θεός "θεός n-p---ma- god") [ἐνόμιζεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=νομίζω "νομίζω v3siia--- to have as a custom; to believe") **[;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef")** 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v-sppamn- | to trust, trust to |
+| ______ | [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=;) | u-------- | NoDef |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt And believing in gods, how could he think that there were no gods? 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt And how could he, who trusted the gods, think that there were no gods ? 
@@ -385,6 +590,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt And how could he, who trusted the
 ## 1. [1.2.8](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.002.perseus-grc2:1.2.8?mode=syntax-trees) 67 ['8921500', '8921503']
 [Σωκράτης](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Σωκράτης "Σωκράτης n-s---mn- Socrates") [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [ἐπηγγείλατο](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐπαγγέλλω "ἐπαγγέλλω v3saim--- to tell, proclaim, announce") [μὲν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand") [οὐδενὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐδείς "οὐδείς a-s---md- not one, nobody") [πώποτε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πώποτε "πώποτε d-------- ever yet") [τοιοῦτον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τοιοῦτος "τοιοῦτος a-s---na- such as this") [οὐδέν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐδείς "οὐδείς a-s---na- not one, nobody") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") **[ἐπίστευε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v3siia--- to trust, trust to")** [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [τῶν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---mg- the") **[συνόντων](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύνειμι "σύνειμι v-pppamg- be with (incl. be wife of, study with)")** [ἑαυτῷ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἑαυτοῦ "ἑαυτοῦ p-s---md- himself, herself, themselves") [τοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---ma- the") [ἀποδεξαμένους](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀποδέχομαι "ἀποδέχομαι v-papmma- to accept from") [ἅπερ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅσπερ "ὅσπερ p-p---na- the very man who, the very thing which") [αὐτὸς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=αὐτός "αὐτός a-s---mn- unemph. 3rd pers.pronoun; -self; [the] same") [ἐδοκίμαζεν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δοκιμάζω "δοκιμάζω v3siia--- to scrutinise; to approve") [εἰς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰς "εἰς r-------- into, to c. acc.") [τὸν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---ma- the") [πάντα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πᾶς "πᾶς a-s---ma- all, the whole") [βίον](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=βίος "βίος n-s---ma- life") [ἑαυτῷ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἑαυτοῦ "ἑαυτοῦ p-s---md- himself, herself, themselves") [τε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τε "τε b-------- and") [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [ἀλλήλοις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀλλήλων "ἀλλήλων p-p---md- of one another, to one another, one another") [φίλους](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φίλος "φίλος a-p---ma- friend; loved, beloved, dear") [ἀγαθοὺς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀγαθός "ἀγαθός a-p---ma- good") [ἔσεσθαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=εἰμί "εἰμί v--fnm--- to be") [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
 
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v3siia--- | to trust, trust to |
+| ______ | [σύνειμι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύνειμι) | v-pppamg- | be with (incl. be wife of, study with) |
 
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt Socrates indeed never promised any such boon to anyone; but he was confident that those of his companions who adopted his principles of conduct would throughout life be good friends to him and to one another. 
 
@@ -396,6 +606,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt Socrates, indeed,never expressed 
 [ἀλλ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀλλά "ἀλλά b-------- otherwise, but") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ὦ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὦ "ὦ i-------- O! oh!") **[Σώκρατες](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Σωκράτης "Σωκράτης n-s---mv- Socrates")** [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [οὐκέτι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐκέτι "οὐκέτι d-------- no more, no longer, no further") [μὲν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand") [ἔγωγε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐγώ "ἐγώ p-s---cn- I (first person pronoun)") **[πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v1spia--- to trust, trust to")** [οἷς](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὅς "ὅς p-p---md- who, that, which: relative pronoun") [ἀποκρίνομαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀποκρίνω "ἀποκρίνω v1spie--- to separate, set apart; mid. answer") [·](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=· "· u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [Σωκράτης](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Σωκράτης) | n-s---mv- | Socrates |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v1spia--- | to trust, trust to |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "Nay, Socrates, I have lost all confidence in my answers; 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt “ Indeed, Socrates,” said Euthydemus, “I no longer put confidence in the answers which I give; 
@@ -405,6 +620,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt “ Indeed, Socrates,” said Eut
 ## 1. [4.2.36](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.002.perseus-grc2:4.2.36?mode=syntax-trees) 1763 ['8954335', '8954333']
 [ἀλλὰ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀλλά "ἀλλά b-------- otherwise, but") [ταῦτα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὗτος "οὗτος a-p---na- this; that") [μέν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=μέν "μέν d-------- on the one hand, on the other hand") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ἔφη](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φημί "φημί v3siia--- to say, to claim") [ὁ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---mn- the") [Σωκράτης](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Σωκράτης "Σωκράτης n-s---mn- Socrates") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ἴσως](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἴσως "ἴσως d-------- equally, in like manner") [διὰ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=διά "διά r-------- through c. gen.; because of c. acc.") **[τὸ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---na- the")** [σφόδρα](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σφόδρα "σφόδρα d-------- very, very much, exceedingly, violently") **[πιστεύειν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω "πιστεύω v--pna--- to trust, trust to")** [εἰδέναι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οἶδα "οἶδα v--rna--- to know") [οὐδ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐδέ "οὐδέ d-------- and/but not; not even") [ἔσκεψαι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σκοπέω "σκοπέω v2srie--- to look at") [·](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=· "· u-------- NoDef") 
 
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [ὁ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ) | l-s---na- | the |
+| ______ | [πιστεύω](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πιστεύω) | v--pna--- | to trust, trust to |
 
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt "But perhaps you never even thought about these things, because you felt so confident that you knew them." 
 

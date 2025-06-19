@@ -4,5 +4,10 @@
 [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [ἐν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐν "ἐν r-------- in, among. c. dat.") **[ἄλλῳ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄλλος "ἄλλος a-s---md- other, another")** [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") **[τόπῳ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τόπος "τόπος n-s---md- a place")** [φησίν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=φημί "φημί v3spia--- to say, to claim") [·](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=· "· u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [ἄλλος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄλλος) | a-s---md- | other, another |
+| ______ | [τόπος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=τόπος) | n-s---md- | a place |
+
 missing sentence 509 in tlg0032.tlg002_perseus-grc2_perseus-eng2.txt
 missing sentence 509 in tlg0032.tlg002_perseus-grc2_watson1854-eng.txt

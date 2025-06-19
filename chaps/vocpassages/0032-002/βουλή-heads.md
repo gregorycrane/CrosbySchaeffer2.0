@@ -4,6 +4,11 @@
 [σὺ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=σύ "σύ p-s---cn- you (personal pronoun)") [δ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [ἀπτόλεμος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἀπτόλεμος "ἀπτόλεμος a-s---fn- NoDef") [καὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καί "καί b-------- and, also") [ἄναλκις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἄναλκις "ἄναλκις a-s---fn- without strength, impotent, feeble") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [οὔτε](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὔτε "οὔτε b-------- neither / nor") [ποτ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ποτέ "ποτέ d-------- NoDef") [ἐν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐν "ἐν r-------- in, among. c. dat.") [πολέμῳ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πόλεμος "πόλεμος n-s---md- battle, fight, war") [ἐναρίθμιος](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐναρίθμιος "ἐναρίθμιος a-s---mn- in the number, to make up the number") [οὔτ’](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὔτε "οὔτε b-------- neither / nor") **[ἐνὶ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐν "ἐν r-------- in, among. c. dat.")** **[βουλῇ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=βουλή "βουλή n-s---fd- will, determination; council, senate")** [.](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=. ". u-------- NoDef") 
 
 
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [ἐν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐν) | r-------- | in, among. c. dat. |
+| ______ | [βουλή](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=βουλή) | n-s---fd- | will, determination; council, senate |
+
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt but thou art no warrior and a weakling, never reckoned whether in battle or in council. 
 
 tlg0032.tlg002_perseus-grc2_watson1854-eng.txt for you are unwarlike and power-less,  Neither to be numbered in the field nor in the council."1 cts:urn:0032-002:1.2.58 
@@ -13,6 +18,11 @@ tlg0032.tlg002_perseus-grc2_watson1854-eng.txt for you are unwarlike and power-l
 ## 1. [3.5.20](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0032.002.perseus-grc2:3.5.20?mode=syntax-trees) 1151 ['8943244', '8943253']
 [ἡ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-s---fn- the") [δὲ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δέ "δέ b-------- but") [ἐν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐν "ἐν r-------- in, among. c. dat.") [Ἀρείῳ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Ἄρειος "Ἄρειος a-s---md- devoted to Ares, warlike, martial; (πάγος:) the hill of Ares; (πεδίον) campus Martius") [πάγῳ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=πάγος "πάγος n-s---md- rock; frost, solid") **[βουλή](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=βουλή "βουλή n-s---fv- will, determination; council, senate")** [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [ὦ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὦ "ὦ i-------- O! oh!") [Περίκλεις](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=Περικλῆς "Περικλῆς n-s---mv- Pericles") [,](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=, ", u-------- NoDef") [οὐκ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=οὐ "οὐ d-------- not") [ἐκ](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ἐκ "ἐκ r-------- from out of") [τῶν](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=ὁ "ὁ l-p---mg- the") [δεδοκιμασμένων](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=δοκιμάζω "δοκιμάζω v-prpemg- to scrutinise; to approve") **[καθίσταται](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καθίστημι "καθίστημι v3spie--- to set down, place")** [;](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=; "; u-------- NoDef") 
 
+
+| form | lemma | postag | short def |
+| --- | --- | --- | --- |
+| ______ | [βουλή](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=βουλή) | n-s---fv- | will, determination; council, senate |
+| ______ | [καθίστημι](https://atlas-test.fly.dev/morphology/lemmas/?lang=grc&q=καθίστημι) | v3spie--- | to set down, place |
 
 tlg0032.tlg002_perseus-grc2_perseus-eng2.txt But what of the Court of the Areopagus, Pericles? Are not its members persons who have won approval? 
 
